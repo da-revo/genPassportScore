@@ -25,10 +25,10 @@ def get_demonym(country):
 
     flag=False
     for i in range(len(cdList)):
-        #print(cdList[i]['country'])
-        if cdList[i]['country']==country:
+        #Returns the first country which matches the query as a substring.
+        if country in cdList[i]['country']:
             flag=True
-            return cdList[i]['demonym']
+            return cdList[i]
     if flag==False:
         print('country & demonym not found in country_list')
 
@@ -242,7 +242,7 @@ def getTotGDP_Access(currentNation,WT):
         
         
         import pprint
-        c_list = open(get_demonym(currentNation)+'GdpAxs.py', 'w')
+        c_list = open(get_demonym(currentNation)['demonym']+'GdpAxs.py', 'w')
         c_list.write('#GDP Access List for'+currentNation+' \n')
         c_list.write('GDPtable = '+pprint.pformat(GDP_AccessList))
         c_list.close()
@@ -300,7 +300,7 @@ def getTotGDP_Access(currentNation,WT):
 
     #read wiki table
     #wTxt=WT
-    wikitable = open(get_demonym(currentNation)+'-WT.txt', 'r')
+    wikitable = open(get_demonym(currentNation)['demonym']+'-WT.txt', 'r')
     wTxt=wikitable.read()
     wikitable.close()
     
@@ -389,14 +389,15 @@ def search():
         #         f = f + sys.argv[i] + ' '
         # nation=f.strip()
 
-        nationality=get_demonym(nation)
+        nationality=get_demonym(nation)['demonym']
+        country = get_demonym(nation)['country']
 
         #TODO: make it work without writing and also offline
         WT=wiki2wText(nationality)
 
         score = getTotGDP_Access(nation,WT)
         stat = "display:block"
-        return render_template('index.html', country = nation, totGdp = score/1000000.0, status = stat)
+        return render_template('index.html', country = country, totGdp = score/1000000.0, status = stat)
 
 if __name__ == "__main__":
     app.run()
