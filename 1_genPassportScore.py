@@ -396,7 +396,7 @@ def loopThrouhAllCountries():
         scoreSheet.append(nDic)
     print('###log: Score Sheet created.')
 
-	scoreSheet=sorted(scoreSheet, key = lambda i: i['Score'],reverse=True) 
+    scoreSheet=sorted(scoreSheet, key = lambda i: i['Score'],reverse=True) 
 
     import pprint
     oFile = open('0_scoreList.py', 'w')
