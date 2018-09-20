@@ -493,7 +493,7 @@ def loopThroughAllCountries():
 	#csvOutputFile = open('0_scoreSheet.csv', 'w', newline='')
 	csvOutputFile = open('0_scoreSheet.csv', 'w')
 	outputWriter = csv.writer(csvOutputFile)
-	outputWriter.writerow([ 'Country' , 'Score in $T', 'GDP' , 'demonym' , 'url'])
+	outputWriter.writerow([ 'Country' , 'Score in $T', 'GDP in $M' , 'Demonym' , 'Wikipedia Page'])
 	outputWriter.writerow([ '' , '' ])
 	
 	for i in range(len(scoreSheet)):
