@@ -1,4 +1,4 @@
-#TODO: make it work without writing and also offline
+
 
 def logger(text):
 	if logHuh == True:
@@ -18,7 +18,7 @@ def handleArgs(st):
 	if exists==False:
 		print('Error: Invalid country name entered \ntry Capitalizing the first letter')
 		print('enter \"list\" as argument to see all valid countries')
-		raise SystemExit
+		raise SystemExit()
 	return nation
 
 def listValidCountries():
@@ -26,11 +26,16 @@ def listValidCountries():
 		print(cdList[i]['country'])
 
 def getreply(payload):
+	
 	url = 'https://en.wikipedia.org/w/api.php?'
 	# get stuff from url while injecting payload
 	import requests
 	logger('###log: Making API request to wikipedia...' )
-	r = requests.get(url=url, params=payload)
+	try:
+		r = requests.get(url=url, params=payload)
+	except requests.exceptions.RequestException :
+		print('Error: Could not establish connectiion to Wikipedia\nCheck your internet connection and try again')
+		raise SystemExit()
 	# jData = json.loads(r.content)
 	jData = r.json()
 	return (jData)
@@ -184,10 +189,7 @@ class country:
 		# get info from wikipedia and returns wikitext
 
 		# check if wikitext exists
-		import os
-		import os.path
-
-		PATH = './' + nationality + '-WT.txt'
+		PATH = './WT-' + nationality + '.txt'
 
 		if os.path.isfile(PATH) and os.access(PATH, os.R_OK):
 			logger("###log: wikitext file exists and is readable for "+ nationality)
@@ -239,7 +241,7 @@ class country:
 			# contents=a1_peeFormatFs.unbrace(a1_peeFormatFs.unbrace(contents))
 
 			# write to file with prettiness
-			a1_peeFormatFs.ppWrite(contents, nationality + '-WT')
+			a1_peeFormatFs.ppWrite(contents, 'WT-'+nationality )
 			logger('###log: got api Data / wikiTable for the ' + nationality + ' citizens ')
 			return contents
 
@@ -300,11 +302,11 @@ class country:
 					logger('###log: no GDP_Access for ' + currentNation + ' to ' + cvList[i]['country'])
 
 			import pprint
-			c_list = open(find_demonym(currentNation) + 'GdpAxs.py', 'w')
+			c_list = open('GdpAxs'+find_demonym(currentNation) + '.py', 'w')
 			c_list.write('#GDP Access List for' + currentNation + ' \n')
 			c_list.write('GDPtable = ' + pprint.pformat(GDP_AccessList))
 			c_list.close()
-			logger('###log: created ' + currentNation + 'GdpAxs.py ')
+			logger('###log: created GdpAxs' + currentNation + '.py ')
 			self.__visaScoreList = GDP_AccessList
 			return total_GDP_Access
 
@@ -377,7 +379,7 @@ class country:
 
 		# read wiki table
 		# wTxt=WT
-		wikitable = open(find_demonym(currentNation) + '-WT.txt', 'r')
+		wikitable = open('WT-'+find_demonym(currentNation) + '.txt', 'r')
 		wTxt = wikitable.read()
 		wikitable.close()
 
@@ -407,15 +409,13 @@ class country:
 			if 'ncipe' in cvList[i]['country']:
 				cvList[i]['country'] = 'Sao Tome and Principe'
 
-
+		'''
 		import pprint
-		oFile = open(currentNation + 'VeeTmlts.py', 'w')
+		oFile = open('VeeTmlts-'+currentNation+'.py', 'w')
 		oFile.write('x = ' + pprint.pformat(cvList) + '\n')
 		oFile.close()
 
-		logger('###log: number of countries found in wiki" for ' + currentNation + ' = ' + str(len(cvList)))
-
-		'''#get all visa templates
+		#get all visa templates
 		vTypesFound=[]
 		for i in range(len(cvList)):
 			vTypesFound.append(cvList[i]['visaTemplate'])
@@ -423,6 +423,8 @@ class country:
 		print('Visa templates found for '+currentNation)
 		print(vTypesFound)
 		'''
+
+		logger('###log: number of countries found in wiki" for ' + currentNation + ' = ' + str(len(cvList)))
 
 		score = getScore(cvList, currentNation)
 		#convert to trillion
@@ -480,14 +482,14 @@ def loopThroughAllCountries():
 	
 	scoreSheet=sorted(scoreSheet, key = lambda i: i.get_gdpAxsScore(),reverse=True)
 
-	oFile = open('0_scoreList.py', 'w')
+	oFile = open('scoreList.py', 'w')
 	oFile.write('#This is the final list of GDP Access Scores in Trillions of US dollars \n')
 	oFile.write('z = [')
 	for i in range(len(scoreSheet)-1):
-		oFile.write('{ \'Country\': \''+scoreSheet[i].get_name()+'\', \'Score\': \''+str(scoreSheet[i].get_gdpAxsScore())+'\' },\n')
-	oFile.write('{ \'Country\': \''+scoreSheet[len(scoreSheet)-1].get_name()+'\', \'Score\': \''+str(scoreSheet[len(scoreSheet)-1].get_gdpAxsScore())+'\' }]')
+		oFile.write('{ \'Country\': \''+scoreSheet[i].get_name()+'\', \'Score\': '+str(scoreSheet[i].get_gdpAxsScore())+' },\n')
+	oFile.write('{ \'Country\': \''+scoreSheet[len(scoreSheet)-1].get_name()+'\', \'Score\': '+str(scoreSheet[len(scoreSheet)-1].get_gdpAxsScore())+' }]')
 	oFile.close()
-	logger('###log: 0_scoreList.py generated')
+	logger('###log: scoreList.py generated')
 
 	import csv
 	#csvOutputFile = open('0_scoreSheet.csv', 'w', newline='')
@@ -504,11 +506,47 @@ def loopThroughAllCountries():
 
 	return scoreSheet
 
+def plotter():
+	import matplotlib.pyplot as plt     
+	import numpy as np
+	try:
+		import scoreList
+	except ImportError:
+		print('Error: Cannot import scoreList.py\nRun without arguments to generate it')
+		raise SystemExit()
+	t=scoreList.z
+
+	countries=[]
+	score=[]
+	for i in range(10):
+		countries.append(t[i]['Country'])
+		score.append(float(t[i]['Score']))
+	for i in range(len(t)-5,len(t)):
+		countries.append(t[i]['Country'])
+		score.append(float(t[i]['Score']))
+
+	y_pos = np.arange(len(countries))
+
+	plt.barh(y_pos, score, align='center', alpha=0.75,)
+	plt.yticks(y_pos, countries)
+	plt.xticks(rotation=0)
+	plt.xlabel('GDP Access Score (More is Better)')
+	plt.ylabel('Passports of')
+	
+	# Custom the subplot layout
+	plt.subplots_adjust(left = 0.190)
+
+	plt.xlim(20)
+	plt.title('Bottom 5 and Top 10 Civilian Passports')
+	
+	plt.show()
 
 ##################### RUNNING MAIN
 
 
 import sys
+import os
+
 logHuh=False
 if len(sys.argv) > 1 and sys.argv[1]=='log' :
 	logHuh=True
@@ -526,6 +564,17 @@ cdList = a1_country_list.countries
 if len(sys.argv) > 1:
 	if sys.argv[1]=='list':
 		listValidCountries()
+
+	elif sys.argv[1]=='plot':
+		plotter()
+
+	elif sys.argv[1]=='show':
+		PATH = './0_scoreSheet.csv'
+		if not (os.path.isfile(PATH) and os.access(PATH, os.R_OK)):
+			print('Error: CSV file not created yet\nRun with no arguments to generate it')
+		else:
+			os.system("xdg-open 0_scoreSheet.csv ")
+
 	elif sys.argv[1]=='log':
 		if len(sys.argv) > 2:
 			nation=handleArgs(2)
