@@ -2,7 +2,7 @@
 
 ## Intro
 
- Since most rankings of passports are dogshit, I have created a ranking based on the relevance ( based on GDP )of the countries that each country's civilian passport grants easy access to.
+ Since most rankings of passports are dogshit, I have created a ranking based on the relevance ( based on GDP ) of the countries that each country's civilian passport grants easy access to.
 
 ## How it works
 
