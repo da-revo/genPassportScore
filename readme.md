@@ -1,4 +1,4 @@
-# get GDP Access score
+# GDP Access score
 
 ## Intro
 
@@ -34,6 +34,6 @@
  type `log` just after `1_genPassportScore.py` to get all actions performed, output to the terminal
  eg: `python 1_genPassportScore.py log` or `python 1_genPassportScore.py log China`
 
- you can modify the weights in the a1_weightsTable.py and the program will use those weights ; else it will use the hardcoded weights
+ you can modify the weights in the *a1_weightsTable.py* and the program will use those weights ; else it will use the hardcoded weights
 
- a1_weightsTable.py is generated after the first run
+ *a1_weightsTable.py* is generated after the first run
