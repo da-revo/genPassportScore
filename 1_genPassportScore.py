@@ -478,7 +478,7 @@ def loopThroughAllCountries():
 		scoreSheet.append(aCountry)
 	logger('###log: Score Sheet created.')
 	
-	#scoreSheet=sorted(scoreSheet, key = lambda i: i.get_gdpAxsScore,reverse=True)
+	scoreSheet=sorted(scoreSheet, key = lambda i: i.get_gdpAxsScore(),reverse=True)
 
 	oFile = open('0_scoreList.py', 'w')
 	oFile.write('#This is the final list of GDP Access Scores in Trillions of US dollars \n')
@@ -498,7 +498,7 @@ def loopThroughAllCountries():
 	
 	for i in range(len(scoreSheet)):
 		s=scoreSheet[i]
-		outputWriter.writerow([ s.get_name, s.get_gdpAxsScore, s.get_gdp, s.get_demonym, s.get_url ])
+		outputWriter.writerow([ s.get_name(), s.get_gdpAxsScore(), s.get_gdp(), s.get_demonym(), s.get_url() ])
 	csvOutputFile.close()
 	print(' 0_scoreSheet.csv generated')
 

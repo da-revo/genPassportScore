@@ -7,7 +7,7 @@
 
  type `python 1_genPassportScore.py list` to get a list of valid countries
 
- type `log` just after `1_genPassportScore.py` to get all actions performed output to the terminal
+ type `log` just after `1_genPassportScore.py` to get all actions performed, output to the terminal
  eg: `python 1_genPassportScore.py log` or `python 1_genPassportScore.py log China`
 
  you can modify the weights in the a1_weightsTable.py and the program will use those weights ; else it will use the hardcoded weights
