@@ -8,7 +8,7 @@
 
  The python script makes calculations based on data from wikipedia accessed through an API call.
 
- Score_for_country= summation_of ( GDP * weight_based_on_visa_requirement ) over_all_countries.
+ Score_for_country = summation_of ( GDP * weight_based_on_visa_requirement ) over_all_countries.
 
  The script runs offline after first run through all countries by reusing saved data
 
