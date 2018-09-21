@@ -1,4 +1,12 @@
+'''
+###TODO:
+plot on map
+find ranks
+compare with regular rankings
+make it not read any file
+fond to taiwan
 
+'''
 
 def logger(text):
 	if logHuh == True:
@@ -18,22 +26,25 @@ def workWithLog(argz):
 		return False
 
 def checkValidCountry(nation):
+	nation=nation.lower()
+	nation=nation.title()
 	#check if it exists
 	exists=False
 	for i in range(len(cdList)):
 		if nation == cdList[i]['country']:
 			exists=True
 	if exists==False:
-		print('Error: Invalid country name(s) entered \ntry Capitalizing the first letter')
+		print('Error: Invalid country name(s) entered ')
 		print('enter \"list\" as argument to see all valid countries')
 		raise SystemExit()
+	return nation
 
 def handleArgs(st):
 	f=''
 	for i in range(st, len(argz)):
 		f = f + argz[i] + ' '
 	nation=f.strip()
-	checkValidCountry(nation)
+	nation=checkValidCountry(nation)
 	return nation
 
 def listValidCountries():
@@ -69,7 +80,6 @@ def getRefTable():
 			{'weight': 0.4, 'templates': ['no','no ', 'n/a'], 'desc': 'Visa is required'},
 			{'weight': 0.0, 'templates': ['black', 'BLACK'], 'desc': 'Travel not Allowed'},
 		]
-		#TODO create table if no exstance
 		# write weights table to file
 		import pprint
 		c_list = open('a1_weightsTable.py', 'w')
@@ -192,6 +202,7 @@ def find_gdp(nation):
 
 class country:
 	__name = ''
+	__rank = False
 	__gdp  = 0
 	#__pppCapita = 0
 	#__population = 0
@@ -199,7 +210,13 @@ class country:
 	__visaScoreList = []    #stores dictionaries with keys, country and visaScore 
 	__demonym = ''
 	__url = ''
-		
+
+	def createUrl(self):	#creates url for visa requirements
+		self.__url='https://en.wikipedia.org/wiki/Visa_requirements_for_'+self.__demonym+'_citizens'
+		if self.__demonym=='Monegasque':
+			self.__url='https://en.wikipedia.org/wiki/Visa_requirements_for_Monégasque_citizens'
+			
+	
 	def wiki2wText(self,nationality):
 		# get info from wikipedia and returns wikitext
 
@@ -217,6 +234,8 @@ class country:
 				"prop": "sections",
 				"page": 'Visa_requirements_for_' + nationality + '_citizens'
 			}
+			if self.__demonym=='Monegasque':
+				payload['page']='Visa_requirements_for_Mon\u00E9gasque_citizens'
 			t = getreply(payload)
 
 			t = t['parse']
@@ -241,6 +260,8 @@ class country:
 				"rvlimit": "1",
 				"rvsection": rvsection
 			}
+			if self.__demonym=='Monegasque':
+				payload['titles']='Visa_requirements_for_Mon\u00E9gasque_citizens'
 			jData = getreply(payload)
 
 			import a1_peeFormatFs
@@ -467,12 +488,20 @@ class country:
 		WT=self.wiki2wText(self.__demonym)
 		self.__gdpAxsScore = self.getTotGDP_Access(self.__name,WT)
 
-	def createUrl(self):	#creates url for visa requirements
-		self.__url='https://en.wikipedia.org/wiki/Visa_requirements_for_'+self.__demonym+'_citizens'
+	
+	def gen_Rank(self,scoreList):
+		count=1
+		for i in range(len(scoreList.z)):
+			if scoreList.z[i]['Score'] > self.__gdpAxsScore:
+				count+=1
+		self.__rank=count
+		return self.get_Rank()
 
 	def __init__(self, name):     #TODO: add population and pppcapita
+		
 		self.__name = name
 		self.__demonym = find_demonym(name)
+		self.createUrl()
 		self.__gdp = find_gdp(name)
 		self.gen_gdpAxsScore()
 		self.createUrl()
@@ -494,12 +523,18 @@ class country:
 
 	def get_url(self):
 		return self.__url
+	
+	def get_Rank(self):
+		return self.__rank
 
 def makeAndDisplayFor(nation):
 	
 	x = country(nation)
+	print('\n{}'.format( x.get_url()))
 	print('\nGDP Access Score for {} is {} Trillion USD'.format( x.get_name()  , x.get_gdpAxsScore()))
-	print('More info: {} \n'.format( x.get_url()))
+	if scoreListExists==True:
+		print('Rank is {} out of {} countries\n'.format(x.gen_Rank(scoreList),len(scoreList.z)))
+	
 	return x
 
 def loopThroughAllCountries():
@@ -522,16 +557,18 @@ def loopThroughAllCountries():
 	oFile.close()
 	logger('###log: scoreList.py generated')
 
+	import scoreList
+
 	import csv
 	#csvOutputFile = open('0_scoreSheet.csv', 'w', newline='')
 	csvOutputFile = open('0_scoreSheet.csv', 'w')
 	outputWriter = csv.writer(csvOutputFile)
-	outputWriter.writerow([ 'Country' , 'Score in $T', 'GDP in $M' , 'Demonym' , 'Wikipedia Page'])
+	outputWriter.writerow([ 'Country' , 'Score in $T', 'Rank' , 'GDP in $M' , 'Demonym' , 'Wikipedia Page'])
 	outputWriter.writerow([ '' , '' ])
 	
 	for i in range(len(scoreSheet)):
 		s=scoreSheet[i]
-		outputWriter.writerow([ s.get_name(), s.get_gdpAxsScore(), s.get_gdp(), s.get_demonym(), s.get_url() ])
+		outputWriter.writerow([ s.get_name(), s.get_gdpAxsScore(), s.gen_Rank(scoreList), s.get_gdp(), s.get_demonym(), s.get_url() ])
 	csvOutputFile.close()
 	print(' 0_scoreSheet.csv generated')
 
@@ -540,9 +577,7 @@ def loopThroughAllCountries():
 def plotter():
 	import matplotlib.pyplot as plt     
 	import numpy as np
-	try:
-		import scoreList
-	except ImportError:
+	if scoreListExists==False:
 		print('Error: Cannot import scoreList.py\nRun without arguments to generate it')
 		raise SystemExit()
 	t=scoreList.z
@@ -591,14 +626,14 @@ def compare( argee ):
 			pos=i
 
 	for i in range(1,pos):
-		p=p+argee[i]+' '
+		p+=argee[i]+' '
 	p=p[0: len(p)-1]
-	checkValidCountry(p)
+	p=checkValidCountry(p)
 
 	for i in range(pos+1,len(argee)):
-		q=q+argee[i]+' '
+		q+=argee[i]+' '
 	q=q[0: len(q)-1]
-	checkValidCountry(q)
+	q=checkValidCountry(q)
 
 	a = country( p )
 	b = country( q )
@@ -625,25 +660,31 @@ def compare( argee ):
 	logger('###log: sorted difference list, difL')
 
 	#print the list
-	print('\n')
+	print('\nHere is the list of differences ordered in ascending order of the magnitude of the difference\n')
+	print('The + and - signs identify the countries that are easier to access from the assigned country\n')
 	for i in range( len(difL)-1, -1, -1):	
 		dMsg=''
 		if difL[i]['GDP_Access_Difference'] > 0:
-			dMsg=' + '
+			dMsg='+ '
 		else:
-			dMsg=' - '
-		dMsg=dMsg+difL[i]['Country']+' = '
-		if	len(difL[i]['Country'])+6 < 8*4:
+			dMsg='- '
+		dMsg=dMsg+difL[i]['Country']+' : '
+		if	len(difL[i]['Country'])+5 < 8*4:
 			dMsg=dMsg+'\t'
-		if	len(difL[i]['Country'])+6 < 8*3 :
+		if	len(difL[i]['Country'])+5 < 8*3 :
 			dMsg=dMsg+'\t'
-		if	len(difL[i]['Country'])+6 < 8*2:
+		if	len(difL[i]['Country'])+5 < 8*2:
 			dMsg=dMsg+'\t'
 		
 		dMsg=dMsg+'\t {} \t vs \t {}'.format(difL[i]['aVisaRequirement'],difL[i]['bVisaRequirement'])
 		print(dMsg)
 
-	print('\n\t(+) {} = {}    vs    {} = {} (-)\n'.format( p , a.get_gdpAxsScore(), b.get_gdpAxsScore(), q ))
+	if scoreListExists==False:
+		print('\n\t(+) {} = {}    vs    {} = {} (-)\n'.format( p , a.get_gdpAxsScore(),
+				b.get_gdpAxsScore(), q ))
+	else:
+		print('\n\t(+) {} = {}  [#{}]    vs    [#{}]  {} = {} (-)\n'.format( p , a.get_gdpAxsScore(),
+				a.gen_Rank(scoreList), b.gen_Rank(scoreList), b.get_gdpAxsScore(), q ))
 		
 		
 
@@ -660,6 +701,13 @@ if workWithLog(argz)!=False:
 	argz=workWithLog(argz)
 	logHuh=True
 
+scoreListExists=False
+try:
+	import scoreList
+except ImportError:
+	logger('###log: scoreList does not exist')
+else:	
+	scoreListExists=True
 
 refTable = getRefTable()
 
@@ -693,3 +741,4 @@ if len(argz) > 1:
 		makeAndDisplayFor(nation)	
 else:
 	loopThroughAllCountries()
+	
