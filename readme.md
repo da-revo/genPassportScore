@@ -26,6 +26,7 @@
  eg: `python 1_genPassportScore.py China`
 
  type `python 1_genPassportScore.py country1 vs country2` to get a detailed comparison of the access each of the passports ordered by the magnitude of difference
+ 
  eg: `python 1_genPassportScore.py United States vs Canada`
  
  type `python 1_genPassportScore.py list` to get a list of valid countries
