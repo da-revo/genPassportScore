@@ -21,7 +21,7 @@
 
 * A python interpreter
 * **matplotlib**  and  **pandas**  for the `plot` argument
-* a UNIX based terminal for `show` argument
+* a UNIX based terminal for the `show` argument
 
 ## How to use
 
