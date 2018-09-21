@@ -693,4 +693,3 @@ if len(argz) > 1:
 		makeAndDisplayFor(nation)	
 else:
 	loopThroughAllCountries()
-	
