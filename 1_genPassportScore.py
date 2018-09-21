@@ -4,21 +4,36 @@ def logger(text):
 	if logHuh == True:
 		print(text)
 
-def handleArgs(st):
-	f=''
-	for i in range(st, len(sys.argv)):
-		f = f + sys.argv[i] + ' '
-	nation=f.strip()
+def workWithLog(argz):
+	logHuh=False
+	nArgz=[]
+	if len(argz) > 1 and argz[1]=='log' :
+		logHuh=True
+		logger('###log: logging')
+		nArgz.append(argz[0])
+		for i in range(2, len(argz)):
+			nArgz.append(argz[i])
+		return nArgz
+	if logHuh==False:
+		return False
 
+def checkValidCountry(nation):
 	#check if it exists
 	exists=False
 	for i in range(len(cdList)):
 		if nation == cdList[i]['country']:
 			exists=True
 	if exists==False:
-		print('Error: Invalid country name entered \ntry Capitalizing the first letter')
+		print('Error: Invalid country name(s) entered \ntry Capitalizing the first letter')
 		print('enter \"list\" as argument to see all valid countries')
 		raise SystemExit()
+
+def handleArgs(st):
+	f=''
+	for i in range(st, len(argz)):
+		f = f + argz[i] + ' '
+	nation=f.strip()
+	checkValidCountry(nation)
 	return nation
 
 def listValidCountries():
@@ -47,12 +62,12 @@ def getRefTable():
 	except ImportError:
 		logger('###log: could not import a1_weightsTable.py ; Using hardcoded weights ')
 		nTable = [
-			{'weight': '1.0', 'templates': ['free'], 'desc': 'Freedom of Movement'},
-			{'weight': '0.9', 'templates': ['yes','yes '], 'desc': 'Visa Free'},
-			{'weight': '0.7', 'templates': ['Optional', 'yes-no'], 'desc': 'Visa on Arrival'},
-			{'weight': '0.5', 'templates': ['yes2'], 'desc': 'eVisa'},
-			{'weight': '0.4', 'templates': ['no','no ', 'n/a'], 'desc': 'Visa required'},
-			{'weight': '0.0', 'templates': ['black', 'BLACK'], 'desc': 'Banned'},
+			{'weight': 1.0, 'templates': ['free'], 'desc': 'Freedom of Movement'},
+			{'weight': 0.9, 'templates': ['yes','yes '], 'desc': 'Visa not Required'},
+			{'weight': 0.7, 'templates': ['Optional', 'yes-no'], 'desc': 'Visa on Arrival'},
+			{'weight': 0.5, 'templates': ['yes2'], 'desc': 'Electronic Visa'},
+			{'weight': 0.4, 'templates': ['no','no ', 'n/a'], 'desc': 'Visa is required'},
+			{'weight': 0.0, 'templates': ['black', 'BLACK'], 'desc': 'Travel not Allowed'},
 		]
 		#TODO create table if no exstance
 		# write weights table to file
@@ -265,6 +280,21 @@ class country:
 					logger('###error: template not found in refTable. template was ' + level)
 					return (0)
 
+			def findDesc(level):
+
+				flag = False
+				for i in range(len(refTable)):
+					found = False
+					for j in range(len(refTable[i]['templates'])):
+						if level.lower() == refTable[i]['templates'][j].lower():
+							found = True
+							break
+					if found:
+						return refTable[i]['desc']
+				if flag == False:
+					logger('###error: template not found in refTable. template was ' + level)
+					return ('n/a')	
+
 			GDP_AccessList = []
 			tDic = {}
 			total_GDP_Access = 0
@@ -274,7 +304,8 @@ class country:
 
 				if (currentNation in gTable[j]['Country']) or (gTable[j]['Country'] in currentNation):
 					tsuff = gTable[j]['GDP'] * findWeight('free')
-					tDic = {'Country': currentNation, 'VisaRequired': 'free', 'GDP_Access': float("{0:.3f}".format(tsuff))}
+					tDic = {'Country': currentNation, 'VisaTemplate': 'free',
+							'GDP_Access': float("{0:.3f}".format(tsuff)), 'VisaRequirement': 'Freedom of Movement'}
 					GDP_AccessList.append(tDic)
 					total_GDP_Access = total_GDP_Access + gTable[j]['GDP']
 					found = 1
@@ -292,8 +323,8 @@ class country:
 						
 						tsuff = gTable[j]['GDP'] * findWeight(cvList[i]['visaTemplate'])
 						tsuff = float("{0:.3f}".format(tsuff))
-						tDic = {'Country': cvList[i]['country'], 'VisaRequired': cvList[i]['visaTemplate'],
-								'GDP_Access': tsuff}
+						tDic = {'Country': cvList[i]['country'], 'VisaTemplate': cvList[i]['visaTemplate'],
+								'GDP_Access': tsuff , 'VisaRequirement': findDesc(cvList[i]['visaTemplate'])}
 						GDP_AccessList.append(tDic)
 						total_GDP_Access = total_GDP_Access + tsuff
 						found = 1
@@ -541,16 +572,94 @@ def plotter():
 	
 	plt.show()
 
+def compare( argee ):
+
+	logger('###log: comparing')
+
+	# remove this part if logic needs to change
+	if 'plot' in argz :
+		argz.remove('plot')
+	if 'show' in argz :
+		argz.remove('show')
+
+	p=''
+	q=''
+	pos=-1
+
+	for i in range(len(argee)):
+		if argee[i]=='vs':
+			pos=i
+
+	for i in range(1,pos):
+		p=p+argee[i]+' '
+	p=p[0: len(p)-1]
+	checkValidCountry(p)
+
+	for i in range(pos+1,len(argee)):
+		q=q+argee[i]+' '
+	q=q[0: len(q)-1]
+	checkValidCountry(q)
+
+	a = country( p )
+	b = country( q )
+
+	if a.get_gdpAxsScore() < b.get_gdpAxsScore():
+		a,b = b,a
+		p,q = q,p
+
+	difL=[]
+
+	avL=a.get_visaScoreList()
+	bvL=b.get_visaScoreList()
+	
+	#fill the difference list,  difL
+	for i in range( len( avL ) ) :
+		for j in range( len(bvL) ):
+			if avL[i]['Country'].lower() == bvL[j]['Country'].lower() :
+				if avL[i]['VisaRequirement'] != bvL[j]['VisaRequirement'] :
+					difL.append( { 'Country': avL[i]['Country'] ,
+									'GDP_Access_Difference': float("{0:.3f}".format(avL[i]['GDP_Access']-bvL[j]['GDP_Access'])),
+								'aVisaRequirement': avL[i]['VisaRequirement'] ,'bVisaRequirement': bvL[j]['VisaRequirement'] } )
+
+	difL=sorted(difL, key = lambda i: abs(i['GDP_Access_Difference']),reverse=True)
+	logger('###log: sorted difference list, difL')
+
+	#print the list
+	print('\n')
+	for i in range( len(difL)-1, -1, -1):	
+		dMsg=''
+		if difL[i]['GDP_Access_Difference'] > 0:
+			dMsg=' + '
+		else:
+			dMsg=' - '
+		dMsg=dMsg+difL[i]['Country']+' = '
+		if	len(difL[i]['Country'])+6 < 8*4:
+			dMsg=dMsg+'\t'
+		if	len(difL[i]['Country'])+6 < 8*3 :
+			dMsg=dMsg+'\t'
+		if	len(difL[i]['Country'])+6 < 8*2:
+			dMsg=dMsg+'\t'
+		
+		dMsg=dMsg+'\t {} \t vs \t {}'.format(difL[i]['aVisaRequirement'],difL[i]['bVisaRequirement'])
+		print(dMsg)
+
+	print('\n\t(+) {} = {}    vs    {} = {} (-)\n'.format( p , a.get_gdpAxsScore(), b.get_gdpAxsScore(), q ))
+		
+		
+
 ##################### RUNNING MAIN
 
 
 import sys
 import os
 
+argz=sys.argv
+
 logHuh=False
-if len(sys.argv) > 1 and sys.argv[1]=='log' :
+if workWithLog(argz)!=False:
+	argz=workWithLog(argz)
 	logHuh=True
-	logger('###log: logging')
+
 
 refTable = getRefTable()
 
@@ -561,28 +670,27 @@ cdList = a1_country_list.countries
 
 
 #work with arguments
-if len(sys.argv) > 1:
-	if sys.argv[1]=='list':
+if len(argz) > 1:
+	
+	if argz[1]=='list':
 		listValidCountries()
 
-	elif sys.argv[1]=='plot':
+	elif argz[1]=='plot':
 		plotter()
-
-	elif sys.argv[1]=='show':
+	
+	elif argz[1]=='show':
 		PATH = './0_scoreSheet.csv'
 		if not (os.path.isfile(PATH) and os.access(PATH, os.R_OK)):
 			print('Error: CSV file not created yet\nRun with no arguments to generate it')
 		else:
 			os.system("xdg-open 0_scoreSheet.csv ")
-
-	elif sys.argv[1]=='log':
-		if len(sys.argv) > 2:
-			nation=handleArgs(2)
-			makeAndDisplayFor(nation)
-		else:
-			loopThroughAllCountries()	
+	
+	elif 'vs' in argz :
+			compare(argz)
+	
 	else:
 		nation=handleArgs(1)
 		makeAndDisplayFor(nation)	
 else:
 	loopThroughAllCountries()
+	
