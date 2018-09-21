@@ -11,7 +11,7 @@
 
 ## How it works
 
- The python script makes calculations based on data from wikipedia accessed through an API call.
+ The python script makes calculations based on data from wikipedia accessed through an API calls.
 
  Score_for_country = summation_of ( GDP * weight_based_on_visa_requirement ) over_all_countries.
 
