@@ -4,7 +4,10 @@
 
  Since most rankings of passports are dogshit, I have created a ranking system based on the relevance ( based on GDP ) of the countries that each country's civilian passport grants easy access to.
 
- *Does visa on arrival to China matter more to you than visa free access to *
+ *Does visa on arrival to China matter more to you than visa free access to Samoa, The Gambia and Liberia?*
+
+ If yes, you've come to the right place !  
+ If not, you can go suck a fat one. Tschüss. :)
 
 ## How it works
 
