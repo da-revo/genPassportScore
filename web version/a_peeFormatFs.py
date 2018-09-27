@@ -1,4 +1,4 @@
-#funstions for formatting
+#functions for formatting
 
 
 def unbrace(contents):
