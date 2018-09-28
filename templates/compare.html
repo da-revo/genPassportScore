@@ -1,0 +1,31 @@
+
+<br>
+<a href="http://localhost:5000/">homepage mfrrs</a>
+<br>
+
+
+<p> {{  rank1   }} rank {{   rank2    }} </p>
+<p> {{country1}} <b>vs</b> {{country2}} </p>
+<p> {{score1}} score {{score2}} </p>
+<br>
+
+<table class="table" style="margin:auto; border: 2px solid grey;">
+    <thead>
+        <tr>
+            <th scope="col">{{country1}}</th>
+            <th scope="col">to </th>
+            <th scope="col">{{country2}}</th>
+            <th scope="col">differ</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for i in difL %}
+        <tr>
+            <td> {{ i['aVisaRequirement'] }} </td> 
+            <th scope="row"> {{ i['Country'] }} </th>
+            <td> {{ i['bVisaRequirement'] }} </td>
+            <td> {{ i['GDP_Access_Difference'] }} </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

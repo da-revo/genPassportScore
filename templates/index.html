@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href={{ url_for('static', filename = 'styles.css') }} rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-5977996916246305",
+            enable_page_level_ads: true
+        });
+    </script>
+</head>
+<body>
+    <div class="container-fluid" style="text-align:center" id="list-div">
+        <label for="country-form" class="text-centre">Select Country:</label>
+        <!-- <div style="margin-left:auto" id=""> -->
+            <form id="form1">
+
+            </form>
+            <select class="form-control" id="country-form" style="display:block" for="form1">
+            </select>
+
+            <button class="btn btn-default" id="button">
+                Find Score
+            </button> 
+        <!-- </div> -->
+        <br>
+        <a href="http://localhost:5000/plot">custom plot</a>
+        <br>
+        <a href="http://localhost:5000/plot/top">top 10</a>
+        <br>
+        <a href="http://localhost:5000/compare/china-vs-india">china vs india</a>
+        <br>
+    </div>  
+    <script src= {{ url_for('static', filename = 'script.js') }}></script>
+</body>
+</html>

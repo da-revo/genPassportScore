@@ -1,10 +1,9 @@
 '''
 ###TODO:
 plot on map
-find ranks
-compare with regular rankings
+compare with regular passport rankings
 make it not read any file
-fond to taiwan
+find to taiwan
 
 '''
 
@@ -25,18 +24,49 @@ def workWithLog(argz):
 	if logHuh==False:
 		return False
 
+def ppWrite(contents,filename):
+    #write to file with prettiness
+    wrt = open('./wikitext/'+filename+'.txt', 'w')
+    i=0
+    while i < len(contents):
+        letter = contents[i]
+        if letter=="\\":
+            i=i+1
+            if contents[i]=="n":
+                wrt.write("\n")
+            else:
+                wrt.write(letter)
+        else:
+            wrt.write(letter)
+        i = i + 1
+    wrt.close()
+
 def checkValidCountry(nation):
+	logger("###log: checking validity of "+nation)
+	nation=nation.strip()
+	nation=nation.replace('-', ' ')
+	nation=nation.replace('_', ' ')
 	nation=nation.lower()
 	nation=nation.title()
+	
+	if nation == 'Usa' or nation == 'Us':
+		nation='United States'
+	if nation == 'Uae':
+		nation='United Arab Emirates'
+	if nation == 'Uk':
+		nation='United Kingdom'
 	#check if it exists
 	exists=False
 	for i in range(len(cdList)):
-		if nation == cdList[i]['country']:
+		if nation.lower() == cdList[i]['country'].lower():
 			exists=True
-	if exists==False:
-		print('Error: Invalid country name(s) entered ')
+	if exists==False and webhuh!=True:
+		print('Error: Invalid country name, '+nation+' entered ')
 		print('enter \"list\" as argument to see all valid countries')
 		raise SystemExit()
+	if exists==False and webhuh==True:
+		logger('###log: checked validity of '+nation+'. it is not valid')
+		return False
 	return nation
 
 def handleArgs(st):
@@ -68,10 +98,10 @@ def getreply(payload):
 
 def getRefTable():
 	try:
-		import a1_weightsTable
-		logger('###log: imported a1_weightsTable.py')
+		import a2_weightsTable
+		logger('###log: imported a2_weightsTable.py')
 	except ImportError:
-		logger('###log: could not import a1_weightsTable.py ; Using hardcoded weights ')
+		logger('###log: could not import a2_weightsTable.py ; Using hardcoded weights ')
 		nTable = [
 			{'weight': 1.0, 'templates': ['free'], 'desc': 'Freedom of Movement'},
 			{'weight': 0.9, 'templates': ['yes','yes '], 'desc': 'Visa not Required'},
@@ -82,12 +112,12 @@ def getRefTable():
 		]
 		# write weights table to file
 		import pprint
-		c_list = open('a1_weightsTable.py', 'w')
+		c_list = open('a2_weightsTable.py', 'w')
 		c_list.write('refTable = ' + pprint.pformat(nTable))
 		c_list.close()
-		logger('###log: created a1_weightsTable.py ')
+		logger('###log: created a2_weightsTable.py ')
 	else:
-		nTable = a1_weightsTable.refTable
+		nTable = a2_weightsTable.refTable
 
 	return nTable
 
@@ -95,7 +125,7 @@ def find_demonym(nation):
 
 	flag = False
 	for i in range(len(cdList)):
-		if cdList[i]['country'] == nation:
+		if cdList[i]['country'].lower() == nation.lower():
 			flag = True
 			return cdList[i]['demonym']
 	if flag == False:
@@ -104,7 +134,7 @@ def find_demonym(nation):
 def getGDPtable():	#get info from wikipedia , get wikitext from that , creates the GDPtable and returns it
 
 	try:
-		import a2_GDPtable
+		import a3_GDPtable
 		logger('###log: imported GDPtable')
 	except (ImportError, SyntaxError):
 		logger('###log: cound not import GDPtable')
@@ -119,8 +149,6 @@ def getGDPtable():	#get info from wikipedia , get wikitext from that , creates t
 		}
 		jData = getreply(payload)
 
-		import a1_peeFormatFs
-
 		# go inside the nest
 		jData = jData['query']
 		jData = jData['pages']
@@ -129,7 +157,6 @@ def getGDPtable():	#get info from wikipedia , get wikitext from that , creates t
 		jData = jData['revisions']
 
 		contents = (str)(jData[0])
-		contents = a1_peeFormatFs.unbrace(contents)
 
 		### make a list of all the countries and their GDPs (newest available)
 
@@ -180,17 +207,17 @@ def getGDPtable():	#get info from wikipedia , get wikitext from that , creates t
 			GDPtable.append(aDic)
 		# write gdp table to file
 		import pprint
-		c_list = open('a2_GDPtable.py', 'w')
+		c_list = open('a3_GDPtable.py', 'w')
 		c_list.write('#uses the first gdp that matches the country \n')
 		c_list.write('#Ivory Coast, Sao Tome and Principe and Curacao may have been de accented \n')
 		c_list.write('GDPtable = ' + pprint.pformat(GDPtable))
 		c_list.close()
-		logger('###log: created a2_GDPtable.py ')
+		logger('###log: created a3_GDPtable.py ')
 		
 	else:
-		GDPtable = a2_GDPtable.GDPtable
+		GDPtable = a3_GDPtable.GDPtable
 	return (GDPtable)
-
+				
 def find_gdp(nation):
 	flag = False
 	for i in range(len(gTable)):
@@ -214,14 +241,13 @@ class country:
 	def createUrl(self):	#creates url for visa requirements
 		self.__url='https://en.wikipedia.org/wiki/Visa_requirements_for_'+self.__demonym+'_citizens'
 		if self.__demonym=='Monegasque':
-			self.__url='https://en.wikipedia.org/wiki/Visa_requirements_for_Monégasque_citizens'
-			
-	
+			self.__url='https://en.wikipedia.org/wiki/Visa_requirements_for_Mon%c3%a9gasque_citizens'
+				
 	def wiki2wText(self,nationality):
 		# get info from wikipedia and returns wikitext
 
 		# check if wikitext exists
-		PATH = './WT-' + nationality + '.txt'
+		PATH = './wikitext/WT-' + nationality + '.txt'
 
 		if os.path.isfile(PATH) and os.access(PATH, os.R_OK):
 			logger("###log: wikitext file exists and is readable for "+ nationality)
@@ -264,8 +290,6 @@ class country:
 				payload['titles']='Visa_requirements_for_Mon\u00E9gasque_citizens'
 			jData = getreply(payload)
 
-			import a1_peeFormatFs
-
 			# go inside the nest
 			jData = jData['query']
 			jData = jData['pages']
@@ -274,10 +298,9 @@ class country:
 			jData = jData['revisions']
 
 			contents = (str)(jData[0])
-			# contents=a1_peeFormatFs.unbrace(a1_peeFormatFs.unbrace(contents))
 
 			# write to file with prettiness
-			a1_peeFormatFs.ppWrite(contents, 'WT-'+nationality )
+			ppWrite(contents, 'WT-'+nationality )
 			logger('###log: got api Data / wikiTable for the ' + nationality + ' citizens ')
 			return contents
 
@@ -354,11 +377,12 @@ class country:
 					logger('###log: no GDP_Access for ' + currentNation + ' to ' + cvList[i]['country'])
 
 			import pprint
-			c_list = open('GdpAxs'+find_demonym(currentNation) + '.py', 'w')
+			c_list = open('./GDP_Access/GdpAxs'+find_demonym(currentNation) + '.py', 'w')
 			c_list.write('#GDP Access List for' + currentNation + ' \n')
 			c_list.write('GDPtable = ' + pprint.pformat(GDP_AccessList))
 			c_list.close()
 			logger('###log: created GdpAxs' + currentNation + '.py ')
+			GDP_AccessList=sorted(GDP_AccessList, key = lambda i: i['GDP_Access'],reverse=True)
 			self.__visaScoreList = GDP_AccessList
 			return total_GDP_Access
 
@@ -430,8 +454,7 @@ class country:
 			return neuCV_list
 
 		# read wiki table
-		# wTxt=WT
-		wikitable = open('WT-'+find_demonym(currentNation) + '.txt', 'r')
+		wikitable = open('./wikitext/WT-'+find_demonym(currentNation) + '.txt', 'r')
 		wTxt = wikitable.read()
 		wikitable.close()
 
@@ -442,14 +465,6 @@ class country:
 
 		regX_found = y.findall(wTxt)
 		cvList = list(regX_found)
-
-		'''#print list of templates used in wikitable 
-		cvList=list(set(regX_found))
-		import pprint
-		oFile = open('mod_list.py', 'w')
-		oFile.write('x = ' + pprint.pformat(cvList) + '\n')
-		oFile.close()
-		'''
 		
 		# create list of dictionaries of country and template(visaReq)
 		cvList = createCV_List(cvList)
@@ -460,21 +475,6 @@ class country:
 				cvList[i]['country'] = 'Ivory Coast'
 			if 'ncipe' in cvList[i]['country']:
 				cvList[i]['country'] = 'Sao Tome and Principe'
-
-		'''
-		import pprint
-		oFile = open('VeeTmlts-'+currentNation+'.py', 'w')
-		oFile.write('x = ' + pprint.pformat(cvList) + '\n')
-		oFile.close()
-
-		#get all visa templates
-		vTypesFound=[]
-		for i in range(len(cvList)):
-			vTypesFound.append(cvList[i]['visaTemplate'])
-		vTypesFound=list(set(vTypesFound))
-		print('Visa templates found for '+currentNation)
-		print(vTypesFound)
-		'''
 
 		logger('###log: number of countries found in wiki" for ' + currentNation + ' = ' + str(len(cvList)))
 
@@ -488,7 +488,6 @@ class country:
 		WT=self.wiki2wText(self.__demonym)
 		self.__gdpAxsScore = self.getTotGDP_Access(self.__name,WT)
 
-	
 	def gen_Rank(self,scoreList):
 		count=1
 		for i in range(len(scoreList.z)):
@@ -574,43 +573,113 @@ def loopThroughAllCountries():
 
 	return scoreSheet
 
-def plotter():
+def plotter(pltArgs,createhuh=False):		#if pltArgs is None then just display top mid bottom
 	import matplotlib.pyplot as plt     
 	import numpy as np
 	if scoreListExists==False:
-		print('Error: Cannot import scoreList.py\nRun without arguments to generate it')
-		raise SystemExit()
-	t=scoreList.z
+		print('###log: Cannot import scoreList.py generating it')
+		loopThroughAllCountries()
+		if scoreListExists==False:
+			print('Error: Cannot import scoreList.py')
+			raise SystemExit()
+	sList=scoreList.z
 
 	countries=[]
 	score=[]
-	for i in range(10):
-		countries.append(t[i]['Country'])
-		score.append(float(t[i]['Score']))
-	for i in range(len(t)-5,len(t)):
-		countries.append(t[i]['Country'])
-		score.append(float(t[i]['Score']))
+	
+	def appendr(i):
+		countries.append(sList[i]['Country'])
+		score.append(float(sList[i]['Score']))
+		if len(sList[i]['Country'])>13:
+			return True
+		else:
+			return False
+
+	name2Long=False
+
+	if pltArgs == None:
+		logger("###log: getting top, middle and bottom to plot")
+		for i in range(7):
+			name2Long+=appendr(i)
+		i=int(len(sList)/2)
+		for i in range(i-1,i+2):
+			name2Long+=appendr(i)
+		for i in range(len(sList)-5,len(sList)):
+			name2Long+=appendr(i)
+		
+	else:
+		logger("###log: getting listed countries to plot")
+		conts=[]
+		#convert list to a useable string
+		sArgs=','
+		for i in range(len(pltArgs)):
+			sArgs+=pltArgs[i]+' '
+		sArgs+=','
+		#print(sArgs)
+		#extract countries from list
+		commaPos=0
+		for i in range(1,len(sArgs)):
+			if sArgs[i]==',':
+				j=commaPos+1
+				tCon=''
+				while sArgs[j]!=',':
+					tCon+=sArgs[j]
+					j+=1
+				tCon=checkValidCountry(tCon)
+				if tCon!= False:
+					logger('###log: found '+tCon+' in pltArgs')
+					conts.append(tCon)
+				commaPos=j
+		#find info to plot
+		for kont in conts:
+			for k in range(len(sList)):
+				if sList[k]['Country']==kont:
+					name2Long+=appendr(k)
 
 	y_pos = np.arange(len(countries))
 
 	plt.barh(y_pos, score, align='center', alpha=0.75,)
 	plt.yticks(y_pos, countries)
 	plt.xticks(rotation=0)
-	plt.xlabel('GDP Access Score (More is Better)')
-	plt.ylabel('Passports of')
+	plt.xlabel('GDP Access Score in Trillions of US Dollars')
+	plt.ylabel('Civilian Passports of ')
 	
-	# Custom the subplot layout
-	plt.subplots_adjust(left = 0.190)
 
 	plt.xlim(20)
-	plt.title('Bottom 5 and Top 10 Civilian Passports')
-	
-	plt.show()
+	if pltArgs == None:
+		plt.title('Bottom 5, Middle 3 and Top 7 Civilian Passports')
+
+	if not name2Long:
+		plt.subplots_adjust(left = 0.210)
+	else:
+		plt.subplots_adjust(left = 0.320)
+
+	if webhuh==False:
+		PATH='./0_plot.png'
+		if not (os.path.isfile(PATH) and os.access(PATH, os.R_OK)):
+			plt.savefig(PATH)
+		logger('###log: created 0_plot.png')
+		plt.show()
+		return
+	else:
+		#create for web version
+		if createhuh==True:
+			PATH='./static/images/0_plot.png'
+			if not (os.path.isfile(PATH) and os.access(PATH, os.R_OK)):
+				plt.savefig(PATH)
+			logger('###log: created /static/images/0_plot.png')
+		else:
+			import random
+			locAndFile='./static/images/plot/last_plot_'+str(random.randint(000000, 999999))+'.png'
+			plt.savefig(locAndFile)
+			plt.close('all')
+			logger('###log: saved plot to '+locAndFile)
+			return locAndFile
 
 def compare( argee ):
 
 	logger('###log: comparing')
-
+	print(argee)
 	# remove this part if logic needs to change
 	if 'plot' in argz :
 		argz.remove('plot')
@@ -634,6 +703,10 @@ def compare( argee ):
 		q+=argee[i]+' '
 	q=q[0: len(q)-1]
 	q=checkValidCountry(q)
+
+	# display error in web ver
+	if (q==None or p==None) and webhuh==True:
+		return None
 
 	a = country( p )
 	b = country( q )
@@ -659,6 +732,12 @@ def compare( argee ):
 	difL=sorted(difL, key = lambda i: abs(i['GDP_Access_Difference']),reverse=True)
 	logger('###log: sorted difference list, difL')
 
+	## output result
+	if webhuh==True:
+		if scoreListExists==False:
+			logger('###log: ScoreList does not exist. creating...')
+			loopThroughAllCountries()
+		return difL,a.get_gdpAxsScore(),a.gen_Rank(scoreList),a.get_name(),b.get_name(), b.gen_Rank(scoreList), b.get_gdpAxsScore()
 	#print the list
 	print('\nHere is the list of differences ordered in ascending order of the magnitude of the difference\n')
 	print('The + and - signs identify the countries that are easier to access from the assigned country\n')
@@ -686,13 +765,97 @@ def compare( argee ):
 		print('\n\t(+) {} = {}  [#{}]    vs    [#{}]  {} = {} (-)\n'.format( p , a.get_gdpAxsScore(),
 				a.gen_Rank(scoreList), b.gen_Rank(scoreList), b.get_gdpAxsScore(), q ))
 		
+def helpr():
+	print(
+		"\n *You can modify the weights in the a2_weightsTable.py and the program"
+		+"\n  ....will use those weights ; else it will use the hardcoded weights\n"
+		+"\n *\"a2_weightsTable.py\" is generated after the first run\n"
+		+"\n *The ranks will be displayed after first execution without arguments\n"
+		+"\n\n==> Here's the list of arguments you can use...\n\n"
+		+"\n-> `<country>` to find GDP access score for the country input as country\n"
+		+"\n-> `<country1> vs <country2>` to get a detailed comparison of the access each"
+		+"\n    ....of the two passports grants ordered by the magnitude of difference\n"
+		+"\n-> `all` to generate a CSV file with all scores\n"
+		+"\n-> `list` to get a list of valid countries\n"
+		+"\n-> `show` to open up the created csv file\n"
+		+"\n-> `plot` to plot countries on a bar graph\n"
+		+"\n-> `log` before any other argument to get all actions performed, output"
+		+"\n    ....to the terminal\n"
+		+"\n"
+		)
+
+############# WEB VERSION
+
+def webbie():
+	from flask import Flask, request, render_template
+	app=Flask(__name__)
+
+	def refreshPlotFolder():
+		nuPath="./static/images/plot/"
+		if os.path.isdir(nuPath):
+			import shutil
+			shutil.rmtree(nuPath)
+		os.makedirs(nuPath)
+
+	@app.route('/')
+	def index():
+		return render_template("index.html")
+	
+	@app.route('/country/<countree>')
+	def test(countree):
+		x = country(checkValidCountry(countree))
+		return render_template("country.html",
+				cName=x.get_name(), cScore=x.get_gdpAxsScore() , cURL=x.get_url(),
+				cvList=x.get_visaScoreList() )
+	
+	@app.route('/compare/<c1>-vs-<c2>')
+	def compareW(c1,c2):
 		
+		print(c1,c2)
+		s='blah '+c1+' vs '+c2
+		ag=s.split()
+		logger('###log: argument from url is '+str(ag))
+		difL, aS,aR,aN,bN,bR,bS =compare(s.split())
+		if difL==None:
+			return 'Fatal Error: at least one country is invalid'
+		
+		return render_template("compare.html",rank1=aR,country1=aN,score1=aS,
+								difL=difL, rank2=bR,country2=bN,score2=bS)
+		
+	@app.route('/plot', methods = ['POST', 'GET'])
+	def plotCustom():
+		if request.method == 'POST':
+			arg=[]
+			for i in range(3):
+				arg.append(request.form['country'+str(i)]+',')
+			refreshPlotFolder()
+			url=plotter(pltArgs=arg)
+			return render_template("plot.html", url =url, shw='block')
+		elif request.method == 'GET':
+			refreshPlotFolder()
+			url=plotter(pltArgs=['chigoo,', 'united states,', 'germany'])	#TODO make work
+			return render_template("plot.html", url =url, shw='none')
+	
+	@app.route('/plot/top')
+	def plotTop():
+		PATH='./static/images/0_plot.png'
+		if not (os.path.isfile(PATH) and os.access(PATH, os.R_OK)):
+			logger('###log: no file at ./static/images/0_plot.png ; creating... ')
+			plotter(None,True)
+		return render_template("top.html", url ='/static/images/0_plot.png')
+		
+	app.run()
 
 ##################### RUNNING MAIN
 
 
 import sys
 import os
+if not os.path.isdir('./wikitext/'):
+	os.makedirs('./wikitext/')
+if not os.path.isdir('./GDP_Access/'):
+	os.makedirs('./GDP_Access/')
+
 
 argz=sys.argv
 
@@ -700,6 +863,7 @@ logHuh=False
 if workWithLog(argz)!=False:
 	argz=workWithLog(argz)
 	logHuh=True
+webhuh=False
 
 scoreListExists=False
 try:
@@ -716,22 +880,37 @@ gTable = getGDPtable()
 import a1_country_list
 cdList = a1_country_list.countries
 
-
 #work with arguments
 if len(argz) > 1:
 	
 	if argz[1]=='list':
 		listValidCountries()
 
+	elif argz[1]=='web':
+		webhuh=True
+		webbie()
+
 	elif argz[1]=='plot':
-		plotter()
+		try:
+			if argz[2]=='top':
+				plotter(pltArgs=None)
+			else:
+				plotter(pltArgs=argz[2:])
+		except IndexError:
+				print('\n no arguments provided for plot ')
+				print(' use `top` after plot to get the top 7, bottom 5 and middle 3')
+				print(' or list countries with `,`\n')
+
+	elif argz[1]=='all':
+		loopThroughAllCountries()
+
 	
 	elif argz[1]=='show':
 		PATH = './0_scoreSheet.csv'
 		if not (os.path.isfile(PATH) and os.access(PATH, os.R_OK)):
 			print('Error: CSV file not created yet\nRun with no arguments to generate it')
 		else:
-			os.system("xdg-open 0_scoreSheet.csv ")
+			os.system("xdg-open 0_scoreSheet.csv")
 	
 	elif 'vs' in argz :
 			compare(argz)
@@ -740,5 +919,5 @@ if len(argz) > 1:
 		nation=handleArgs(1)
 		makeAndDisplayFor(nation)	
 else:
-	loopThroughAllCountries()
+	helpr()
 	

@@ -25,22 +25,22 @@
 
 ## How to use
 
- Open terminal, `cd`  into the directory and type `python 1_genPassportScore.py` to generate a CSV file with all scores.
+ Open terminal, `cd`  into the directory and type `python genPassportScore.py` to generate a CSV file with all scores.
 
- type `python 1_genPassportScore.py country` to find GDP access score for the country input as `country`  
- eg: `python 1_genPassportScore.py China`
+ type `python genPassportScore.py country` to find GDP access score for the country input as `country`  
+ eg: `python genPassportScore.py China`
 
- type `python 1_genPassportScore.py country1 vs country2` to get a detailed comparison of the access each of the passports ordered by the magnitude of difference  
- eg: `python 1_genPassportScore.py United States vs Canada`
+ type `python genPassportScore.py country1 vs country2` to get a detailed comparison of the access each of the passports ordered by the magnitude of difference  
+ eg: `python genPassportScore.py United States vs Canada`
 
- type `python 1_genPassportScore.py list` to get a list of valid countries
+ type `python genPassportScore.py list` to get a list of valid countries
 
- type `python 1_genPassportScore.py show` to open up the created csv file
+ type `python genPassportScore.py show` to open up the created csv file
 
- type `python3 1_genPassportScore.py plot` to plot the top and bottom  countries on a bar graph
+ type `python3 genPassportScore.py plot` to plot the top and bottom  countries on a bar graph
 
  type `log` just after `1_genPassportScore.py` to get all actions performed, output to the terminal  
- eg: `python 1_genPassportScore.py log` or `python 1_genPassportScore.py log China`
+ eg: `python genPassportScore.py log` or `python genPassportScore.py log China`
 
  you can modify the weights in the *a1_weightsTable.py* and the program will use those weights ; else it will use the hardcoded weights
 
