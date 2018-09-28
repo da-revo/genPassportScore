@@ -9,7 +9,7 @@
  If yes, you've come to the right place !  
  If not, you can go suck a fat one. Tschüss. :)  
 
- Try it out here get.passportrank.tk/
+ Try it out here [get.passportrank.tk](http://get.passportrank.tk)
 
 ## How it works
 
