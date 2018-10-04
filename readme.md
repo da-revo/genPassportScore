@@ -48,7 +48,7 @@
 
  *a1_weightsTable.py* is generated after the first run
 
- *Ranks* will be displayed after first execution without arguments
+ *Ranks* will be displayed after first execution without arguments 
 
 ## If something is broken
 
