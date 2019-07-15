@@ -7,7 +7,7 @@
  *Does visa on arrival to China matter more to you than visa free access to Samoa, The Gambia and Liberia?*
 
  If yes, you've come to the right place !  
- If not, you can go right home. Tschüss. :)  
+ If not, you can suck a fat one. Tschüss. :)  
 
  Try it out here [get.passportrank.tk](http://get.passportrank.tk)
 
