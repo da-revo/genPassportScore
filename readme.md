@@ -11,7 +11,7 @@
 
  Try it out here [get.passportrank.tk](http://get.passportrank.tk)
 
- Find Countries listed by their score [here](Passports_Ranked_2018.csv)
+ Find Countries listed by their score [Passports_Ranked_2018.csv](Passports_Ranked_2018.csv)
 
 ## How it works
 
