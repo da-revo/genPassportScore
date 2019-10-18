@@ -9,7 +9,7 @@
  If yes, you've come to the right place !  
  If not, you can suck a fat one. Tschüss. :)  
 
- Try it out here [get.passportrank.tk](http://get.passportrank.tk)
+ Try it out here [https://passport-rank.herokuapp.com/](https://passport-rank.herokuapp.com/)
 
  Countries listed by their score [Passports_Ranked_2018](Passports_Ranked_2018.csv)
 
