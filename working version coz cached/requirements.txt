@@ -21,7 +21,7 @@ pytz==2018.5
 pyxdg==0.25
 SecretStorage==2.3.1
 six==1.11.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 gunicorn==19.9.0
 requests==2.11.1
 requests-toolbelt==0.7.0
