@@ -1,0 +1,1097 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=AF}}</ref>
+| 
+|
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=AL}}</ref>
+|
+| 
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=AD}}</ref>
+| 
+|
+* Although officially no visa is required, at least a Double Entry Schengen visa is required to enter Andorra since it has no own airport facility.
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.smevisa.gov.ao/|title=SME e-Visa|website=www.smevisa.gov.ao}}</ref><ref>{{Timatic|nationality=CN|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=AG}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=AR}}</ref>
+| 
+|
+*Chinese citizens with an American Visa B2 or a Schengen Visa will require an electronic travel authorization (AVE) when traveling to Argentina as tourists for a period of up to 90 days.<ref>{{cite web|url=http://cnyor.mrecic.gov.ar/en/node/1817|title=Tourist Visas  {{!}} Consulado General y Centro de Promoción Comercial en NUEVA YORK|website=cnyor.mrecic.gov.ar|language=en|access-date=2018-01-03}}</ref> 
+*As of 1 October 2017 visas are issued with a 10-year validity period.<ref>{{cite web|url=https://baijiahao.baidu.com/po/feed/share?wfr=spider&for=pc&context=%7B%22sourceFrom%22:%22bjh%22,%22nid%22:%22news_2907122172138672211%22%7D|title=手机百度|website=baijiahao.baidu.com|access-date=2017-06-01}}</ref>
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=http://www.panarmenian.net/eng/news/224771/|title=Chinese citizens can get electronic visas to visit Armenia|publisher=}}</ref><ref>{{Timatic|nationality=CN|destination=AM}}</ref>
+| 120 days
+|
+*Holders of passports for public affairs do not require a visa for up to 30 days.<ref>[http://www.fmprc.gov.cn/eng/3625/3629/t18321.htm Chinese Passports and Other Travel Documents] \\[[Ministry of Foreign Affairs of the People\s Republic of China]]\\</ref>
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=AU}}</ref>
+| 
+|
+*May apply online (Online Visitor e600 visa and Online e400 work visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection|accessdate=20 February 2017}}</ref> 
+*Effective from 20 June 2016, Chinese biometric passport holders use automated passport control [[SmartGate]] on arrival to Australia.<ref>{{cite web|url=http://news.xinhuanet.com/local/2016-06/29/c_129098973.htm|title=中国游客持电子护照赴澳洲可自助通关-新华网|website=news.xinhuanet.com|access-date=2017-11-18}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=AT}}</ref>
+|
+|
+|-
+| {{flag|Azerbaijan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=AZ}}</ref>
+| 30 days
+|
+*Available at airports<ref name=":0">{{cite web|url=http://news.az/articles/economy/104607|title=News.Az -   Visa centers to open in Azerbaijani airports|website=news.az}}</ref> eVisa is also available.<ref>{{cite web|url=https://evisa.gov.az/en/|title=Home Page -         The Electronic Visa System of Azerbaijan Republic|website=evisa.gov.az}}</ref>
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements">{{cite web|url=http://cs.mfa.gov.cn/wgrlh/bgzl/P020170914372259323101.doc |title=List of Mutual Visa-free Agreements between China and Foreign Countries |format=PDF |date=2017-09-16|accessdate=2017-09-16}}</ref> 
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=BS}}</ref>
+| 3 months<ref>(Bilateral visa waiver agreement became effective on 2014/2/12)</ref>
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=BH}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=BD}}</ref>
+| 30 days. 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=BB}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=BY}}</ref>
+| 30 days
+| 
+*Visa free for 30 days, for a maximum total stay of 90 days within any year period.<ref>{{Cite news|url=http://eng.belta.by/politics/view/belarus-china-visa-free-travel-agreement-enters-into-force-on-10-august-113127-2018/|title=Belarus-China visa-free travel agreement enters into force on 10 August|date=2018-07-05|access-date=2018-07-05|language=en-EN}}</ref><ref>{{cite web|url=http://bbs.qyer.com/thread-2979246-8.html|title=中国和白俄罗斯互免普通护照持有人签证协议将于2018年8月10日生效。 - 签证 - 论坛 - 穷游网|website=bbs.qyer.com|access-date=2018-07-05}}</ref>
+*Holders of passports for public affairs do not require a visa for up to 30 days.<ref>{{cite web|url=http://president.gov.by/ru/news_ru/view/belarus-vvodit-bezvizovyj-rezhim-dlja-grazhdan-knr-po-pasportam-dlja-ofitsialnyx-poezdok-16218/|title=Новости - Официальный интернет-портал Президента Республики Беларусь|website=president.gov.by}}</ref>
+|- 
+| {{flag|Belgium}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BE}}</ref>
+|
+|
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BZ}}</ref>
+| 
+|
+*Visa is not required for cruise passengers.<ref>[http://www.belizeconsulflorida.com/#!obtaining-a-visa/c193o Obtaining a Visa] \\Consulate of Belize in Florida\\</ref>
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+*Visa is not required when traveling on duty for up to 90 days.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=BO}}</ref>
+| 
+|
+*Visa valid for up to 90 days can be issued on arrival with evidence of onward tickets or booked hotel.<ref>{{cite web|url=http://bbs.qyer.com/thread-2849818-1.html|title=卒之，中国护照去玻利维亚可以真正的落地签了 - 签证 - 论坛 - 穷游网|website=bbs.qyer.com|access-date=2017-10-21}}</ref> Bolivian embassy in Beijing also confirmed that Chinese nationals can get visa on arrival at airport or land checkpoint on Dec 27, 2017<ref>{{cite web|url=http://www.embolchina.cn/index.php/English/Index/content/id/324|website=www.embolchina.cn|access-date=2017-12-28|title=Info}}</ref>
+*Holders of passports for public affairs do not require a visa.
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=BA}}</ref>
+| 90 days
+|
+*In any 180-day period.<ref>{{cite web|url=http://www.xinhuanet.com/english/2018-05/05/c_137156745.htm|title=China-BiH visa-free regime to go into effect   - Xinhua - English.news.cn|website=www.xinhuanet.com}}</ref>
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BW}}</ref>
+|
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BR}}</ref>
+| 
+|
+*As of 1 October 2017 visas are issued with a 5-year validity period.<ref>{{cite web|url=http://www.ailvxing.com/info-103-24613-0.html|title=巴西五年多次往返签证即将来袭|last=|first=|date=|website=|access-date=}}</ref>
+|-
+| {{flag|Brunei}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=BN}}</ref>
+| 14 days<ref>{{cite web|title=文莱对中国游客放宽落地签证政策|url=http://cs.mfa.gov.cn/gyls/lsgz/fwxx/t1367167.shtml|publisher=中国领事服务网}}</ref>
+|
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BG}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by a Schengen Area member state.
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BF}}</ref>
+|
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=BI|accessdate=9 October 2015}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=KH}}</ref>
+| 
+|
+*Visas valid for 30 days can be obtained on arrival or online.<ref>{{cite web|url=http://evisa.mfaic.gov.kh|title=Kingdom of Cambodia - Ministry of Foreign Affairs & International Cooperation<!-- Bot generated title -->|publisher=|access-date=2014-07-28|archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/|archive-date=2014-07-28|dead-url=yes|df=}}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CA}}</ref>
+| 
+|
+*No transit visa is required if transiting Toronto Pearson Terminal 1 or Vancouver International Airports to or from the United States on same travel day (no overnight stay) while holding valid US visa and travelling on selected airlines.<ref>[http://www.cic.gc.ca/english/department/ctp/eligibility.asp China Transit Program] \\Government of Canada\\</ref> 
+*Visa is not required for permanent residents of the United States. An [[Electronic Travel Authorization (Canada)|eTA]] is required by permanent residents of USA if travelling by air.
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=CV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CL}}</ref>
+| 
+|
+*National visa may be substituted with a visa issued by Canada or the United States which is valid for a minimum of 6 months from the arrival date.
+|- 
+| {{flag|Colombia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CO}}</ref>
+| 
+|
+*National visa may be substituted with a visa issued by a Schengen Area member state or the United States which is valid for a minimum of 180 days from the arrival date.<ref>{{cite web|url=http://www.cancilleria.gov.co/newsroom/news/ciudadanos-chinos-tengan-visado-schengen-o-estados-unidos-no-deberan-tramitar-visa|title=Ciudadanos chinos que tengan visado Schengen o de los Estados Unidos, no deberán tramitar visa para ingresar a Colombia|date=3 February 2015|publisher=}}</ref>
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=KM}}</ref>
+| 45 days
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CG}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CR}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa for stays up to 30 days.
+*National visa may be substituted with a visa issued by Canada or the United States.
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.snedai.com/en/|title=Energie – SNEDAI GROUPE|website=www.snedai.com}}</ref>
+| 3 months
+|
+* eVisa holders must arrive via [[Port Bouet Airport]]
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=HR}}</ref>
+| 
+|
+*National visa may be substituted with a visa issued by a Schengen Area member state.
+|- 
+| {{flag|Cuba}}
+| {{yes-no|Tourist Card Required}}<ref>{{Timatic|nationality=CN|destination=CU}}</ref>
+| 
+|
+*Tourist Card is valid for a maximum stay of 30 days and is obtained in advance.
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CY}}</ref>
+| 
+|
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CZ}}</ref>
+| 
+|
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=DK}}</ref>
+| 
+|
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=DM}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=DO}}</ref>
+| 
+|
+*Holders of a visa issued by Canada, United States, United Kingdom, Ireland, Bulgaria, Croatia, Cyprus, Romania and any Schengen Area country can obtain a Tourist Card on arrival for a maximum stay of 30 days. United Kingdom residents can obtain a Tourist Card on arrival for a maximum stay of 90 days. 
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=EC}}</ref>
+| 90 days
+|
+* 90 days within any one-year period
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=EG}}</ref>
+| 
+|
+*According to Egyptian diplomatic missions in China, Chinese citizens can apply for a visa on arrival since 19 July 2016 and can stay for up 30 days. However, according to [[IATA]], Chinese citizens are visa exempt for 30 days if they hold a return ticket, a reservation in a 4 or 5 star hotel, and USD 2000.<ref>{{cite web|author1=爱旅行网|title=埃及更新中国公民落地签资料|url=http://www.ailvxing.com/info-103-23197-0.html}}</ref><ref>{{cite web|author1=埃及驻华使馆旅游处|title=利好消息|url=http://weibo.com/1498447820/E0Wvy7YT5|publisher=新浪微博}}</ref><ref>{{cite web|author=中华人民共和国外交部 (Ministry of Foreign Affair of PRC)|title=外交部：免签、落地签国家和地区增至57个|url=http://www.cnta.gov.cn/xxfb/jdxwnew2/201608/t20160819_781143.shtml|publisher=中国国家旅游局 (China Tourism Administration)}}</ref>
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SV}}</ref>
+|
+|
+*National visa may be substituted with a valid visa issued by a Schengen Area member state, Canada or the United States.<ref>{{Cite web|url=https://bbs.qyer.com/thread-3068294-1.html|title=萨尔瓦多开始有条件免签了。 - 萨尔瓦多旅游攻略 - 签证 - 论坛 - 穷游网|website=bbs.qyer.com|access-date=2018-10-24}}</ref>
+|-
+| {{flag|Equatorial Guinea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=ER}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=EE}}</ref>
+| 
+|
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SZ}}</ref>
+|
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=ET}}</ref> 
+| 6 months 
+|
+*eVisa is also available.<ref>{{cite web|url=https://www.evisa.gov.et/|title=Welcome to Ethiopian eVISA - Apply for Ethiopian VISA online|website=www.evisa.gov.et}}</ref>
+*Visa free for holders of passports for public affairs.<ref name="bilateralagreements" />
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=FI}}</ref>
+| 
+|
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=FR}}</ref>
+|
+|
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=GA}}</ref>
+| 
+|
+*Starting from 20 December 2017, 90 days visa on arrival can be obtained at Libreville Airport.<ref>{{cite web|url=http://cs.mfa.gov.cn/gyls/lsgz/fwxx/t1520972.shtml|title=加蓬对中国在内的G20成员国公民实行落地签证政策|website=cs.mfa.gov.cn|access-date=2017-12-23}}</ref>
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>  
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=GM}}</ref>
+| 90 days
+|
+*An entry clearance must be obtained from the Gambian Immigration prior to travel. 
+*Entry clearance is not required if traveling as tourists on a charter flight.<ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+|-
+| {{flag|Georgia}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gov.ge/|title=Georgia e-VISA Portal|website=www.evisa.gov.ge}}</ref>
+| 30 days
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=DE}}</ref>
+| 
+|
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=GR}}</ref>
+| 
+|
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=GD}}</ref>
+| 30 days<ref>{{cite web|title=Grenada signs visa waiver agreement with China|url=http://latino.foxnews.com/latino/politics/2015/02/26/grenada-signs-visa-waiver-agreement-with-china/|website=FOX News Network|accessdate=26 February 2015}}</ref>
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=GT}}</ref>
+|
+|
+*National visa may be substituted with a valid visa issued by a Schengen Area member state, Canada or the United States.<ref>{{cite web|url=https://www.visit-montenegro.com/downloads/REGULATION_ON_THE_VISA_REGIME.pdf/#link|title=REGULATION ON THE VISA REGIME|website=https://www.visit-montenegro.com/|access-date=2017-12-29}}</ref>
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=GN}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=GY}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=HT}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=HN}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by Canada, the United States, or a Schengen Area member state, or a residence permit of the United Kingdom, Japan, Singapore, Australia and New Zealand.
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=HU}}</ref>
+| 
+|
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=IS}}</ref>
+| 
+|
+|-
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=ID}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=IR}}</ref>
+| 3 months<ref>http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/IR/VI/IS/ID40175&user=KLMB2C&subuser=KLMB2C</ref><ref>{{cite web|url=http://news.sina.com.cn/c/nd/2017-09-14/doc-ifykynia6932961.shtml|title=伊朗副总统:中国游客可落地获签3个月旅行签证|website=news.sina.com.cn|access-date=2017-09-30}}</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=IQ}}</ref>
+| 
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=IE}}</ref>
+| 
+|
+*National visa may be substituted with a valid C visa or visas endorsed with BIVS issued by the United Kingdom until October 2021.<ref>{{cite web|url=https://www.dfa.ie/media/embassychina/visas/BIVS-information-note-EN.pdf |title=Visa info |website=www.dfa.ie |format=PDF}}</ref> Entry is permitted only if a first point of entry to the [[Common Travel Area]] was in the UK.<ref>{{cite web|url=http://www.inis.gov.ie/en/INIS/Visa%20Waiver%20Programme%20Information%20Note%20March%202012.pdf/Files/Visa%20Waiver%20Programme%20Information%20Note%20March%202012.pdf|title=The Irish Short-stay Visa Waiver Programme|publisher=}}</ref>
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=IL}}</ref>
+| 
+|
+*As of 2017 visas are issued with a 10-year validity period.<ref>{{cite web|url=http://www.sohu.com/a/73322721_101067|title=手把手教你拿以色列十年签！|website=www.sohu.com|access-date=2017-06-03}}</ref>
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=IT}}</ref>
+| 
+|
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=JM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=JP}}</ref>
+| 
+|
+*Passengers of approved cruise ships do not require a visa from April 2015.<ref>{{cite web|url=http://www.asiacruisenews.com/News/Japan-offers-visa-free-cruises-to-Chinese-tourists-/3w3c682.html|title=Asia Cruiser News - Latest News|website=www.asiacruisenews.com}}</ref><ref>{{cite web|url=http://www.tt.emb-japan.go.jp/new%20visa%20section%204.html|title=Embassy of Japan in Trinidad and Tobago: Cruise Passengers|publisher=}}</ref> 
+*Visa application requirements were simplified for Chinese citizens in May 2017.<ref>{{cite web|url=http://travel.163.com/17/0423/07/CIMJNGSN00067VF3.html|title=5月8日起放宽赴日签证发放条件 你还会去日本吗?_网易旅游|last=网易|website=travel.163.com|access-date=2017-06-03}}</ref>
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=JO}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=KZ}}</ref>
+|
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=immigration.ecitizen.go.ke}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=KI}}</ref>
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=KP}}</ref>
+| 
+|
+*Chinese tourists may visit [[Tongnim County]] without a visa for 2 days.<ref>{{cite web|url=http://www.globaltimes.cn/content/886783.shtml|title=DPRK opens Tongnim-jun to Chinese tourists - Global Times|first=Global|last=Times|website=www.globaltimes.cn}}</ref> They may also visit [[Sinuiju]] for a day trip without a visa.<ref>{{cite web|url=http://www.nknews.org/2015/12/north-korea-opens-new-tourist-zone-at-sinuiju/|title=North Korea opens new tourist zone at Sinuiju - NK News - North Korea News|date=23 December 2015|publisher=}}</ref> 
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=KR}}</ref>
+| 
+|
+*Visa is not required for visits to [[Jeju Island]] for up to 30 days.<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/KR/VI/VS/ID21513&user=KLMB2C&subuser=KLMB2C Timatic]</ref> If travelling by air to [[Jeju Island]] via [[Seoul]], [[Busan]], [[Cheongju]], [[Muan]] and [[Yangyang]], Chinese citizens travelling as part of a tourist group by authorized travel agent may stay in mainland South Korea for up to 15 days.<ref>[https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=KR&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C]</ref>
+*Conditional visa free (15 days) from Dec 1, 2017 to March 31, 2018 if the Chinese nationals had applied tourist visa within five years, or hold public affairs passport. Landing permit for cruise passenger can be issued not only to group tourist but also to individual tourist from Jan 1, 2018<ref>{{cite web|url=http://bbs.qyer.com/thread-2870400-1.html|title=韩国平昌冬奥会对中国公民有条件免签 - 签证 - 论坛 - 穷游网|website=bbs.qyer.com|access-date=2017-12-04}}</ref> 
+*Visa is not required for holders of USA green cards when in transit to/from USA and a third country for a stay of 30 days.
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=KW}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa for up to 30 days.
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CN|destination=KG}}</ref>
+| 
+|
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=LA}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}  
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=LV}}</ref>
+| 
+|
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=LB}}</ref>
+| 1 month 
+|
+*Extendable for 2 additional months.
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://evisalesotho.com|title=visa lesotho tourism documents travel evisalesotho.com|website=Lesotho E-Visa}}</ref><ref>{{Timatic|nationality=CN|destination=LS}}</ref>
+|
+| 
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=LI}}</ref>
+| 
+|
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=LT}}</ref>
+| 
+|
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=LU}}</ref>
+| 
+|
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=MK}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by a Schengen Area member state, the United States, Canada or United Kingdom for stays up to 15 days if the visa is valid for at least 5 days beyond the period of intended stay in Macedonia. Holders of passports for public affairs do not require a visa for up to 90 days.
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=MG}}</ref>
+| 30 days
+|
+*Free of charge.
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=MW|accessdate=5 October 2015}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes2|Online registration or eVisa}}<ref>{{Timatic|nationality=CN|destination=MY}}</ref>
+| 
+|
+*Between 1 March 2016 and 31 December 2017, Chinese citizens do not require a visa for Malaysia for a stay of up to 15 days, however online registration prior to arrival is required.<ref>{{cite web|url=http://www.bangkokpost.com/news/asean/843448/malaysia-gives-chinese-visa-free-entry|title=Malaysia gives Chinese visa-free entry|first=Bangkok Post Public Company|last=Limited|publisher=}}</ref><ref>{{cite web|url=http://english.cctv.com/2016/11/07/VIDEZQDPmZLOKG0HEDi449F6161107.shtml|title=Malaysia hopes to attract more tourists from China - CCTV News - CCTV.com English|first=Zhang|last=Jianfeng|website=english.cctv.com}}</ref>
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=ML}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=MT}}</ref>
+| 
+|
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=MH}}</ref>
+| 
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=MR}}</ref>
+| 
+|
+*Available at [[Nouakchott–Oumtounsy International Airport]]. 
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=MU}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=MX}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by Canada, Japan, United Kingdom, United States, or a Schengen Area member state. Also visa is not required for cruise ship passengers.<ref>[http://consulmex.sre.gob.mx/tucson/index.php/mexican-services Services to Non Mexican] \\Consulado de México en Tucson\\</ref>
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=FM}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Moldova}}
+| {{yes2|e-Visa}}<ref>{{Timatic|nationality=CN|destination=MD}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by a Schengen Area member state for visits up to 90 days. *Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" /> 
+*Chinese citizens can apply for a visa online without a need for an invitation letter.<ref>{{cite web|url=http://www.mfa.gov.md/entry-visas-moldova/foreign-need-visa/#link|title=Ministry of Foreign Affairs and European Integration of the RM|website=www.mfa.gov.md|access-date=2017-10-21}}</ref>
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=MC}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=MN}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=ME}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by a Schengen Area member state, the United Kingdom, Ireland or the United States or permanent residence documents of a Schengen Area member state, the United Kingdom, Ireland or the United States for up to 30 days per stay for tourism and business.<ref>{{cite web|url=https://www.visit-montenegro.com/downloads/REGULATION_ON_THE_VISA_REGIME.pdf/#link|title=REGULATION ON THE VISA REGIME|website=https://www.visit-montenegro.com/|access-date=2017-12-29}}</ref>
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=MA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=MZ}}</ref>
+| 30 days<ref>{{cite web|url=http://www.mozambicanhotels.com/tourist-information/mozambique-tourism-news/mozambique-government-announces-30-day-tourist-visas-now-available-at-borders-for-all-visitors|title=Mozambique Government Announces 30-day Tourist Visas now Available at Borders for all Visitors - Mozambican Hotels|website=www.mozambicanhotels.com}}</ref>
+|
+|-
+| {{flag|Myanmar}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Cite web |url=https://www.myanmarevisa.gov.mm/ |title=Archived copy |access-date=22 October 2013 |archive-url=https://web.archive.org/web/20131019103159/https://www.myanmarevisa.gov.mm/ |archive-date=19 October 2013 |dead-url=yes |df=dmy-all }}</ref><ref>[http://www.myanmarembassy.com/pdf/On%20Arrival%20Visa%20Tourist%20visa%20for%20Chinese.pdf Visa on Arrival applicable for the passport holder of the People’s Republic of China, Hong Kong and Macao SAR]</ref>
+| 28/30 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+*Visa on arrival can be issued at [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airport and is valid for 30 days.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=NA}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes|Free visa on arrival}}<ref>{{Timatic|nationality=CN|destination=NP}}</ref>
+| 
+|
+*Visa is issued free of charge for tourists.<ref>{{cite web|title=Nepal waives visa fees for Chinese tourists|url=http://www.nepalnow.org/news/nepal-waives-visa-fees-for-chinese-tourists/}}</ref>
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=NL}}</ref>
+| 
+|
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=NZ}}</ref>
+| 
+|
+*Visa is not required for Australian permanent residents and holders of Australian resident return visas.<ref>{{cite web|url=http://glossary.immigration.govt.nz/australiancitizensandresidents.htm|title=New Zealand Visas - Immigration New Zealand|website=glossary.immigration.govt.nz}}</ref> 
+*5 Year visa are issued for partial applicant from May 8, 2017<ref>{{cite web|url=http://www.sohu.com/a/130479141_376229|title=重大利好！5月起，新西兰旅游签证可长至5年|website=www.sohu.com|access-date=2017-06-08}}</ref> Chinese biometric passport holders can use automated passport control [[SmartGate]] on arrival to New Zealand.<ref>{{cite web|url=http://news.163.com/17/1118/02/D3G7EN8000014AEE.html|title=新西兰海关正式 向中国护照持有者 开放电子通关系统_网易新闻|last=网易|website=news.163.com|access-date=2017-11-18}}</ref> 
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=NI}}</ref>
+| 
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=CN|destination=WS}}</ref>
+| 30 days
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements, Holder of all other passport type must complete an online appliation through goverment site for pre-approval."/>
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=NO}}</ref>
+| 
+|
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref><ref>{{Cite news|url=http://gulfbusiness.com/oman-adds-china-iran-russia-to-visa-arrival-list/|title=Oman adds China, Iran, Russia to visa on arrival list
+|work=Gulf Business|access-date=2018-05-09|language=en-GB}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PK}}</ref>
+| 
+|
+*Visa valid for 30 days can be issued on arrival when travelling on business under certain conditions.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref>
+*Visa can be issued on arrival when travelling as part of a group through a designated tour operator under certain conditions.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O|title=Group Tourism through Designated Tour Operators|publisher=}}</ref>
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PA}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by Australia, Canada, the United States or the United Kingdom for up to 30 days.
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PG}}</ref>
+|
+|
+*Holders of passports for public affairs can obtain visa on arrival at Port Moresby airport valid for up to 30 days.
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PY}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PE}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by the United States, Canada, Australia, United Kingdom or a Schengen Area member state or permanent residence documents of the United States, Canada, European Union or Australia for up to 180 days per stay for tourism and business.
+|-
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PH}}</ref>
+|
+|
+* National visa may be substituted with a valid visa issued by a Schengen Area member state, Australia, Canada, Japan or the United States.
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PL}}</ref>
+| 
+|
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=PT}}</ref>
+| 
+|
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+*A bilateral visa-free agreement was signed on 9 July 2018 and it is yet to enter into force.<ref>{{cite web|url=https://news.cgtn.com/news/3d3d414f77636a4e78457a6333566d54/share.html|title=China and Qatar sign mutual visa exemption agreement|publisher=}}</ref>
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=RO}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by a Schengen Area member state if the journey is completed before the expiration of the Schengen visa.
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=RU}}</ref>
+| 
+|
+*Visa free for a maximum stay of 15 days for visitors travelling as part of a tour group (5 to 50 persons), accompanied by a representative of a tour operator accredited in both Russia and China.
+{{#section-h::Template:Transcluded sections for the visa articles|Russia. Regional eVisa}}
+* A visa-free travel arrangement is expected to be signed soon, although date unknown.<ref>{{Cite news|url=http://tass.com/economy/1014865|title=Russia, China to sign visa-free travel agreement soon — official|work=TASS|access-date=2018-07-26|language=ru}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{Yes|Visa not required}}<ref>{{cite web|url=https://www.migration.gov.rw|title=HOME|website=www.migration.gov.rw}}</ref>
+| 30 days<ref>{{Cite web|url=https://bbs.qyer.com/thread-3068831-1.html|title=卢旺达对中国普通护照免签了。 - 卢旺达旅游攻略 - 签证 - 论坛 - 穷游网|website=bbs.qyer.com|access-date=2018-10-25}}</ref>
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=KN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=LC}}</ref><ref>{{cite web|url=https://imidaily.com/caribbean/saint-lucia-removes-visa-requirement-for-chinese-keeps-it-for-venezuelans/|title=Saint Lucia Removes Visa Requirement for Chinese, Keeps it for Venezuelans - Investment Migration Insider|date=17 July 2018|publisher=}}</ref>
+|6 weeks 
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=VC}}</ref>
+|
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=CN|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.law-lib.com/law/law_view.asp?id=76302|title=中华人民共和国政府和圣马力诺共和国政府关于互免签证的协定_全文|website=www.law-lib.com}}</ref><ref>{{Timatic|nationality=CN|destination=SM}}</ref>
+| 90 days.<ref>(Bilateral visa waiver agreement became effective on 1985/7/22)</ref>
+|
+* Although officially no visa is required, at least a Single Entry Schengen visa is required to enter San Marino since it does not have an own airport facility and no border controls.
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=ST}}</ref>
+| 15 days.<ref>{{cite web|url=https://macauhub.com.mo/2017/05/11/governo-de-sao-tome-e-principe-concede-visto-de-entrada-aos-cidadaos-da-china/|title=Government of São Tomé and Príncipe grants entry visa to citizens of China|date=11 May 2017|publisher=}}</ref><ref>{{cite web|url=http://www.smf.st/virtualvisa/enault.asp?Language=english|title=Electronic System to Travel Authorization BY SMF SÃO TOMÉ E PRÍNCIPE|website=www.smf.st}}</ref>
+|
+*Holders of a visa issued by the United States and the Schengen Area do not require a visa.
+*Holders of passports for public affairs do not require a visa for 30 days.
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=SN}}</ref>
+| 30 days
+|
+*Holders of passports for public affairs do not require a visa for 30 days.<ref name="bilateralagreements" />
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=RS}}</ref>
+| 30 days<ref>{{cite web|url=http://www.mfa.gov.rs/en/consular-news-from-front-page/115-consular-news/16079-the-agreement-between-the-government-of-the-republic-of-serbia-and-the-government-of-the-peoples-republic-of-china-on-mutual-visa-exemption-for-holders-of-ordinary-passports|title=The Agreement between the Government of the Republic of Serbia and the Government of the People\s Republic of China on mutual visa exemption for  holders of ordinary passports|website=www.mfa.gov.rs}}</ref>
+|
+*Holders of passports for public affairs do not require a visa up to 90 days within a six month period.
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.mfa.gov.sc/static.php?content_id=36&news_id=253|title=Seychelles Signs Historic Visa Waiver with China|website=www.mfa.gov.sc}}</ref>
+| 3 months<ref>(Bilateral visa waiver agreement became effective on 2013/6/6)</ref>
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.mfa.gov.sg/content/mfa/overseasmission/beijing/ch/visa_information/overview.html|title=概述|website=www.mfa.gov.sg}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa for up to 30 days.
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SK}}</ref>
+|
+|
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SI}}</ref>
+| 
+|
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SB}}</ref>
+|
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=UZ|destination=SO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=ZA}}</ref>
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=ES}}</ref>
+| 
+|
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=LK}}</ref>
+| 30 days
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+|{{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=CN|destination=SR}}</ref>
+| 90 days
+|
+*Available at [[Johan Adolf Pengel International Airport]].
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SE}}</ref>
+| 
+|
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=CH}}</ref>
+| 
+|
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=SY}}</ref>
+|
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CN|destination=TJ}}</ref>
+| 45 days.<ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|website=www.evisa.tj}}</ref>
+|
+*Holders of passports for public affairs do not require a visa.
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=TH}}</ref>
+| 15 days
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=TL}}</ref>
+| 30 days
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=TG}}</ref>
+| 7 days
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=TO}}</ref>
+| 30 days<ref>{{cite web|title=China and Tonga Sign Mutual Visa Exemption Agreement|url=http://to.chineseembassy.org/eng/sgxw/t1370903.htm|website=Embassy of the People\s Republic of China in Kingdom of Tonga}}</ref>
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=TT}}</ref>
+| 
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=TN}}</ref>
+| 90 days<ref>{{cite web|title=Tunisia waives visas for Chinese visitors to boost tourism|url=http://english.cri.cn/12394/2017/02/17/3521s952073.htm|website=english.cri.cn|publisher=Xinhua|accessdate=17 February 2017}}</ref>
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CN|destination=TR}}</ref>
+| 30 days.<ref>{{cite web|url=https://www.evisa.gov.tr/zh/prerequisites/ |title=Country/Region |publisher=e-Visa |date=1980-01-01 |accessdate=2018-07-26}}</ref>
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=TM}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=TV}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=UG}}</ref>
+| 
+|
+*May apply online.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=visas.immigration.go.ug}}</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CN|destination=UA}}</ref>
+| 15 days
+|
+*Visa valid for business or tourism purposes is available on arrival at [[Boryspil International Airport|Kyiv Boryspil]], [[Kyiv International Airport (Zhuliany)|Kyiv Zhuliany]] and [[Odessa International Airport|Odessa]] airports.<ref>{{cite web|url=http://mfa.gov.ua/ua/consular-affairs/entering-ukraine/visa-boryspil |title=Оформлення віз для в’їзду в Україну в міжнародних аеропортах "Бориспіль" (KBP), "Жуляни" (IEV), "Одеса" (ODS) - МЗС України |publisher=Mfa.gov.ua |date=2018-02-02 |accessdate=2018-07-26}}</ref>
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=AE}}</ref>
+| 30 days
+|
+|-
+| {{flag|United Kingdom}} and [[Crown dependencies]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=GB}}</ref>
+| 
+|
+*Visa not required if holding a valid Irish visa endorsed with BIVS. Entry permitted only if first point of entry to the [[Common Travel Area]] is in Ireland.<ref>{{cite web|url=http://www.emirates247.com/news/emirates/joint-visit-visa-to-uk-and-ireland-launched-2014-10-26-1.567611|title=Joint visit visa to UK and Ireland launched|first=Majorie van|last=Leijen|date=26 October 2014|publisher=}}</ref>
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=US}}</ref>
+| 
+|
+*Chinese citizens who do receive a visa are normally issued "120-month multiple-entry combination [[B visa|B1/B2]] visas."<ref>[http://shenyang.usembassy-china.org.cn/visa/type2.html What Type of Visa Do I Need?] \\Shenyang Consulate General of the United States\\</ref> 
+*Visa holders must provide updates through the Electronic Visa Update System (EVUS) every two years.<ref>{{cite web|url=https://www.cbp.gov/travel/international-visitors/electronic-visa-update-system-evus/frequently-asked-questions|title=Electronic Visa Update System (EVUS) Frequently Asked Questions - U.S. Customs and Border Protection|website=www.cbp.gov}}</ref>
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=UY}}</ref>
+| 
+|
+*National visa may be substituted with a valid visa issued by the United States, Canada or a European Union member state for stays up to 90 days when arriving via Montevideo airport or Montevideo and Colonia ports.<ref>{{cite web|url=http://bbs.qyer.com/thread-2761041-1.html|title=乌拉圭有条件免签开始执行 - 签证 - 论坛 - 穷游网|website=bbs.qyer.com|access-date=2017-06-02}}</ref><ref>{{cite web|url=http://bbs.qyer.com/thread-2761041-4.html|title=乌拉圭有条件免签开始执行 - 签证 - 论坛 - 穷游网|website=bbs.qyer.com|access-date=2017-08-09}}</ref> 
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CN|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CN|destination=VU}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=VA}}</ref>
+| 
+|
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=VE}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa.<ref name="bilateralagreements" />
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=VN}}</ref>
+| 
+|
+*Holders of passports for public affairs do not require a visa for up to 30 days.
+*Visa collection on arrival can be arranged online through travel agencies and are available at [[Ho Chi Minh City]], [[Hanoi]] and [[Da Nang]] airports.
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CN|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://evisa.zambiaimmigration.gov.zm|title=e-Visa|first=DotGov Solutions|last=Company|website=evisa.zambiaimmigration.gov.zm}}</ref>
+| 
+|
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://www.evisa.gov.zw/|title=eVisa Zimbabwe|website=www.evisa.gov.zw}}</ref>
+| 3 months
+|
+|}'}

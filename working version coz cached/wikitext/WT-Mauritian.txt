@@ -1,0 +1,1028 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=AL|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=DZ|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=AD|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Angola}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=AO|accessdate=3 August 2014}}</ref>
+| 30 days
+| 
+*For a maximum total stay of 90 days within year period.<ref>[https://mobile.twitter.com/_Muskana/status/964815820898611200]</ref><ref>[http://angola.topnews.cloud/five-more-visa-free-countries-for-angola-and-35-with-simplified-process/amp/?__twitter_impression=true]</ref>
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=AG|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=AR|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Armenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=AM|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Australia}} and territories
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=AU|accessdate=3 August 2014}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=AT|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MU|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=BS|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=BH|accessdate=3 August 2014}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=BD|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=BB|accessdate=3 August 2014}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=BY|accessdate=3 August 2014}}</ref>
+|
+| 
+*Visas are issued on arrival at the [[Minsk International Airport]]<br>if the support documents were submitted not later than 3 business days before expected date of arrival.<ref>http://www.mfa.gov.by/en/visa/airport/</ref> 
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BE|destination=AT|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>http://www.mfa.gov.bz/images/documents/Visa%20Requirements%20for%20Belize%20December%202013%20-Web%20version.pdf</ref>
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=BJ|accessdate=3 August 2014}}</ref>
+| 90 days<ref>[http://www.rfi.fr/afrique/20170215-benin-ressortissants-40-pays-africains-bientot-exemptes-visas]</ref><ref>[http://www.africanews.com/2017/02/15/benin-abolishes-short-stay-visa-for-nationals-of-31-african-countries/]</ref>
+|
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=BT|accessdate=3 August 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=BO|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=BA|accessdate=3 August 2014}}</ref>
+| 90 days
+| 
+*90 days within any 6 month period
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=BW|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=BR|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=BN|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=BG|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=BF|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=BI|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=KH|accessdate=3 August 2014}}</ref> 
+| 30 days 
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-23 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=CM|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=CA|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=CV|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=CF|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=TD|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=CL|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=CN|accessdate=3 August 2014}}</ref>
+| 60 days<ref>[http://www.ambchine.mu/eng/ywzn/lsyw/t1466955.htm]</ref>
+|
+|- 
+| {{flag|Colombia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=CO|accessdate=3 August 2014}}</ref>
+|
+| 
+*May apply online.<ref>{{cite web|title=Visa Online Request|url=http://www.cancilleria.gov.co/en/procedures_services/visas/visa-online-request|publisher=Ministry of Foreign Affairs of Colombia}}</ref>
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=KM|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=CG|accessdate=3 January 2016}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=CD|accessdate=3 August 2014}}</ref>
+| 7 days
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=CR|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=CI|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=HR|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist card required}}<ref>{{Timatic|nationality=MU|destination=CU|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=CY|accessdate=3 August 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=CZ|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=DK|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=DM|accessdate=3 August 2014}}</ref>
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=DO|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=EC|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=EG|accessdate=3 August 2014}}</ref>
+|
+|
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SV|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=GQ|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=ER|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=EE|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=SZ|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arriva}}<ref>{{Timatic|nationality=MU|destination=ET}}</ref><ref>[https://www.evisa.gov.et Ethiopia electronic visa]</ref>
+| up to 90 days / 3 months
+|
+*Visa on arrival available at [[Addis Ababa International Airport]].
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=FJ|accessdate=3 August 2014}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=FI|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=FR|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Gabon}}
+| {{yes|Visa not required}}<ref>[http://africamoney.info/mauritians-to-enjoy-visa-free-entry-into-gabon/  Mauritians to enjoy visa-free entry into Gabon]</ref><ref>[https://evisa.dgdi.ga/#/exemptions Countries exempted from visas]</ref><ref>{{Timatic|nationality=MU|destination=GA|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Gambia}}
+|  {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=GM|accessdate=3 August 2014}}</ref>
+| 90 days
+| 
+*Must obtain an entry clearance from the Gambian Immigration prior to travel. <ref>Entry clearance is not required if traveling as tourists on a charter flight.</ref>
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=GE|accessdate=3 August 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=DE|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Ghana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=GH|accessdate=3 August 2014}}</ref>
+| 2 months
+|
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=GR|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=GD|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=GT|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=GN|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=GW|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=GY|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=HT|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=HN|accessdate=3 August 2014}}</ref>
+|
+|
+|- 
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=HU|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=IS|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>http://setkab.go.id/tidak-untuk-jurnalistik-wisatawan-dari-169-negara-ini-bebas-visa-kunjungan-ke-indonesia/</ref><ref>{{Timatic|nationality=MU|destination=ID|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=IR|accessdate=3 August 2014}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=IQ|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=IE|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=IL|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=IT|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=JM|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=JP|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=JO|accessdate=3 August 2014}}</ref>
+|
+| 
+*Conditions apply<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[IATA]]|accessdate=3 August 2014}}</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=KZ|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Kenya}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=KE|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=KI|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=KP|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Cite web |url=http://www.mofa.go.kr/ENG/visa/application/index.jsp?menu=m_40_10 |title=Archived copy |access-date=2014-08-01 |archive-url=https://archive.is/20130703015928/http://www.mofa.go.kr/ENG/visa/application/index.jsp?menu=m_40_10 |archive-date=2013-07-03 |dead-url=yes |df= }}</ref>
+| 30 days
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=KW|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MU|destination=KG|accessdate=3 August 2014}}</ref>
+|
+| 
+*eVisa holders must arrive via [[Manas International Airport]].
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=LA|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=LV|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=LB|accessdate=3 August 2014}}</ref>
+|
+| 
+*In addition to a visa, an approval should be obtained from the Immigration department of the [[General Directorate of General Security]] (La Surete Generale).
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=LS|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=LR|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=LY|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=LI|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=LT|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=LU|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=MK|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=MG|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=MW|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=MY|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=MV|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=ML|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=MT|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=MH|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=MR|accessdate=3 August 2014}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=MX|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=FM|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>[http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link Foreign citizens who don’t need visa for entry on the territory of the Republic of Moldova]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=MC|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=MN|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=ME|accessdate=3 August 2014}}</ref>
+| 90 days<ref>[http://www.mvpei.gov.me/en/sections/consular-affairs/visa-regimes-for-foreign-citizens/mauritius]</ref>
+|
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=MA|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=MZ|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MU|destination=MM|accessdate=3 August 2014}}</ref>
+| 28 days
+|
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism only.
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=NA|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=NR|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=NP|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=NL|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=NZ|accessdate=21 November 2016}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=NI|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=NE|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=NO|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=OM|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=PK|accessdate=3 August 2014}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=PW|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=PA|accessdate=3 August 2014}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=PG|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=PY|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=PE|accessdate=3 August 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>[https://www.dfa.gov.ph/index.php/site-administrator/visa-information Guidelines on the Entry of Temporary Visitors to the Philippines]</ref><ref>{{Timatic|nationality=MU|destination=PH|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=PL|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=PT|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>[https://www.qatarvisaservice.com/]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=MU|destination=QA|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=RO|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=RU|accessdate=3 August 2014}}</ref>
+| 90 days
+| 
+*60 days, 30 days if entering for a second time, for a maximum total stay of 90 days within any 180 day period. 
+|-
+| {{flag|Rwanda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=RW|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=KN|accessdate=3 August 2014}}</ref>
+| 6 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=LC|accessdate=3 August 2014}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=VC|accessdate=3 August 2014}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|Entry Permit on arrival}}<ref>{{Timatic|nationality=MU|destination=WS|accessdate=3 August 2014}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=SM|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MU|destination=ST|accessdate=3 August 2014}}</ref>
+|
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SA|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=SN|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=RS|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa not |Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=MU|destination=SC|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SL|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=SG|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=SK|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=SL|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SB|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=ZA|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SS|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=ES|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=LK|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SD|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SR|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=SE|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=CH|accessdate=3 August 2014}}</ref>
+| 3 months
+| 
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=SY|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MU|destination=TJ}}</ref><ref>https://www.evisa.tj</ref>
+| 45 days
+| 
+|-
+| {{flag|Tanzania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=TZ|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Thailand}} 
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=TH|accessdate=3 August 2014}}</ref>
+| 15 days
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=TL|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=TG|accessdate=3 August 2014}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=TO|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=TT|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=TN|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MU|destination=TR|accessdate=3 August 2014}}</ref>
+| 1 month
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=TM|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=TV|accessdate=3 August 2014}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=UG|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Ukraine}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.mfa.gov.ua/]</ref><ref>{{Timatic|nationality=MU|destination=UA|accessdate=3 August 2014}}</ref>
+|
+| 
+*Visa on arrival for business or tourism purposes is available at [[Boryspil International Airport|Kyiv Boryspil Airport]], [[Kyiv International Airport (Zhuliany)]] and [[Odessa International Airport]].<ref>[http://mfa.gov.ua/ua/consular-affairs/entering-ukraine/visa-boryspil]</ref>
+|-
+| {{flag|United Arab Emirates}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MU|destination=AE|accessdate=3 August 2017}}</ref>
+| 30 days
+| 
+|-
+| {{flag|United Kingdom}} and [[Crown dependencies]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=GB|accessdate=3 August 2014}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=US|accessdate=3 August 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=UY|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=UZ|accessdate=3 August 2014}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=VU|accessdate=3 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=VA|accessdate=3 August 2014}}</ref>
+|
+|
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=VE|accessdate=3 August 2014}}</ref>
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=VN|accessdate=3 August 2014}}</ref>
+|
+| 
+*Prearranged visa obtained online through travel agencies available at [[Hanoi]], [[Ho Chi Minh City]] or [[Da Nang]] airports.<br>[[Phú Quốc]] without a visa for up to 30 days.<ref>http://www.vietseatourist.vn/News/category1/news-57/No-visa-required-for-tourists-to-Phu-Quoc-on-short-stay.html</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MU|destination=YE|accessdate=3 August 2014}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=ZM|accessdate=3 August 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MU|destination=ZW|accessdate=3 August 2014}}</ref>
+| 3 months
+|
+|}'}

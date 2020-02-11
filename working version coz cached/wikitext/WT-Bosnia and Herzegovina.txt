@@ -1,0 +1,1035 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=AL}}</ref>
+| 90 days
+| 
+*[[Bosnia and Herzegovina identity card|ID card]] valid
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=AD}}</ref>
+| 90 days
+|
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=AO}}</ref>
+|
+|
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref>{{Timatic|nationality=BA|destination=AG}}</ref>
+| 
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=AR}}</ref>
+|
+|
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=AM}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{no|Visa required}}<ref>http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications</ref><ref>{{Timatic|nationality=BA|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Online lodgement Arrangements for Subclass 600|url=http://www.immi.gov.au/e_visa/600.htm|publisher=Department of Immigration and Border Protection|accessdate=August 2014}}</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=AT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric">Holders of biometric passports only.</ref>
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BA|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=BS}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=BH}}</ref>
+| 
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=BD}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=BB}}</ref>
+|
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=BY}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=BE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=BZ}}</ref>
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=BO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=BW}}</ref>
+| 
+|
+|-
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=BA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=BN}}</ref>
+| 
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=BG}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref group="Note" name="biometric"/>
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=BF}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.ambassade-du-burundi.fr/demande-de-visa/ |title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT  GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS  NOTE CIRCULAIRE DU  17/02/2015 |access-date=2015-02-26 |archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/ |archive-date=2014-07-22 |dead-url=yes |df= }}</ref><ref>{{Timatic|nationality=BA|destination=BI}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-28 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=CM}}</ref>
+| 
+|
+|- 
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=CA}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=CV}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=CL}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=CN}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>[http://www.xinhuanet.com/english/2018-05/05/c_137156745.htm China-BiH visa-free regime to go into effect]</ref>
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>[http://www.cancilleria.gov.co/sites/default/files/resolucion_1128_de_2018.pdf]</ref>
+| 90 days
+|
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=KM}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=CR}}</ref>
+| 
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=CI}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=HR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref group="Note" name="biometric"/>
+|- 
+| {{flag|Cuba}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=CU}}</ref>
+| 90 days
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=CY}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=CZ}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=DK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=DM}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>[http://www.mirex.gob.do/pdf/extranjeros.pdf Países autorizados a ingresar a RD sin visa ni tarjeta de turista; sólo con tarjeta de turista; con Visa]</ref> 
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=EC}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=EG}}</ref>
+| 
+|
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SV}}</ref>
+|
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=EE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=SZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BA|destination=ET}}</ref>
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=FJ}}</ref>
+| 
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=FI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=FR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/> (in [[Regions of France]])
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=GM}}</ref><ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+|
+| 
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=GE}}</ref>
+| 1 year
+|
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=DE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=GR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref>[https://www.grenadaembassyusa.org/wp-content/uploads/2018/04/Complete-Visa-Requirements-List-Apr-2018.pdf]</ref>
+| 
+|
+*Holders of a pre-clearance letter may collect visa upon arrival.
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=GT}}</ref>
+|
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=GY}}</ref>
+|
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=HT}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=HN}}</ref>
+|
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=HU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|- 
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=IS}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>http://setkab.go.id/tidak-untuk-jurnalistik-wisatawan-dari-169-negara-ini-bebas-visa-kunjungan-ke-indonesia/</ref><ref>{{Timatic|nationality=BA|destination=ID}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=IR}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=IQ}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=IE}}</ref>
+|
+| 
+*Visa is issued free of charge.<ref>[https://www.dfa.ie/travel/visas/visas-for-ireland/#tabs-3 No fee required]</ref> 
+*Visa waiver for [[United Kingdom|UK]] \C\ visa holders until October 2016. Entry permitted only if first point of entry to the [[Common Travel Area]] is in the UK.<ref>[http://www.inis.gov.ie/en/INIS/Visa%20Waiver%20Programme%20Information%20Note%20March%202012.pdf/Files/Visa%20Waiver%20Programme%20Information%20Note%20March%202012.pdf The Irish Short-stay Visa Waiver Programme]</ref>
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=IL}}</ref>
+|
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=IT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Jamaica}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=JM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=JP}}</ref>
+| 
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=JO}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=KZ}}</ref>
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=KI}}</ref>
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=KR}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=KW}}</ref>
+|
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=KG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=LA}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=LV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=LB}}</ref>
+|
+| 
+*In addition to a visa, an approval should be obtained from the Immigration department of the [[General Directorate of General Security]] (La Surete Generale).
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=BA|destination=LS}}</ref>
+|
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=LI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=LT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=LU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=MK}}</ref>
+| 90 days
+| 
+*[[Bosnia and Herzegovina identity card|ID card]] valid
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=MG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=MW|accessdate=5 October 2015}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=MY}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=MT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=MH}}</ref>
+| 
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=MU}}</ref>
+| 60 days
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=MX}}</ref>
+|
+| 
+*Visa not required for holders of valid visa or permanent residence issued by the USA, Canada, Japan, United Kingdom, or Schengen area. 
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=MD}}</ref><ref>{{cite web|title=List of foreigners who don\t need a visa for entry on the territory of the Republic of Moldova|url=http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link|publisher=[[Ministry of Foreign Affairs and European Integration of Moldova]]|accessdate=2 March 2016}}</ref><ref>{{cite web|title=Visas -  Republic of MOLDOVA |url=http://www.mvp.gov.ba/konzularne_informacije/vize/Default.aspx?s1=265&id=5244|publisher=[[Ministry of Foreign Affairs (Bosnia and Herzegovina)]]|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=MC}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=MN}}</ref>
+|
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=ME}}</ref>
+| 90 days
+| 
+*Biometric [[Bosnia and Herzegovina identity card|ID card]] valid for 30 days
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=MA}}</ref>
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=MZ}}</ref>
+| 30 days
+| 
+*Conditions apply<ref>{{cite web|title=Visa Information|url=https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MZ/VI/IS/ID23549&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 March 2014}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BA|destination=MM}}</ref>
+| 28 days
+|
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism only.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=NA}}</ref>
+| 
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=NL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/> ([[European Netherlands]])
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=NZ}}</ref>
+| 
+|
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=NI}}</ref>
+| 
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=NO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=OM}}</ref>
+|
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=PK}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=PA}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=PG}}</ref>
+| 
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=PY}}</ref>
+| 
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=PE}}</ref>
+| 
+|
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=PH}}</ref>
+|
+|
+|- 
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=PL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=PT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>[https://www.qatarvisaservice.com/]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=BA|destination=QA}}</ref>
+|
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=RO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=RU}}</ref>
+| 30 days
+|
+*30 days within any 60 day period
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=RW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=KN}}</ref>
+|
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=LC}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=VC}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=BA|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=SM}}</ref>
+| 90 days
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BA|destination=ST}}</ref>
+|
+| 
+*Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SN}}</ref>
+| 
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=RS}}</ref>
+| 90 days 
+| 
+*Except for [[Kosovo]] where a visa is required<ref>http://www.mfa-ks.net/?page=2,157</ref>
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=BA|destination=SC}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=SG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=SK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=SI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SB}}</ref>
+| 
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=ZA}}</ref>
+| 
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=ES}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SR}}</ref>
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=SE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=CH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=SY}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BA|destination=TJ}}</ref><ref>https://www.evisa.tj</ref>
+| 45 days
+| 
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=TH}}</ref>
+| 
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=TL}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=TO}}</ref>
+| 
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=TT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=TN}}</ref>
+| 4 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=TR}}</ref>
+| 90 days<ref>[http://www.aktifmedya.com/2016/03/guncel/bosnalilara_vizesiz_kalis_suresi_90_gune_cikarildi-19964.html Bosnalılara Vizesiz Kalış Süresi 90 Güne Çıkarıldı]</ref>
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=TV}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=UG}}</ref>
+|
+| 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=UA}}</ref>
+| 30 days
+|
+*30 days within any 60 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=AE}}</ref>
+| 
+|
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=GB}}</ref>
+|
+|
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=US}}</ref>
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=UY}}</ref>
+|
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BA|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=VU}}</ref>
+|
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BA|destination=VA}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=VE}}</ref>
+|
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=VN}}</ref>
+|
+| 
+*Prearranged visa obtained online through travel agencies available at [[Hanoi]], [[Ho Chi Minh City]], [[Phú Quốc]]<ref>{{cite web|title=Visa Information|url=http://www.phuquocislandguide.com/|accessdate=1 April 2015}}</ref> or [[Da Nang]] airports.
+*[[Phú Quốc]] without a visa for up to 30 days.<ref>[http://www.vietseatourist.vn/News/category1/news-57/No-visa-required-for-tourists-to-Phu-Quoc-on-short-stay.html]</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BA|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=ZM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BA|destination=ZW|accessdate=12 February 2016}}</ref>
+| 3 months
+|
+|}'}

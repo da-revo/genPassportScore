@@ -1,0 +1,1073 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=AL}}</ref>
+| 90 days
+| 
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=AD}}</ref>
+|
+| 
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.smevisa.com/touristvisa/|title=SME E-VISA|publisher=}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=RO|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=AG}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=AR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=AM}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=RO|destination=AU}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted. 
+*Romanian Government officially considers that Australia maintains a visa regime towards its citizens, as most eVisitor are for Romanians granted only manually after delays, and around 25% denied.<ref>{{cite web|url=http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2014.111.01.0001.01.ENG|title=Information from the Commission about notifications by the Member States of cases of non-reciprocity in accordance with Article 1(4)(a) of Council Regulation (EC) No 539/2001 as amended by Regulation (EU) No 1289/2013 of the European Parliament and of the Council|date=12 April 2014|accessdate=14 April 2014|publisher=[[European Commission]]}}</ref> This claim was dismissed by the [[European Commission]].<ref>{{cite web|url=http://ec.europa.eu/dgs/home-affairs/e-library/documents/policies/borders-and-visas/visa-policy/docs/visa_policy_report_on_situation_of_non-reciprocity_en.pdf|title=Report from the Commission of 22.4.2015 assessing the situation of non-reciprocity with certain third countries in the area of visa policy |date=22 April 2015|accessdate=2 May 2015|publisher=[[European Commission]]}}</ref>
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=AT}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=RO|destination=AZ}}</ref>
+| 30 days<ref>{{cite web|url=https://evisa.gov.az/en/|title=500 - Internal Server Error|website=evisa.gov.az}}</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BS}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=BH}}</ref>
+| 14 days
+| 
+*Visa is also obtainable online.<ref name="evisa.gov.bh">{{cite web|url=http://www.evisa.gov.bh/VisaBhrnats.html|title=Bahrain Electronic Visa Service|website=www.evisa.gov.bh}}</ref>
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=BD}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BB}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BY}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=BE}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BZ}}</ref>
+| 1 month
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=BO}}</ref>
+|
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BA}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BW}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=BN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=BG}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=BF}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.ambassade-du-burundi.fr/demande-de-visa/|title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT  GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS  NOTE CIRCULAIRE DU 17/02/2015|publisher=|access-date=26 February 2015|archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/|archive-date=22 July 2014|dead-url=yes|df=dmy-all}}</ref><ref>{{Timatic|nationality=RO|destination=BI}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{cite web|url=https://www.evisa.gov.kh/FAQ.aspx|title=Page Not Found|website=www.evisa.gov.kh}}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=CA}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>{{cite web|url=https://www.canada.ca/eTA|title=Electronic Travel Authorization (eTA) - Canada.ca|website=www.canada.ca}}</ref><ref>{{cite web|url=https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt|title=Entry requirements by country/territory - Canada.ca|first=Immigration, Refugees and Citizenship|last=Canada|website=www.canada.ca}}</ref> 
+*Electronic passport required for visa-free travel.<ref>https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/romania-valid-electronic-passport.html</ref>
+*Non-electronic passports only eligible for visa-free travel with an expired Canadian visitor visa or a valid United States non-immigrant visa, with an eTA issued before December 1, 2017.<ref>https://www.canada.ca/en/immigration-refugees-citizenship/news/2018/06/how-the-government-of-canadas-new-entry-rules-affect-romanians.html</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=CV}}</ref>
+| 
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=CL}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=CN}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+*Visa not required for holders of normal Romanian passports endorsed "for public affairs".
+|-
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=KM}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=CR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.snedai.com/en/|title=Energie – SNEDAI GROUPE|website=www.snedai.com}}</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=HR}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=RO|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=CY}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=CZ}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=DK}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]] (DK)
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=DM}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=DO}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=EC}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=EG}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=SV}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=EE}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=SZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=RO|destination=ET}}</ref>
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=FI}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|France}} 
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=FR}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]] (in [[Regions of France]])
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=GM}}</ref>
+|90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=GE}}</ref>
+| 1 year
+| 
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=DE}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=GR}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=GD}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=GT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=GY}}</ref>
+| 
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=HT}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=HN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=HU}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=IS}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=ID}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=IR}}</ref>
+| 30 days<ref name="tehrantimes.com">{{cite web|url=http://www.tehrantimes.com/index_View.asp?code=248428|title=Iran extends airport visa validity to 30 days|date=3 August 2015|publisher=}}</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=IQ}}</ref>
+| 
+|
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=IE}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=IL}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=IT}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Jamaica}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=JM}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=JP}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=RO|destination=JO}}</ref>
+|
+| 
+*Conditions apply<ref>[https://archive.is/20140314003607/http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C] </ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=KZ}}</ref>
+| 30 days<ref>{{Cite web |url=http://www.mfa.kz/index.php/en/infographics-eng/7979-45-countries-with-30-days-visa-free-regime |title=Archived copy |access-date=3 March 2017 |archive-url=https://web.archive.org/web/20161230091650/http://www.mfa.kz/index.php/en/infographics-eng/7979-45-countries-with-30-days-visa-free-regime |archive-date=30 December 2016 |dead-url=yes |df=dmy-all }}</ref>
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=immigration.ecitizen.go.ke}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=KI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=KR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://evisa.moi.gov.kw/evisa/home_e.do|title=You are being redirected...|website=evisa.moi.gov.kw}}</ref>
+| 3 months
+| 
+*Visa is also obtainable online (eVisa).
+|-
+| {{flag|Kyrgyzstan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=KG}}</ref>
+| 1 month
+| 
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+*Visa on arrival available at [[Manas International Airport]].
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=LA}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=LV}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=LB}}</ref>
+| 1 month
+| 
+*Extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://evisalesotho.com|title=visa lesotho tourism documents travel evisalesotho.com|website=Lesotho E-Visa}}</ref><ref>{{Timatic|nationality=RO|destination=LS}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=LI}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=LT}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=LU}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MK}}</ref>
+| 90 days
+| 
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Madagascar}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=RO|destination=MG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=MW}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MY}}</ref>
+| 90 days<ref>{{cite web|url=http://www.kln.gov.my/c/document_library/get_file?p_l_id=225808&folderId=231025&name=DLFE-1922.pdf |title=Microsoft Word - Visa Requirement for Malaysian.doc |format=PDF |date= |accessdate=2018-04-11}}</ref>
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=MT}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MU}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MX}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=FM}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MD}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+*[[Romanian identity card|ID card]] valid<ref>{{cite web|url=https://www.dropbox.com/s/yd4eyv04atdupb4/an.1_765.pdf?dl=0|title=Dropbox - Error|website=Dropbox}}</ref><ref>{{cite web|url=http://www.novinite.com/view_news.php?id=108362|title=Bulgaria to Start Issuing Biometric IDs in March 2010 - Novinite.com - Sofia News Agency|publisher=}}</ref>
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MC}}</ref>
+|
+| 
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=MN}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=ME}}</ref>
+| 90 days
+| 
+*[[Romanian identity card|ID card]] valid for 30 days
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=MA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=MZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.moip.gov.mm/|title=Myanmar eVisa|website=evisa.moip.gov.mm}}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=NA}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=NL}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]] ([[European Netherlands]])
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=NZ}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=NO}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=PK}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. 
+**Conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref>
+|-
+| {{flag|Palau}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=PW}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=PA}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{cite web|url=http://www.immigration.gov.pg/images/documents/Publication-Revised%20MSF2.pdf|title=REVISED MIGRATION SERVICE FEES (MSF)|publisher=}}</ref><ref>{{Timatic|nationality=RO|destination=PG}}</ref>
+| 60 days
+| 
+*Free of charge.
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=PY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=PE}}</ref>
+| 90 days
+|
+*90 days within any 6-month period<ref name="rree.gob.pe">{{cite web|url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf|title=REQUERIMIENTOS DE VISAS PARA CIUDADANOS EXTRANJEROS|publisher=|access-date=29 January 2016|archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf|archive-date=4 February 2016|dead-url=yes|df=dmy-all}}</ref>
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=PH}}</ref>
+| 30 days
+|
+|-
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=PL}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=PT}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 90 days
+|
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=RU}}</ref>
+|
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=http://www.migration.gov.rw |title=HOME |publisher=Migration.gov.rw |date= |accessdate=2018-04-11}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=KN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=LC}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=VC}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=WS}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=SM}}</ref>
+|
+| 
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=RS}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref name="eur-lex.europa.eu">{{cite web|title=Agreement between the European Community and the Republic of Seychelles on the short-stay visa waiver|url=http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22009A0630%2805%29&qid=1451172310633&from=EN|website=EUR-Lex|publisher=[[Official Journal of the European Union]]|accessdate=27 December 2015|date=30 June 2009}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=SG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=SK}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=SI}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Solomon Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=SB}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=ZA}}</ref>
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=ES}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=SR}}</ref>
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=SE}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=CH}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]]
+*[[Romanian identity card|ID card]] valid
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=SY}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=TJ}}</ref>
+| 45 days
+| 
+*At [[Dushanbe International Airport]]. 
+*Visa also available online. 
+*E-visa holders can enter through all border points.<ref>{{cite web|url=https://www.evisa.tj |title=Tajikistan e-Visa |publisher=Evisa.tj |date= |accessdate=2018-04-11}}</ref>
+|-
+| {{flag|Tanzania}}
+| {{yes|Visa not required}}<ref>{{Cite web |url=http://immigration.go.tz/module1.php?id=31 |title=Archived copy |access-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304090034/http://immigration.go.tz/module1.php?id=31 |archive-date=4 March 2016 |dead-url=yes |df=dmy-all }}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=TH}}</ref>
+| 15 days
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=TL|accessdate=27 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Togo}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=TG}}</ref>
+|
+|
+*Information from the Togo Embassy in the United Kingdom that is not found in the IATA database which states that visa is obtainable on arrival.<ref>[http://togoembassylondon.com/faq-togo-visa-passport-consulate/  Frequently Asked Questions: Togo Visa, Passport & Consular documents]</ref>
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015057|title=Agreement - Consilium|website=www.consilium.europa.eu}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=TT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=TN}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=TR}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=TV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RO|destination=UG}}</ref>
+|
+| 
+*May apply online.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=visas.immigration.go.ug}}</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=AE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>{{cite web|url=http://www.consilium.europa.eu/en/press/press-releases/2015/05/06-eu-signs-visa-waiver-agreement-united-arab-emirates/|title=EU signs visa waiver agreement with the United Arab Emirates - Consilium|website=www.consilium.europa.eu}}</ref><ref>{{cite web|url=http://data.consilium.europa.eu/doc/document/ST-7103-2015-INIT/en/pdf|title=Agreement between the European Union and the United Arab Emirates on the short-stay visa waiver|publisher=}}</ref>
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=RO|destination=GB}}</ref>
+| colspan=2 |
+*[[Directive 2004/38/EC on the right to move and reside freely|Freedom of movement]] (in Constituent countries)
+*[[Romanian identity card|ID card]] valid 
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=US}}</ref>
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=UY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=RO|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=VU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=VA}}</ref>
+|
+| 
+*[[Romanian identity card|ID card]] valid
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=VE}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=RO|destination=VN}}</ref>
+| 30 days<ref>{{cite web|url=https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt|title=E-visa|publisher=}}</ref>
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RO|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RO|destination=ZM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes-no|Visa on arrival}}<ref>{{cite web|url=https://www.evisa.gov.zw/|title=eVisa Zimbabwe|website=www.evisa.gov.zw}}</ref>
+| 3 months
+| 
+*30 days for visits on business, 3 months for tourists
+|}'}

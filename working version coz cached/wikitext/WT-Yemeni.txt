@@ -1,0 +1,985 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AL}}</ref>
+| 
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AD}}</ref>
+| 
+|
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AO}}</ref>
+|
+|
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref>{{Timatic|nationality=YE|destination=AG}}</ref>
+|
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AR}}</ref>
+|
+|
+|-
+| {{flag|Armenia}}
+| {{no|Visa required}}<ref>[http://www.mfa.am/u_files/file/consulate/Visa/invitation_only_eng.pdf]</ref>
+|
+|
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AT}}</ref>
+|
+|
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AZ}}</ref>
+| 
+|
+|-
+| {{flag|Bahamas}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BS}}</ref>
+| 
+|
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BH}}</ref>
+| 
+|
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}} <ref>{{Timatic|nationality=YE|destination=BD}}</ref>
+|
+|
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BB}}</ref>
+| 
+|
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BY}}</ref>
+| 
+|
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BE}}</ref>
+|
+|
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BZ}}</ref>
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BO}}</ref>
+| 
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BA}}</ref>
+| 
+|
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BW}}</ref>
+|
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BR}}</ref>
+|
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BN}}</ref>
+|
+|
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BG}}</ref>
+|  
+|
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BF}}</ref>
+|
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=BI}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=KH}}</ref>
+| 30 days
+|
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CA}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=CV}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CL}}</ref>
+| 
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CN}}</ref>
+| 
+|
+|- 
+| {{flag|Colombia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CO}}</ref>
+|
+|
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=KM}}</ref>
+| 45 days
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CR}}</ref>
+| 
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=CI}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=HR}}</ref>
+|  
+|
+|- 
+| {{flag|Cuba}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CY}}</ref>
+|  
+|
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CZ}}</ref>
+|  
+|
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=DK}}</ref>
+| 
+|
+|-
+| {{flag|Djibouti}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=DJ}}</ref>
+|
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=YE|destination=DM}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=DO}}</ref>
+| 
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=YE|destination=EC}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=EG}}</ref>
+|
+|
+* Visa not required for those aged 45 or older or 18 or younger.
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SV}}</ref>
+| 
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=EE}}</ref>
+|  
+|
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SZ}}</ref>
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=ET}}</ref> 
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=FJ}}</ref>
+|
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=FI}}</ref>
+|  
+|
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=FR}}</ref>
+|
+|
+|-
+| {{flag|Gabon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GA}}</ref>
+| 
+|
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GM}}</ref>
+|
+|
+|-
+| {{flag|Georgia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GE}}</ref>
+| 
+|
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=DE}}</ref>
+|  
+|
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GR}}</ref>
+|  
+|
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GD}}</ref>
+|
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GT}}</ref>
+|
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GY}}</ref>
+| 
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=YE|destination=HT}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=HN}}</ref>
+| 
+|
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=HU}}</ref>
+|  
+|
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=IS}}</ref>
+|  
+|
+|- 
+| {{flag|India}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=IN}}</ref>
+|
+|
+|-
+| {{flag|Indonesia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=ID}}</ref>
+| 
+|
+|- 
+| {{flag|Iran}}
+| {{BLACK|style=color:white;|Admission refused}}<ref>{{Timatic|nationality=YE|destination=IR}}</ref>
+|
+| 
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=IQ}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=IE}}</ref>
+|  
+|
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=IL}}</ref>
+|
+| 
+*Confirmation from Israeli government is required before a visa is issued.<ref>[http://mfa.gov.il/MFA/ConsularServices/Documents/VisaRequirements-Tourists.pdf]</ref>
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=IT}}</ref>
+|  
+|
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=JM}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=JP}}</ref>
+|
+|
+|-
+| {{flag|Jordan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=JO}}</ref>
+|
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=KZ}}</ref>
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{no|Visa required}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 
+|
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=KI}}</ref>
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=KR}}</ref>
+|
+|
+* Visa free for 30 days if arriving and departing from [[Jeju Island]].
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=KW}}</ref>
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=KG}}</ref>
+| 
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=LA}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=LV}}</ref>
+|  
+|
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=LB}}</ref>
+| 
+|
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=YE|destination=LS}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{BLACK|style=color:white;|Admission refused}}<ref>{{Timatic|nationality=YE|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=LI}}</ref>
+|  
+|
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=LT}}</ref>
+|  
+|
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=LU}}</ref>
+| 
+|
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MK}}</ref>
+| 
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=MG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MW}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=YE|destination=MY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MT}}</ref>
+| 
+|
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MH}}</ref>
+|
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=MR}}</ref>
+|
+|
+* Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MU}}</ref>
+|
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MX}}</ref>
+|
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=YE|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MD}}</ref>
+|
+|
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MC}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MN}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=ME}}</ref>
+|
+|
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MA}}</ref>
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=MZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=MM}}</ref>
+|
+|
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NA}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NL}}</ref>
+| 
+|
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NZ}}</ref>
+|
+|
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NI}}</ref>
+| 
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=NO}}</ref>
+| 
+|
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=OM}}</ref>
+|
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PK}}</ref>
+|
+|
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PA}}</ref>
+|
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PG}}</ref>
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PY}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PE}}</ref>
+|
+|
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PH}}</ref>
+| 
+|
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PL}}</ref>
+| 
+|
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=PT}}</ref>
+| 
+|
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=QA}}</ref>
+|
+|
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=RO}}</ref>
+| 
+|
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=RU}}</ref>
+| 
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=RW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=KN}}</ref>
+| 
+|
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=LC}}</ref>
+| 
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=YE|destination=VC}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes|{{sort|Visa not |Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=YE|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SM}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=ST}}</ref><ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+| 
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SN}}</ref>
+| 
+|
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=RS}}</ref>
+| 
+|
+|-
+| {{flag|Seychelles}}
+| {{yes|{{sort|Visa not |Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=YE|destination=SC}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SG}}</ref>
+|
+|
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SK}}</ref>
+|
+|
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SI}}</ref>
+| 
+|
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SB}}</ref>
+|
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=ZA}}</ref>
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=ES}}</ref>
+| 
+|
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=YE|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SR}}</ref>
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SE}}</ref>
+| 
+|
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=CH}}</ref>
+| 
+|
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=SY}}</ref>
+|
+| 
+*According to the Law No. 2 of 2014 all visitors require visas prior to arrival.<ref>[http://english.alarabiya.net/en/News/middle-east/2014/03/12/Syria-issues-law-imposing-visas-on-its-visitors-.html Syria issues law imposing visas on its visitors ]</ref><ref>{{cite web |url= http://www.parliament.gov.sy/arabic/index.php?node=201&nid=4233&ref=tree& |title= القانون 2 لعام 2014 دخول وخروج وإقامة الأجانب في سوريا |trans-title= Law 2 of 2014 - Entry, exit and residence of foreigners in Syria |author=<!--Not stated--> |date=12 March 2014 |website= |publisher= [[People\s Council of Syria]] |access-date= 5 November 2017 |quote=}} </ref><ref>{{cite web |url= http://www.alwatan.sy/view.aspx?id=12892 |archive-url= https://archive.is/20140620203952/http://www.alwatan.sy/view.aspx?id=12892 |dead-url= yes |archive-date= 20 June 2014 |title=  قانون يحظر الدخول لسورية أو الخروج منها ...إلا لحامل جواز سفر ساري المفعول أو وثيقة مؤشر عليها بسمة دخول من إحدى البعثات الدبلوماسية السورية  |trans-title=  A law prohibiting entering or leaving Syria ... except for a holder of a valid passport or a document marked by an entry visa from a Syrian diplomatic mission  |author=<!--Not stated--> |date= 12 March 2014 |website= |publisher= [[Al-Watan (Syria)]] |access-date= 5 November 2017 |quote= |language=Arabic}}</ref>
+|-
+| {{flag|Tajikistan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=TJ}}</ref>
+| 45 days 
+|
+|-
+| {{flag|Tanzania}}
+| {{no|Visa required}}<ref>[https://www.immigration.go.tz/index.php/en/services/visa-information Entry Requirements and Visa Information, Immigration Department, Ministry of Home Affairs of Tanzania]</ref><ref>{{Timatic|nationality=YE|destination=TZ}}</ref>
+| 
+|
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=TH}}</ref>
+|
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=TL}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=TO}}</ref>
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=TT}}</ref>
+|
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=TN}}</ref>
+|
+|
+|- 
+| {{flag|Turkey}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=TR}}</ref>
+| 
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=TV}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=YE|destination=UG}}</ref>
+|
+|
+* May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=UA}}</ref>
+| 
+|
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=AE}}</ref>
+| 
+|
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=GB}}</ref>
+| 
+|
+|-
+| {{flag|United States}}
+| {{BLACK|style=color:white;|Admission refused}}<ref>{{Timatic|nationality=YE|destination=US}}</ref>
+|
+| 
+*As of September 2017, entry is suspended for immigrants or nonimmigrants on B1, B2 and B-1/B-2 visas.<ref>[https://www.whitehouse.gov/the-press-office/2017/09/24/enhancing-vetting-capabilities-and-processes-detecting-attempted-entry Presidential Proclamation Enhancing Vetting Capabilities and Processes for Detecting Attempted Entry Into the United States by Terrorists or Other Public-Safety Threats]</ref>
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=UY}}</ref>
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=UZ}}</ref>
+| 
+|
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=VU}}</ref>
+|
+|
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=VA}}</ref>
+| 
+|
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=VE}}</ref>
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=YE|destination=VN}}</ref>
+| 
+|
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=ZM}}</ref>
+|
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=YE|destination=ZW}}</ref>
+| 
+|
+|}'}

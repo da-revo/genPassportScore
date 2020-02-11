@@ -1,0 +1,1064 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=AF}}</ref>
+| 
+|
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=AL}}</ref>
+| 90 days
+| 
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=AD}}</ref>
+|
+| 
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=AT|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=AG}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=AR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=AM}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=AT|destination=AU}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=AT|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BS}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=BH}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=BD}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BB}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BY}}</ref>
+| 30 days
+|
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=BE}}</ref>
+| colspan=2|
+*Freedom of movement; 
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BZ}}</ref>
+| 1 month
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BA}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BW}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=BN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=BG}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=BF}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.ambassade-du-burundi.fr/demande-de-visa/ |title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT  GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS  NOTE CIRCULAIRE DU  17/02/2015 |access-date=2015-02-26 |archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/ |archive-date=2014-07-22 |dead-url=yes |df= }}</ref><ref>{{Timatic|nationality=AT|destination=BI}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-28 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=CA}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref><ref>[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt Entry requirements by country:Visa-exempt]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=CV}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=CL}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=CN}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=KM}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=CR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=CI}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=HR}}</ref>
+| colspan=2|
+* Freedom of movement - Transitional restrictions on the free movement of workers may apply;<ref>[http://europa.eu/youreurope/citizens/work/work-abroad/work-permits/index_en.htm]</ref>
+*[[Austrian identity card|ID card]] valid
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=AT|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=CY}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=CZ}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=DK}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=DM}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=DO}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=EC}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=EG}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=SV}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=EE}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=SZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=ET}}</ref>
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=FI}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|France}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=FR}}</ref>
+| colspan=2|
+*Freedom of movement (in [[Regions of France]])
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=GM}}</ref><ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+| 
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=GE}}</ref>
+| 1 year
+| 
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=DE}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=GR}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=GD}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=GT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=GY}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=HT}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=HN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=HU}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|- 
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=IS}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=ID}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=IR}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref name="timaticweb.com">{{Timatic|nationality=AT|destination=IQ}}</ref>
+| 15 days
+| 
+*Visa on arrival for 15 days at [[Erbil]] and [[Sulaymaniyah]] airports.
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=IE}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=IL}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=IT}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=JM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=JP}}</ref>
+| 90 days
+| 
+*Extendable once.
+|-
+| {{flag|Jordan}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=AT|destination=JO}}</ref>
+|
+| 
+*Conditions apply.<ref>[http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C]</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=KZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=KI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=KR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait eVisa]</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=KG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=LA}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=LV}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=LB}}</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=LS}}</ref>
+| 14 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=LI}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=LT}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=LU}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MK}}</ref>
+| 90 days
+| 
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Madagascar}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=AT|destination=MG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=MW}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MY}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=MT}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MU}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MX}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=FM}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MD}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MC}}</ref>
+|
+| 
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=MN}}</ref>
+|
+| 
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=ME}}</ref>
+| 90 days
+| 
+*[[Austrian identity card|ID card]] valid for 30 days
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=MA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=MZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=https://www.myanmarevisa.gov.mm/ |title=Archived copy |access-date=2013-10-22 |archive-url=https://web.archive.org/web/20131019103159/https://www.myanmarevisa.gov.mm/ |archive-date=2013-10-19 |dead-url=yes |df= }}</ref>
+| 28 days
+|
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism or business purposes.
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=NA}}</ref>
+| 3months
+| 
+*3 months within a calendar year
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=NL}}</ref>
+| colspan=2|
+*Freedom of movement ([[European Netherlands]])
+*[[Austrian identity card|ID card]] valid 
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=NZ}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=NO}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=PK}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref> 
+* Visa on arrival when travelling as part of a group through a designated tour operator.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O Group Tourism through Designated Tour Operators]</ref>
+|-
+| {{flag|Palau}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=PW}}</ref>
+| 90 days
+|
+* 90 days within any 180 day period
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=PA}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=AT|destination=PG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=PY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=PE}}</ref>
+| 90 days
+|
+*90 days within any 6-month period<ref>{{Cite web |url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |title=REQUERIMIENTOS DE VISAS PARA CIUDADANOS EXTRANJEROS |access-date=2016-01-29 |archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |archive-date=2016-02-04 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=PH}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=PL}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=PT}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=QA}}</ref><ref>[https://www.visitqatar.qa/plan/visas-requirements.html]</ref>
+| 90 days 
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=RO}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=RU}}</ref>
+| 
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=RW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=KN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=LC}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=VC}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=WS}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=SM}}</ref>
+|
+| 
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=RS}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Agreement between the European Community and the Republic of Seychelles on the short-stay visa waiver|url=http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22009A0630%2805%29&qid=1451172310633&from=EN|website=EUR-Lex|publisher=[[Official Journal of the European Union]]|accessdate=27 December 2015|date=30 June 2009}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=SG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=SK}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=SI}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Solomon Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=SB}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=SO}}</ref>
+|
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=ZA}}</ref>
+| 90 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=ES}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=AT|destination=SR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=SE}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=CH}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Austrian identity card|ID card]] valid
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=SY}}</ref>
+|
+| 
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.tj/index.evisa.html|title=Tajikistan e-Visa|publisher=Ministry of Foreign Affairs of the Republic of Tajikistan}}</ref>
+| 45 days 
+|
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=TH}}</ref>
+| 30 days
+| 
+*Maximum two visits annually if not arriving by air.
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=TL|accessdate=27 May 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=TO}}</ref><ref>[http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015057 Agreement between the European Union and the Kingdom of Tonga on the short-stay visa waiver]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=TT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=TN}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=AT|destination=TR}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=TV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=UG}}</ref>
+|
+| 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=AE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/06-eu-signs-visa-waiver-agreement-united-arab-emirates/ EU signs visa waiver agreement with the United Arab Emirates]</ref><ref>[http://data.consilium.europa.eu/doc/document/ST-7103-2015-INIT/en/pdf Agreement between the European Union and the United Arab Emirates on the short-stay visa waiver]</ref>
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=AT|destination=GB}}</ref>
+| colspan=2|
+*Freedom of movement (in Constituent countries)
+*[[Austrian identity card|ID card]] valid 
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=AT|destination=US}}</ref>
+| 90 days
+| 
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>[https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,]</ref> Beginning January 21, 2016, travelers who currently have valid Electronic System for Travel Authorizations (ESTAs) and who have previously indicated holding dual nationality with one of the four countries of Iran, Iraq, Sudan and Syria on their ESTA applications will have their current ESTAs revoked and should apply for a Visa.<ref>[http://austria.usembassy.gov/niv_waiver2.html]</ref>
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=UY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=AT|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=VU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=VA}}</ref>
+|
+| 
+*[[Austrian identity card|ID card]] valid
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=AT|destination=VE}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=VN}}</ref>
+| 
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=AT|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=ZM}}</ref>
+| 90 days
+| 
+*Also eligible for a universal visa allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=AT|destination=ZW}}</ref>
+| 3 months
+| 
+*Also eligible for a universal visa allowing access to Zambia.
+|}'}

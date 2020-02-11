@@ -1,0 +1,6 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '=== Europe ===
+From June 11, 2017, Schengen visas for citizens of Ukraine with biometric passports have been canceled.
+
+Five European countries: Albania, Serbia, Montenegro, Bosnia and Herzegovina and Macedonia have a visa-free regime with Ukraine (entry is possible for up to 30 days upon presentation of a passport (to Macedonia and Montenegro - up to 90 days). Other EU countries that are not included The Schengen area is also allowed to enter with biometric passports (Bulgaria, Cyprus, Croatia, Romania).
+
+The United Kingdom and Ireland have a visa agreement, according to which it is possible to enter the territory of the Republic of Ireland from the territory of the United Kingdom with a United Kingdom visa. In addition, the United Kingdom is the only European country and one of the few in the world that issues visas with a very long stay (up to 10 years inclusive with the possibility of obtaining a new visa).<ref>{{Cite news|url=https://www.schengenvisainfo.com/eu-approves-visa-free-travel-ukrainians/|title=EU approves visa-free travel for Ukrainians - Schengen Visa Information|date=2017-05-11|work=Schengen Visa Information|access-date=2018-10-09|language=en-US}}</ref>'}

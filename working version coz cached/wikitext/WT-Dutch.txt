@@ -1,0 +1,1077 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AF&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AL&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=DZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AD&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=NL|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AU&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BS&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 8 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BH&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BD&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BB&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 1 month
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=NL|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BO&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 6 month period
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BW&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=BF&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=NL|destination=BI|accessdate=9 October 2015}}</ref>
+| 
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KH&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=1 August 2014 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=28 July 2014 |dead-url=yes |df=dmy-all }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref><ref>[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt Entry requirements by country:Visa-exempt]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CV&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CF&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TD&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CL&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CO&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 180 days
+|
+* 90 days - extendable up to 180-days stay within a one year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CD&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CI&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=SI&AR=00&PASSTYPES=PASS&DE=HR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Freedom of movement - Transitional restrictions on the free movement of workers may apply<ref>[http://europa.eu/youreurope/citizens/work/work-abroad/work-permits/index_en.htm]</ref>
+*[[Dutch identity card|ID card]] valid 
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CU&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=DK&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement (DK)
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=DM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=DO&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=EC&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=EG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SV&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GQ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ER&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=EE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ET&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=FJ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=FI&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|France}} and territories
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=FR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement (in [[Regions of France]])
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=NL|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 1 year
+|
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=DE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GH&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GD&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GW&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=HT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=HN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=HU&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|- 
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=IS&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ID&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=IR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref name="timaticweb.com">[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=IQ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=IE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=IL&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=IT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=JM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=JP&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Free visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=JO&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Conditions apply<ref>[http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KI&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KP&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait eVisa]</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LV&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|- 
+| {{flag|Lebanon}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LB&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LS&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 14 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LI&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|- 
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LU&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MK&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Madagascar}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=NL|destination=MW}}</ref>
+|
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MV&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ML&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=NL|destination=MH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MU&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MX&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=FM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic Visa Policy|country=MD|accessdate=1 April 2017}}</ref><ref>http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=369509</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MC&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ME&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*[[Dutch identity card|ID card]] valid for 30 days
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=MZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>[http://evisa.moip.gov.mm/ Myanmar eVisa]</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+*3 months within a calendar year
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NP&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|New Zealand}} and territories
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NI&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=NO&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PK&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days.
+** Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+* Visa on arrival when travelling as part of a group through a designated tour operator.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O Group Tourism through Designated Tour Operators]</ref>
+|-
+| {{flag|Palau}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PW&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>[http://www.immigration.gov.pg/images/documents/Publication-Revised%20MSF2.pdf REVISED MIGRATION SERVICE FEES (MSF)]</ref><ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 60 days
+| 
+*Free of charge.
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 6 month period<ref>{{Cite web |url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |title=REQUERIMIENTOS DE VISAS PARA CIUDADANOS EXTRANJEROS |access-date=29 January 2016 |archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |archive-date=4 February 2016 |dead-url=yes |df=dmy-all }}</ref>
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PH&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PL&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=PT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 90 days
+|
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=RO&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=RU&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=RW&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=KN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LC&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=VC&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=WS&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=NL|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=NL|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=RS&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 6 month period
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Agreement between the European Community and the Republic of Seychelles on the short-stay visa waiver|url=http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22009A0630%2805%29&qid=1451172310633&from=EN|website=EUR-Lex|publisher=[[Official Journal of the European Union]]|accessdate=27 December 2015|date=30 June 2009}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SL&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SK&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SI&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Solomon Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=NL|destination=SB}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=NL|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ZA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SS&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ES&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=LK&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SD&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+|{{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*Residents in the Caribbean part of the Kingdom do not require a visa.
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=CH&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=SY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.tj/index.evisa.html|title=Tajikistan e-Visa|publisher=Ministry of Foreign Affairs of the Republic of Tajikistan}}</ref>
+| 45 days
+| 
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TZ&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TH&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+| 
+*Maximum two visits annually if not arriving by air.
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=NL|destination=TL|accessdate=27 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>[http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015057 Agreement between the European Union and the Kingdom of Tonga on the short-stay visa waiver]</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TT&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TR&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+| 
+*[[Dutch identity card|ID card]] valid<ref>{{Cite web |url=http://www.mfa.gov.tr/countries-whose-citizens-are-allowed-to-enter-turkey-with-their-national-id_s.en.mfa |title=Archived copy |access-date=4 May 2016 |archive-url=https://web.archive.org/web/20151008091234/http://www.mfa.gov.tr/countries-whose-citizens-are-allowed-to-enter-turkey-with-their-national-id_s.en.mfa |archive-date=8 October 2015 |dead-url=yes |df=dmy-all }}</ref>
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=TM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=NL|destination=TV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=UG&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+* May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=UA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=AE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/06-eu-signs-visa-waiver-agreement-united-arab-emirates/ EU signs visa waiver agreement with the United Arab Emirates]</ref><ref>[http://data.consilium.europa.eu/doc/document/ST-7103-2015-INIT/en/pdf Agreement between the European Union and the United Arab Emirates on the short-stay visa waiver]</ref>
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=GB&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| colspan=2|
+*Freedom of movement
+*[[Dutch identity card|ID card]] valid
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=US&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+| 
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>[https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,]
+Visa required. Nationals of VWP countries who have travelled to or been present in Iran, Iraq, Sudan, or Syria on or after March 1, 2011 (with limited exceptions for travel for diplomatic or military purposes in the service of a VWP country). United States Begins Implementation of Changes to the Visa Waiver Program[205]
+</ref>
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=UY&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=NL|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=VU&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=VA&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+| 
+*[[Dutch identity card|ID card]] valid
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=VE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=VN&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 30 days
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=YE&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ZM&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 90 days
+|
+* Also eligible for a universal visa allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=NL&AR=00&PASSTYPES=PASS&DE=ZW&user=GF&subuser=GFB2C]{{dead link|date=March 2018}}</ref>
+| 3 months
+| 
+*Also eligible for a universal visa allowing access to Zambia.
+|}'}

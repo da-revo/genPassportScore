@@ -1,0 +1,1411 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+General visa requirements of fully internationally recognized [[List of sovereign states|sovereign countries]] and territories towards citizens of the Republic of [[Lebanon]]:
+
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay\
+! Notes (excluding departure fees) 
+|- 
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AF}}</ref>
+|
+|
+*Visa not required for passengers who were born in [[Afghanistan]]
+*Visa not required for children born to citizens of [[Afghanistan]]
+*Passengers arriving on a military air need to legalize their stay if they wish to leave on a commercial airline
+*Women passengers should cover their body with clothing, except for the face, hands, and feet
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AL}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 90 days within 180 days for passengers of Albanian origin 
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states and the [[United States]] 
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=DZ}}</ref>
+|
+|
+*Passengers must hold proof of sufficient funds to cover their stay and documents required for their next destination
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AD}}</ref>
+|
+| 
+*The Andorran government imposes no visa requirements on passengers and only requires a passport or [[European Union]] [[national identity card]] for entrance.<ref>{{cite web |title=Identity documents |work=Ministry of Foreign Affairs and Institutional Relations - Government of Andorra |url=http://www.mae.ad/angles/htmls/menu/dni.html |accessdate=7 March 2016}}</ref> However, since the country is only accessible via the [[Schengen countries]] [[Spain]] or [[France]], entrance is not possible without entering the [[Schengen area]] first and the [[European Union visa lists|Schengen visa rules]] can therefore be regarded to apply \\de facto\\. Because [[Andorra]] is not part of the Schengen area, a multiple-entry visa is required to re-enter the Schengen area when leaving Andorra
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AO}}</ref>
+|
+| 
+*Visa not required for personnel of oil companies established in [[Angola]], provided they present a photocopy of their passport, 4 photos, and a copy of a visa application which should be submitted by the oil company at least 2 weeks prior to arrival<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/AO/VI/IS/ID165&user=KLMB2C&subuser=KLMB2C] {{dead link|date=July 2018}}</ref>
+*Visa on arrival for holders of a confirmation that a visa has been approved before departure 
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Visa}}<ref>{{Timatic|nationality=LB|destination=AG}}</ref><ref>{{cite web|url=http://www.immigration.gov.ag/|title=Immigration Antigua and Barbuda - Department of Immigration for the Government of Antigua and Barbuda|website=Immigration.gov.ag}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Visa not required for a maximum stay of 30 days for valid visa holders or residents of the [[European Union]] member states and the [[United States]] 
+*Visa waiver fee applies for valid visa holders or residents of the [[United States]]
+*Departure tax applies<ref>{{cite web|url=http://www.antiguanice.com/v2/client.php?id=523|title=Antigua and Barbuda: Useful Information|website=Antiguanice.com}}</ref>
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AR}}</ref>
+|
+| 
+*All visitors are fingerprinted and photographed upon entry<ref name="infosurhoy.com">{{cite web|url=http://infosurhoy.com/en_GB/articles/saii/features/main/2012/09/27/feature-01|title=beArgentina strengthens migratory control|website=Infosurhoy.com|access-date=9 May 2018|archive-url=https://web.archive.org/web/20131202233906/http://infosurhoy.com/en_GB/articles/saii/features/main/2012/09/27/feature-01|archive-date=2 December 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=AM}}</ref>
+| 180 days within 1 year
+|
+*Valid for 180 days within 1 year
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa)<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+*Printed visa authorization must be presented at the time of travel
+*Passengers traveling on domestic sectors of international flights within Australia must hold passports, or passport replacing documents accepted by Australia
+*Valid Australian visas in a full or expired Lebanese passports are accepted if accompanied by a new Lebanese passport. Verification by airlines using Australia\s Advanced Passenger Processing (APP) System will require the details of the travel document that contains the Australian visa
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AT}}</ref>
+|
+| 
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AZ}}</ref>
+|
+| 
+*Visa on arrival for a maximum stay of 30 days for residents of the GCC member states. They must travel with a national of the said GCC country
+*Visa on arrival for holders of an official invitation letter issued by the State Migration Service of [[Azerbaijan]] or other [[Azerbaijan]] government authority
+*Visa on arrival for staff of the Asian Development Bank (ADB) and their dependants, provided they present an official invitation letter issued by the Asian Development Bank (ADB)
+*Visa on arrival  for a maximum stay of 30 days for holders of an official invitation letter issued by the Operating Committee of Baku Chess Olympiad or an accreditation card issued by the International Chess Federation (FIDE)
+*The visa application form may be filled online and submitted to the diplomatic mission<ref>{{cite web|url=http://evisa.mfa.gov.az/|title=eApplication|website=Evisa.mfa.gov.az}}</ref> 
+*Obtainable online through approved travel agencies.<ref>{{cite web|url=http://www.azembassy.org.uk/index.php/tourist-information/41-tourism-visa|title=Embassy of The  Republic of Azerbaijan to the United Kingdoom of  Great Britain and Northern Ireland|website=Azembassy.org.uk}}</ref><ref>{{cite web|url=http://mfa.gov.az/files/file/elektron-viza__shirkatlar.pdf|format=PDF|title=List of visa requirements|website=Mfa.gov.az|accessdate=8 July 2018}}</ref> Printed visa authorization must be presented at the time of travel
+*Applicants of Armenian ancestry or with Armenian visas in their passport may not obtain a visa
+*Registration with the local police upon arrival is mandatory
+|-
+| {{flag|Bahamas}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BS}}</ref>
+|
+| 
+*The visa can be obtained through British diplomatic missions
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BH}}</ref>
+|
+| 
+*Visa on arrival for holders of Diplomatic, Service, and Official passports
+*Multiple-entry Visa on arrival for a maximum stay of 3 months within 6 months for a maximum stay of 2 weeks per visit for residents of the GCC member states<ref>{{cite web|url=https://www.emirates.com/english/?NC=LB&NV=Lebanon&AC=SA&AV=Saudi%20Arabia&DC=BH&DV=Bahrain|title=Emirates|website=Emirates.com}}</ref><ref>{{cite web|url=http://www.bahrain.com/en/vp/visitor-information/Pages/Visa-Inforamtion.aspx#.VcI960ArLIU|title=Visa Information|website=Bahrain.com|access-date=5 August 2015|archive-url=https://web.archive.org/web/20140819135209/http://www.bahrain.com/en/vp/visitor-information/Pages/Visa-Inforamtion.aspx#.VcI960ArLIU#.VcI960ArLIU|archive-date=19 August 2014|dead-url=yes|df=dmy-all}}</ref><ref>{{cite web|url=http://gulfbusiness.com/2015/04/bahrain-begins-issuing-multiple-entry-visas-gcc-residents/#.VcI980ArLIU|title=Bahrain Begins Issuing Multiple Entry Visas For GCC Residents - Gulf Business|date=1 April 2015|website=Gulfbusiness.com}}</ref>
+*Passengers must hold proof of sufficient funds and provide an address or place of stay in Bahrain
+|-
+| {{flag|Bangladesh}}
+| {{No|Visa required}}<ref>{{Timatic|nationality=LB|destination=BD}}</ref>
+|
+| 
+*Visa not required for holders of passports or other travel documents endorsed with a "No Visa Required" stamp 
+*Visa on arrival for passengers of Bangladeshi origin
+*Visa on arrival for spouses and children of passengers of Bangladeshi origin provided they present return/onward tickets for a maximum stay of 30 days
+*Visa on arrival for holders of a confirmation letter issued by the Bangladesh Board of Investment (BOI) containing a BOI registration number and traveling on business provided they present return/onward tickets. The accredited inviting organization must notify the Immigration authorities prior to arrival
+*Extensions of stay is possible for a fee<ref>{{cite web|url=http://visitbangladesh.gov.bd/visa-on-arrival/|title=Visitbangladesh|date=15 November 2014|website=Visitbangladesh.gov.bd}}</ref>
+*Negotiations to abolish visa requirements are currently in progress
+*Departure tax applies<ref>{{cite web|title=Bangladesh Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bangladesh.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=7 March 2016}}</ref>
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref name="ReferenceA">{{Timatic|nationality=LB|destination=BB}}</ref>
+|
+| 
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BY}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 5 days for valid visa holders or residents of the [[European Union]] member states. Must arrive via [[Minsk International Airport]]<ref>{{cite web|url=http://www.pravo.by/main.aspx?guid=3961&p0=P31700008|title=Национальный правовой Интернет-портал Республики Беларусь|website=Pravo.by}}</ref>
+*Visa not required for passengers visiting to [[Belovezhskaya Pushcha National Park]] for up to 3 days<ref>{{cite web|url=http://eng.belta.by/all_news/society/Regulations-on-visiting-Belovezhskaya-Pushcha-by-foreign-tourists-approved-in-Belarus_i_81880.html|title=Regulations on visiting Belovezhskaya Pushcha by foreign tourists approved in Belarus|website=Eng.belta.by|access-date=10 October 2015|archive-url=https://web.archive.org/web/20150629131222/http://eng.belta.by/all_news/society/Regulations-on-visiting-Belovezhskaya-Pushcha-by-foreign-tourists-approved-in-Belarus_i_81880.html#|archive-date=29 June 2015|dead-url=yes|df=dmy-all}}</ref> 
+*Visa on arrival at the [[Minsk International Airport]] if the support documents were submitted not later than 3 (for short-term visas) or 5 working days (for long-term visas) the expected date of arrival<ref>{{cite web|url=http://www.mfa.gov.by/en/visa/airport/|title=Particulars of issuance of entry visas at the «National Airport Minsk» - Ministry of Foreign Affairs of the Republic of Belarus|website=Mfa.gov.by}}</ref> 
+*Visa on arrival at the [[Minsk International Airport]] for holders holders of an invitation letter issued by a Belarusian tourist company or a medical or health organization. The letter must be written on afficial headed paper with the passenger\s name, passport details, purpose, and duration of stay. The letter must also have the original signature and official seal of the head of the inviting organization
+*Passengers are required to have a health insurance which can be purchased on arrival at the [[Minsk International Airport]]
+*Transiting without a visa is not allowed under any circumstance
+*Registration with the local police within 7 days of arrival is mandatory
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BE}}</ref>
+|
+| 
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BZ}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states or the [[United States]]
+*Passengers must hold at least $50 a day and documents required for their next destination
+*Departure tax applies<ref>{{cite web|title=Information for Travelers {{!}} Belmopan, Belize - Embassy of the United States |url=http://belize.usembassy.gov/information_for_travelers.html}}</ref>
+|-
+| {{flag|Benin}} 
+| {{Optional|Electronic Visa / Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj|accessdate=8 July 2018}}</ref>
+| 30 days / 8 days per trip
+| 
+*Valid for 30 or 8 days per trip
+*Visa not required for holders of an "\\autorisation spéciale d\entrée au Bénin\\"  joining mercy ships
+*[[International Certificate of Vaccination]] is required<ref>{{cite web|title=Benin Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/benin.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=7 March 2016}}</ref>
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BT}}</ref>
+|
+| 
+*Visa on arrival for a maximum stay of 15 days for passengers who sent their application by a tour operator to the department of tourism at least two and a half months in advance, provided they present two passport photos<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/BT/VI/IS/ID1440&user=KLMB2C&subuser=KLMB2C] {{dead link|date=July 2018}}</ref>
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=BO}}</ref>
+| 90 days per trip
+| 
+*Valid for 90 days per trip
+*Extensions of stay is possible for a maximum stay of 5 months for a fee<ref>{{cite web|url=https://www.sucrelife.com/extending-your-bolivian-tourist-visa-in-sucre/|title=Extending your Bolivian Tourist Visa in Sucre - Sucre Bolivia|website=Sucrelife.com}}</ref>
+*Departure tax applies<ref>{{cite web|url=https://www.iatatravelcentre.com/BO-Bolivia-customs-currency-airport-tax-regulations-details.htm|title=IATA - Bolivia Customs, Currency & Airport Tax regulations details|website=Iatatravelcentre.com}}</ref>
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BA}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 7 days for valid visa holders or residents of the [[European Union]] member states
+*Registration with the local police within 24 hours of arrival is mandatory
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BW}}</ref>
+|
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BR}}</ref>
+|
+| 
+*Visa is not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports
+*Eligible to apply for three-year visas valid for tourism and business trips and may use them whenever they visit [[Brazil]] within that period<ref>{{cite web|url=http://www2.anba.com.br/noticia/21864263/diplomacy/brazil-to-issue-three-year-visa-to-lebanese-citizens/|title=Brazil to issue three-year visa to Lebanese citizens|website=2.anba.com.br}}</ref> 
+*Visa is not required for a maximum stay of 3 months within 6 months for holders of a VIPER visa issued by [[Brazil]]
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BN}}</ref>
+|
+|
+*Immigration offences, such as visa overstaying, are punishable by jail, fines, and [[caning]]
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref name="ReferenceA"/>
+|
+|  
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BF}}</ref>
+|
+| 
+*Visa on arrival for holders of Diplomatic, Service, and Official passports
+*Visa on arrival for holders of Interpol passports travelling on duty provided they present one passport photo. BCN INTERPOL in Burkina Faso must be informed before arrival
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=BI}}</ref>
+|
+| 
+*Visa on arrival for a maximum stay of 1 month for holders of an "Entry Authorization" letter issued by the authorities of Burundi before departure 
+*All visitors are fingerprinted upon entry
+|-
+| {{flag|Cambodia}}
+| {{Optional|Electronic Visa / Visa on arrival}}<ref>{{cite web|url=https://www.evisa.gov.kh/ |title=eVisa Kingdom of Cambodia (Official Government Website) |publisher=Evisa.gov.kh |date= |accessdate=2018-07-08}}</ref><ref>{{Timatic|nationality=LB|destination=KH}}</ref>
+| 30 days per trip
+|
+*Valid for 30 days per trip
+*Printed visa authorization must be presented at the time of travel
+*Visa not required for passengers who were born in [[Cambodia]]
+*Extensions of stay is possible up to a maximum stay of 12 months for a fee<ref>{{cite web|url=http://www.movetocambodia.com/planning-your-move-to-cambodia/cambodia-visas/|title=All about Cambodia visas and how to get a visa to Cambodia|website=Movetocambodia.com}}</ref> 
+*Passengers not permitted to make day trips that arrive and depart on the same day, except when arriving and departing at Phnom Penh (PNH) airport or hold a multiple-entry business visa
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CM}}</ref>
+|
+| 
+*Visa on arrival to holders of a confirmation that a visa has been approved before departure and issued by "Le Delegue General de la Surete"
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CA}}</ref>
+|
+| 
+*Visa not required for holders of a Green Card issued by the [[United States]] unless deemed inadmissible.<ref name="can-am.gc.ca">{{cite web|url=http://can-am.gc.ca/visas/visit-visite.aspx?lang=eng|title=Visas and Immigration|first=Foreign Affairs Trade and Development Canada|last=Government of Canada|website=Can-am.gc.ca}}</ref> In addition and as of September 30, 2016, an eTA is required for holders of a Green Card issued by the [[United States]]<ref>{{cite web|url=http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1053&top=16|title=I am a lawful permanent resident of the U.S. (Green Card holder). Do I need an eTA?|first=Government of Canada, Immigration, Refugees and Citizenship Canada, Communications|last=Branch|website=Cic.gc.ca}}</ref>
+*Transit Visa is required except for holders of a B or C visa issued by [[Switzerland]] when traveling to the [[United States]] flying with [[Air Canada]]<ref name="can-am.gc.ca"/>
+*Visa not required for holders of a valid student or employment authorization and/or holders of a Parapan Identity and Accreditation Card (PIAC)
+*Obtainable online for visitor, study, work, medical, and permanent residence visas.<ref>{{cite web|url=http://www.cic.gc.ca/english/e-services/mycic.asp|title=Create an account or sign in|first=Government of Canada, Immigration, Refugees and Citizenship Canada, Communications|last=Branch|website=Cic.gc.ca}}</ref> Printed visa authorization must be presented at the time of travel
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=CV}}</ref>
+| 90 days per trip
+| 
+*Valid for 90 days per trip
+*Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]]
+*Visa not required for a maximum stay of 90 days within 180 for holders of Diplomatic, Service, and Official passports
+*Visa not required for former citizens of [[Cape Verde]], alongside their spouse and children
+*[[International Certificate of Vaccination]] is required<ref>{{cite web|title=Cabo Verde Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/cabo-verde.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=7 March 2016}}</ref>
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CF}}</ref>
+|
+| 
+*Passengers over the age of 15 not presenting return or onward tickets must pay a deposit to a bank or the transporting airlines between 15,000 XAF AND 250,000 XAF depending on the country of commencement of the journey
+*[[International Certificate of Vaccination]] is required<ref>{{cite web|title=Central African Republic Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/central-african-republic.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=7 March 2016}}</ref>
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=TD}}</ref>
+|
+| 
+*Visa on arrival for holders of an Entry Authorization Letter issued by Chad before departure
+*[[International Certificate of Vaccination]] is required
+*Registration with the local police within 72 hours of arrival is mandatory
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CL}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CN}}</ref>
+|
+| 
+*Visa is not required for a maximum stay of 6 days for passengers traveling for tourism purposes in a group organized by a Chinese international tour operator or registered travel agency provided they are arriving from Hong Kong or Macao to take a trip to the Zhujiang Delta in Guangdong province or arriving or departing at or to Dongguan (DGM), Guangzhou(CAN), Huizhou (HUZ), Shantou (SWA), Shenzhen (SZX) or Zhuhai (ZUH)
+*Visa on arrival at Beijing (PEK) for a maximum stay of 3 months for holders of a confirmation that a visa has been approved before departure. The airlines must fax all documents to the station managed prior to arrival and the passenger must have a confirmation from the Immigration authorities that the visa will be issued on arrival, two passport photos, a passport that contains at least 1 blank visa page, and an invitation letter issued by the Chinese Authorities or by a sponsor approved by the Chinese authorities who must meat the passenger on arrival
+*Visa on arrival at Chendgu (CTU), Fuzhou (FOC), Shanghai ( (Hongqiao (SHA) Pudong (PVG), or Xiamen (XMN) for a maximum stay of 1 month holders of a confirmation that a visa has been approved before departure provided they present a letter of invitation issued by the immigration authorities that the visa will be issued on arrival, two passport photos, a confirmed return or onward ticket, a passport that contains at least one blank visa page, and a sponsor approved by the Chinese authorities is there to meet the passenger on arrival
+*Registration with the local police within 24 hours of arrival is mandatory
+|- 
+| {{flag|Colombia}}
+| {{yes2|Electronic Visa}}<ref>{{cite web|url=https://tramitesmre.cancilleria.gov.co/tramites/enlinea/solicitarVisa.xhtml |title=Request Visa |publisher=Tramitesmre.cancilleria.gov.co |date= |accessdate=2018-07-08}}</ref><ref>{{Timatic|nationality=LB|destination=CO}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports<ref>[https://www.dailystar.com.lb/News/Lebanon-News/2015/Feb-27/288977-lebanon-colombia-sign-visa-exemption-agreement.ashx]  {{Webarchive|url=https://web.archive.org/web/20150720033032/http://www.dailystar.com.lb/News/Lebanon-News/2015/Feb-27/288977-lebanon-colombia-sign-visa-exemption-agreement.ashx |date=20 July 2015 }}</ref> 
+*Departure tax applies<ref>{{cite web|url=http://discovercolombia.com/colombia-info/entry-exit-requirements/|title=Entry and Exit Requirements for Colombia - Discover Colombia|website=Discovercolombia.com}}</ref>
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=KM}}</ref>
+| 2 weeks per trip
+| 
+*Valid for 2 weeks per trip
+*Extensions of stay is possible for a fee
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CG}}</ref>
+|
+|  
+*Visa not required for holders of a V.I.P invitation letter
+*Passengers must hold an invitation letter or hotel reservation in addition to the visa
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CD}}</ref>
+|
+| 
+*Visa on arrival for a maximum stay of 7 days for holders of a letter ("\\visa volant\\") issued by the Ministry of Interior and Security
+*Passengers not holding visas issued in their country of residence will be refused entry (unless there is no embassy of the Democratic Republic of the Congo in their country of residence)
+*Registration with the local police upon arrival is mandatory
+*Departure tax applies<ref>{{cite web|url=https://www.iatatravelcentre.com/CD-Congo-Kinshasa-customs-currency-airport-tax-regulations-details.htm|title=IATA - Congo (Dem. Rep.) Customs, Currency & Airport Tax regulations details|website=Iatatravelcentre.com}}</ref>
+*[[International Certificate of Vaccination]] is required
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CR}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 30 days for valid visa holders or residents of [[Canada]]
+*Visa not required for a maximum stay of 30 days for valid multiple-entry visa holders or residents of [[Japan]] or the [[United States]] used at least once and valid for at least 6 months beyond the period of intended stay
+*Costa Rican visas should be used within 60 days after the date of issuance  
+*Departure tax applies<ref>{{cite web|url=http://www.liberiacostaricaairport.net/Entry_Exit_Requirements.html|title=Liberia, Costa Rica Airport Exit Tax and Entrance Requirements|website=Liberiacostaricaairport.net}}</ref>
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|Electronic Visa}}<ref>{{Timatic|nationality=LB|destination=CI}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Electronic Visa holders must arrive at [[Port Bouet Airport]]
+*Visa on arrival for holders of an approved pre-enrolment and a registration receipt before departure
+*Visa on arrival for holders of an invitation letter issued by the authorities of Côte d\Ivoire
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=HR}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states
+*Registration with the local police within 24 hours of arrival is mandatory
+|- 
+| {{flag|Cuba}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CU}}</ref>
+|
+|
+*Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports<ref>[http://www.plenglish.com/index.php?o=rn&id=12759&SEO=lebanon-cuba-sign-visa-exemption-agreement]  {{Webarchive|url=https://web.archive.org/web/20170511072800/http://plenglish.com/index.php?o=rn&id=12759&SEO=lebanon-cuba-sign-visa-exemption-agreement |date=11 May 2017 }}</ref>
+*Tourist Cards (Tarjeta del Turista) must be obtained prior to arrival from diplomatic missions of [[Cuba]], authorized airlines, or travel agencies. The card valid for a maximum stay of 30 days
+*Extensions of stay is possible up to a maximum stay of 60 days for a fee<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/CU/VI/AI/ID57506&user=KLMB2C&subuser=KLMB2C] {{dead link|date=July 2018}}</ref><ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/CU/VI/AI/ID57508&user=KLMB2C&subuser=KLMB2C] {{dead link|date=July 2018}}</ref>
+*Passengers who are former nationals of Cuba who left Cuba before 1971 must hold passports endorsed "Habilitado" for HE-11
+*Passengers must cover the length of their stay by $50 per day or equivalent in other convertible currencies in cash or traveler\s cheques unless they have previously contracted touristic activities with MINTUR in Cuba
+*Passengers are required to have a travel insurance to cover their medical expenses while in Cuba and should be purchased before departure 
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CY}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 90 days within 180 days for holders of Diplomatic, Service, and Official passports
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CZ}}</ref>
+|
+| 
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=DK}}</ref>
+|
+| 
+|-
+| {{flag|Djibouti}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=DJ}}</ref>
+| 1 month per trip
+| 
+*Valid for 1 month trip
+*Obtainable at [[Djibouti–Ambouli International Airport]]
+*Extensions of stay is possible for a fee 
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=DM}}</ref>
+| 21 days within 180 days
+| 
+*Valid for 21 days within 180 days
+*Visa not required for a maximum stay of 6 months for valid visa holders or residents of [[Canada]], the [[European Union]] member states, the [[United Kingdom]], or the [[United States]] 
+*Extensions of stay is possible up to a maximum stay of 3 months within 6 months for a fee<ref>{{Cite web |url=http://www.dominica.gov.dm/services/how-do-i-apply-for-an-extension-of-stay |title=Archived copy |access-date=6 August 2015 |archive-url=https://web.archive.org/web/20150117115606/http://www.dominica.gov.dm/services/how-do-i-apply-for-an-extension-of-stay |archive-date=17 January 2015 |dead-url=yes |df=dmy-all }}</ref> 
+*All visitors are fingerprinted upon entry
+*Departure tax applies<ref>{{cite web|url=http://rosaliebay.com/dominica/travel.html|title=Our top Dominica vacation tips for your Dominica vacation|website=Rosaliebay.com}}</ref>
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=DO}}</ref>
+|
+| 
+*Visa not required for passengers who were born in the Dominican Republic
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of [[Canada]], the [[European Union]] member states, or the [[United States]] 
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=EC}}</ref>
+| 90 days within 180 days
+| 
+*Valid for 90 days within 180 days 
+*Extensions of stay is possible for a fee<ref>{{cite web|url=http://roamaholic.com/tourist-visa-ecuador/|title=How to Extend Your Tourist Visa and Stay Longer in Ecuador - Roamaholic|date=25 July 2014|website=Roamaholic.com}}</ref><ref>{{cite web|url=http://www.southamericaliving.com/living-in-ecuador-visas-fees/|title=Visas & Fees for Ecuador|website=Southamericaliving.com}}</ref>
+|- 
+| {{flag|Egypt}}
+| {{yes|Visa not required (conditions apply)}}<ref>{{Timatic|nationality=LB|destination=EG}}</ref><ref name="Al-Masry Al-Youm">{{cite web|author=Al-Masry Al-Youm |url=http://www.egyptindependent.com/lebanese-to-enter-egypt-without-visa-other-arab-nationalities-to-soon-follow/ |title=Lebanese to enter Egypt without visa, other Arab nationalities to soon follow |publisher=Egypt Independent |date=2018-02-07 |accessdate=2018-07-08}}</ref><ref name="Al Arabiya English">{{cite web|url=http://english.alarabiya.net/en/business/economy/2018/02/07/Lebanese-to-enter-Egypt-s-Alexandria-without-visa-on-new-charter-airline.html |title=Lebanese to enter Egypt’s Alexandria without visa on new charter airline |publisher=Al Arabiya English |date= |accessdate=2018-07-08}}</ref><ref name="Cairoscene.com">{{cite web|author= |url=http://www.cairoscene.com/Buzz/Lebanese-Nationals-Travel-Alexandria-Without-Visa |title=Lebanese Nationals Can Now Travel to Alexandria Without a Visa |publisher=Cairoscene.com |date= |accessdate=2018-07-08}}</ref>
+| 90 days
+| 
+*Visa not required if arriving at [[Borg El Arab Airport]] in [[Alexandria]], [[Hurghada Airport]] or [[Sharm El Sheikh Airport]] for South Sinai resorts on a charter flight<ref name="Al-Masry Al-Youm"/><ref name="Al Arabiya English"/><ref name="Cairoscene.com"/>
+*Visa not required if travelling as part of a tourist group that consists of at least 10 persons who hold a return ticket, booked accommodation and a signed guarantee letter from a travel agency
+*Visa not required for people under the age of 16 and over the age of 50
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SV}}</ref>
+|
+| 
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GQ}}</ref>
+|
+|
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=ER}}</ref>
+|
+| 
+*Visa not required for minors under 18 years of age accompanied by parents, provided they present an Eritrean National ID Card
+*Visa on arrival for holders of a printed confirmation that a visa has been approved before departure provided the sponsor in Eritrea submits the request to the Eritrean Immigration Authority 48 hours before arrival and the passenger holds 1 passport photo
+*Departure tax applies<ref>{{cite web|url=https://www.iatatravelcentre.com/ER-Eritrea-customs-currency-airport-tax-regulations-details.htm|title=IATA - Eritrea Customs, Currency & Airport Tax regulations details|website=Iatatravelcentre.com}}</ref>
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=EE}}</ref>
+|
+| 
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SZ}}</ref>
+|
+| 
+|-
+| {{flag|Ethiopia}}
+| {{yes2|Electronic Visa}}<ref>{{Timatic|nationality=LB|destination=ET}}</ref>
+|
+| 
+*Visa on arrival for holders of Diplomatic, Service, and Official passports
+*Visa on arrival at [[Addis Ababa Bole International Airport]] if attending meetings, seminars, or workshops organized by the [[African Union]], provided they present an invitation letter stating the purpose of travel<ref>[https://archive.is/20140627153121/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=LB&AR=00&PASSTYPES=PASS&DE=ET&user=KLMB2C&subuser=KLMB2C] </ref> 
+*Visa on arrival at [[Addis Ababa Bole International Airport]], provided they present an invitation letter issued to participants of the UNECA (United Nations Economic Commission for Africa) conferences and meetings held at the U.N conference centre in [[Addis Ababa]]
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=FJ}}</ref>
+|
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=FI}}</ref>
+|
+| 
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=FR}}</ref>
+|
+| 
+|-
+| {{flag|Gabon}}
+| {{yes2|Electronic Visa}}<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=Evisa.dgdi.ga}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Passengers must hold an "\\autorisation d\entrée au Gabon\\" in addition to a visa
+*Electronic Visa holders must arrive at [[Libreville International Airport|Leon Mba International Airport]] in [[Libreville]]
+*Visa on arrival for holders of an entry authorization issued by the Immigration in Gabon before departure
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GM}}</ref>
+|
+| 
+*Visa not required for if travelling for tourism purposes on a charter flight
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=GE}}</ref>
+| 1 year
+|
+*Valid for 1 year<ref>{{cite web|url=http://www.civil.ge/eng/article.php?id=28337|title=Civil.Ge - Georgia Restores One-Year Visa-Free Rules|first=Civil|last=Georgia|website=Civil.ge}}</ref>
+
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=DE}}</ref>
+|
+| 
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GH}}</ref>
+|
+|
+*Visa not required for holders of a dual Nationality Card issued by [[Ghana]] 
+*Visa on arrival for passengers of Ghanaian origin and not holding a "Dual Nationality Card" and entering Ghana on a Lebanese passport provided they present a confirmation that a visa has been approved before departure and a copy of the visa-on-arrival approval issued at least 48 hours prior to traveling to Ghana by the Ghana Immigration Service. The approval must contain both traveler\s passport and visa numbers and a copy of the bio-data and photo page of the applicant\s passport
+*[[International Certificate of Vaccination]] is required
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GR}}</ref>
+|
+| 
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GD}}</ref>
+|
+| 
+*Visa on arrival for holders of an Acceptance Letter or a Letter of Good Standing issued to new or returning students of St George\s University
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GT}}</ref>
+|
+|  
+*Departure tax applies<ref>{{cite web|url=https://faq.orbitz.com/app/answers/detail/a_id/12600/~/country-entry-/-exit-fees|title=Orbitz Online Customer Support Options|website=Faq.orbitz.com}}</ref>
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GN}}</ref>
+|
+| 
+*Visa on arrival for holders of an approval letter issued by the Directeur Central de la Police de l\Air et des Frontieres
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|Electronic Visa / Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=GW}}</ref>
+| 90 days per trip
+| 
+*Valid for 90 days per trip
+*Obtainable online<ref>{{cite web|url=https://www.rgb-visa.com/ |title=Electronic Visa Application System - Guinea Bissau |publisher=Rgb-visa.com |date=2015-11-10 |accessdate=2018-07-08}}</ref><ref>{{cite web|url=http://www.mae.ro/travel-conditions/26162#724|title=Condiţii de călătorie - Ministry of Foreign Affairs|website=Mae.ro}}</ref> Printed visa authorization must be presented at the time of travel
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GY}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports
+*Visa not required for passengers who are under 17 years of age and were born in [[Guyana]] 
+*Visa on arrival for a maximum stay of 30 days for holders of a letter of invitation from a sponsor or host, contact details of sponsor/host/hotel, and two passport photos
+*Visa on arrival for holders of a confirmation, issued by the Ministry of Home Affairs, or a pre-arranged business, employment, or student visa
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=HT}}</ref>
+| 3 months within 6 months
+| 
+*Valid for 3 months within 6 months 
+*Extensions of stay is possible for a fee<ref>{{Cite web |url=http://www.haiti.org/index.php/consular-section/consular-services/26-the-embassy/content/138-visas |title=Archived copy |access-date=16 June 2014 |archive-url=https://web.archive.org/web/20140922104946/http://www.haiti.org/index.php/consular-section/consular-services/26-the-embassy/content/138-visas |archive-date=22 September 2014 |dead-url=yes |df=dmy-all }}</ref><ref>{{cite web|url=http://www.worldtravelguide.net/haiti/passport-visa|title=Haiti Visa and Passport Requirements|website=Worldtravelguide.net}}</ref>
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=HN}}</ref>
+|
+| 
+*Departure tax applies<ref>{{cite web|title=Honduras Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/honduras.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=7 March 2016}}</ref>
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=HU}}</ref>
+|
+| 
+*Visa not required for 90 days within 180 days inside [[Schengen Area]] for holders of Diplomatic, Service, and Official passports
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=IS}}</ref>
+|
+| 
+|- 
+| {{flag|India}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=IN}}</ref>
+|
+| 
+*Visa not required for holders of a Person of Indian Origin (PIO) Card
+*Visa not required for holders of an Overseas Citizen of India" card or booklet
+*Passengers arriving from Guinea, Liberia, Mali and Sierra Leone at Bangalore (BLR), Chennai (MAA), Cochin (COK), Delhi (DEL), Hyderabad (HYD), Kolkata (CCU) or Mumbai (BOM) are subject to enhanced passenger screening and medical checks
+*Passengers of Pakistani origin (those born in Pakistan or whose parents or grandparents were born in Pakistan) holding multiple entry Tourist Visas (type T), with a validity of more than 3 months and less than 10 years, are required to wait at least 60 days between visits. Those wishing to re-enter before the 60 days have expired must contact an Indian mission abroad to obtain permission.Travellers intending to make side-trips to neighbouring countries as part of the same journey, should submit details of their complete itinerary, with supporting documentation, such as reservations, to an Indian mission or to the immigration officer upon initial entry into India, to obtain permission for multiple entries as part of that journey
+*Holders of visas that specifically state the city or airport of entry must enter India at that specified city or airport
+*Registration with the Foreigner\s Regional Registration Office within 14 days of arrival is mandatory
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=ID}}</ref>
+| 30 days within 180 days
+|
+*Valid for 30 days within 180 days
+*The visa-free facility is not applicable for journalists who should obtain a visa beforehand
+*Extensions of stay is not possible
+|- 
+| {{flag|Iran}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=IR}}</ref>
+| 30 days within 180 days
+|
+*Valid for 30 days within 180 days
+*Extensions of stay is possible for a fee<ref>{{cite web|url=http://travellingtwo.com/resources/iran/renewing-an-iranian-visa|title=Renewing an Iranian visa|date=2 March 2008|website=Travellingtwo.com}}</ref><ref>{{cite web|url=http://www.iranianvisa.com/extension.htm|title=iran visa extension information|website=Iranianvisa.com}}</ref>
+*Registration with the local police within 8 days of arrival is mandatory
+|-
+| {{flag|Iraq}}
+| {{yes-no|Visa on arrival}}<ref>{{cite web|url=https://www.annahar.com/article/885549|title=Iraq waives visa requirements for  Lebanese nationals|website=www.annahar.com}}</ref><ref>{{cite web|url=https://www.annahar.com/article/885549|title=Iraq waives visa requirements for  Lebanese nationals|website=www.annahar.com}}</ref><ref>{{cite web|url=https://www.annahar.com/article/885549|title=Iraq waives visa requirements for  Lebanese nationals|website=www.annahar.com}}</ref>
+|
+| 
+*Visa is issued in any port of entry<ref>{{cite web|url=https://www.annahar.com/article/885549|title=Iraq waives visa requirements for  Lebanese nationals|website=www.annahar.com}}</ref>
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=IE}}</ref>
+|
+|
+*Strict application of immigration rules, including providing proof of the trip\s purpose, sufficient funds, return ticket and accommodation
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=IL}}</ref>
+|
+| 
+*A confirmation from the Israeli Government is required before a visa is issued<ref>{{cite web|url=http://mfa.gov.il/MFA/ConsularServices/Documents/VisaRequirements-Tourists.pdf|format=PDF|title=Tourist Visa Table|website=Mfa.gov.il|accessdate=8 July 2018}}</ref>
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=IT}}</ref>
+|
+| 
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=JM}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 6 months for valid visa holders or residents of [[Canada]] or the [[United States]]
+*Visa not required for holders of passports or other travel documents endorsed with an "Unconditional Landing" stamp 
+*Departure tax applies<ref>{{cite web|url=http://www.travelweekly.com/Caribbean-Travel/Jamaica-air-arrival-tax-takes-effect-August-1/|title=Jamaica air arrival tax takes effect Aug. 1: Travel Weekly|website=Travelweekly.com}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/jamaica/entry-requirements|title=Entry requirements - Jamaica travel advice -|website=Gov.uk}}</ref><ref>{{Cite web |url=http://caribbeanworldvacations.com/tips.html |title=Archived copy |access-date=3 September 2015 |archive-url=https://web.archive.org/web/20090712041209/http://caribbeanworldvacations.com/tips.html |archive-date=12 July 2009 |dead-url=yes |df=dmy-all }}</ref><ref>{{cite web|url=http://www.thomson.co.uk/editorial/faqs/important-information/departure-tax.html|title=Thomson Holidays - Thomson holidays - Departure tax|website=Thomson.co.uk}}</ref>
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=JP}}</ref>
+|
+| 
+*\
+|-
+| {{flag|Jordan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=JO}}</ref>
+| 3 months within 6 months
+|
+*Valid for 3 months within 6 months
+*May use their [[Lebanese identity card|ID card]]s
+*The visa-free facility is not applicable for holders of emergency or temporary passports thus they should obtain a visa beforehand
+*Iris scan taken upon entry and departure
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=KZ}}</ref>
+|
+| 
+*Visa on arrival at Aktau (SCO), Almaty (ALA),Astana (TSE), Atyrau (GUW) and Uralsk for a maximum stay of 1 month for holders of a confirmation from the Ministry of Foreign Affairs that a visa has been approved before departure
+*Visa on arrival at Aktau (SCO), Almaty (ALA),Astana (TSE), Atyrau (GUW) and Uralsk for a maximum stay of 1 month for passengers arriving from a country without a Kazakh representation and provided they present an invitation letter 
+|-
+| {{flag|Kenya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=KE}}</ref>
+|
+| 
+*[[International Certificate of Vaccination]] is required
+* Can obtain T12 East Africa Tourist Visa which permits entry to Kenya, Rwanda, and Uganda on a single visa. Obtainable online for a fee of $100. The first country to be entered should be the one which has issued the visa <ref>{{cite web|url=https://www.migration.gov.rw/index.php?id=233|title=T12-East Africa Tourist Visa|website=Migration.gov.rw}}</ref>
+*Passengers are required to hold at least $500 as proof of sufficient funds to cover their stay
+*All visitors are fingerprinted upon entry
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=KI}}</ref>
+|
+| 
+*Departure tax applies<ref>{{cite web|url=http://www.iatatravelcentre.com/KI-Kiribati-customs-currency-airport-tax-regulations-details.htm|title=IATA - Kiribati Customs, Currency & Airport Tax regulations details|website=Iatatravelcentre.com}}</ref>
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=KW}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 1 month for holders of a confirmation that a visa has been approved before departure provided they are traveling for tourism purposes and having a sponsor in Kuwait who must hold the original visa
+*Visa on arrival for a maximum stay of 3 months within 6 months for residents of the GCC member states<ref>{{cite web|url=https://www.emirates.com/english/?NC=LB&NV=Lebanon&AC=SA&AV=Saudi%20Arabia&DC=KW&DV=Kuwait|title=Emirates|website=Emirates.com}}</ref>
+*Visa on arrival for holders of confirmation from the transporting carrier and are traveling for tourism purposes for a maximum stay of 1 month
+*Holders of a resident visa or a work permit traveling to Kuwait for the first time are required to hold an original Criminal Clearance Certificate authenticated by a Kuwait diplomatic mission in their country of residence
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|Electronic Visa}}<ref>{{Timatic|nationality=LB|destination=KG}}</ref><ref name="auto4"/>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{no|Visa required}}<ref name="auto5">{{Timatic|nationality=LB|destination=LV}}</ref>
+|
+|
+*Negotiations to abolish visa requirements are currently in progress
+*Visa on arrival for a maximum stay of 30 days for holders of an official letter of guarantee issued by the Ministry of Foreign Affairs of Lao People\s Dem. Rep., provided they are travelling on an official visit
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref name="auto5"/>
+|
+| 
+|-
+| {{flag|Lesotho}}
+| {{yes2|Electronic Visa}}<ref>{{cite web|url=http://evisalesotho.com|title=visa lesotho tourism documents travel evisalesotho.com|website=Lesotho E-Visa|accessdate=8 July 2018}}</ref><ref>{{Timatic|nationality=LB|destination=LS}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=LR}}</ref>
+|
+| 
+*Visa on arrival if arriving from a country without a diplomatic mission of [[Liberia]] and a visa is pre-arranged and paid for by a local sponsor in [[Liberia]]
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=LY}}</ref>
+|
+| 
+*Visa not required for holders of a copy of a letter issued by the Libyan immigration authorities confirming that a visa will be granted on arrival at the airport
+*Passengers must hold a non-objection form issued by the Libyan Immigration Authorities in addition to the visa
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=LI}}</ref>
+|
+| 
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=LT}}</ref>
+|
+| 
+*The form may be filled online and submitted to the diplomatic mission<ref>{{cite web|url=https://visa.vrm.lt/epm/|title=Electronic Visa Application System|website=Visa.vrm.lt}}</ref>
+*Medical insurance of a minimum coverage of 30,000 Euros which covers the entire Schengen region for the full duration of the intended stay is mandatory
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=LU}}</ref>
+|
+| 
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MK}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 15 days for valid visa holders or residents of [[Canada]], the [[European Union]] member states, the [[United Kingdom]], or the [[United States]]. The visa must be valid for at least 5 days beyond the period of intended stay in Macedonia
+*Passengers must hold an approval issued by the Ministry of Interior in addition to the visa
+*Registration with the local police within 24 hours of arrival is mandatory
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=MG}}</ref>
+| 90 days per trip
+|
+*Valid for 90 days per trip
+*Holders of passports without 1 unused visa page may be refused entry
+*Extensions of stay for a maximum stay of 4 months is possible for a fee<ref>{{cite web|url=http://www.madagascar-consulate.org/visainfo.html|title=Madagascar Visa Information, How To Obtain a Visa|website=Madagascar-consulate.org}}</ref>
+|-
+| {{flag|Malawi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MW}}</ref>
+|
+| 
+*Extensions of stay is not possible, but those exceeding the period of 90 days within 180 days should obtain a residence permit from the immigration police and must be presented to airport officials upon departure
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=MY}}</ref>
+| 90 days within 180 days
+| 
+*Valid for 90 days within 180 days 
+*Extensions of stay is possible twice, 30 days each, for a fee<ref>{{cite web|url=http://www.travelfish.org/orientation_detail/malaysia/peninsular_malaysia/kuala_lumpur/kuala_lumpur/103|title=How to extend your Malaysian tourist visa (Social Visit Pass) in Kuala Lumpur|website=Travelfish.org}}</ref><ref>{{cite web|url=http://www.kln.gov.my/web/guest/faqs#11|title=Portal - FAQs|website=Kln.gov.my|accessdate=8 July 2018}}</ref><ref>{{cite web|url=http://www.thecyclingcanadian.com/extending-tourist-visa-kuala-lumpur-malaysia/|title=Extending Tourist Visa in Kuala Lumpur, Malaysia - The Cycling Canadian|date=17 December 2014|website=Thecyclingcanadian.com}}</ref><ref>[http://www.mm2h.gov.my/index.php/en/apply-now/misc-applications/apply-extension]  {{Webarchive|url=https://web.archive.org/web/20150927215603/http://www.mm2h.gov.my/index.php/en/apply-now/misc-applications/apply-extension |date=27 September 2015 }}</ref> 
+*Passengers are required to hold at least $100 per day as proof of sufficient funds to cover their stay
+*Visa on arrival for students attending a university or college in Malaysia for the duration of their study period provided they hold all documentation confirming placement and met by a representative
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=MV}}</ref>
+| 30 days per trip
+| 
+*Valid for 30 days per trip
+*Extensions of stay is possible up to a maximum stay of 60 days for a fee<ref>{{cite web|url=http://www.immigration.gov.mv/index.php?option=com_content&view=article&id=112&Itemid=96|title=Maldives Immigration|first=|last=Beney|website=Immigration.gov.mv}}</ref>
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=ML}}</ref>
+|
+| 
+*Visa on arrival for holders of Diplomatic, Service, and Official passports
+*Letter of invitation is required
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MT}}</ref>
+|
+| 
+*Visa not required except for 90 days within 180 days inside [[Schengen Area]] for holders of Diplomatic, Service, and Official passports
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MH}}</ref>
+|
+|
+*Departure tax applies
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=MR}}</ref>
+| 3, 15, 30, 90, or 360 days per trip
+| 
+*Valid for 3, 15, 30, 90, or 360 days per trip
+*Obtainable at [[Nouakchott–Oumtounsy International Airport]] valid for 3 days,15 days, 30 days, 90 days, or 360 days, fees may vary accordingly<ref>{{cite web|url=http://www.ambarimbaghdad.com/news.php?action=view&id=69|title=سمة الدخول (تاشيرة دخول موريتانيا ) - سفارة الجمهورية الاسلامية الموريتانية في العراق|website=Ambarimbaghdad.com}}</ref>
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Mauritius}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=MU}}</ref>
+| 60 days within 120 or 180 days 
+| 
+*Valid for 60 days within 120 days for business purposes and 60 days within 180 days for business purposes 
+*Extensions of stay is possible for a fee<ref>{{cite web|url=http://passport.govmu.org/English/Passport%20and%20Visa%20Requirement%20in%20Mauritius/Pages/Documents-to-be-Submitted-for-extension-of-stay.aspx|title=Passport and Immigration office - Documents to be Submitted for extension of stay|website=Passport.govmu.org}}</ref>
+*Passengers are required to hold a confirmed hotel reservation and at least $100 per day as proof of sufficient funds to cover their stay
+*An Entry permit or Residence Permit is required for those holding Work permits
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MX}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 180 days within 1 year for valid visa holders or residents of [[Canada]], the [[European Union]] member states, [[Japan]], or the [[United States]]
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=FM}}</ref>
+| 30 days within 180 days
+| 
+*Valid for 30 days within 180 days
+*Extensions of stay is possible up to a maximum stay of 60 days for a fee<ref>{{cite web|url=http://www.visit-micronesia.fm/guide/regulation.html|title=Federated States of Micronesia -YAP, CHUUK, POHNPEI, KOSRAE-|website=Visit-micronesia.fm}}</ref>
+*Departure tax applies
+|-
+| {{flag|Moldova}}
+| {{yes2|Electronic Visa}}<ref>{{Timatic|nationality=LB|destination=MD}}</ref><ref>{{cite web|url=https://www.evisa.gov.md/|title=Home|website=Evisa.gov.md|accessdate=8 July 2018}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Registration with the local police upon is mandatory
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref name="ReferenceB">{{Timatic|nationality=LB|destination=MC}}</ref>
+|
+| 
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MN}}</ref>
+|
+| 
+*Visa on arrival at Ulaanbaatar Airport (ULN) for holders of a confirmation that a visa has been approved before departure provided that their passport is valid for at least one year, present two passport photos, are arriving from a country with no Mongolian Immigration Authority, and that a sponsor in Mongolia submits a request to the Mongolian Immigration Authority
+*Registration with the local police within 30 days of arrival is mandatory
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=ME}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 30 days for valid visa holders or residents of the [[European Union]] member states or the [[United States]]
+*Registration with the local police within 24 hours of arrival is mandatory
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MA}}</ref>
+|
+| 
+*Visa not required for children under 17 years of age having a Moroccan parent and registered in that parent\s passport
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=MZ}}</ref>
+| 30 days trip
+| 
+*Valid for 30 days per trip
+*Obtainable at Beira (BEW), Nampula (APL), Maputo (MPM), Pemba (POL), Tete (TET), and Vilankulo (VNX)
+*Extensions of stay is possible up to a maximum stay of 90 days for a fee<ref>{{cite web|url=http://www.worldtravelguide.net/mozambique/passport-visa|title=Mozambique Visa and Passport Requirements|website=Worldtravelguide.net}}</ref><ref>[http://www.mozguide.com/index.php/travel-tips/125-visas]  {{Webarchive|url=https://web.archive.org/web/20151214161038/http://www.mozguide.com/index.php/travel-tips/125-visas |date=14 December 2015 }}</ref>
+|-
+| {{flag|Myanmar}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=MM}}</ref>
+|
+|
+*Visa on arrival for holders of a letter of approval issued by the Ministry of Hotels and Tourism, provided they are traveling on a tour arranged through a travel agency and have a confirmation that a tourist visa has been approved before departure
+*Overstaying is punishable by a fine of $3 per day which is pain upon departure
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=NA}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=NR}}</ref>
+|
+| 
+*Visa not required for holders of an entry permit letter (visa letter) issued by [[Nauru]]
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=NP}}</ref>
+| 90 days within 180 days
+| 
+*Valid for 90 days within 180 days 
+*Obtainable at [[Tribhuvan International Airport]] and certain land borders
+*Extensions of stay is possible for a fee<ref>{{cite web|url=https://www.lonelyplanet.com/nepal/visas|title=Visas and customs in Nepal - Lonely Planet|first=Lonely|last=Planet|website=Lonelyplanet.com}}</ref><ref>{{cite web|url=http://backdoorpath.com/nepali-visa-on-arrival-and-visa-extension-in-pokhara/|title=Nepalese Visa on Arrival and Visa Extension in Pokhara|website=Backdoorpath.com}}</ref> 
+*The visa-on-arrival (VoA) facility is not applicable for holders of temporary passports thus they should obtain a visa beforehand
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=NL}}</ref>
+|
+| 
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=NZ}}</ref>
+|
+| 
+*Obtainable online for Student, Work, or Visitor visas.<ref>{{cite web|url=https://www.immigration.govt.nz|title=New Zealand Visas - Immigration New Zealand|website=Immigration.govt.nz}}</ref> Printed visa authorization must be presented at the time of travel
+*Passengers are required to hold at least 1000 NZD or 400 NZD if accommodation has been prepaid. as proof of sufficient funds to cover their stay. Evidence of funds may be in the form of cash, traveler\s cheques, bank drafts, letters of credit or the following credit cards: Diners Club, American Express, Bankcard, Mastercard and Visa. If Visa label contains "Funds Waived", evidence of sufficient funds is not required
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=NI}}</ref>
+|
+| 
+*Visa on arrival for valid visa holders or residents of [[Canada]], the [[European Union]] member states, or the [[United States]] for a maximum stay of 30 days
+*Passengers must obtain a tourist card which can be purchased on arrival for $2
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=NE}}</ref>
+|
+|
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Nigeria}}
+| {{yes2|Electronic Visa}}<ref>{{Timatic|nationality=LB|destination=NG}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Visa not required for former citizens of [[Nigeria]], provided they present a valid passport issued by the Republic of [[Lebanon]] together with an expired Nigerian passport
+*Visa not required for holders of a confirmation from the Immigration Authority Headquarters in Abuja that a visa has been approved before departure
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=KP}}</ref>
+|
+| 
+*Passengers traveling for tourism purposes must hold an authorization to travel issued by a travel company in North Korea
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=NO}}</ref>
+|
+| 
+*The form may be filled online and submitted to the diplomatic mission<ref>{{cite web|url=http://www.udi.no/en|title=Immigration to Norway - UDI|website=Udi.no}}</ref><ref>[https://selfservice.udi.no/en-gb/Information/What-is-the-Application-Portal/]  {{Webarchive|url=https://web.archive.org/web/20151223023758/https://selfservice.udi.no/en-gb/Information/What-is-the-Application-Portal/ |date=23 December 2015 }}</ref>
+|-
+| {{flag|Oman}}
+| {{yes2|Electronic Visa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om|accessdate=8 July 2018}}</ref>
+| 30 days per trip
+| 
+*Valid for 30 days per trip
+*Extensions of stay is possible up to a maximum stay of 2 months for a fee
+*Visa not required for a maximum stay of 21 days for valid visa holders or residents of the Emirate of [[Dubai]] or [[Qatar]] if arriving directly from the Emirate of [[Dubai]] or [[Qatar]] respectively
+*Iris scan taken upon entry
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PK}}</ref>
+|
+| 
+*Visa not required for holders of a [[Pakistan]] Origin Card (POC) 
+*Visa not required for holders of a National Identity Card for Overseas Pakistani (NICOP)
+*Visa not required for holders of passports issued by the Republic of [[Lebanon]] containing a "Visa exempt" stamp issued by [[Pakistan]] 
+*Visa not required for passengers of Pakistani origin for a maximum stay of 72 hours provided they are travelling due to an emergency and have dual nationality with Pakistan and passports are appropriately endorsed 
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=PW}}</ref>
+| 30 days per trip
+|
+*Valid for 30 days per trip
+*Extensions of stay is possible up to a maximum stay of 90 days for a fee<ref>{{cite web|url=http://visados.com/en/visa-for-Palau|title=Guide for Tourist Visas in Palau|website=Visados.com}}</ref>
+*Passengers are required to hold at least $200 per week as proof of sufficient funds to cover their stay
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PA}}</ref>
+|
+| 
+*Visa not required for those who were born in Panama
+*Visa not required for a maximum stay of 30 days for valid visa holders or residents of [[Australia]], [[Canada]], the [[United Kingdom]], or the [[United States]]
+*Passengers are required to hold at least $500 as proof of sufficient funds to cover their stay
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PG}}</ref>
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PY}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PE}}</ref>
+|
+| 
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PH}}</ref>
+|
+| 
+*Visa not required for a maximum stay of one year for former citizens of the [[Philippines]] (Balikbayans)
+*Departure tax applies<ref>{{cite web|url=http://www.philippineembassy-usa.org/about-the-philippines-dc/|title=Embassy of the Philippines - About the Philippines|website=Philippineembassy-usa.org}}</ref>
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PL}}</ref>
+|
+| 
+*[[Polish people in Lebanon|Dual citizens]] of Poland and Republic of [[Lebanon]] must use their [[Polish passport]] for admission
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=PT}}</ref>
+|
+| 
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+*Valid for 30 days<ref name="gulf">[http://www.gulf-times.com/story/559577/Citizens-of-80-countries-can-now-enter-Qatar-visa- Qatar offers visa-free entry to citizens of 80 countries]</ref>
+*Available at [[Hamad International Airport]]<ref name="qatar" />
+|-
+| {{flag|Romania}}
+| {{yes2|Electronic Visa}}<ref>{{cite web|url=https://evisa.mae.ro/|title=Acasa|website=evisa.mae.ro|accessdate=8 July 2018}}</ref><ref>{{Timatic|nationality=LB|destination=RO}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=RU}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 72 hours when entering Russia through the ports of [[Anadyr (town)|Anadyr]], [[Kaliningrad]], [[Korsakov (town)|Korsakov]],  [[Novorossiysk]], [[Sevastopol]],<ref>{{cite web|url=http://en.portnews.ru/news/187193/|title=Sevastopol included into list of ports for visa-free entry of ferry passengers|website=En.portnews.ru}}</ref> [[Sochi]], [[St.Petersburg]], [[Vladivostok]], and [[Vyborg]] by ferry<ref>{{cite web|url=https://www.telegraph.co.uk/sponsored/russianow/society/7906460/New-window-to-Russia-tourists-could-spend-three-days-in-St-Petersburg-without-a-visa.html|title=New window to Russia: tourists could spend three days in St Petersburg without a visa|publisher=Telegraph.co.uk|date=23 July 2010|accessdate=7 March 2016}}</ref>
+*Registration with the local police within 7 working days of arrival is mandatory
+*The visa application form may be filled online and submitted to the diplomatic mission<ref>{{cite web|url=https://visa.kdmid.ru|title=Заполнение электронных форм визовых анкет|website=Visa.kdmid.ru}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{Optional|Electronic Visa / Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=RW}}</ref>
+| 30 days per trip
+|
+*Valid for 30 days per trip
+*Extensions of stay is possible for a fee<ref>{{cite web|url=https://www.migration.gov.rw/index.php?id=13|title=VISA|website=Migration.gov.rw|accessdate=8 July 2018}}</ref>
+*[[International Certificate of Vaccination]] is required
+*All visitors are fingerprinted upon entry
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|Electronic Visa}}<ref>{{Timatic|nationality=LB|destination=KN}}</ref>
+|
+|  
+*Printed visa authorization must be presented at the time of travel
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=LC}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 1 day for cruise ship passengers<ref>{{cite web|url=http://archive.stlucia.gov.lc/faq/do_i_need_a_visa_to_enter_saint_lucia.htm|title=Do I need a Visa to Enter Saint Lucia?|website=Archive.stlucia.gov.lc}}</ref>
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=VC}}</ref>
+|
+|
+*Visa not required for passengers of Vincentian origin provided they present a copy of their parent\s birth certificates accompanied by their own birth certificate 
+*Negotiations to abolish visa requirements are currently in progress
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit arrival}}}}<ref>{{Timatic|nationality=LB|destination=WS}}</ref>
+| 60 days per trip
+| 
+*Valid for 60 days per trip
+*Extensions of stay is possible up to a maximum stay of 1 month for a fee<ref>[http://www.samoaimmigration.gov.ws/VisitorServices/ExtendingaVisitorPermit/tabid/6859/language/en-US/Default.aspx]  {{Webarchive|url=https://web.archive.org/web/20150831134403/http://www.samoaimmigration.gov.ws/VisitorServices/ExtendingaVisitorPermit/tabid/6859/language/en-US/Default.aspx |date=31 August 2015 }}</ref> 
+*Departure tax applies<ref>{{cite web|url=http://www.samoa.travel/page/practical-information|title=Practical Information - Samoa.travel|website=Samoa.travel}}</ref><ref>{{cite web|url=http://www.airnewzealandtrade.com/about-us/news/changes-samoa-and-rarotonga-departure-tax|title=Changes to Samoa and Rarotonga Departure Tax - Air New Zealand Trade Site|website=Airnewzealandtrade.com}}</ref>
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SM}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|Electronic Visa}}<ref>{{cite web|url=http://www.smf.st/virtualvisa/enault.asp?Language=english|title=Electronic System to Travel Authorization BY SMF SÃO TOMÉ E PRÍNCIPE|website=Smt,st}}</ref><ref>{{Timatic|nationality=LB|destination=ST}}</ref>
+|
+|
+*Printed visa authorization must be presented at the time of travel
+*Visa not required for a maximum stay of 15 days for valid visa holders or residents of the [[European Union]] member states and the [[United States]] 
+*Visa not required for spouses and children of former citizens of São Tomé and Príncipe who is born in São Tomé and Príncipe
+*[[International Certificate of Vaccination]] is required
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SA}}</ref>
+|
+|
+*No tourist visas available<ref>{{cite web|title=Saudi Arabia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/saudi-arabia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=7 March 2016}}</ref>
+*Muslim female passengers arriving to perform Umrah or Hajj must be accompanied by one of her immediate family members such as father, brother, husband or son, who must be aged 18 years or older; or over 45 years of age and traveling within a group of female passengers of the same age, who are accompanied by a group leader until their departure 
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SN}}</ref>
+|
+| 
+*Visa not required for holders of an official invitation letter
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=RS}}</ref>
+|
+| 
+*Visa not required for holders of Diplomatic, Service, and Official passports<ref>[http://www.balkans.com/open-news.php?uniquenumber=205514]  {{Webarchive|url=https://web.archive.org/web/20150811033502/http://www.balkans.com/open-news.php?uniquenumber=205514 |date=11 August 2015 }}</ref><ref>[http://www.b92.net/eng/news/politics.php?yyyy=2015&mm=07&dd=22&nav_id=94853]  {{Webarchive|url=https://web.archive.org/web/20150923230938/http://www.b92.net/eng/news/politics.php?yyyy=2015&mm=07&dd=22&nav_id=94853 |date=23 September 2015 }}</ref>
+*Visa not required for a maximum stay of 90 days within 180 days for valid visa holders or residents of the [[European Union]] member states and the [[United States]] 
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit is granted on arrival}}}}<ref>{{Timatic|nationality=LB|destination=SC}}</ref>
+| 3 months trip
+| 
+*Valid for 3 months per trip
+*Extensions of stay is possible up to a maximum stay of 3 months within 6 months for a fee<ref>{{cite web|url=http://www.seychelles.travel/plan-your-visit/travellers-essentials/entry-formalities|title=Welcome to the Official Destination Website for the Seychelles Islands - Entry Formalities|website=Seychelles.travel|access-date=6 August 2015|archive-url=https://web.archive.org/web/20150325100411/http://seychelles.travel/plan-your-visit/travellers-essentials/entry-formalities#|archive-date=25 March 2015|dead-url=yes|df=dmy-all}}</ref>
+*Passengers are required to hold a confirmed hotel reservation and at least $150 per day as proof of sufficient funds to cover their stay
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref name="auto6">{{Timatic|nationality=LB|destination=SL}}</ref>
+|
+| 
+*Visa on arrival for holders holders of a confirmation from the immigration that a visa has been approved before departure
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Singapore}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SG}}</ref>
+|
+| 
+*Expectant mothers who do not hold residence permits or Re-entry permits visiting Singapore for the purpose of delivering their child in Sindapose must apply for a visit pass prior to their visit at www.ica.goc.sq in which applications take 4–6 weeks to process
+*Negotiations to abolish visa requirements are currently in progress
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SK}}</ref>
+|
+| 
+*Registration with the local police within 3 working days of arrival is mandatory
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref name="auto6"/>
+|
+| 
+*Registration with the local police within 72 hours of arrival is mandatory
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SB}}</ref>
+|
+| 
+*Visa on arrival for holders of a confirmation that a visa has been approved before departure
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=SO}}</ref>
+| 30 days per trip
+|
+*Valid for 30 days per trip
+*Obtainable at Bosaso (BSA), Galcaio (GLK), and Mogadishu (MGQ) 
+*Visa on arrival at Berbera (BBO), Borama (BXX), Burao (BUO), Erigavo(ERA) and Hargeisa (HGA) for holders of an invitation letter issued by the government of Somaliland
+*Visa on arrival for passengers of Somali origin provided they were born in Somalia
+*Passengers must exchange  or equivalent of other freely convertible foreign currency upon arrival
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=ZA}}</ref>
+|
+|
+*Holders of passports without 2 blank visa pages may be refused entry
+*Visa Free Access announced. Dates to be confirmed. <ref>https://www.news24.com/SouthAfrica/News/home-affairs-announces-new-visa-amendments-in-a-bid-to-boost-tourism-20180925</ref>
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{cite web|url=https://www.visa.go.kr/openPage.do?MENU_ID=10201|title=KOREA VISA PORTAL|first=KOREA VISA|last=PORTAL|website=Visa.go.kr}}</ref><ref>{{cite web|url=https://www.visa.go.kr/openPage.do?MENU_ID=10105|title=KOREA VISA PORTAL|first=KOREA VISA|last=PORTAL|website=Visa.go.kr}}</ref><ref>{{Timatic|nationality=LB|destination=KR}}</ref>
+|
+| 
+*Printed visa authorization and an Electronic Visa Issuance Confirmation issued by the Ministry of Justice must be presented at the time of travel
+*Visa not required if arriving at and departing from Jeju (CJU) Airport
+*Visa not required for passengers who have previously entered Korea (Rep.) at least 4 times within the last 2 years or at least 10 visits in total<ref>[http://www.immigration.go.kr/HP/IMM80/imm_04/imm_p01/vm2.jsp]  {{Webarchive|url=https://web.archive.org/web/20150924034145/http://www.immigration.go.kr/HP/IMM80/imm_04/imm_p01/vm2.jsp |date=24 September 2015 }}</ref><ref>{{cite web|url=http://www.hikorea.go.kr/pt/InfoDetailR_en.pt?catSeq=401&categoryId=2&parentId=385&showMenuId=375|title=Immigration Guide - Foreigners|website=Hikorea.go.kr}}</ref> 
+*Visa Exemption for 30 days for those who are in transit through South Korea, provided they present a physical visa or a residence permit issued by the following countries and are arriving at South Korea from one of these countries and continuing to a third country, or arriving from a third country and continuing to one of these countries.
+{|
+|
+* {{flag|Australia}}<sup>1</sup>
+* {{flag|Canada}}
+* {{flag|New Zealand}}
+* {{flag|United States}}
+|
+|}
+<sub>1 - Holders of e-visas or e-resident permits are only permitted visa-free entry if they depart from Australia.</sub>
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SS}}</ref>
+|
+| 
+*Visa on arrival for holders of Diplomatic, Service, and Official passports
+*Visa on arrival for passengers of Sudanese origin 
+*Visa on arrival for holders of an identity card copy issued by the [[United Nations]] with a clearance from the Ministry of Foreign Affairs in [[South Sudan]]
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=ES}}</ref>
+|
+| 
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|Electronic Visa / Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=LK}}</ref>
+| 30 days per trip
+| 
+*Valid for 30 days per trip
+*Electronic Travel Authorization is obtainable online, at [[Sri Lanka]] diplomatic missions overseas, or on arrival at any port of entry in Sri Lanka
+*Printed visa authorization must be presented at the time of travel
+*Extensions of stay is possible up to a maximum stay of 150 days for a fee<ref>{{cite web|url=http://www.lonelyplanet.com/nepal/visas|title=Sri Lanka Visa Extension|website=Lonelyplanet.com}}</ref>
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SD}}</ref>
+|
+| 
+*Visa on arrival for a maximum stay of 60 days for holders of an "Entry Permit" issued by the Sudanese Ministry of interior 
+*Visa on arrival for passengers of Sudanese origin on the father’s side provided they present a national ID number, a national ID card, or an old Sudanese passport or birth certificate 
+*Registration with the local police within 3 days of arrival is mandatory
+|-
+| {{flag|Suriname}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SR}}</ref>
+|
+| 
+*Visa not required for holders of a Persons of Surinamese Origin (PSA) document or a proof of Surinamese origins 
+*Visa on arrival for spouses and children (who are under 18 years) of Persons of Surinamese Origin or passengers of Surinamese origin, at [[Paramaribo International Airport]] (PBM) for a maximum stay of 90 days
+*Visa on arrival if arriving from a country without a Surinamese diplomatic mission for a maximum stay of 2 months
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=SE}}</ref>
+|
+| 
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=CH}}</ref>
+|
+| 
+*The form may be filled online and submitted to the diplomatic mission<ref>{{cite web|url=https://www.swiss-visa.ch/register/i210_select_country_view.action|title=Online visa application Welcome to the Swiss Online Visa application|website=Swiss-visa.ch}}</ref><ref>{{cite web|url=https://www.bfm.admin.ch/bfm/en/home/themen/einreise.html|title=Entry|website=Bfm.admin.ch}}</ref>
+|- 
+| {{flag|Syria}}
+| {{yes|Visa not required}}<ref>https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&PASSTYPES=PASS&NA=LB&AR=00&DE=SY&user=GF&subuser=GFB2C</ref><ref>{{Timatic|nationality=LB|destination=SY}}</ref>
+| 6 months withtin 1 year
+|
+*Valid for 6 months within 1 year
+*May use their [[Lebanese identity card|ID card]]s
+|-
+| {{flag|Tajikistan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=TJ}}</ref>
+| 45 days per trip
+| 
+*Valid for 45 days per trip
+*Obtainable at [[Dushanbe International Airport]]
+*Obtainable online.<ref>{{cite web|url=https://www.evisa.tj/index.evisa.html|title=Tajikistan e-Visa|website=Evisa.tj}}</ref> Printed visa authorization must be presented at the time of travel
+*E-visa holders can enter through all border points<ref name="evisa.tj"/>
+*Extensions of stay is possible up to a maximum stay of 60 days for a fee<ref>{{cite web|url=http://caravanistan.com/visa/tajikistan/|title=Tajikistan visa - Caravanistan|website=Caravanistan.com}}</ref>
+*Tajikistan plans to completely abolish visa requirements soon<ref>{{cite web|url=http://www.baltinfo.ru/2014/01/19/Tadzhikistan-planiruet-k-2016-godu-otmenit-vizy-s-80-stranami-402812|title=Таджикистан планирует к 2016 году отменить визы с 80 странами - Таджикистан, визы - БалтИнфо.ru|website=Baltinfo.ru}}</ref><ref>{{cite web|url=http://gorchakovfund.ru/news/9837/|title=Таджикистан планирует к 2016 году отменить визы с 80 странами - Фонд поддержки публичной дипломатии им. А.М. Горчакова|website=Gorchakovfund.ru|access-date=26 January 2016|archive-url=https://web.archive.org/web/20160130085316/http://gorchakovfund.ru/news/9837/|archive-date=30 January 2016|dead-url=yes|df=dmy-all}}</ref><ref>{{cite web|url=http://www.rosbalt.ru/exussr/2014/01/17/1222223.html|title=Таджикистан планирует к 2016 году отменить визы с 80 странами|website=Rosbalt.ru}}</ref>
+|-
+| {{flag|Tanzania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=TZ}}</ref>
+|
+|
+*Negotiations to abolish visa requirements are currently in progress
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=TH}}</ref>
+|
+|
+*Passengers over 12 years of age with a visa are required to hold at least 20,000 THB per person or 40,000 THB per family as proof of sufficient funds to cover their stay. Proof of funds includes letters of credit vouchers, MCO\s or well-known credit cards which are honored in Thailand
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=TL}}</ref>
+| 30 days per trip
+| 
+*Valid for 30 days per trip
+*Extensions of stay is possible up to a maximum stay of 90 days for a $75<ref>{{cite web|url=http://migracao.gov.tl/?page_id=69|title=Immigration Service of Timor-Leste|website=Migracao.gov.tl}}</ref>
+*Passengers are required to hold at least $100 per entry and $50 per day as proof of sufficient funds to cover their stay
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=TG}}</ref>
+| 7 days per trip
+| 
+*Valid for 7 days trip
+*Passengers must hold 3 passport photos
+*Extensions of stay is possible up to a maximum stay of 90 days for a fee<ref>{{cite web|url=http://www.brendansadventures.com/travel-guides/africa/west-africa/togo/getting-a-visa-for-togo/|title=Getting a Visa for Togo|first=Brendan van|last=Son|date=26 December 2013|website=Brendansadventures.com}}</ref>
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=TO}}</ref>
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=TT}}</ref>
+|
+| 
+*Visa on arrival for holders of a confirmation from the immigration that a visa has been approved before departure
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=TN}}</ref>
+|
+|
+*Visa not required for residents of the GCC member states for a maximum stay of 15 days. The residence permits must be valid for a minimum of 6 months from the arrival date
+*Visa not required for passengers traveling on an organized tour
+*Passengers are required to hold a confirmed hotel reservation and a proof sufficient funds to cover their stay
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=LB|destination=TR}}</ref>
+| 90 days within 180 days
+| 
+*Valid for 90 days within 180 days
+*Extensions of stay is not possible, but passengers exceeding the period of 90 days within 180 days should obtain a residence permit ("Ikamet Vesikasi") from the immigration police and must be presented to airport officials upon departure
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=TM}}</ref>
+|
+| 
+*Visa on arrival for maximum stay of 10 days extendable for another 10 days for holders of a letter of invitation issued by a company registered in Turkmenistan and approved by the Ministry of Foreign Affairs
+*Special permits from the MInistry of Foreign Affairs are required prior to arrival if visiting Atamurat, Cheleken, Dashoguz, Serhas, and Serhetabat
+*Departure tax applies<ref>{{cite web|url=https://www.iatatravelcentre.com/TM-Turkmenistan-customs-currency-airport-tax-regulations-details.htm|title=IATA - Turkmenistan Customs, Currency & Airport Tax regulations details|website=Iatatravelcentre.com}}</ref>
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=TV}}</ref>
+| 1 month per trip
+|
+*Valid for 1 month per trip
+*Extensions of stay is possible up to a maximum stay of 3 months within 6 months for a fee<ref>{{cite web|url=http://www.worldtravelguide.net/tuvalu/passport-visa|title=Tuvalu Visa and Passport Requirements|website=Worldtravelguide.net}}</ref>
+|-
+| {{flag|Uganda}}
+| {{Optional|Electronic Visa / Visa on arrival}}<ref>{{Timatic|nationality=LB|destination=UG}}</ref><ref name="worldtravelguide1">{{cite web|url=http://www.worldtravelguide.net/uganda/passport-visa|title=Uganda Visa and Passport Requirements|website=Worldtravelguide.net}}</ref><ref name="worldtravelguide1"/><ref name="worldtravelguide1"/> 
+| 3 months or 6 months per trip
+| 
+*Valid for 3 or 6 months per trip, fees may vary accordingly<ref name="worldtravelguide1"/> 
+*Obtainable at [[Entebbe Airport]] in [[Kampala]]
+*Obtainable online<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=Visas.immif=gration.go.ug}}</ref> Printed visa authorization must be presented at the time of travel
+*Extensions of stay is possible for a fee<ref>[http://www.ugandahighcommission.co.uk/ConsularInformation/VisaInfo.aspx]  {{Webarchive|url=https://web.archive.org/web/20101129042822/http://www.ugandahighcommission.co.uk/ConsularInformation/VisaInfo.aspx |date=29 November 2010 }}</ref>
+*[[International Certificate of Vaccination]] is required
+|- 
+| {{flag|Ukraine}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=UA}}</ref>
+|
+| 
+*Visa not required for passengers under 18 year of age provided their name is mentioned in parent/guardian\s visa
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=AE}}</ref>
+|
+| 
+*Visa on arrival for residents of the GCC member states for a maximum stay of 1 month 
+*Electronic Visas online via www.ednrd.ae if residing in one of the 5 other GCC countries. Printed visa authorization must be presented at the time of travel <ref>{{cite web|url=http://www.khaleejtimes.com/nation/government/uae-offers-online-visa-facility-to-gcc-residents|title=UAE offers online visa facility to GCC residents|author=Marie Nammour|website=Khaleejtimes.com|accessdate=8 July 2018}}</ref> 
+*Visa on arrival for a maximum stay of 96 hours, 30 days, or 90 days for holders of a confirmation that a visa has been approved before departure and present a passport valid for 6 months and their sponsor has deposited that visa before departure to the Airport Immigration Authorities
+*96-hour transit visa is granted on arrival at [[Dubai International Airport]] (DXB) provided the transit time is at least 8 hours, they hold onward tickets to a third country, and have a passport valid for at least 6 months
+*Obtainable online if arriving on [[Air Arabia]],<ref>{{cite web|url=http://www.airarabia.com/en/visa-and-passport-information|title=Visa and passport information - Air Arabia|website=Airarabia.com}}</ref> [[Emirates (airline)|Emirates]],<ref>{{cite web|url=http://www.emirates.com/english/plan_book/essential_information/visa_passport_information/uae_visas.aspx|title=UAE visa information - Visa & passport information - Essential information - Emirates|website=Emirates.com}}</ref> [[Etihad Airways|Etihad]],<ref>{{cite web|url=http://www.etihad.com/en/before-you-fly/visas/|title=UAE visa - Etihad Airways|website=Etihad.com}}</ref> [[Air Baltic]],<ref name="ttsuaevisas.com">{{cite web|url=https://www.ttsuaevisas.com/en/air_baltic/|title=UAE Visa Services - UAE Visa Application and Processing Center|first=TT|last=Services|website=Ttsuaevisas.com}}</ref> [[Air Berlin]],<ref name="ttsuaevisas.com"/> [[Air Serbia]],<ref>{{cite web|url=https://www.ttsuaevisas.com/en/air_serbia/|title=UAE Visa Services - UAE Visa Application and Processing Center|first=TT|last=Services|website=Ttsuaevisas.com}}</ref> and [[flydubai]].<ref>{{cite web|url=http://www.flydubai.com/en/about-us/uae-visas/|title=UAE Visas|website=Flydubai.com}}</ref> Printed visa authorization must be presented at the time of travel
+*Extensions of stay is possible up to a maximum stay of 3 months within 6 months for a fee<ref>{{cite web|url=https://www.emirates.com/english/?NC=LB&NV=Lebanon&AC=SA&AV=Saudi%20Arabia&DC=AE&DV=United%20Arab%20Emirates|title=Emirates|website=Emirates.com}}</ref> 
+*Iris scan taken upon entry
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=GB}}</ref>
+|
+| 
+*Transit Visa required, unless other exemptions apply for Visa-free Direct Airside Transit<ref>{{cite web|url=https://www.gov.uk/check-uk-visa/y/lebanon/transit/somewhere_else/no|title=UK Direct Airside Transit Visas Exemptions|website=Gov.uk}}</ref>
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>[https://archive.is/20140627152823/http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=LB&AR=00&PASSTYPES=PASS&DE=US&user=KLMB2C&subuser=KLMB2C] </ref>
+|
+| 
+*Visa not required for holders of a Form I-512 (Authorization for Parole of an Alien into the [[United States]]")
+*Visa not required for passengers who are admitted to the [[United States]] on a visa and are returning to the [[United States]] after a visit for a maximum stay of 30 days to Canada, Mexico, or adjacent islands except Cuba
+*Obtainable online for non-immigrant visas (DS-160). However, the applicant must attend a scheduled interview at the nearest United States diplomatic mission<ref>{{cite web|url=https://ceac.state.gov/genniv/|title=Nonimmigrant Visa - Instructions Page|website=Ceac.state.gov}}</ref><ref>{{cite web|url=https://ceac.state.gov/genniv/Common/Instructions.aspx|title=Nonimmigrant Visa - Application Error|website=Ceac.state.gov}}</ref> 
+*Holders of F or J visas must present an endorsed SEVIS Form I-20MN. Form SEVIS I-20AB for M visa holders, and Form SEVIS DS-2019 for F or J visa holders
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=UY}}</ref>
+|
+| 
+*Visa not required for passengers who were born in [[Uruguay]] 
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=UZ}}</ref>
+|
+|
+*Visa not required for a maximum stay of 5 days for land transits across airports<ref name="gazeta.uz">{{cite web|url=https://www.gazeta.uz/ru/2018/07/04/e-visa/|title=Электронные визы в Узбекистан вводятся с 15 июля|author=|first=|date=5 July 2018|website=gazeta.uz|accessdate=7 July 2018}}</ref><ref name="gazeta.uz"/>
+*The visa application form may be filled online and submitted to the diplomatic mission<ref>{{cite web|url=http://www.evisa.mfa.uz/evisa_en/|title=Visa to Uzbekistan|website=Evisa.mfa.uz}}</ref> 
+*Visa on arrival at Tashkent (TAS) for holders of a Visa Confirmation stamp issued by the Ministry of Foreign Affairs of Uzbekistan and they present two passport photos
+*Registration with the local police within 3 days of arrival is mandatory
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=VU}}</ref>
+|
+|
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=VA}}</ref>
+|
+| 
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=VE}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports
+*All visa applications must be submitted in person, and all applicants will be interviewed at the diplomatic mission<ref>{{cite web|title=Venezuela Implements New Visa Requirements - Region III: South America - NBAA - National Business Aviation Association|url=https://www.nbaa.org/ops/intl/sam/20150317-venezuela-impelements-new-visa-requirements.php|publisher=National Business Aviation Association|accessdate=7 March 2016}}</ref>
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=VN}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 30 days at Phu Quoc (PQC) Airport
+*Visa not required for a maximum stay of 90 days within 180 days for holders of a Certificate of Visa Exemption issued to former citizens of [[Vietnam]] residing abroad
+*Visa not required for a maximum stay of 90 days within 180 days for citizens of [[Vietnam]] if they do not present a Vietnamese passport but instead present a foreign passport with a permanent residence permit<!--Since this article is about Lebanese nationals, this tortured note really requires a citation so this can be verified for meaning and veracity -->
+*Visa on arrival at Hanoi (HAN) for holders of a confirmation from the Vietnamese Immigration (Ministry of Public Security) that a visa has been approved before departure 
+*Visa on arrival at Hanoi (HAN), Ho Chi Minh City (SGN), or Da Nang (DAD) airports for a maximum stay of 3 months for holders of a confirmation from the Consular Department (Ministry of Foreign Affairs) that a visa has been approved before departure
+*Obtainable online through travel agencies available at [[Hanoi]], [[Ho Chi Minh City]], [[Phu Quoc]] or [[Da Nang]] airports.<ref name="auto3">{{cite web|url=http://www.vietseatourist.vn/News/category1/news-57/No-visa-required-for-tourists-to-Phu-Quoc-on-short-stay.html|title=No visa required for tourists to Phu Quoc on short stay - Vietsea Tourist - Travel to Vietnam, Laos, Cambodia and Thailand - Vietnam Travel Tours|website=Vietseatourist.vn}}</ref><ref>{{cite web|url=http://www.phuquocislandguide.com/phu-quoc-visa/|title=Phu Quoc Visa - Exemptions- Requirements - Vietnam|website=Phuquocislandguide.com}}</ref> Printed visa authorization must be presented at the time of travel
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=LB|destination=YE}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 3 months within 6 months for holders of Diplomatic, Service, and Official passports
+*Visa not required for passengers of Yemeni origin
+*Registration with the local police is mandatory
+|-
+| {{flag|Zambia}}
+| {{yes2|Electronic Visa}}<ref>[http://evisa.zambiaimmigration.gov.zm]  {{Webarchive|url=https://web.archive.org/web/20150809101333/http://evisa.zambiaimmigration.gov.zm/ |date=9 August 2015 }}</ref><ref>{{Timatic|nationality=LB|destination=ZM}}</ref>
+|
+| 
+*Printed visa authorization must be presented at the time of travel
+*Visa not required for minors if they are mentioned in the passport of one of their parents
+*Holders of passports without 2 blank pages may be refused entry
+*Printed visa authorization must be presented at the time of travel
+*[[International Certificate of Vaccination]] is required
+|-
+| {{flag|Zimbabwe}}
+| {{yes2|Electronic Visa}}<ref>{{cite web | title=eVisa Zimbabwe | website=eVisa Zimbabwe | url=https://www.evisa.gov.zw/ | access-date=July 8, 2018}}</ref><ref>{{Timatic|nationality=LB|destination=ZW}}</ref>
+|
+| 
+*Visa on arrival for holders of Diplomatic, Service, and Official passports
+*Printed visa authorization must be presented at the time of travel
+*For tourism purposes only; travellers holding only a tourism class visa are strictly prohibited from engaging in business activities
+|}'}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href={{ url_for('static', filename = 'comparestyles.css') }} rel="stylesheet">    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+    
+    <h1><b>{{ cName }}:</b> GDP Access Score = {{ cScore }} $T </h1> 
+    <br>
+    <a href="http://localhost:5000/">homepage mfrrs</a>
+    <br>
+    <a href="{{cURL}}" target="_blank">wiki for visa requirements for {{ cName }}</a>
+    <br>
+    
+    <div class="container-fluid" style="text-align:center" id="list-div">
+        <label for="country-form" class="text-centre">Select a Country to compare to:</label>
+        <!-- <div style="margin-left:auto" id=""> -->
+            <form id="form1">
+
+            </form>
+            <select class="form-control" id="country-form" style="display:block" for="form1">
+            </select>
+
+            <button class="btn btn-default" id="button" style="margin-bottom:20px;">
+                Compare
+            </button>
+    </div>
+    <div class="container" style="width:600px">
+        <table class="table" style="margin:auto; border: 2px solid grey;">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Country</th>
+                    <th scope="col">GDP Access ($M)</th>
+                    <th scope="col">Visa Requirement</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for i in cvList %}
+                <tr>
+                    <th scope="row">{{ cvList.index(i)+1 }}</th>
+                    <td>{{ i['Country'] }}</td>
+                    <td>{{ i['GDP_Access'] }}</td>
+                    <td>{{ i['VisaRequirement'] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <script src= {{ url_for('static', filename = 'comparescript.js') }}></script>    
+</body>
+</html>

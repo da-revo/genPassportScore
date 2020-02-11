@@ -1,0 +1,1006 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref name=Timatic>{{Timatic}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref name=Timatic />
+| 30 days
+| 
+*USD100 visa waiver fee applies.
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Armenia}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 4 weeks
+|
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 6 months
+|
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref name=Timatic /><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{yes|Visa not required}}<ref>{{Cite web |url=http://www.mfa.gov.bt/visa |title=Archived copy |access-date=11 June 2015 |archive-url=https://web.archive.org/web/20150316220406/http://www.mfa.gov.bt/visa |archive-date=16 March 2015 |dead-url=yes |df=dmy-all }}</ref><ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.ambassade-du-burundi.fr/demande-de-visa/ |title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT  GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS  NOTE CIRCULAIRE DU  17/02/2015 |access-date=26 February 2015 |archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/ |archive-date=22 July 2014 |dead-url=yes |df=dmy-all }}</ref><ref name=Timatic />
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Colombia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|- 
+| {{flag|Cuba}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Visa must be obtained in advance lieu of a tourist card.
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+| 
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+| 
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref name=Timatic />
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Ecuador}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Egypt}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|
+|
+* Electronic visa holders must arrive via [[Libreville International Airport]].
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+* eVisa available for holders of a valid [[Schengen Area|Schengen]] visa or a valid visa from any of the [[OECD]] member countries; or a valid residence permit of a [[Schengen Area|Schengen]] or [[OECD]] country. or a valid residence permit of UAE  <ref>[https://www.evisa.gov.ge/GeoVisa/Countries/Index.html]</ref>
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|- 
+| {{flag|India}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*No visa for Diplomatic & Official Passport holders
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Confirmation from Israeli government required before visa is issued
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Jordan}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya – eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Visa-free Entry to Jeju Islands for 30 days.<ref>{{Cite web|url=http://www.iccjeju.co.kr/EN/AboutJeju/AccessAndVisa|title=제주국제컨벤션센터 홈페이지에 오신 것을 환영합니다. {{!}} 제주국제컨벤션센터|website=www.iccjeju.co.kr|access-date=2017-08-26}}</ref> Bangladeshi national who hold a visa, re-entry permit, permanent residency to enter the United States, Canada, Japan, Australia, or New Zealand can enter Korea without a Korean visa for a stay of up to 30 days, if their purpose of visit is transit.<ref>{{Cite web|url=http://can-toronto.mofa.go.kr/english/am/can-toronto/visa/guideline/index.jsp|title=▒  Toronto 대사관 ▒|website=▒  Toronto 대사관 ▒|language=en|access-date=2017-11-08}}</ref><ref>{{Cite web|url=http://www.hikorea.go.kr/pt/InfoDetailR_en.pt?categoryId=2&parentId=385&catSeq=401&showMenuId=375|title=Immigration Guide - Foreigners|website=www.hikorea.go.kr|language=en|access-date=2017-11-08}}</ref>
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref name=Timatic />
+| 
+|
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Unless travelling on an official visit and holding an official letter of guarantee issued by the Ministry of Foreign Affairs of Laos.
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*In addition to a visa, an approval should be obtained from the Immigration department of the [[General Directorate of General Security]] (La Surete Generale). 
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 90 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Libya}}
+| {{BLACK|style=color:white;|Admission refused}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref name=Timatic />
+|  
+|
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Approval from the Ministry of Interior required
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{no|Visa required}}<ref name=Timatic /><ref>[https://af.reuters.com/article/malawiNews/idAFL5N11Z1KZ20150929 MINISTRY OF HOME AFFAIRS AND INTERNAL SECURITY NEW VISA REGIME FOR MALAWI EFFECTIVE 1ST OCTOBER 2015]</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes2|eVisa}}<ref>[https://www.windowmalaysia.my/evisa/faq.jsp]</ref>
+| 30 days
+| 
+*Single Entry.
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+* Visa is not required if holding U.S or Canadian permanent resident card.<ref>{{Cite web|url=https://mexico.visahq.com/requirements/Bangladesh/resident-United_States/#!mexico-tourist-visa|title=Mexico visa for Bangladesh passport holder living in United States of America|website=VisaHQ.com|language=en-US|access-date=2018-01-18}}</ref> 
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Holder of a valid UAE residence permit may enter without visa for seven days.
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=http://www.myanmarevisa.gov.mm/ |title=Myanmar eVisa |access-date=14 October 2015 |archive-url=https://web.archive.org/web/20140813070633/http://www.myanmarevisa.gov.mm/ |archive-date=13 August 2014 |dead-url=yes |df=dmy-all }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism only.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 30 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Bangladeshi holding GCC Visa of certain categories (managers, sales executives etc.) are granted a visit Visa on Arrival if they are coming directly from a GCC Country Bangladeshi holding GCC Visa of certain categories (managers, sales executives etc.) are granted a visit Visa on Arrival if they are coming directly from a GCC Country
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Palau}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>[https://www.qatarvisaservice.com/]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name=Timatic />
+|
+|
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*No visa for official and diplomatic passport holders
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref name=Timatic />
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref name=Timatic />
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Visa not required if holding a valid Schengen Visa
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=21 May 2015 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=21 May 2015 |dead-url=yes |df=dmy-all }}</ref>
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Visa free for a maximum stay of 90 days for valid visa holders or residents of the [[European Union]] member states and the United States.
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref name=Timatic />
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Singapore}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+* May obtain online.<ref>[https://save.ica.gov.sg/ Submission of Application for Visa Electronically (SAVE)]</ref> 
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BD|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref name=Timatic />
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{BLACK|style=color:white;|Admission refused}}<ref name=Timatic />
+|
+| 
+*Entry and transit is refused unless arriving for commercial delegations or as students studying at a Sudanese institute of higher education or university and holding a residence permit.<ref>{{Timatic|nationality=BD|destination=LY}}</ref>
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Tanzania}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Visa on arrival if holding a referral visa.
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|Visa on Arrival for up to 15 days available for valid residence permit holders of any country in the GCC (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE)
+|- 
+| {{flag|Turkey}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+*No visa for Diplomatic & Official passport holders
+*eVisa available for holders of a valid [[Schengen Area|Schengen]] visa or a valid visa from any of the [[OECD]] member countries(USA, Canada); or a valid residence permit of a [[Schengen Area|Schengen]] or [[OECD]] country.
+|- 
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref name=Timatic />
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref name=Timatic />
+|
+| 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref name=Timatic />
+| 30 days
+|
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref name=Timatic />
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+| 
+*Traveling directly to Phu Quoc Island are allowed to stay on the island for up-to 30 days without a visa.<ref>{{Cite web|url=http://vietnamtourism.vn/plan-your-trip/visa-requirements|title=Visa Requirements {{!}} Vietnam Tourism|website=vietnamtourism.vn|access-date=2018-01-18}}</ref><ref>{{Cite web|url=http://discoverphuquoc.com/customsvisas.html#a4a|title=Discover Phu Quoc - island paradise in the Gulf of Thailand, secluded and beautiful beaches, resorts and hotels on Phu Quoc island, Vietnam...|last=html|first=www.sitecreation.com.au - web design, sydney, design, freelance,|website=discoverphuquoc.com|access-date=2018-01-18}}</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref name=Timatic />
+|
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes2|eVisa}}<ref name=Timatic />
+| 
+|
+|}'}

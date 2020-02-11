@@ -1,0 +1,1349 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+Visa requirements for holders of normal passports traveling for tourist purposes:
+
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AF}}</ref>
+| 
+| 
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AL}}</ref>
+| 
+| 
+*Visa not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) <ref name=":0" />
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=DZ}}</ref>
+| 
+| 
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AD}}</ref>
+| 
+| 
+*Schengen visa covers entry.
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AO}}</ref>
+|
+| 
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref>{{Timatic|nationality=DO|destination=AG}}</ref>
+| 
+|
+* Visa waiver for passengers with valid visa issued by Canada, USA, UK or Schengen Member State. Visa fee: USD-100, for max. of 30 days.
+|-
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AR}}</ref>
+|
+| 
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=AM}}</ref>
+| 120 days
+| 
+* Obtainable on arrival at [[Zvartnots International Airport]] or prior to travel online.<ref>[https://evisa.mfa.am/pls/dbms/evis_n.put_application_p0 e-Visa - Republic of Armenia Electronic Visa System]</ref>
+|-
+| {{flag|Australia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AU}}</ref>
+| 
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AT}}</ref>
+| 
+| 
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AZ}}</ref>
+| 
+| 
+*Visa on arrival is available providing an official invitation letter. 
+|-
+| {{flag|Bahamas}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BS}}</ref>
+| 
+| 
+*Bahamas tourist visa is not required for US or Canada Resident card holder for a stay up to 30 days.<ref>{{cite web|url=http://www.bahamas.com/entry-requirements|title=Entry Requirements|website=The Official Site of The Bahamas}}</ref>
+|-
+| {{flag|Bahrain}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=DO|destination=BH}}</ref><ref>{{cite web|url=http://www.evisa.gov.bh/VisaBhrnats.html|title=Bahrain Electronic Visa Service|website=www.evisa.gov.bh}}</ref>
+| 
+| 
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=BD}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BB}}</ref>
+| 
+| 
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BY}}</ref>
+| 
+| 
+*Visas are issued on arrival at the [[Minsk International Airport]] if the support documents were submitted not later than 3 business days before expected date of arrival.<ref>{{cite web|url=http://www.mfa.gov.by/en/visa/airport/ |title=Particulars of issuance of entry visas at the «National Airport Minsk» - Ministry of Foreign Affairs of the Republic of Belarus |publisher=Mfa.gov.by |date= |accessdate=2018-07-25}}</ref> 
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BE}}</ref>
+| 
+| 
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.ins.gov.bz/index.php/visa-requirements/visa-exempted |title=Exempted Countries |publisher=Ins.gov.bz |date= |accessdate=2018-07-25}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BT}}</ref>
+| 
+| 
+*Visa on arrival is available if the clearance is obtained 
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=BO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BA}}</ref>
+| 
+| 
+*Visa not required for holders of a valid Schengen visa.
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=BW}}</ref>
+| 90 days
+| 
+*90 days within any year period
+|-
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BR}}</ref>
+| 
+| 
+*Visa waiver agreement was signed in May 2018 and it is yet to come into force.<ref>[https://concordia.itamaraty.gov.br/detalhamento/12141 Acordo entre a República Federativa do Brasil e a República Dominicana sobre Isenção de Vistos de Turismo e Negócios] {{pt icon}}</ref>
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BN}}</ref>
+|
+| 
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BG}}</ref>
+| 
+| 
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BF}}</ref>
+| 
+| 
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BI}}</ref>
+| 
+| 
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CM}}</ref>
+| 
+| 
+*Pre-approved visa on arrival is available. 
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CA}}</ref>
+| 
+| 
+*Visa not required for US permanent resident card Holders.<ref>{{cite web|url=http://www.cic.gc.ca/english/helpcentre/answer.asp?q=593&t=16|title=I have U.S. residency (Green Card). Do I need a visa or an eTA to visit Canada or can I use my Green Card?|first=Government of Canada, Immigration, Refugees and Citizenship Canada, Communications|last=Branch|website=www.cic.gc.ca}}</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=CV}}</ref>
+| 
+|
+* Not available at all entry points.<ref>Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].</ref>
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CF}}</ref>
+| 
+| 
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=TD}}</ref>
+| 
+| 
+|- 
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CL}}</ref>
+| 
+| 
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CN}}</ref>
+| 
+| 
+*Pre-arranged visa on arrival is available
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=KM}}</ref>
+| 
+| 
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CG}}</ref>
+| 
+| 
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CD}}</ref>
+| 
+| 
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CR}}</ref>
+| 
+| 
+*Visa waiver for passengers with multiple-entry valid visa issued by Canada or USA, maximum for 30 days.
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CI}}</ref>
+| 
+| 
+*Pre-arranged visa is available on arrival providing an invitation letter.
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=HR}}</ref>
+| 
+| 
+|- 
+| {{flag|Cuba}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CU}}</ref>
+| 
+| 
+*No visa required, tourist card for maximum 30 days on arrival/prior to arrival
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CY}}</ref>
+| 
+|
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CZ}}</ref>
+| 
+| 
+|-
+| {{flag|Denmark}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=DK}}</ref>
+| 
+| 
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+| 
+|-
+| {{flag|Dominica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=DM}}</ref>
+| 
+| 
+*Visa is not required for holders of a valid US, UK, Canada or a Schengen member State visa.
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=EC}}</ref>
+| 90 days<ref name=A>Extendable length of stay.</ref>
+|
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=EG}}</ref>
+| 15 days
+| 
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=SV}}</ref>
+| 3 months
+| 
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GQ}}</ref>
+|
+| 
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=ER}}</ref>
+| 
+| 
+*Pre-arranged visa on arrival is available.
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=EE}}</ref>
+| 
+| 
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SZ}}</ref>
+|
+| 
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=DO|destination=ET}}</ref>
+| 
+| 
+*Visa on arrival is available for those traveling as tourists or providing an invitation letter.
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=FJ}}</ref>
+|
+| 
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=FI}}</ref>
+| 
+| 
+|-
+| {{flag|France}} and territories
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=FR}}</ref>
+|
+| 
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+| 
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=GM}}</ref>
+| 90 days
+| 
+*Must obtain an entry clearance from the Gambian Immigration prior to travel <ref>Entry clearance is not required if traveling as tourists on a charter flight.</ref>
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=GE}}</ref>
+| 1 year
+| 
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=DE}}</ref>
+| 
+| 
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GH}}</ref>
+| 
+| 
+*Pre-arranged visa on arrival is available.
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GR}}</ref>
+| 
+| 
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=GD}}</ref>
+|
+| 
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=GT}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GN}}</ref>
+| 
+| 
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=GW}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref name="auto">{{Timatic|nationality=DO|destination=GY}}</ref><ref>{{Cite web |url=http://www.minfor.gov.gy/index.php/consular-services/travel/countries-whose-nationals-do-not-require-visas-to-enter-guyana |title=Archived copy |access-date=2015-04-24 |archive-url=https://web.archive.org/web/20150402034507/http://www.minfor.gov.gy/index.php/consular-services/travel/countries-whose-nationals-do-not-require-visas-to-enter-guyana |archive-date=2015-04-02 |dead-url=yes |df= }}</ref>
+| 30 days
+| 
+|- 
+| {{flag|Haiti}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=HT}}</ref>
+| 
+| 
+*Visa not required for max. stay of 3 Months for Holders of a valid visa issued by Canada, the USA or a Schengen Member State. 
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref name="auto"/><ref>[http://www.minfor.gov.gy/index.php/consular-services/travel/countries-whose-nationals-do-not-require-visas-to-enter-Honduras ]{{dead link|date=July 2018}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=HU}}</ref>
+| 
+| 
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=IS}}</ref>
+| 
+| 
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=ID}}</ref>
+| 30 days
+| 
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=IR}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=IQ}}</ref>
+| 
+| 
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=IE}}</ref>
+| 
+| 
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=IL}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=IT}}</ref>
+| 
+| 
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=JM}}</ref>
+| 
+| 
+*Visa waiver for passengers with a valid visa issued by Canada, USA, UK, or a Schengen Member State for maximum of 30 days.
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=JP}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=JO}}</ref>
+| 
+| 
+*Conditions apply.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=4 May 2014}}</ref> Not available at all entry points.<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=KZ}}</ref>
+| 
+| 
+*Visa on arrival is available providing an invitation letter.
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=KE}}</ref><ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=immigration.ecitizen.go.ke}}</ref>
+|90 days
+| 
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=KI}}</ref>
+|
+| 
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=KP}}</ref>
+| 
+| 
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=KR}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=KW}}</ref>
+| 
+| 
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=DO|destination=KG}}</ref>
+| 
+| 
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=29 September 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=LA}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=LV}}</ref>
+| 
+| 
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=LB}}</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months; granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://evisalesotho.com|title=visa lesotho tourism documents travel evisalesotho.com|website=Lesotho E-Visa}}</ref><ref>{{Timatic|nationality=DO|destination=LS}}</ref>
+| 
+| 
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=LR}}</ref>
+| 
+| 
+*Pre-arranged visa on arrival is available.
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=LY}}</ref>
+| 
+| 
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=LI}}</ref>
+| 
+| 
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=LT}}</ref>
+| 
+| 
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=LU}}</ref>
+| 
+| 
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MK}}</ref>
+| 
+| 
+*No visa required for holders of a multiple entry Schengen visa.
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=MG}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=MW}}</ref>
+| 30 days.
+| 
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=MY}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=MV}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=ML}}</ref>
+|
+| 
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MT}}</ref>
+| 
+| 
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MH}}</ref>
+| 
+| 
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=MR}}</ref>
+| 
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=MU}}</ref>
+| 60 days
+| 
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MX}}</ref>
+| 
+| 
+*No visa required for those holding a valid US or Schengen visa.
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=FM}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Moldova}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MD}}</ref>
+| 
+| 
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MC}}</ref>
+|
+| 
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MN}}</ref>
+| 
+|
+*Pre-arranged visa on arrival is available.
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=ME}}</ref>
+| 
+| 
+*Visa waiver for passengers with a valid visa issued by Canada, USA, UK or a Schengen Member State for 30 days.
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MA}}</ref>
+| 
+| 
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=MZ}}</ref>
+| 30 days
+| 
+*Conditions apply<ref>{{cite web|title=Visa Information|url=https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MZ/VI/IS/ID23549&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=4 May 2014}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Myanmar}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=MM}}</ref>
+| 
+| 
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=NA}}</ref>
+| 
+| 
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=NR}}</ref>
+|
+| 
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=NP}}</ref>
+| 90 days
+| 
+|- 
+| {{flag|Netherlands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=NL}}</ref>
+|
+| 
+|- 
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=NZ}}</ref>
+| 
+| 
+|- 
+| {{flag|Nicaragua}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=NI}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=NE}}</ref>
+|
+| 
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=NG}}</ref>
+| 
+| 
+*Pre-arranged visa on arrival is available.
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=NO}}</ref>
+| 
+| 
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=OM}}</ref>
+|
+| 
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PK}}</ref>
+|
+| 
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=PW}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PA}}</ref>
+| 
+| 
+*No visa required for holders of a valid US, Canada, Japan or Schengen Member State visa.
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PG}}</ref>
+| 
+| 
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PY}}</ref>
+| 
+| 
+|-
+| {{flag|Peru}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=PE}}</ref>
+| 60 days
+| 
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=PH}}</ref>
+| 30 days
+| 
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PL}}</ref>
+| 
+| 
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PT}}</ref>
+| 
+| 
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 90 days
+|
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=RO}}</ref>
+|
+| 
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=RU}}</ref>
+| 
+| 
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=RW}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=KN}}</ref>
+| 
+| 
+*Visa is obtained online.<ref>{{cite web|url=https://evisa.gov.kn/evisa-prod/|title=Main Page|website=evisa.gov.kn}}</ref> 
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=LC}}</ref>
+| 
+| 
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=VC}}</ref>
+|
+| 
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=DO|destination=WS}}</ref>
+| 60 days
+| 
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SM}}</ref>
+|
+| 
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=ST}}</ref>
+| 
+| 
+*Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SA}}</ref>
+| 
+| 
+|-
+| {{flag|Senegal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=SN}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=RS}}</ref>
+| 
+| 
+*Visa not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) <ref name=":0">{{cite web|url=http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime|title=Data|website=www.mfa.gov.rs|accessdate=22 January 2015}}</ref>
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=DO|destination=SC}}</ref>
+| 3 months<ref name="A" />
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SL}}</ref>
+|
+| 
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=SG}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SK}}</ref>
+| 
+| 
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SI}}</ref>
+| 
+| 
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=DO|destination=SB}}</ref>
+| 3 months
+| 
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=SO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=ZA}}</ref>
+| 
+| 
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SS}}</ref>
+|
+| 
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=ES}}</ref>
+| 
+| 
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=LK}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SD}}</ref>
+|
+| 
+|-
+| {{flag|Suriname}}
+| {{yes-no|Tourist Card on arrival}}<ref>{{Timatic|nationality=DO|destination=SR}}</ref>
+| 
+| 
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SE}}</ref>
+| 
+| 
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CH}}</ref>
+| 
+| 
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SY}}</ref>
+| 
+| 
+*Pre-arranged visa on arrival is available.
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=DO|destination=TJ}}</ref><ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|website=www.evisa.tj}}</ref>
+| 45 days
+| 
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=TZ}}</ref>
+|
+| 
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=TH}}</ref>
+| 
+| 
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=TL}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Obtainable at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili Sea Port]].</ref>
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=TG}}</ref>
+| 7 days
+| 
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=TO}}</ref>
+| 
+| 
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=TT}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=TN}}</ref>
+| 
+| 
+*Visa not required for passengers traveling on an organized tour.
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=DO|destination=TR}}</ref>
+| 3 months
+| 
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=TM}}</ref>
+| 
+| 
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=TV}}</ref>
+| 1 month
+| 
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=UG}}</ref>
+| 
+| 
+*Determined at the port of entry.
+|- 
+| {{flag|Ukraine}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.mfa.gov.ua/|title=Homepage - Ministry of Foreign Affairs of Ukraine|website=evisa.mfa.gov.ua}}</ref>
+|
+| 
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AE}}</ref>
+| 
+| 
+*E-visas can be obtained.<ref>{{cite web|url=http://www.ednrd.ae/|title=eDNRD|website=www.ednrd.ae}}</ref>
+* A 96-hour transit visa can be obtained on arrival at Dubai (DXB).  
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GB}}</ref>
+|
+| 
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=US}}</ref>
+| 
+| 
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=UY}}</ref>
+|
+| 
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=UZ}}</ref>
+| 
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=VU}}</ref>
+| 
+| 
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=VA}}</ref>
+|
+| 
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=VE}}</ref>
+| 
+| 
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=VN}}</ref>
+| 
+| 
+*Pre-arranged visa obtained online through travel agencies available at [[Hanoi]], [[Ho Chi Minh City]] or [[Da Nang]] airports.
+*[[Phú Quốc]] without a visa for up to 30 days.<ref>{{cite web|url=http://www.vietseatourist.vn/News/category1/news-57/No-visa-required-for-tourists-to-Phu-Quoc-on-short-stay.html|title=No visa required for tourists to Phu Quoc on short stay - Vietsea Tourist - Travel to Vietnam, Laos, Cambodia and Thailand - Vietnam Travel Tours|website=www.vietseatourist.vn}}</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=YE}}</ref>
+|
+| 
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=DO|destination=ZM}}</ref>
+| 
+| 
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=DO|destination=ZW}}</ref>
+|
+| 
+|}
+
+===Dependent, Disputed, or Restricted territories===
+Visa requirements for Dominican Republic citizens for visits to various territories, disputed areas, partially recognised countries and restricted zones:
+
+{| class="wikitable" style="text-align: left; table-layout: fixed; "
+|-
+! colspan="3" | Africa
+|-
+! Visitor to !! Visa requirement !! Notes (excluding departure fees)
+|-
+| {{Flag|British Indian Ocean Territory}}
+| {{yes-no|Special permit required}}
+| Special permit required.<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/british-indian-ocean-territory|title=British Indian Ocean Territory travel advice|website=GOV.UK}}</ref>
+|-
+| {{Flag|Eritrea}} outside [[Asmara]]
+| {{yes-no|Travel permit required}}
+| To travel in the rest of the country, a Travel Permit for Foreigners is required (20 [[Eritrean nakfa]]).<ref>{{cite web|url=http://www.eritrea.be/MoT.htm|title=Ministry of Tourism - Tourism Service Center|first=Hans van der|last=Splinter|website=www.eritrea.be}}</ref>
+|-
+| {{Flag|Ascension Island}}
+| {{yes-no|Entry Permit required}}
+| Entry Permit must be obtained minimum 28 days in advance (3 months for 20/30 [[pound sterling|pounds sterling]], single/double entry).<ref>{{Cite web |url=http://www.ascension-island.gov.ac/services/entry-permits/ |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20170709230215/http://www.ascension-island.gov.ac/services/entry-permits/ |archive-date=2017-07-09 |dead-url=yes |df= }}</ref>
+|-
+| {{Flag|Saint Helena}}
+| {{yes2|eVisa}}<ref>{{cite web|title=Saint Helena eVisa|url=https://evisa.sainthelena.gov.sh|website=Saint Helena Government}}</ref><ref>{{cite web|title=VISA REQUIREMENTS FOR VISITING ST HELENA|url=http://www.sainthelena.gov.sh/visa-requirements-for-visiting-st-helena/|publisher=St Helena Government|accessdate=25 January 2018|date=14 December 2017}}</ref>
+| 
+|-
+| {{Flag|Tristan da Cunha}}
+| {{yes-no|Permission required}}
+| Permission to land required for 15/30 [[pound sterling|pounds sterling]] (yacht/ship passenger) for Tristan da Cunha Island or 20 [[pound sterling|pounds sterling]] for [[Gough Island]], [[Inaccessible Island]] or [[Nightingale Islands]].<ref>{{cite web|url=http://www.tristandc.com/visitsadmin.php|title=Tristan da Cunha Tourism|first=Richard|last=Grundy|website=www.tristandc.com}}</ref>
+|-
+| [[Sahrawi Arab Democratic Republic|Western Sahara]]
+| {{yes-no|Undefined visa regime}}
+| Undefined visa regime in the [[Free Zone (region)|Sahrawi administered areas]]. [[Visa policy of Morocco|Moroccan visa]] required in Moroccan administered areas
+|-
+| {{flagicon|France}} [[Réunion]]
+| {{no|Visa required}}
+| Schengen visa covers entry
+|-
+| {{Flag|Somaliland}}
+| {{yes-no|Visa on arrival}}
+| 30 days for 30 [[US dollar]]s, payable on arrival.<ref>{{Cite web |url=http://www.lonelyplanet.com/somaliland-puntland-and-somalia/practical-information/visas |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20141106194323/http://www.lonelyplanet.com/somaliland-puntland-and-somalia/practical-information/visas |archive-date=2014-11-06 |dead-url=yes |df= }}</ref><ref>{{Cite web |url=http://www.somalilandgov.com/Visa%20Application.htm |title=Archived copy |access-date=2006-11-17 |archive-url=https://archive.is/20061117003149/http://www.somalilandgov.com/Visa%20Application.htm |archive-date=2006-11-17 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Sudan}} 
+| {{yes-no|Travel permit required}}
+| All foreigners traveling more than 25 kilometres outside of [[Khartoum]] must obtain a travel permit.
+|-
+|{{flagicon|Sudan}} [[Darfur]]
+| {{yes-no|Travel permit required}}
+| Separate travel permit is required.<ref>{{cite web|title=Republic of South Sudan Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/travel/cis_pa_tw/cis/cis_5525.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=19 November 2013|archive-url=https://web.archive.org/web/20131105150822/http://travel.state.gov/travel/cis_pa_tw/cis/cis_5525.html#entry_requirements|archive-date=5 November 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+! colspan="3" | Asia
+|-
+! Visitor to !! Visa requirement !! Notes (excluding departure fees)
+|-
+| {{flag|Hong Kong}}
+| {{yes|Visa not required}}
+| 30 days<ref>{{Timatic|nationality=DO|destination=HK}}</ref>
+|-
+| {{flag|Kazakhstan}} 
+| {{yes-no|Special permission required}}
+| Special permission required for the town of [[Baikonur]] and surrounding areas in [[Kyzylorda Oblast]], and the town of [[Gvardeyskiy, Kazakhstan|Gvardeyskiy]] near [[Almaty]].<ref>{{cite web|title=Kazakhstan Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1150.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20131102170930/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1150.html#entry_requirements|archive-date=2 November 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flagicon|Iran}} [[Kish Island]]
+| {{yes|Visa not required}}
+| Visitors to [[Kish Island]] do not require a visa.<ref>{{cite web|title=Iran Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1142.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20131203094257/http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1142.html#entry_requirements|archive-date=3 December 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flag|Macau}}
+| {{yes-no|Visa on Arrival}}<ref>{{Timatic|nationality=DO|destination=MO}}</ref>
+|
+|-
+| {{flagicon|Malaysia}} [[Sabah]] and [[Sarawak]]
+| {{no|Visa required}}
+| These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.<ref>{{cite web|title=Malaysia Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_960.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20131128154523/http://travel.state.gov/travel/cis_pa_tw/cis/cis_960.html#entry_requirements|archive-date=28 November 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flagicon|Maldives}} [[Maldives]]
+| {{yes-no|Permission required}}
+| With the exception of the capital [[Malé]], tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of Maldives.<ref>{{cite web|title=Maldives Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_961.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20131202232123/http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_961.html#entry_requirements|archive-date=2 December 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flag|Palestine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=PS}}</ref>
+| Arrival by sea to [[Gaza Strip]] not allowed.<ref>{{cite web|title=Israel Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1064.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20131114103216/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1064.html#entry_requirements|archive-date=14 November 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flag|Taiwan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=DO|destination=TW|accessdate=26 November 2013}}</ref> 
+|30 days
+|-
+| {{Flagicon|Tajikistan}} [[Gorno-Badakhshan Autonomous Province]]
+| {{yes-no|OIVR permit required}}
+| OIVR permit required (15+5 [[Tajikistani Somoni]]) and another special permit (free of charge) is required for [[Lake Sarez]].<ref>{{cite web|url=http://www.pamirs.org/visas.htm|title=Pamirs - the roof of the world|website=www.pamirs.org}}</ref><ref>{{Cite web |url=http://www.traveltajikistan.com/visas/gbao.html |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20150423031531/http://www.traveltajikistan.com/visas/gbao.html |archive-date=2015-04-23 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://tajiktourism.com/tajikistan-visa/|title=Tajikistan-Visa|date=27 April 2012|publisher=}}</ref>
+|-
+| {{Flagicon|People\s Republic of China}} [[Tibet Autonomous Region]]
+| {{yes-no|TTP required}}
+| Tibet Travel Permit required (10 [[US Dollars]]).<ref>{{Cite web |url=http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |title=Archived copy |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20131017213737/http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |archive-date=2013-10-17 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.tibettravel.org/tibet-travel-permit/tibet-permits.html|title=How to get Tibet Travel Permit, Successful Application Tips|website=Tibet Travel and Tours - Tibet Vista}}</ref><ref>{{cite web|url=http://www.tibettravelplanner.com/travel_permit.htm|title=How to get a Tibet Travel Permits - Tibet Visa 2018/2019|website=www.tibettravelplanner.com}}</ref>
+|-
+| {{flagicon|UN}} [[Korean Demilitarised Zone]]
+| Restricted zone.
+| 
+|-
+| {{flagicon|United Nations}} [[UNDOF Zone]] and [[Ghajar]]
+| Restricted zone.
+| 
+|-
+| {{flag|Yemen}}
+| {{yes-no|Special permission required}}
+| Special permission needed for travel outside [[Sana’a]] or [[Aden]]. Also, a small fee is charged on a case by case basis.<ref>{{cite web|title=Yemen Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1061.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=19 November 2013|archive-url=https://web.archive.org/web/20131114101625/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1061.html#entry_requirements|archive-date=14 November 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+! colspan="3" | Caribbean and North Atlantic
+|-
+! Visitor to !! Visa requirement !! Notes (excluding departure fees)
+|-
+| {{flag|Anguilla}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AI}}</ref>
+| Visa required, except for Holders of a visa issued by the United Kingdom. 
+|-
+| {{flag|Aruba}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=AW}}</ref>
+| Visa not required if holding a valid multiple-entry visa issued by Canada, USA or a Schengen Member State.
+|-
+| {{flag|Bermuda}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BM}}</ref> 
+| Visa required, except for A max stay of 3 months for holders of a multiple-entry visa issued by Canada, USA or the United Kingdom, valid for at  least 45 days beyond the period of intended stay in Bermuda. 
+|-
+| {{flagicon|Netherlands}} [[Bonaire]], [[St. Eustatius]] and [[Saba]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=BQ}}</ref>
+| Visa not required if holding a valid multiple-entry visa issued by Canada, USA or a Schengen Member State.
+|-
+| {{flag|British Virgin Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=VG}}</ref>
+|Visa not required if holding a valid multiple-entry visa issued by Canada, USA or a Schengen Member State valid for a minimum of 6 months on arrival. They must travel as tourists or on business for a maximum stay of 6 months. 
+|-
+| {{flag|Cayman Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=KY}}</ref>
+| Visa not Required if you are a US, Canada or United Kingdom Resident and arrive directly from those countries.<ref> [http://www.immigration.gov.ky/portal/page?_pageid=4121,7117326&_dad=portal&_schema=PORTAL] {{Webarchive|url=https://web.archive.org/web/20140515000100/http://www.immigration.gov.ky/portal/page?_pageid=4121,7117326&_dad=portal&_schema=PORTAL |date=2014-05-15 }}</ref>
+|-
+| {{flag|Curacao}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=CW}}</ref>
+| Visa not required if holding a valid multiple-entry visa issued by Canada, USA or a Schengen Member State.
+|-
+| {{flagicon|France}} [[French Guiana]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GF}}</ref>
+| Schengen visa endorsed with "for French Guiana" covers entry
+|-
+| {{flagicon|France}} [[French West Indies]] 
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GP}}</ref>
+| French West Indies refers to [[Martinique]], [[Guadeloupe]], [[Collectivity of Saint Martin|Saint Martin]] and [[Saint Barthélemy]].
+Schengen visa endorsed with "for French West Indies" covers entry
+|-
+| {{flag|Greenland}}
+| {{no|Visa required}}<ref name="gov.uk"/>
+|No visa required for holders of a Schengen member State visa. 
+|-
+| {{flag|Montserrat}}
+| {{yes|Visa not required}}
+| 6 months<ref>{{cite web|url=https://www.immigration.ms/|title=Montserrat Online Visa Application :: Government of Montserrat :: Home|website=www.immigration.ms}}</ref><ref>{{Timatic|nationality=DO|destination=MS}}</ref>
+|-
+| {{flag|Puerto Rico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PR}}</ref> 
+|
+|-
+| {{flag|Saint Pierre and Miquelon}}
+| {{no|Visa required}}
+|Not required for holders of a Schengen visa.
+|-
+| {{flag|Sint Maarten}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=SX}}</ref>
+| Visa not required if holding a valid multiple-entry visa issued by Canada, USA or a Schengen Member State.
+|-
+| {{flag|Turks and Caicos Islands}}
+| {{no|Visa required}} <ref>{{Timatic|nationality=DO|destination=TC}}</ref>
+| Visa not required for holders of a valid visa issued by Canada, United Kingdom or the USA. <ref>{{cite web|url=https://www.visittci.com/getting-here/passports-and-visas|title=Passports and Visas|publisher=}}</ref> 
+|-
+| {{flag|U.S. Virgin Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=VI}}</ref>
+|
+|-
+! colspan="3" | Europe
+|-
+! style="width:18%;"| Visitor to !! style="width:19%;"| Visa requirement !! Notes (excluding departure fees)
+|-
+| {{flag|Abkhazia}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://mfaapsny.org/aps/council/visa.php |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20170623135732/http://mfaapsny.org/aps/council/visa.php |archive-date=2017-06-23 |dead-url=yes |df= }}</ref>
+| 
+|-
+| [[File:Flag of the Greek Orthodox Church.svg|21px]] [[Mount Athos]]
+| {{yes-no|Special permit required}}
+| Special permit required (4 days: 25 [[euro]] for [[Eastern Orthodox Church|Orthodox]] visitors, 35 [[euro]] for non-Orthodox visitors, 18 [[euro]] for students).<br>There is a visitors\ quota: maximum 100 [[Eastern Orthodox Church|Orthodox]] and 10 non-Orthodox per day and women are not allowed.<ref>{{cite web|url=http://www.athosfriends.org/PilgrimsGuide/planning/|title=The Friends of Mount Athos - A Pilgrim\s Guide to Mount Athos: Planning Your Visit|website=www.athosfriends.org}}</ref><ref>{{Cite web |url=http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20171025091841/http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html |archive-date=2017-10-25 |dead-url=yes |df= }}</ref>
+|-
+| {{flagicon|Crimea}} [[Crimea]]
+| {{no|Visa required}}
+| Visa issued by Russia is required.<ref>{{cite web|url=http://www.themoscowtimes.com/news/article/foreigners-now-need-russian-visa-to-visit-crimea/497173.html|title=Foreigners Now Need Russian Visa to Visit Crimea|publisher=}}</ref>
+|-
+| {{flag|Turkish Republic of Northern Cyprus}}
+| {{yes|Visa not required}}
+| 3 months<ref>{{cite web|url=http://www.korinia.com/living-north-cyprus.php|title=Northern Cyprus, Living in North Cyprus, Postal System, Passports and Visa|first=Korinia Estate Agency, North|last=Cyprus|website=www.korinia.com}}</ref><ref>{{cite web|url=http://www.cypnet.co.uk/ncyprus/tourism/tourist.html|title=How to get to North Cyprus? - Passport, Visa & Entry Requirements|website=www.cypnet.co.uk}}</ref>
+|-
+| {{flagicon|United Nations}} [[United Nations Buffer Zone in Cyprus|UN Buffer Zone in Cyprus]]
+| {{yes-no|Access Permit required}}<ref>{{Cite web |url=http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20141021143210/http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |archive-date=2014-10-21 |dead-url=yes |df= }}</ref>
+| Access Permit is required for travelling inside the zone, except Civil Use Areas.
+|-
+| {{flag|Faroe Islands}}
+| {{no|Visa required}}<ref name="gov.uk">{{cite web|url=https://www.gov.uk/foreign-travel-advice/denmark/entry-requirements|title=Entry requirements - Denmark travel advice|publisher=}}</ref>
+| Schengen visa covers entry
+|-
+| {{flagicon|United Kingdom}} [[Gibraltar]]
+| {{no|Visa required}}<ref name="ReferenceA">{{Timatic|nationality=DO|destination=GI|accessdate=26 November 2013}}</ref>
+| UK Visa covers entry
+|-
+| {{flag|Guernsey}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.gov.gg/doirequireanentryclearance|title=Do I require an entry clearance/ VISA|publisher=|access-date=2018-05-09|archive-url=https://web.archive.org/web/20131202222421/http://www.gov.gg/doirequireanentryclearance|archive-date=2013-12-02|dead-url=yes|df=}}</ref>
+| UK Visa covers entry
+|-
+| {{flag|Isle of Man}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man/|title=An overview of Immigration in the Isle of Man|publisher=|access-date=2018-05-09|archive-url=https://web.archive.org/web/20131123192018/http://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man|archive-date=2013-11-23|dead-url=yes|df=}}</ref>
+|  UK Visa covers entry
+|-
+| {{flagicon|Norway}} [[Jan Mayen]]
+| {{yes-no|Permit required}}<ref name="ReferenceA"/>
+| Permit issued by the local police required for staying for less than 24 hours<ref>{{cite web|url=http://www.jan-mayen.no/visit.htm|title=JAN MAYEN HOMESITE, EDITED BY THE JAN MAYEN CREW|first=Jan Mayen|last=Crew|website=www.jan-mayen.no}}</ref> and permit issued by the [[Norwegian Police Service|Norwegian police]] for staying for more than 24 hours.<ref>{{Cite web |url=http://www.lovdata.no/for/sf/jd/xd-19620601-0001.html |title=Archived copy |access-date=2014-08-01 |archive-url=https://archive.is/20120804180318/http://www.lovdata.no/for/sf/jd/xd-19620601-0001.html |archive-date=2012-08-04 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Jersey}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.gov.je/Travel/InformationAdvice/Visitors/Pages/VisaPassport.aspx|title=Visa and passport requirements for visitors|first=States of|last=Jersey|website=www.gov.je}}</ref>
+|  UK Visa covers entry
+|-
+| {{flag|Kosovo}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.mfa-ks.net/?page=2,158|title=Special Categories Exempted From Visa Requirements - For Foreign Citizens - Consular Services - Ministry of Foreign Affairs - Republic of Kosovo|website=Ministry of Foreign Affairs - Republic of Kosovo}}</ref>
+| Schengen visa covers entry 
+|-
+| {{flag|Nagorno-Karabakh Republic}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.nkr.am/en/the-procedure-of-foreign-citizens-entry-to-the-nkr/92/|title=The procedure of foreign citizens\ entry to the NKR - MFA NKR|website=www.nkr.am}}</ref><ref>{{cite web|url=http://www.nkrusa.org/nkr_office/visa_travel.shtml|title=The Office of the Nagorno Karabakh Republic in USA|website=www.nkrusa.org}}</ref>
+| Travellers with [[Nagorno-Karabakh Republic|Nagorno-Karabakh]] visa (expired or valid) or evidence of travel to [[Nagorno-Karabakh Republic|Nagorno-Karabakh]] (stamps) will be permanently denied entry to [[Azerbaijan]].<ref>{{cite web|url=http://mfa.gov.az/index.php?options=content&id=587|title=Azərbaycan Respublikasının Xarici İşlər Nazirliyi Azərbaycan Respublikasının vətəndaşlarına  Liviyada mövcud olan vəziyyətlə bağlı xəbərdarlıq edir, 12 may 2011-ci il.|first=|last=FS|website=mfa.gov.az}}</ref>
+|-
+| {{flag|Novorossiya}}
+| {{no|Restricted area}}
+| Crossing from Ukraine requires visit purpose to be explained to Ukrainian passport control on exit and those who entered from Russia are not allowed to proceed further into Ukraine.<ref>{{cite web|url=http://rt.com/news/202811-ukraine-border-passport-control/|title=Kiev declares passport control on border with rebel held regions|publisher=}}</ref><ref>{{cite web|url=http://www.abc.net.au/news/2014-11-06/ukraine-imposes-passport-control-around-rebel-held-regions/5873240|title=Ukraine imposes passport control on rebel-held regions|date=6 November 2014|publisher=}}</ref>
+|-
+| {{flag|Russia}}
+| {{yes-no|Special authorization required}} 
+| Several [[Russian closed city|closed cities and regions in Russia]] require special authorisation.<ref>{{cite web|title=Russian Federation Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1006.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20131203003453/http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1006.html#entry_requirements|archive-date=3 December 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flag|South Ossetia}}
+| {{yes|Visa not required}}
+| Multiple entry visa to [[Russia]] and three-day prior notification are required to enter South Ossetia.<ref>{{cite web|url=http://mfa-rso.su/node/55|title=О визах - Министерство иностранных дел|website=mfa-rso.su}}</ref><ref>{{cite web|url=http://mfa-rso.su/en/node/406|title=Procedure of the Entry to the Territory of the Republic of South Ossetia - Министерство иностранных дел|website=mfa-rso.su}}</ref>
+|-
+| {{flag|Svalbard}}
+| {{yes|Visa not required}}
+| No one requires a visa to enter Svalbard but practically its impossible to board a flight/ferry to Svalbard without entering Norway. Hence double entry Schengen visa would be required to go and come back from Svalbard to mainland Norway<ref>{{cite web|url=http://www.norway.org.au/Services/Visas-and-Residence-Permits/Visas-and-other-permits/Short-stay-visas/Short-stay-visas-for-travel-to-Svalbard/#.UywTktL_Cys|title=Norway in Australia|website=Norgesportalen}}</ref>
+|-
+| {{flag|Transnistria}}
+| {{yes|Visa not required}}
+| Registration required after 24h.<ref>{{Cite web |url=http://www.luxlana.net/Transdniestr.html |title=Archived copy |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20131022114723/http://www.luxlana.net/Transdniestr.html |archive-date=2013-10-22 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://transnistria-tour.com/en/rules-and-tipps|title=Rules and recommendations - Transnistria tour|website=transnistria-tour.com}}</ref>
+|-
+! colspan="3" | Oceania
+|-
+! Visitor to !! Visa requirement !! Notes (excluding departure fees)
+|-
+| {{flagicon|Australia}} [[Ashmore and Cartier Islands]]
+| {{yes-no|Special authorisation required}}
+| Special authorisation required.<ref>{{Cite web |url=http://www.environment.gov.au/coasts/mpa/ashmore/activities.html |title=Archived copy |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20121031132558/http://environment.gov.au/coasts/mpa/ashmore/activities.html |archive-date=2012-10-31 |dead-url=yes |df= }}</ref>
+|-
+| {{flagicon|France}} [[Clipperton Island]]
+| {{yes-no|Special permit required}}
+| Special permit required.<ref>{{cite web|url=http://www.clipperton.fr/incagen.html?geopolitique.htm~main|title=Clipperton - Ile de La Passion|first=Bruno|last=Quintero|website=www.clipperton.fr}}</ref>
+|-
+| {{Flag|Cook Islands}}
+| {{yes|Visa not required}}
+| 31 days<ref>{{Cite web |url=http://www.mfai.gov.ck/index.php/immigration/visitors.html |title=Archived copy |access-date=2015-08-06 |archive-url=https://web.archive.org/web/20150808053716/http://www.mfai.gov.ck/index.php/immigration/visitors.html |archive-date=2015-08-08 |dead-url=yes |df= }}</ref>
+|-
+| {{flagicon|Fiji}} [[Lau Province]]
+| {{yes-no|Special permission required}}
+| Special permission required.<ref>{{cite web|title=Fiji Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=http://www.travel.state.gov/travel/cis_pa_tw/cis/cis_1114.html#entry_requirements|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20131102204202/http://travel.state.gov/travel/cis_pa_tw/cis/cis_1114.html#entry_requirements|archive-date=2 November 2013|dead-url=yes|df=dmy-all}}</ref>
+|-
+| {{flag|French Polynesia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=PF}}</ref>
+|Schengen visa covers entry. 
+|-
+| {{flag|Guam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=DO|destination=GU}}</ref>
+|
+|-
+| {{flag|Niue}}
+| {{yes-no|Visa on arrival}}
+| 30 days<ref>{{Cite web |url=http://www.niueisland.com/getting-niue |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140824231422/http://www.niueisland.com/getting-niue |archive-date=2014-08-24 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Pitcairn Islands}}
+| {{yes|Visa not required}}
+| 14 days visa free and landing fee 35 USD or tax of 5 USD if not going ashore.<ref>{{Cite web |url=http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20131018001850/http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |archive-date=2013-10-18 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.government.pn/visaInfo.php|title=Pitcairn Islands|first=Bill|last=Haigh|website=www.government.pn}}</ref><ref>{{Cite web |url=http://www.government.pn/immigration%20ordinance.pdf |title=Archived copy |access-date=2017-07-20 |archive-url=https://web.archive.org/web/20170921160935/http://www.government.pn/immigration%20ordinance.pdf |archive-date=2017-09-21 |dead-url=yes |df= }}</ref>
+|-
+| {{flagicon|US}} [[United States Minor Outlying Islands]]
+| {{no|Special permits required}}
+| Special permits required for [[Baker Island]], [[Howland Island]], [[Jarvis Island]], [[Johnston Atoll]], [[Kingman Reef]], [[Midway Atoll]], [[Palmyra Atoll]] and [[Wake Island]].<ref>{{Cite web |url=http://www.fws.gov/bakerisland/visit.html |title=Archived copy |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20131017211743/http://www.fws.gov/bakerisland/visit.html |archive-date=2013-10-17 |dead-url=yes |df= }}</ref><ref>{{Cite web |url=http://www.fws.gov/howlandisland/visit.html |title=Archived copy |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20131017212340/http://www.fws.gov/howlandisland/visit.html |archive-date=2013-10-17 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.fws.gov/jarvisisland/|title=Redirect Page|website=www.fws.gov}}</ref><ref>{{Cite web |url=http://www.fws.gov/johnstonisland/visit.html |title=Archived copy |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20130607120346/http://www.fws.gov/johnstonisland/visit.html |archive-date=2013-06-07 |dead-url=yes |df= }}</ref><ref>{{Cite web |url=http://www.fws.gov/kingmanreef/visit.html |title=Archived copy |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20131017212056/http://www.fws.gov/kingmanreef/visit.html |archive-date=2013-10-17 |dead-url=yes |df= }}</ref><ref>{{Cite web |url=http://www.fws.gov/midway/visit.html |title=Archived copy |access-date=2014-05-12 |archive-url=https://web.archive.org/web/20140128062001/http://www.fws.gov/midway/visit.html |archive-date=2014-01-28 |dead-url=yes |df= }}</ref><ref>{{Cite web |url=http://www.fws.gov/palmyraatoll/visit.html |title=Archived copy |access-date=2013-11-16 |archive-url=https://web.archive.org/web/20130522074332/http://www.fws.gov/palmyraatoll/visit.html |archive-date=2013-05-22 |dead-url=yes |df= }}</ref>
+|-
+! colspan="3" | South America
+|-
+! Visitor to !! Visa requirement !! Notes (excluding departure fees)
+|-
+| [[File:Bandera Provincia Galápagos.svg|border|22x20px]] [[Galapagos Province|Galápagos]]
+| {{yes-no|Pre-registration required}}
+| Online pre-registration is required. Transit Control Card must also be obtained at the airport at the airport prior to departure.<ref>{{Cite web |url=http://gobiernogalapagos.gob.ec/cgggob/info/ |title=Sistema de Calificación y Control de Residencia - Consejo de Gobierno de Galápagos |access-date=2017-06-29 |archive-url=https://web.archive.org/web/20150221022358/http://gobiernogalapagos.gob.ec/cgggob/info/ |archive-date=2015-02-21 |dead-url=yes |df= }}</ref>
+|-
+! colspan="3" | South Atlantic and Antarctica
+|-
+! Visitor to !! Visa requirement !! Notes (excluding departure fees)
+|-
+| {{flag|Falkland Islands}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.falklandislands.com/product.php/35/17/entry_and_exit_requirements/abce58e896311945651c12e01c7562dc|title=Visit The Falkland Islands - Falklands|website=www.falklandislands.com}}</ref>
+|UK visa covers entry. 
+|-
+| {{Flag|South Georgia and the South Sandwich Islands}}
+| {{yes-no|Permit required}}
+| Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 [[pound sterling|pounds sterling]]).<ref>{{cite web|url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/south-america/south-georgia-south-sandwich#entryRequirements|title=South Georgia and South Sandwich Islands (British Overseas Territory) travel advice|publisher=}}</ref><ref>{{Cite web |url=http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20080412170649/http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis |archive-date=2008-04-12 |dead-url=yes |df= }}</ref>
+|-
+| [[Antarctica]]
+| 
+| Special permits required for {{flag|British Antarctic Territory}}, {{Flag|French Southern and Antarctic Lands}}, {{flag|Argentine Antarctica}}, {{flagicon|Australia}} [[Australian Antarctic Territory]],<br> {{flagicon|Antártica Chilena Province}} [[Chilean Antarctic Territory]], {{flagicon|Australia}} [[Heard Island and McDonald Islands]], {{flagicon|Norway}} [[Peter I Island]], {{flagicon|Norway}} [[Queen Maud Land]], {{flagicon|New Zealand}} [[Ross Dependency]].<ref>{{cite web|url=http://www.antarctica.ac.uk/about_antarctica/tourism/index.php|title=Antarctic tourism - British Antarctic Survey|website=www.antarctica.ac.uk}}</ref><ref>{{Cite web |url=http://www.fco.gov.uk/content/en/travel-advice/north-central-south-america/12940285/fco_trv_ca_britishantarcticterr?ta=travelSummary&pg=1 |title=Archived copy |access-date=2011-04-27 |archive-url=http://webarchive.nationalarchives.gov.uk/20110427210122/http://www.fco.gov.uk/content/en/travel-advice/north-central-south-america/12940285/fco_trv_ca_britishantarcticterr?ta=travelSummary&pg=1 |archive-date=2011-04-27 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://britishantarcticterritory.fco.gov.uk/en/tourism/|title=British Antarctic Territory - GOV.UK|website=britishantarcticterritory.fco.gov.uk}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-a-l-Antarctique|title=Accès à l’Antarctique|website=www.taaf.fr}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-australes|title=Accès aux Terres australes françaises|website=www.taaf.fr}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-Eparses|title=Accès aux îles Eparses|website=www.taaf.fr}}</ref><ref>{{Cite web |url=http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140805081831/http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |archive-date=2014-08-05 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information|title=Forms expeditioners must sign|website=www.antarctica.gov.au}}</ref><ref>{{cite web|url=http://www.heardisland.aq/about/frequently-asked-questions#visit_heard_island|title=Frequently asked questions|first=c=AU;o=Commonwealth of Australia;ou=Department of the Environment and Energy;ou=Australian Antarctic|last=Division|website=www.heardisland.aq}}</ref><ref>{{Cite web |url=http://www.npolar.no/en/antarctica/peter-I-oy.html |title=Archived copy |access-date=2014-05-12 |archive-url=https://web.archive.org/web/20131017215217/http://www.npolar.no/en/antarctica/peter-I-oy.html |archive-date=2013-10-17 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.npolar.no/en/antarctica/dronning-maud-land.html|title=Dronning Maud Land|website=Norwegian Polar Institute}}</ref><ref>{{cite web|url=http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php|title=The Ministry of Foreign Affairs and Trade acts in the world to make New Zealanders safer and more prosperous|first=New Zealand Ministry of Foreign Affairs and|last=Trade|website=New Zealand Ministry of Foreign Affairs and Trade}}</ref>
+|}'}

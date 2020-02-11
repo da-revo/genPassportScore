@@ -1,0 +1,1101 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+Visa requirements for holders of normal passports travelling for tourist purposes:
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees) 
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=AF}}</ref>
+| 
+| 
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=AL}}</ref>
+| 
+| 
+*Visa-free entry for up to 90 days for valid USA, United Kingdom or a [[Schengen Area|Schengen Member State]] (\C\ or \D\ visa) visa holders.
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=DZ}}</ref>
+| 
+| 
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=AD}}</ref>
+| 
+| 
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=RU|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=AG}}</ref>
+| 180 days
+| 
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=AR}}</ref>
+| 90 days
+| 
+*90 days within any 180-day period
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=AM}}</ref>
+|180 days
+| 
+*[[Internal passport of Russia|Internal passport]] valid.
+|-
+| {{flag|Australia}} and [[States and territories of Australia#States, territories, and external territories|territories]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=AU}}</ref>
+| 
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection|accessdate=20 February 2017}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=AT}}</ref>
+| 
+| 
+|-
+| {{flag|Azerbaijan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=AZ}}</ref>
+| 90 days
+| 
+* 90 days within any 180-day period
+* If staying more than 10 days passengers visiting relatives must register with local police. If staying in a hotel, this will be arranged by the hotel.
+* Who are of Armenian descent Government of Azerbaijan bans the entry.
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=BS}}</ref>
+| 3 months
+| 
+*Extension of stay is possible.
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=BH}}</ref>
+| 14 days/<br> 1 month
+| 
+*Visas can be issued on arrival for a stay up to 1 month.<ref>{{cite web|url=http://www.evisa.gov.bh/VisaBhr1En.html |title=Bahrain Electronic Visa Service |publisher=Evisa.gov.bh |date= |accessdate=2017-10-03}}</ref>
+*Visa can be extended for an additional two weeks.
+*eVisa issued for 14 days, extendable once.
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=BD}}</ref>
+| 30 days
+| 
+*Visitors can apply to extend their stay when in the country.
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=BB}}</ref>
+| 28 days
+| 
+|- 
+| {{flag|Belarus}}
+| {{free|Visa not required}}<ref>[http://cis-legislation.com/document.fwx?rgn=27056 The agreement between the Russian Federation and the Republic of Belarus about the equal rights of citizens]</ref><ref>[http://en.kremlin.ru/acts/news/50353 Protocol on amending agreement between Russia and Belarus on ensuring equal rights to freedom of movement and choice of place of residence on Union State member-states\ territory]</ref>
+| colspan=2| 
+*Freedom of movement
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=BE}}</ref>
+| 
+| 
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=BZ}}</ref>
+| 
+| 
+*90 days for valid [[Schengen Area|Schengen Member State]] visa or multi-entry USA visa holders.
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=BT}}</ref>
+| 
+| 
+*Pre-approved visa can be picked up on arrival.
+*Visitors are required to book with a registered tour operator in Bhutan.
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required }}<ref>{{Timatic|nationality=RU|destination=BO}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=BA}}</ref>
+| 30 days
+|
+*30 days within any 2-month period
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=BW}}</ref>
+| 90 days
+| 
+*Extension to the visa-free period must be applied for in advance.
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=BR}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=BN}}</ref>
+| 14 days
+| 
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref name="ReferenceA">{{Timatic|nationality=RU|destination=BG}}</ref>
+| 
+| 
+*90 days within any 180-day period for holders \C\ visa issued by Croatia, Cyprus, Romania or a [[Schengen Area|Schengen Member State]].
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=BF}}</ref>
+| 
+| 
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=BI}}</ref>
+| 
+| 
+*Passengers holding an entry authorisation letter from the authorities may obtain a visa on arrival for a maximum stay of 1 month.
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=KH}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CM}}</ref>
+| 
+| 
+*May apply online.<ref>[http://ambacam.ru/Consular_section/VISA_DEPARTMENT/Online_visa_application/ Online visa application. Embassy of the Republic of Cameroon in Russia]</ref>
+*Pre-arranged visa can be picked up on arrival.
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CA}}</ref>
+| 
+| 
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=CV}}</ref>
+|3 months
+| 
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CF}}</ref>
+| 
+| 
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=TD}}</ref>
+| 
+| 
+*Visitors holding an \entry authorisation\ letter can pick up a visa on arrival.
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=CL}}</ref>
+| 90 days
+| 
+*Extension of stay possible for additional 90 days.
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CN}}</ref>
+| 
+| 
+*Visa not required for 30 days for travelling as part of an accredited tour group.
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+*May visit [[Suifenhe]] without a visa for up to 15 days if travelling with at least one companion.<ref>[http://lawandborder.com/suifenhe-visas-waived-russians-chinese-border-city/ Suifenhe: Visas Waived for Russians at Chinese Border City]</ref>
+*Residents of [[Amur Oblast]] may visit [[Heihe]] without a visa for a day.<ref>[https://archive.is/20140818093313/http://in.rbth.com/articles/2011/12/16/where_amur_connects_russia_and_china_14022.html Where Amur connects Russia and China]</ref>
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=CO}}</ref>
+| 90 days
+| 
+*Extendable up to 180-day stay within a one-year period.
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=KM}}</ref>
+| 45 days
+| 
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CG}}</ref>
+| 
+| 
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CD}}</ref>
+| 
+| 
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=CR}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{cite web|title=Visa at International Airport Felix Houphouet Boigny in Abidjan|url=http://www.snedai.com/en/index.php|accessdate=14 Oct 2015}}</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=HR}}</ref>
+| 
+| 
+*90 days within any 180-day period for valid Bulgaria, Romania, Cyprus or a [[Schengen Area|Schengen Member State]] (\C\, a double or multiple) visa holders.
+|- 
+| {{flag|Cuba}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=CU}}</ref>
+| 30 days
+| 
+*90 days within any 180-day period from 21 December 2018<ref>{{cite web|url=http://www.mid.ru/ru/foreign_policy/international_contracts/2_contract/-/storage-viewer/bilateral/page-1/53189 |title=Соглашение между Правительством Российской Федерации и Правительством Республики Куба об условиях отказа от визовых формальностей при взаимных поездках граждан Российской Федерации и граждан Республики Куба|language=ru|website=mid.ru|accessdate=22 May 2018}}</ref>
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref name="timaticweb.com"/> 
+| 
+| 
+*Pro-Visa issued online free of charge valid for 90 per 180 days in a year (single entry).{{Citation needed|date=September 2018}} Paper multi-visa \C\ is free as well.{{Citation needed|date=September 2018}}
+*90 days within any 180-day period for valid Bulgaria, Croatia, Romania or a [[Schengen Area|Schengen Member State]] visa holders.
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CZ}}</ref>
+| 
+| 
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=DK}}</ref>
+| 
+| 
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+*Visa on arrival is still available according to IATA Timatic.
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=DM}}</ref>
+| 21 days
+| 
+*6 months for valid Canada, USA, United Kingdom or a [[Schengen Area|Schengen Member State]] visa holders.
+*Visa exemption agreement for 90 days within any 180 day period was signed on 28 September 2018 and it is not yet ratified.<ref>https://tass.ru/obschestvo/5617674</ref>
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=DO}}</ref>
+| 30 days
+| 
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=EC}}</ref>
+| 90 days
+| 
+*Extension of stay is possible.
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=EG}}</ref>
+|30 days
+| 
+*eVisa issued for 30 days.<ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+*Extension of stay is possible.
+*Visa free for tourists arriving at [[Sharm El Sheikh International Airport|Sharm El Sheik]], [[St. Catherine International Airport|Saint Catherine]] or [[Taba International Airport|Taba]] airports and remaining in the Sinai resorts for a maximum stay of 15 days.
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=SV}}</ref>
+| 3 months
+| 
+*Extension of stay is possible for 90 days.
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=GQ}}</ref>
+| 
+| 
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=ER}}</ref>
+| 
+| 
+*Pre-arranged visa can be picked up on arrival.<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/ER/VI/IS/ID20291&user=EK&subuser=EMIRATES]</ref>
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=EE}}</ref>
+| 
+| 
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=SZ}}</ref>
+| 30 days
+| 
+*Extension of stay possible for a maximum of 90 days in total.
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=ET}}</ref> 
+|90 days
+| 
+*Visa on arrival only at [[Addis Ababa Bole International Airport]].
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=FJ}}</ref>
+| 4 months
+| 
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=FI}}</ref>
+| 
+| 
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=FR}}</ref>
+| 
+| 
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=GA}}</ref>
+|90 days
+| 
+*eVisa holders must arrive via [[Libreville International Airport]].<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=GM}}</ref><ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+| 
+| 
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=GE}}</ref>
+| 1 year
+| 
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=DE}}</ref>
+| 
+| 
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=GH}}</ref>
+| 
+|
+*Pre-arranged emergency visa can be picked up on arrival.
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=GR}}</ref>
+| 
+|
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=GD}}</ref>
+| 3 months
+| 
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=GT}}</ref>
+| 90 days
+| 
+*Extension of stay is possible for 90 days.
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=GN}}</ref>
+| 
+| 
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=GY}}</ref>
+| 3 months
+| 
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=HT}}</ref>
+| 3 months
+| 
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=HN}}</ref>
+| 3 months
+| 
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=HU}}</ref>
+| 
+| 
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=IS}}</ref>
+| 
+| 
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=ID}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>{{cite web|title=Visa Exemption – Immigration Checkpoint|url=http://www.imigrasi.go.id/index.php/en/layanan-publik/bebas-visa#immigration-checkpoint|publisher=Ditjen Imigrasi Republik Indonesia}}</ref>
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=IR}}</ref>
+| 30 days
+|
+*Available at [[Qeshm International Airport|Qeshm]], [[Kish International Airport|Kish]], [[Mashhad International Airport|Mashhad]], [[Isfahan International Airport|Isfahan]], [[Shiraz International Airport|Shiraz]], [[Tabriz International Airport|Tabriz]] and [[Tehran Imam Khomeini International Airport|Tehran]] airports.
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=IQ}}</ref>
+| 
+| 
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref name="ReferenceC">{{Timatic|nationality=RU|destination=IE}}</ref>
+| 
+| 
+*Visa waiver for [[United Kingdom|UK]] \C\ visa holders until October 2021. Entry permitted only if first point of entry to the [[Common Travel Area]] is in the UK.<ref>[http://www.inis.gov.ie/en/INIS/Visa%20Waiver%20Programme%20Information%20Note%20March%202012.pdf/Files/Visa%20Waiver%20Programme%20Information%20Note%20March%202012.pdf The Irish Short-stay Visa Waiver Programme]</ref>
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=IL}}</ref>
+| 3 months
+| 
+*Extension of stay is possible.
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=IT}}</ref>
+| 
+| 
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=JM}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=JP}}</ref>
+| 
+| 
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=JO}}</ref>
+|2 months
+|
+*
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=KZ}}</ref>
+| 90 days
+| 
+*[[Internal passport of Russia|Internal passport]] valid.
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|title=Republic of Kenya – eCitizen portal|url=https://immigration.ecitizen.go.ke/index.php?id=5}}</ref>
+| 3 months
+| 
+*Can also be entered on an East Africa Tourist Visa issued by Rwanda or Uganda.<ref name="migration.gov.rw">[https://www.migration.gov.rw/index.php?id=233]</ref>
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=KI}}</ref>
+| 
+| 
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=KP}}</ref>
+| 
+| 
+|-
+| {{flag|South Korea}}
+| {{Yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=KR}}</ref>
+|  60 days
+| 
+*A maximum total stay of 90 days within any 180-day period.
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=KW}}</ref>
+| 
+| 
+*Pre-arranged visa can be picked up on arrival.
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=KG}}</ref>
+| Unlimited stay
+| 
+*[[Internal passport of Russia|Internal passport]] valid.
+|-
+| {{flag|Laos}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=LA}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=LV}}</ref>
+| 
+| 
+*90 days within any 180-day period for holders of border traffic permit.
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=LB}}</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months.
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=RU|destination=LS}}</ref>
+| 
+| 
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=LR}}</ref>
+| 
+| 
+*Pre-arranged visa can be picked up on arrival.<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/LR/VI/IS/ID25223&user=EK&subuser=EMIRATES]</ref>
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=LY}}</ref>
+|
+| {{no|Due to safety concerns, Russian government advises its citizens not to visit Libya.<ref>[http://sos.mid.ru/countries/-/asset_publisher/xDkex51VuOSj/content/livia Crisis Management Centre. Department of Ministry of Foreign Affairs of Russia]</ref>}}
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=LI}}</ref>
+| 
+| 
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=LT}}</ref>
+| 
+| 
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=LU}}</ref>
+| 
+| 
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=MK}}</ref>
+| 90 days 
+| 
+*90 days within any 6-month period
+*Without a voucher and an invitation/letter of guarantee until 15 March 2019.<ref>http://www.mid.ru/ru/foreign_policy/news/-/asset_publisher/cKNonkJE02Bw/content/id/3134113</ref>
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=MG}}</ref>
+| 90 days 
+| 
+|-
+| {{flag|Malawi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=MW}}</ref>
+| 
+| 
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=MY}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=MV}}</ref>
+| 30 days
+| 
+*Extension of stay for 60 days is possible.
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=ML}}</ref>
+| 
+| 
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=MT}}</ref>
+| 
+| 
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=MH}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=MR}}</ref>
+| 
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=MU}}</ref>
+| 90 days
+| 
+|- 
+| {{flag|Mexico}}
+| {{yes2|Electronic Authorization}}<ref name="ReferenceB"/><ref>{{cite web|title=Electronic Authorization System|url=http://www.inm.gob.mx/index.php/page/Solicitud_de_Autorizacion_Electronica/en.html|accessdate=10 Dec 2015}}</ref>
+| 180 days
+| 
+*Electronic permit gives the right to enter the country only by air.
+*180 days for valid Canada, Japan, USA, United Kingdom or a [[Schengen Area|Schengen Member State]] visa holders.
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=FM}}</ref>
+| 30 days
+| 
+*Extension of stay is possible.
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=MD}}</ref>
+| 90 days
+| 
+*90 days within any 180-day period
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=MC}}</ref>
+| 
+| 
+|-
+| {{flag|Mongolia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=MN}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=ME}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=MA}}</ref>
+| 3 months
+| 
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=MZ}}</ref>
+| 30 days<ref>[http://www.mozambicanhotels.com/tourist-information/mozambique-tourism-news/mozambique-government-announces-30-day-tourist-visas-now-available-at-borders-for-all-visitors Mozambique Government Announces 30-day Tourist Visas now Available at Borders for all Visitors]</ref>
+| 
+*Available at [[Beira Airport|Beira]], [[Nampula Airport|Nampula]], [[Maputo International Airport|Maputo]], [[Pemba Airport (Mozambique)|Pemba]], [[Chingozi Airport|Tete]] and [[Vilankulo Airport|Vilankulo]] airports.
+*Extension of stay for 30 days is possible.
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{cite web|title=Myanmar eVisa|url=http://www.myanmarevisa.gov.mm|access-date=2012-02-08|archive-url=https://web.archive.org/web/20140813070633/http://www.myanmarevisa.gov.mm/|archive-date=2014-08-13|dead-url=yes|df=}}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism and business purposes. 
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=NA}}</ref>
+| 3 months 
+| 
+*3 months within one calendar year period
+|-
+| {{flag|Nauru}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=NR}}</ref>
+| 15 days<ref>[http://www.mid.ru/ru/foreign_policy/news/-/asset_publisher/cKNonkJE02Bw/content/id/1269858]</ref>
+| 
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=NP}}</ref>
+| 90 days
+| 
+*Extension of stay is possible of up to 150 days.
+*Business travellers can obtain a visa on arrival for a maximum stay of 5 years, subject to a fee and a license issued by the Ministry of Industry.
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=NL}}</ref>
+| 
+| 
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=NZ}}</ref>
+| 
+| 
+*May apply online,<ref>[https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/visitor-visa]</ref> electronic visa is available.<ref>[https://www.immigration.govt.nz/about-us/our-online-systems/applying-for-a-visa-online/immigration-online/evisas eVisas New Zealand Immigration]</ref>
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=NI}}</ref>
+| 90 days
+| 
+*Tourist card must be obtained on arrival, subject to a fee.
+*Extension of stay is possible.
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=NE}}</ref>
+| 
+| 
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=NG}}</ref>
+| 
+| 
+*May apply online.<ref>[https://portal.immigration.gov.ng/visa/freshVisa]</ref>
+*Pre-arranged visa can be picked up on arrival.<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/NG/VI/IS/ID48276&user=EK&subuser=EMIRATES]</ref>
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=NO}}</ref>
+| 
+| 
+*15 days for holders of border traffic permit.
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman – Royal Oman Police – eVisa]</ref><ref>{{Cite news|url=http://gulfbusiness.com/oman-adds-china-iran-russia-to-visa-arrival-list/|title=Oman adds China, Iran, Russia to visa on arrival list
+|work=Gulf Business|access-date=2018-05-09|language=en-GB}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=PK}}</ref>
+| 
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=PW}}</ref>
+| 30 days
+| 
+*Visa exemption agreement for 30 days was signed on 28 September 2018 and it is not yet ratified.<ref>http://www.mid.ru/ru/foreign_policy/news/-/asset_publisher/cKNonkJE02Bw/content/id/3358883</ref>
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=PA}}</ref>
+| 180 days
+| 
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=PG}}</ref>
+| 
+| 
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=PY}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=PE}}</ref>
+| 183 days
+| 
+|- 
+| {{flag|Philippines}}
+| {{yes |Visa not required}}<ref>{{Timatic|nationality=RU|destination=PH}}</ref>
+| 30 days
+| 
+*A visa on arrival is available for a maximum stay of 59 days.
+*Extension of stay is only possible for those who obtained a visa on arrival, to a maximum of 1 year.
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=PL}}</ref>
+| 
+|
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=PT}}</ref>
+| 
+| 
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref name="ReferenceD">{{Timatic|nationality=RU|destination=RO}}</ref>
+| 
+| 
+*90 days within any 180-day period for valid Bulgaria, Croatia, Cyprus or a [[Schengen Area|Schengen Member State]] (\C\, a double or multiple) visa holders.
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|title=Rwandan eVisa|url=http://www.migration.gov.rw/index.php?id=203}}</ref>
+| 30 days
+|
+*A visa on arrival is available for 30 days.
+*Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda.<ref name="migration.gov.rw"/>
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=KN}}</ref>
+| 3 months
+| 
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=LC}}</ref>
+| 6 weeks
+| 
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=VC}}</ref>
+| 1 month
+| 
+*90 days within any 180 day period from 7 January 2019<ref>{{cite web|url=http://www.mid.ru/ru/foreign_policy/international_contracts/2_contract/-/storage-viewer/bilateral/page-1/53394|title=Соглашение между Правительством Российской Федерации и Правительством Сент-Винсента и Гренадин об условиях отказа от визовых формальностей при взаимных поездках граждан Российской Федерации и граждан Сент-Винсента и Гренадин|language=ru|website=mid.ru|accessdate=10 October 2018}}</ref>
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=WS}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SM}}</ref>
+| 
+| 
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=ST}}</ref>
+| 15 days<ref name="mnec.gov.st"/><ref name="facebook.com"/>
+| 
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SA}}</ref>
+| 
+| 
+|-
+| {{flag|Senegal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=SN}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=RS}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=SC}}</ref>
+| 30 days
+| 
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SL}}</ref>
+| 
+|
+*Pre-arranged visa can be picked up on arrival.
+|-
+| {{flag|Singapore}}
+| {{yes2|eVisa}}<ref>{{cite web|title=Singaporean eVisa|url=http://www.ica.gov.sg/services_centre_overview.aspx?pageid=252&secid=165|accessdate=14 Oct 2015|archive-url=https://web.archive.org/web/20151016083818/http://www.ica.gov.sg/services_centre_overview.aspx?pageid=252&secid=165|archive-date=16 October 2015|dead-url=yes|df=dmy-all}}</ref>
+| 
+|
+*Some provisions for 96 hours visa-free transit.
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SK}}</ref>
+| 
+| 
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SI}}</ref>
+| 
+| 
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SB}}</ref>
+| 
+| 
+*Pre-arranged visa can be picked up on arrival.
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=SO}}</ref>
+| 30 days
+| {{no|Due to safety concerns, Russian government advises its citizens not to visit Somalia.<ref>[http://sos.mid.ru/countries/-/asset_publisher/xDkex51VuOSj/content/somali Crisis Management Centre. Department of Ministry of Foreign Affairs of Russia]</ref>}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=ZA}}</ref>
+| 90 days
+| 
+*Extension of stay possible for an additional 90 days.
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SS}}</ref>
+| 
+| 
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=ES}}</ref>
+| 
+| 
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|title=Sri Lankan eVisa|url=http://www.eta.gov.lk/slvisa/}}</ref>
+| 30 days<ref>{{Timatic|nationality=RU|destination=LK}}</ref>
+| 
+*Extension of stay possible for an additional 150 days.
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SD}}</ref>
+| 
+|
+*Pre-arranged visa can be picked up on arrival.
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SR}}</ref>
+| 
+|
+*Visa exemption agreement was signed on 26 September 2018 and it is not yet ratified.<ref>https://tass.ru/politika/5609581</ref>
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=SE}}</ref>
+| 
+| 
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=CH}}</ref>
+| 
+| 
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>[http://www.syrembassy.ru/visa.html Embassy of Syria in Russia]</ref>
+|
+| {{no|Due to safety concerns, Russian government advises its citizens not to visit Syria.<ref>[http://sos.mid.ru/countries/-/asset_publisher/xDkex51VuOSj/content/siria Crisis Management Centre. Department of Ministry of Foreign Affairs of Russia]</ref>}}
+|-
+| {{flag|Tajikistan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=TJ}}</ref>
+| Unlimited stay
+| 
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=TZ}}</ref>
+|3 months
+| 
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=TH}}</ref>
+| 30 days
+| 
+*Extension of stay is possible.
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=TL}}</ref>
+| 30 days
+| 
+*Visa on arrival is only available at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili]] Sea Port.
+*Extension of stay possible for up to 90 days.
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=TG}}</ref>
+| 7 days
+| 
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=TO}}</ref>
+| 31 days
+| 
+*Extension of stay for a further 5 months is possible.
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=TT}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=TN}}</ref>
+| 3 months
+| 
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=TR}}</ref>
+| 60 days
+| 
+*A maximum total stay of 90 days within any 180-day period.
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=TM}}</ref>
+| 
+|
+*Pre-arranged visa can be picked up on arrival.
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=TV}}</ref>
+| 1 month
+| 
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=UG}}</ref>
+|3 months
+|
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+*Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.<ref name="migration.gov.rw"/>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=AE}}</ref>
+| 30 days
+| 
+*Visa is issued free of charge.
+*Extension of stay is possible for a further 30 days.
+*Visa waiver agreement for 90 days within any 180-day period was signed on 6 July 2018 and it is yet to come into force.<ref>[http://tass.ru/politika/5353452]</ref>
+|-
+| {{flag|United Kingdom}} and [[Crown dependencies]]
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=GB}}</ref>
+| 
+| 
+*24-hours visa-free visit: 1) when in transit to/from Australia, Canada, New Zealand or USA, or 2) if holder of residence permit issued by Australia, Canada, New Zealand or USA, or 3) if holder of certain [[European Economic Area|EEA]] or Switzerland visas, or 4) if holder of certain Irish visas<ref>https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&HEALTH=1&VISA=1&NA=RU&EM=RU&DE=FR&TR=GB&PASSTYPES=PASS&user=KLMB2C&subuser=KLMB2C{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web |url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/386476/uk_visa_requirements_12_december_2014_v2.pdf |title=UK Visa Requirements |date=December 2014 |publisher=UK Home Office |accessdate=2014-12-28}}</ref>
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=US}}</ref>
+| 
+| 
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=UY}}</ref>
+| 3 months
+| 
+*Extension of stay possible for additional 90 days.
+|-
+| {{flag|Uzbekistan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=UZ}}</ref>
+|90 days
+|
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=VU}}</ref>
+| 90 days 
+|
+*90 days within any 180-day period
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=VA}}</ref>
+| 
+| 
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=VE}}</ref>
+| 90 days
+| 
+*Extension of stay is possible for a further 90 days.
+|-
+| {{flag|Vietnam}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=RU|destination=VN}}</ref>
+| 15 days
+|
+*30 day visa free on [[Phú Quốc]].<ref>{{cite web|title=Visa Information|url=http://www.phuquocislandguide.com/phu-quoc-visa/|accessdate=25 March 2015}}</ref> 
+*A single entry eVisa valid for 30 days is also available.<ref>[https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt E-visa]</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=RU|destination=YE}}</ref>
+| 
+| 
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=ZM}}</ref>
+| 90 days
+|
+*For those travelling to Zambia for business, the maximum stay is 30 days in any one-year period.
+*Tourists are allowed 90 days in any one-year period.
+*Also eligible for a universal visa allowing access to Zimbabwe; also eligible for e-Visa.<ref>[http://evisa.zambiaimmigration.gov.zm Republic of Zambia Electronic Visa Application System]</ref>
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=RU|destination=ZW}}</ref>
+| 3 months
+|
+*For those travelling to Zimbabwe for business, a visa on arrival can also be issued for a maximum stay of 30 days.
+*Also eligible for a universal visa allowing access to Zambia; also eligible for e-Visa.<ref>[https://www.evisa.gov.zw/]</ref>
+|}'}

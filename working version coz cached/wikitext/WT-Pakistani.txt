@@ -1,0 +1,1008 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements == 
+{| class="sortable wikitable"
+|+
+|-
+! width="18%" | Country
+! width="22%" | Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AF}}</ref>
+|
+|
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AL}}</ref>
+| 
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AD}}</ref>
+| 
+|
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AO}}</ref>
+|
+|
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref>{{Timatic|nationality=PK|destination=AG}}</ref>
+|
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AR}}</ref>
+|
+|
+|-
+| {{flag|Armenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AM}}</ref>
+| 
+|
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AT}}</ref>
+|
+|
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BS}}</ref>
+| 
+|
+|-
+| {{flag|Bahrain}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=BH}}</ref>
+| 14 days
+| 
+*14 days to 1 Year Multiple entry Visa.<ref>{{cite web|url=https://www.evisa.gov.bh|title=Bahrain Electronic Visa Service|publisher=}}</ref><ref>{{cite web|title=Bahrain slashes visa fees by 80% for tourists - Times of India|url=http://timesofindia.indiatimes.com/business/international-business/Bahrain-slashes-visa-fees-by-80-for-tourists/articleshow/52930820.cms|website=The Times of India|accessdate=5 July 2016}}</ref> 
+*Visa is not required for holders of valid visa or residence permit issued by GCC countries.
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BD}}</ref>
+|
+|
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BB}}</ref>
+| 
+|
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BY}}</ref>
+| 
+|
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BE}}</ref>
+|
+|
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BZ}}</ref>
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BO}}</ref>
+|
+| 
+*Pakistan is listed as a Group III country by Bolivian authorities, meaning that citizens of Pakistan must obtain a visa in advance.<ref>[http://www.migracion.gob.bo/upload/emergente.pdf]</ref>
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BA}}</ref>
+|
+| 
+*Exemption from the visa regime upon entry, exit or crossing over the territory of Bosnia and Herzegovina holders of diplomatic and official passports of the Islamic Republic of Pakistan for up to 90 days.
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BW}}</ref>
+|
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BR}}</ref>
+|
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BN}}</ref>
+|
+|
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BG}}</ref>
+|  
+|
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=BF}}</ref>
+|
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.ambassade-du-burundi.fr/demande-de-visa/ |title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT  GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS  NOTE CIRCULAIRE DU  17/02/2015 |access-date=2015-02-26 |archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/ |archive-date=2014-07-22 |dead-url=yes |df= }}</ref><ref>{{Timatic|nationality=PK|destination=BI}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=KH}}</ref>
+| 
+|
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CA}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=CV}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CL}}</ref>
+| 
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CN}}</ref>
+| 
+|
+|- 
+| {{flag|Colombia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CO}}</ref>
+|
+|
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=KM}}</ref>
+| 45 days
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CR}}</ref> 
+|
+| 
+*Visa issued on arrival for ordinary passport if traveler holds a valid tourist, visa, crew visa, multiple-entry business visa, permanent resident or student visa for the [[United States]] or [[Canada]].<ref>{{cite web|title=Consular Visa|url=http://www.costarica-embassy.org/index.php?q=node/24|publisher=Embajada de Costa Rica|accessdate=22 September 2017}}</ref>
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.snedai.com/en/|title=:::SNEDAI:::|publisher=}}</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=HR}}</ref>
+|  
+|
+|- 
+| {{flag|Cuba}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CY}}</ref>
+|  
+|
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CZ}}</ref>
+|  
+|
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=DK}}</ref>
+| 
+|
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PK|destination=DM}}</ref>
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=DO}}</ref>
+|
+|
+|- 
+| {{flag|Ecuador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=EC}}</ref>
+| 
+|
+|- 
+| {{flag|Egypt}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=EG}}</ref>
+|
+| 
+*Visa on arrival for ordinary passport holding valid GCC residence permit for 30 days.
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SV}}</ref>
+| 
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=EE}}</ref>
+|  
+|
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SZ}}</ref>
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=ET}}</ref>
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=FJ}}</ref>
+|
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=FI}}</ref>
+| 
+|
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=FR}}</ref>
+|
+|
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GM}}</ref>
+|
+|
+|-
+| {{flag|Georgia}}
+| {{no|Visa required}}<ref>https://www.evisa.gov.ge/GeoVisa/Countries/Index.html</ref>
+|
+|
+* Visa not required for holders of a valid [[Schengen Area|Schengen]] visa or a valid visa from any of the [[OECD]] member countries; or a valid residence permit of a [[Schengen Area|Schengen]] or [[OECD]] country or valid visa or residence permit of a [[Gulf Cooperation Council|GCC]] country.<ref>[https://www.evisa.gov.ge/GeoVisa/Countries/Index.html]</ref>
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=DE}}</ref>
+|  
+|
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GR}}</ref>
+|  
+|
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GD}}</ref>
+|
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GT}}</ref>
+|
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IN|destination=GY}}</ref>
+|
+| 
+*Those holding a letter of invitation from sponsor or host may apply for a visa on arrival.
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PK|destination=HT}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=HN}}</ref>
+| 
+|
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=HU}}</ref>
+|  
+|
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=IS}}</ref>
+|  
+|
+|- 
+| {{flag|India}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=IN}}</ref>
+|
+|
+|-
+| {{flag|Indonesia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=ID}}</ref>
+| 
+|
+|- 
+| {{flag|Iran}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=IR}}</ref>
+|
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=IQ}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=IE}}</ref>
+|
+| 
+*May transit without a visa.<ref>{{cite web|url=http://www.inis.gov.ie/en/INIS/Pages/Transit%20Visas|title=Irish Transit Visas|publisher=}}</ref>
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=IL}}</ref>
+|
+| 
+*Confirmation from Israeli government is required before a visa is issued.<ref>[http://mfa.gov.il/MFA/ConsularServices/Documents/VisaRequirements-Tourists.pdf]</ref>
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=IT}}</ref>
+|  
+|
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=JM}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=JP}}</ref>
+|
+|
+|-
+| {{flag|Jordan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=JO}}</ref>
+|
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=KZ}}</ref>
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=KI}}</ref>
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=KR}}</ref>
+|
+| 
+* From August 1, 2018, No Visa-free entry to Jeju Islands.<ref>http://www.iccjeju.co.kr/EN/AboutJeju/AccessAndVisa</ref>
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=KW}}</ref>
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=KG}}</ref>
+| 
+|
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LA}}</ref>
+|
+|
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LV}}</ref>
+|  
+|
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LB}}</ref>
+|
+| 
+*Visa on arrival for Pakistani nationals holding valid GCC residence permit (subject to white collar profession being mentioned on resident permit). For others, in addition to a visa, an approval should be obtained from the immigration department of the [[General Directorate of General Security]] (La Sûreté Générale).  
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=PK|destination=LS}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LI}}</ref>
+|  
+|
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LT}}</ref>
+|  
+|
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LU}}</ref>
+| 
+|
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MK}}</ref>
+| 
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=MG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MW}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes2|eVisa}}<ref>[https://www.windowmalaysia.my/evisa/evisa.jsp]</ref><ref>{{Timatic|nationality=PK|destination=MY}}</ref>
+| 30 days 
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MT}}</ref>
+| 
+|
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MH}}</ref>
+|
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MU}}</ref>
+|
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MX}}</ref>
+|
+| 
+*Ordinary passport holders \\\do not\\\ require visa for tourism, business or transit if they possess a valid and non-expired visa for, or are legal permanent residents of, the [[United States of America]], [[Canada]], [[Japan]], [[United Kingdom]] or [[Schengen area]].<ref>{{cite web|title=Visas|url=https://consulmex2.sre.gob.mx/sanfrancisco/index.php/visas-traveling-to-mexico|publisher=Secretaria de Relaciones Exteriores|accessdate=22 September 2017}}</ref>
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PK|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MD}}</ref>
+|
+| 
+*E-Visa can be obtainable if Pakistani nationals holding Schengen Member State valid visa.
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MC}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MN}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=ME}}</ref>
+|
+|
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=MA}}</ref>
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=MZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=http://www.myanmarevisa.gov.mm/ |title=Myanmar eVisa |access-date=2012-02-08 |archive-url=https://web.archive.org/web/20140813070633/http://www.myanmarevisa.gov.mm/ |archive-date=2014-08-13 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism only.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NA}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=NP}}</ref>
+|
+|
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NL}}</ref>
+| 
+|
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NZ}}</ref>
+|
+|
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NI}}</ref>
+| 
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=NO}}</ref>
+|
+| 
+*Pakistani citizens holding an official or diplomatic passport are not required to have a visa when they travel to Norway for official purposes.
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=OM}}</ref> 
+|
+| 
+*Visa on arrival for ordinary passport holders holding valid GCC residence permit (subject to white collar profession being mentioned on permit).
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=PA}}</ref>
+|
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=PG}}</ref>
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=PY}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=PE}}</ref>
+|
+|
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=PH}}</ref>
+| 
+|
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=PL}}</ref>
+| 
+|
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=PT}}</ref>
+| 
+|
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=RO}}</ref>
+|
+| 
+*Visa not required if holding two or multiple entry short-stay visa issued by a Schengen member state for stays that of no more than 90 days during any 180-day period. [http://evisa.mae.ro/CheckResult?cetatenieId=175&scopVizitaId=7&tipDocumentId=16&isBiometric=1]
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=RU}}</ref>
+| 
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=http://www.migration.gov.rw/|title=online visa|publisher=}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=KN}}</ref>
+| 
+|
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LC}}</ref>
+| 
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PK|destination=VC}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=PK|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SM}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=ST}}</ref>
+|
+|
+* Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SN}}</ref>
+| 
+|
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=RS}}</ref>
+| 
+|
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=PK|destination=SC}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SG}}</ref>
+|
+|
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SK}}</ref>
+|
+|
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SI}}</ref>
+| 
+|
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SB}}</ref>
+|
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=ZA}}</ref>
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=ES}}</ref>
+| 
+|
+|-
+| {{flag|Sri Lanka}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=LK}}</ref>
+| 
+| 
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SR}}</ref>
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SE}}</ref>
+| 
+|
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=CH}}</ref>
+| 
+|
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=SY}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=TJ}}</ref>
+|
+| 
+*E-visa holders can enter through all border points.<ref>https://www.evisa.tj</ref>
+|-
+| {{flag|Tanzania}}
+| {{no|Visa required}}<ref>[https://www.immigration.go.tz/index.php/en/services/visa-information Entry Requirements and Visa Information, Immigration Department, Ministry of Home Affairs of Tanzania]</ref><ref>{{Timatic|nationality=PK|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=TH}}</ref>
+|
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=TL}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=TO}}</ref>
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PK|destination=TT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=TN}}</ref>
+| 14 days
+| 
+*14 days on arrival visa for GCC<ref>https://www.khaleejtimes.com/international/africa/visa-on-arrival-for-gulf-residents-visa-free-entry-for-nationals-travelling-to-tunisia-</ref> residents with confirmed air tickets, hotel booking and more than six months validity on their GCC residency
+|- 
+| {{flag|Turkey}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=TR}}</ref>
+|
+| 
+*Ordinary passport holders with a valid Schengen, OECD ([[Organisation for Economic Co-operation and Development]]) member\s visa or residence permit may get their one-month single entry e-Visas online.<ref>[http://www.icao.int/Meetings/ICAN2015/Buttons/ICAN2015%20visa%20information.pdf ICAN2015 visa information, ICAO, Retrieved 11 July 2016]</ref>
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=TV}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=PK|destination=UG}}</ref>
+|
+| 
+*Visa is obtained online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=UA}}</ref>
+| 
+|
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=AE}}</ref>
+|
+| 
+*E-Visa can be obtained Online for ordinary passport holders holding valid GCC residence permit (subject to white collar profession being mentioned on permit).
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=GB}}</ref>
+|
+| 
+*Other exemptions apply for Visa-free Direct Airside Transit.<ref>{{cite web|url=https://www.gov.uk/check-uk-visa/y/pakistan/transit/somewhere_else/no|title=UK Direct Airside Transit Visas Exemptions|publisher=}}</ref>
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=US}}</ref>
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=UY}}</ref>
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=UZ}}</ref>
+| 
+|
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PK|destination=VU}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=VA}}</ref>
+| 
+|
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=VE}}</ref>
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa Required}}<<ref>{{Timatic|nationality=PK|destination=VN}}</ref>
+|
+| 
+*Visa not required provided arriving at [[Phu Quoc]] (PQC) or connecting flight to [[Phu Quoc]] via [[Hanoi]] or [[Ho Chi Minh City]] for a maximum stay of 30 days.
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PK|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=ZM}}</ref>
+|
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PK|destination=ZW}}</ref>
+| 
+|
+|}'}

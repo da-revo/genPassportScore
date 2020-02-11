@@ -1,0 +1,1293 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+! Reciprocity
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=AF|accessdate=26 November 2013}}</ref>
+|
+| 
+| {{yes|✓}}
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=AL|accessdate=26 November 2013}}</ref> 
+| 90 days
+| 
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=DZ|accessdate=26 November 2013}}</ref> 
+| 
+|
+| {{yes|✓}}
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=AD|accessdate=26 November 2013}}</ref> 
+|
+| 
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.smevisa.com/touristvisa/|title=SME E-VISA|publisher=}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=FR|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+| {{no|X}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=AG|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=AR|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=AM|accessdate=26 November 2013}}</ref> 
+| 180 days
+|
+| {{no|X}}
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=FR|destination=AU|accessdate=26 November 2013}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted
+| {{yes|✓}}
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=AT|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=FR|destination=AZ|accessdate=26 November 2013}}</ref> 
+| 30 days<ref>{{cite web|url=https://evisa.gov.az/en/|title=Home Page -         The Electronic Visa System of Azerbaijan Republic|website=evisa.gov.az}}</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BS|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=BH|accessdate=26 November 2013}}</ref> 
+| 14 days
+|
+| {{no|X}}
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=BD|accessdate=26 November 2013}}</ref> 
+| 30 days
+| 
+*Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+| {{no|X}}
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BB|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BY|accessdate=26 November 2013}}</ref> 
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+| {{no|X}}
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=BE|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BZ|accessdate=26 November 2013}}</ref> 
+| 1 month
+|
+*Extendable length of stay.
+| {{no|X}}
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+| {{no|X}}
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=BT|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BO|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BA|accessdate=26 November 2013}}</ref> 
+| 90 days
+| 
+*90 days within any 6-month period
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BW|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any-year period
+| {{no|X}}
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BR|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=BN|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=BG|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=BF|accessdate=26 November 2013}}</ref> 
+| 1 month
+|
+| {{no|X}}
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=BI|accessdate=9 October 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=KH|accessdate=26 November 2013}}</ref>  
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{cite web |url=http://evisa.mfaic.gov.kh |title=Kingdom of Cambodia - Ministry of Foreign Affairs & International Cooperation |publisher=Evisa.mfaic.gov.kh |date=2014-05-15 |accessdate=2014-07-23 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+| {{no|X}}
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=CM|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=CA|accessdate=26 November 2013}}</ref> 
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>{{cite web|url=https://www.canada.ca/eTA|title=Electronic Travel Authorization (eTA) - Canada.ca|website=www.canada.ca}}</ref><ref>{{cite web|url=https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt|title=Entry requirements by country/territory - Canada.ca|first=Immigration, Refugees and Citizenship|last=Canada|website=www.canada.ca}}</ref>
+*eTA not required for French living in [[Saint-Pierre and Miquelon]] going to Canada.<ref>{{cite web|url=http://www.airsaintpierre.com/en/flying-to-canada-entry-rules-are-changing/|title=Flying to Canada? Entry rules are changing. - Air Saint-Pierre|date=4 November 2015|publisher=}}</ref>
+| {{yes|✓}}
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=CV|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Not available at all entry points.<ref>Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].</ref>
+| {{no|X}}
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=CF|accessdate=26 November 2013}}</ref> 
+| 
+|
+| {{yes|✓}}
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=TD|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=CL|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=CN|accessdate=26 November 2013}}</ref> 
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+| {{yes|✓}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=CO|accessdate=26 November 2013}}</ref> 
+| 180 days
+| 
+*90 days - extendable up to 180-day stay within a one year period
+| {{yes|✓}}
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=KM|accessdate=26 November 2013}}</ref> 
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=CG|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Visa not requiered if Passengers with a V.I.P invitation letter.
+| {{yes|✓}}
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=CD|accessdate=26 November 2013}}</ref>
+|
+| 
+*Passenger with a letter (Visa Volant) issued by the Ministry of Interior and Security can obtain a visa on arrival.
+| {{yes|✓}}
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=CR|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=FR|destination=CI|accessdate=26 November 2013}}</ref>
+|
+| 
+| {{yes|✓}}
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=HR|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=FR|destination=CU|accessdate=26 November 2013}}</ref> 
+| 
+|
+| {{yes|✓}}
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=CY|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=CZ|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=DK|accessdate=26 November 2013}}</ref> 
+| colspan=2 | 
+*Freedom of movement (DK)
+*[[French identity card|ID card]] valid (not for Greenland)
+| {{free|✓}}
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+|
+| {{no|X}}
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=DM|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+*[[French identity card|ID card]] valid for visits up to 14 days
+| {{yes|✓}}
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=DO|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=EC|accessdate=26 November 2013}}</ref> 
+| 90 days<ref name=A>Extendable length of stay.</ref>
+|
+| {{no|X}}
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=EG|accessdate=26 November 2013}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=SV|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=GQ|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=ER|accessdate=26 November 2013}}</ref>
+| 
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=EE|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=SZ|accessdate=26 November 2013}}</ref> 
+| 30 days<ref name="A" />
+|
+| {{no|X}}
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=ET|accessdate=26 November 2013}}</ref>
+|
+| 
+*Not available at all entry points.<ref>Obtainable at [[Addis Ababa Bole International Airport]].</ref>
+| {{no|X}}
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=FJ|accessdate=26 November 2013}}</ref> 
+| 4 months
+|
+| {{no|X}}
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=FI|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+| {{no|X}}
+|-
+| {{flag|Gambia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=GM|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+|
+| 
+*Visa not required if Passengers traveling as tourists on a charter flight.
+| {{no|X}}
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=GE|accessdate=26 November 2013}}</ref> 
+| 1 year
+| 
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=DE|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=GH|accessdate=26 November 2013}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=GR|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=GD|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=GT|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=GN|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=GW|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=GY|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=HT|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=HN|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=HU|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=IS|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|- 
+| {{flag|India}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+| {{no|X}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=ID|accessdate=26 November 2013}}</ref> 
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=IR|accessdate=26 November 2013}}</ref> 
+| 30 days<ref>{{cite web|url=http://www.tehrantimes.com/index_View.asp?code=248428|title=Iran extends airport visa validity to 30 days|date=3 August 2015|publisher=}}</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=IQ|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=IE|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=IL|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=IT|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=JM|accessdate=26 November 2013}}</ref> 
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=JP|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Jordan}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=FR|destination=JO|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Conditions apply.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 November 2013}}</ref>
+*Not available at all entry points.<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+| {{no|X}}
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=KZ|accessdate=26 November 2013}}</ref> 
+| 30 days<ref>{{cite web|url=https://primeminister.kz/en/news/mezhdunarodnie_otnosheniya/s-2017-goda-grazhdane-83-stran-smogut-poseshchat-kazahstan-bez-viz-13901|title=The citizens of 83 countries to visit Kazakhstan without visas since 2017|website=primeminister.kz}}</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=immigration.ecitizen.go.ke}}</ref>
+| 3 months
+| 
+*Also visa on arrival (cost:50 USD or 40 €).
+| {{no|X}}
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=KI|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=KP|accessdate=26 November 2013}}</ref> 
+| 
+|
+| {{yes|✓}}
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=KR|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://evisa.moi.gov.kw/evisa/home_e.do|title=You are being redirected...|website=evisa.moi.gov.kw}}</ref>
+| 3 months
+|
+| {{no|X}}
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=KG|accessdate=26 November 2013}}</ref> 
+| 60 days
+|
+| {{no|X}}
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=LA|accessdate=26 November 2013}}</ref> 
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+| {{no|X}}
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=LV|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=FR&AR=00&PASSTYPES=PASS&DE=LB&user=KLMB2C&subuser=KLMB2C]</ref>
+| 1 month
+| 
+*Extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+| {{no|X}}
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=LS|accessdate=26 November 2013}}</ref> 
+| 14 days
+|
+| {{no|X}}
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=LR|accessdate=26 November 2013}}</ref>
+| 
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=LY|accessdate=26 November 2013}}</ref> 
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=LI|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=LT|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=LU|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MK|accessdate=26 November 2013}}</ref> 
+| 90 days
+| 
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Madagascar}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=FR|destination=MG|accessdate=26 November 2013}}</ref> 
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=MW}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MY|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|-
+| {{flag|Maldives}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=FR|destination=MV|accessdate=26 November 2013}}</ref> 
+| 30 days<ref name="A" />
+|
+| {{no|X}}
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=ML|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=MT|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MH}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=MR|accessdate=26 November 2013}}</ref>
+| 
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+| {{no|X}}
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MU|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MX|accessdate=26 November 2013}}</ref> 
+| 180 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=FM|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{no|X}}
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MD|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 6-month period
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MC|accessdate=26 November 2013}}</ref> 
+|
+| 
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=MN|accessdate=26 November 2013}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=ME|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within 180 days
+*[[French identity card|ID card]] valid for 30 days
+| {{yes|✓}}
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=MA|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{no|X}}
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=MZ}}</ref>
+| 30 days<ref>{{cite web|url=http://www.mozambicanhotels.com/tourist-information/mozambique-tourism-news/mozambique-government-announces-30-day-tourist-visas-now-available-at-borders-for-all-visitors|title=Mozambique Government Announces 30-day Tourist Visas now Available at Borders for all Visitors - Mozambican Hotels|website=www.mozambicanhotels.com}}</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{cite web |url=http://www.myanmarevisa.gov.mm/ |title=Myanmar eVisa |access-date=2012-02-08 |archive-url=https://web.archive.org/web/20120208234923/http://www.myanmarevisa.gov.mm/ |archive-date=2012-02-08 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+| {{no|X}}
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=NA|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+*3 months within a calendar year
+| {{no|X}}
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=NR|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=NP|accessdate=26 November 2013}}</ref> 
+| 90 days
+| 
+*Not available at all entry points.<ref>Obtainable at [[Tribhuvan International Airport]] and certain land borders.</ref>
+| {{no|X}}
+|- 
+| {{flag|Netherlands}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=NL|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement ([[European Netherlands]])
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=NZ|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=NI|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=NE|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=NG|accessdate=26 November 2013}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=NO|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=PK|accessdate=26 November 2013}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. 
+**Conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref>
+*Visa on arrival when travelling as part of a group through a designated tour operator.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O|title=Group Tourism through Designated Tour Operators|publisher=}}</ref>
+| {{yes|✓}}
+|-
+| {{flag|Palau}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=PW|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=PA|accessdate=26 November 2013}}</ref> 
+| 180 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{cite web|url=http://www.immigration.gov.pg/images/documents/Publication-Revised%20MSF2.pdf|title=REVISED MIGRATION SERVICE FEES (MSF)|publisher=}}</ref><ref>{{Timatic|nationality=FR|destination=PG|accessdate=26 November 2013}}</ref> 
+| 60 days
+| 
+*Free of charge.
+| {{no|X}}
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=PY|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=PE|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 6-month period<ref>{{cite web|url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf|title=REQUERIMIENTOS DE VISAS PARA CIUDADANOS EXTRANJEROS|publisher=|access-date=2016-01-29|archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf|archive-date=2016-02-04|dead-url=yes|df=}}</ref>
+| {{yes|✓}}
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=PH|accessdate=26 November 2013}}</ref> 
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=PL|accessdate=26 November 2013}}</ref> 
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=PT|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}} 
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 90 days
+| 
+| {{no|X}}
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=RO|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=RU|accessdate=26 November 2013}}</ref>
+|
+| 
+*Visa on arrival (72 hour) for Kaliningrad Oblast (70 €) with appointment at least 72 hour in advance<ref>[http://kaliningrad.mid.ru/en_GB/web/kaliningrad_en/home/-/asset_publisher/CyfIP6GPijdC/content/short-term-visas-tourism-72-hour-1?inheritRedirect=false&redirect=http%3A%2F%2Fkaliningrad.mid.ru%2Fen_GB%2Fweb%2Fkaliningrad_en%2Fhome%3Fp_p_id%3D101_INSTANCE_CyfIP6GPijdC%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1 Short-term Visas – «Tourism 72 Hours»]</ref> 
+| {{yes|✓}}
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=RW|accessdate=26 November 2013}}</ref> 
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=KN|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{yes|✓}}
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=LC|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=VC|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=WS|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=SM|accessdate=26 November 2013}}</ref>
+| 
+| 
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+| {{no|X}}
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=SA|accessdate=26 November 2013}}</ref> 
+| 
+|
+| {{yes|✓}}
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=SN}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=RS|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 6-month period
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Agreement between the European Community and the Republic of Seychelles on the short-stay visa waiver|url=http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22009A0630%2805%29&qid=1451172310633&from=EN|website=EUR-Lex|publisher=[[Official Journal of the European Union]]|accessdate=27 December 2015|date=30 June 2009}}</ref>
+| 3 months
+|
+| {{yes|✓}}
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=SL|accessdate=26 November 2013}}</ref>
+| 
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=SG|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=SK|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=SI|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Solomon Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=SB}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+| {{no|X}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=ZA|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=SS|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=ES|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=LK|accessdate=26 November 2013}}</ref> 
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=SD|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Suriname}}
+| {{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=FR|destination=SR|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=SE|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=CH|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=SY|accessdate=26 November 2013}}</ref> 
+| 
+|
+| {{yes|✓}}
+|-
+| {{flag|Tajikistan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=TJ|accessdate=26 November 2013}}</ref> 
+| 45 days
+| 
+*At [[Dushanbe International Airport]]. 
+*Visa also available online. 
+*E-visa holders can enter through all border points.<ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|website=www.evisa.tj}}</ref>
+| {{no|X}}
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=TZ|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{no|X}}
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=TH|accessdate=26 November 2013}}</ref> 
+| 30 days
+| 
+*Maximum two visits annually if not arriving by air.
+| {{no|X}}
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=TL|accessdate=27 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=TG|accessdate=26 November 2013}}</ref> 
+| 7 days
+|
+| {{no|X}}
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015057|title=Agreement - Consilium|website=www.consilium.europa.eu}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=TT|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=TN|accessdate=26 November 2013}}</ref> 
+| 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=TR|accessdate=26 November 2013}}</ref> 
+| 3 months
+| 
+*[[French identity card|ID card]] valid<ref name="auto">{{cite web|url=http://www.mfa.gov.tr/countries-whose-citizens-are-allowed-to-enter-turkey-with-their-national-id_s.en.mfa|title=From Rep. of Turkey Ministry of Foreign Affairs|website=Republic of Turkey Ministry of Foreign Affairs|access-date=2016-05-04|archive-url=https://web.archive.org/web/20151008091234/http://www.mfa.gov.tr/countries-whose-citizens-are-allowed-to-enter-turkey-with-their-national-id_s.en.mfa|archive-date=2015-10-08|dead-url=yes|df=}}</ref>
+| {{no|X}}
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=TM|accessdate=26 November 2013}}</ref>
+| 
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|✓}}
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=TV}}</ref>
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=UG|accessdate=26 November 2013}}</ref>
+|
+| 
+*Determined at the port of entry.
+*May apply online.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=visas.immigration.go.ug}}</ref>
+| {{no|X}}
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=UA|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=FR&AR=00&PASSTYPES=PASS&DE=AE&user=KLMB2C&subuser=KLMB2C]</ref>
+| 90 days
+|
+*90 days within any 180-day period<ref>{{cite web|url=http://www.consilium.europa.eu/en/press/press-releases/2015/05/06-eu-signs-visa-waiver-agreement-united-arab-emirates/|title=EU signs visa waiver agreement with the United Arab Emirates - Consilium|website=www.consilium.europa.eu}}</ref><ref>[http://data.consilium.europa.eu/doc/document/ST-7103-2015-INIT/en/pdf Agreement between the European Union and the United Arab Emirates on the short-stay visa waiver]</ref>
+| {{yes|✓}}
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=FR|destination=GB|accessdate=26 November 2013}}</ref>
+| colspan=2 |
+*Freedom of movement (in Constituent countries)
+*[[French identity card|ID card]] valid
+| {{free|✓}}
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=FR|destination=US|accessdate=26 November 2013}}</ref> 
+| 90 days
+| 
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>{{cite web|url=https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,|title=Citizen of Visa Waiver Country, wants to drive into U.S. from Canada or Mexico, or arrive at a port of call in the U.S. by cruise ship|website=help.cbp.gov}}</ref>
+| {{yes|✓}}
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=UY|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Uzbekistan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=UZ}}</ref><ref>https://regnum.ru/news/2495666.html</ref><ref>https://www.gazeta.uz/ru/2018/10/05/france-visas/</ref>
+| 30 days
+| 
+| {{no|X}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=VU|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+*90 days within any 180-day period
+| {{yes|✓}}
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=VA|accessdate=26 November 2013}}</ref>
+|
+| 
+*[[French identity card|ID card]] valid
+| {{yes|✓}}
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=VE|accessdate=26 November 2013}}</ref> 
+| 90 days
+|
+| {{yes|✓}}
+|-
+| {{flag|Vietnam}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=FR|destination=VN|accessdate=26 November 2013}}</ref>
+| 15 days
+| 
+| {{no|X}}
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=FR|destination=YE|accessdate=26 November 2013}}</ref> 
+|
+|
+| {{yes|✓}}
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=ZM|accessdate=26 November 2013}}</ref> 
+| 90 days
+| 
+*Also eligible for a universal visa allowing access to Zimbabwe.
+| {{no|X}}
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=FR|destination=ZW|accessdate=26 November 2013}}</ref> 
+| 3 months
+| 
+*Strictly tourism purposes only.
+*Also eligible for a universal visa allowing access to Zambia.
+| {{no|X}}
+|}'}

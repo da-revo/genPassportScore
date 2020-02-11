@@ -1,0 +1,1025 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=AL|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=DZ|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=AD|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=AO|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref>{{Timatic|nationality=PW|destination=AG}}</ref>
+| 
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=AR|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Armenia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=AM|accessdate=24 May 2015}}</ref>
+| 120 days
+|
+|-
+| {{flag|Australia}} and territories
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+*Transit visa is not required.<ref>[http://www.immi.gov.au/visitors/transit/no-visa.htm Transit without visa arrangements - When a visa is not needed]</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=AT|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=AZ|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Bahamas}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BS|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BH|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=BD|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BB|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BY|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=BE|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>http://www.mfa.gov.bz/images/documents/Visa%20Requirements%20for%20Belize%20December%202013%20-Web%20version.pdf</ref>
+| 90 days
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BT|accessdate=24 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=BO|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=BA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BW|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BR|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BN|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=BG|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BF|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=BI|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=KH|accessdate=24 May 2015}}</ref> 
+|
+|
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CM|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CA|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=CV|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CF|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=TD|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CL|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CN|accessdate=24 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=CO|accessdate=24 May 2015}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=KM|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CG|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CD|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=CR|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=CI|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=HR|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=PW|destination=CU|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=CY|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=CZ|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=DK|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=DM|accessdate=24 May 2015}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=DO|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=EC|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=EG|accessdate=24 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SV|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=GQ|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=ER|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=EE|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SZ|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PW|destination=ET|accessdate=24 May 2015}}</ref> 
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=VU|accessdate=24 May 2015}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=FI|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=FR|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Gabon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=GA|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=GM|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gov.ge/ e-VISA PORTAL]</ref>
+| 90 days
+|
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=DE|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=GH|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=GR|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=GD|accessdate=24 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=GT|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=GN|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=GW|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=GY|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=HT|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=HN|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=HU|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=IS|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>http://setkab.go.id/tidak-untuk-jurnalistik-wisatawan-dari-169-negara-ini-bebas-visa-kunjungan-ke-indonesia/</ref><ref>{{Timatic|nationality=PW|destination=ID|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=IR|accessdate=24 May 2015}}</ref>
+|
+| 
+*Conditional apply.
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=IQ|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=IE|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=IL|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=IT|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=JM|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=JP|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=JO|accessdate=24 May 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=KZ|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{yes2|eVisa}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=KI|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=KP|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=KR|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=KW|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PW|destination=KG|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=LA|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=LV|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=LB|accessdate=24 May 2015}}</ref>
+|
+| 
+*In addition to a visa, an approval should be obtained from the Immigration department of the [[General Directorate of General Security]] (La Surete Generale).
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=PW|destination=LS|accessdate=24 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=LR|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=LY|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=LI|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=LT|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=LU|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=MK|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=MG|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=MW|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=MY|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=MV|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=ML|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=MT|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=MH|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=MR|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritius}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=MU|accessdate=24 May 2015}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=MX|accessdate=24 May 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=FM|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>[http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link Foreign citizens who don’t need visa for entry on the territory of the Republic of Moldova]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=MC|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=MN|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=ME|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=MA|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=MZ|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PW|destination=MM|accessdate=24 May 2015}}</ref>
+| 28 days
+|
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=NA|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=NR|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=NP|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=NL|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=NZ|accessdate=24 May 2015}}</ref>
+|
+| 
+*May transit without a visa.<ref>[http://www.immigration.govt.nz/opsmanual/34911.htm Transit visa country waiver list]</ref>
+|- 
+| {{flag|Nicaragua}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=NI|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=NE|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=NG|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=NO|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=OM|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=PK|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=PA|accessdate=24 May 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=PG|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=PY|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=PE|accessdate=24 May 2015}}</ref>
+| 180 days
+|
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=PH|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=PL|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=PT|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PW|destination=QA|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=RO|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=RU|accessdate=24 May 2015}}</ref>
+| 
+| 
+*Visa exemption agreement for 30 days for a maximum total stay of 90 days within any 180 day period was signed on 28 September 2018 and it is not yet ratified.<ref>http://www.mid.ru/ru/foreign_policy/news/-/asset_publisher/cKNonkJE02Bw/content/id/3358883</ref>
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=RW|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|Electronic visa}}TR<ref>{{Timatic|nationality=PW|destination=KN|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=LC|accessdate=24 May 2015}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=VC|accessdate=24 May 2015}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=WS|accessdate=24 May 2015}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=SM|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=ST|accessdate=24 May 2015}}</ref>
+|
+| 
+*Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SA|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=SN|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=RS|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Seychelles}}
+| {{yes-no|Visitor\s Permit on arrival}}<ref>{{Timatic|nationality=PW|destination=SC|accessdate=24 May 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SL|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=SG|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=SK|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=SL|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=SB|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=ZA|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SS|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=ES|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Sri Lanka}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=BT|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SD|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SR|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=SE|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=CH|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=SY|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=TJ|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=TZ|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=TH|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=TL|accessdate=24 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=TG|accessdate=24 May 2015}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=TO|accessdate=24 May 2015}}</ref>
+| 31 days
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=TT|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=TN|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Turkey}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=TR|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=TM|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=TV|accessdate=24 May 2015}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=PW|destination=UG|accessdate=24 May 2015}}</ref>
+| 3 months
+|`
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.mfa.gov.ua/]</ref><ref>{{Timatic|nationality=PW|destination=UA|accessdate=23 March 2016}}</ref>
+| 15 days
+| 
+*Visa on arrival for business or tourism purposes is available at [[Boryspil International Airport|Kyiv Boryspil Airport]], [[Kyiv International Airport (Zhuliany)]] and [[Odessa International Airport]].<ref>[http://mfa.gov.ua/ua/consular-affairs/entering-ukraine/visa-boryspil]</ref>
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=AE|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|United Kingdom}} and [[Crown dependencies]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=GB|accessdate=24 May 2015}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=US|accessdate=24 May 2015}}</ref>
+|
+| 
+*Under the [[Compact of Free Association]] visa exemption applies:
+**to citizens by birth
+**former citizens of the [[Trust Territory of the Pacific Islands]] who were citizens in 1986
+**naturalized spouses, children and naturalized citizens who are residents for at least 5 years and does not apply to those who obtained passports through passport sale<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/US/VI/NO/ID56324&user=STAR&subuser=STARB2C]</ref><ref>[http://www.uscis.gov/i-9-central/complete-correct-form-i-9/complete-section-1-employee-information-and-verification/federated-states-micronesia-republic-marshall-islands-and-palau Immigration Status of Citizens of the FSM, the RMI and Palau]</ref>
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=UY|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=UZ|accessdate=24 May 2015}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=WS|accessdate=24 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=PW|destination=VA|accessdate=24 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=VE|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=VN|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=PW|destination=YE|accessdate=24 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PW|destination=ZM|accessdate=24 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=PW|destination=ZW|accessdate=24 May 2015}}</ref>
+| 
+|
+|}'}

@@ -1,0 +1,1071 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+[[File:Modelo da nova carteira de identidade brasileira.jpg|thumb|Just a [[Brazilian identity card]] is valid for travel to most South American countries.]]
+The [[Mercosur]] member states of Argentina, Brazil, Paraguay and Uruguay, together with [[Union of South American Nations#Free movement of people|most other]] South American countries (as shown below) do not even require a Brazilian passport; a national or state-issued [[Brazilian identity card]] is enough for entry into all [[UNASUR]] member states (with the exception of Guyana and Suriname).
+
+Nevertheless, the identity card must be in good condition, must not have expired, and the holder must be clearly recognizable in the photograph.
+
+Brazilians within [[Mercosur]] have unlimited access to any of the full members ([[Argentina]], [[Paraguay]], [[Uruguay]]) and associated members ([[Bolivia]], [[Chile]], [[Peru]], [[Colombia]], [[Ecuador]]) with the right to residence and work, with no requirement other than nationality. Citizens of these nine countries (including Brazil) may apply for the grant of "temporary residence" for up to two years in another country of the bloc <ref>[http://www.mercosur.int/innovaportal/v/6581/3/innova.front/residir-e-trabalhar-no-mercosul "Residir e trabalhar no Mercosul"], \\[[www.mercosur.int]]\\</ref>. Then, they may apply for "permanent residence" just before the term of their "temporary residence" expires.<ref>{{cite web|url=http://www.mre.gov.br/index.php?Itemid=548&id=1044&option=com_content&task=view|title=Perguntas mais freqüentes sobre integração regional e MERCOSUL|language=portuguese|publisher=MRE}}</ref><ref>{{cite web|url=http://www.ansa.it/ansalatinabr/notizie/fdg/200907311350352763/200907311350352763.html|title=Paraguai assina acordos sobre migração no Mercosul|language=portuguese|publisher=ansa.it}}</ref>
+{{clear}}
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="23%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=AL}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=AD}}</ref>
+| 
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=BR|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=AG}}</ref>
+| 6 months<ref>{{cite web|url=http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros|title=Tabela de vistos para cidadãos brasileiros|publisher= [[Itamaraty]]|accessdate=12 July 2018|language= pt}}</ref>
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=AR}}</ref>
+| 90 days
+| 
+*Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old. 
+*Brazilians can live and work legally in Argentina under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check. 
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=AM}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=AT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BR|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BS}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=BH}}</ref>
+| 14 days
+|
+* Visa is also obtainable online.<ref>[http://www.evisa.gov.bh/VisaBhrnats.html]</ref>
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=BD}}</ref>
+| 
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BB}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BY}}</ref>
+| 90 days
+|
+*90 days within any year period
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BZ}}</ref>
+| 90 days
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BO}}</ref>
+| 90 days
+| 
+*Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+*Brazilians can live and work legally in Bolivia under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check.
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BA}}</ref>
+| 90 days
+|
+*90 days within any 6 month period
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=BN}}</ref>
+| 
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=BG}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period 
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=BF}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=BI}}</ref>
+| 
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=KH}}</ref>
+| 30 days
+|
+* Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-28 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=CM}}</ref>
+| 
+|
+|- 
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=CA}}</ref>
+|
+| 
+*Brazilian citizens who have held a Canadian visa in the last 10 years or who hold a valid United States non-immigrant visa can enter Canada solely with an [[Visa policy of Canada#Electronic travel authorization|eTA]] when arriving by air.<ref>[http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1097&top=16 When will citizens from Brazil, Bulgaria and Romania be able to apply for an eTA?]</ref><ref>[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaRequired Entry requirements by country:Visa-required]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=CV}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=CL}}</ref>
+| 90 days
+| 
+*Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+*Brazilians can live and work legally in Chile under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check.
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=CN}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=CO}}</ref>
+| 90 days
+| 
+*Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+*Brazilians can live and work legally in Colombia under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check.
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=KM}}</ref>
+| 45 days
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=CR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>[http://www.snedai.com/en/ Visa at International Airport Felix Houphouet Boigny in Abidjan]</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=HR}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period 
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=BR|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=CY}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=CZ}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=DK}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=DM}}</ref>
+| 3 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=DO}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=EC}}</ref>
+| 90 days
+|
+* Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+*Brazilians can live and work legally in Ecuador under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check.
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=EG}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SV}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=EE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=ET}}</ref>
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=FI}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=FR}}</ref>
+| 3 months
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+*Visa usually \\\required\\\ for \\\French Guiana\\\, but some exemptions apply (see French Guiana entry below)<ref name="frenchembassybr">{{cite web |url=https://br.ambafrance.org/Casos-particulares-da-Guiana-Francesa-e-do-transito-aereo-por-Caiena |title=Casos particulares da Guiana Francesa e do trânsito aéreo por Caiena |language=Portuguese |trans-title=Special cases of French Guiana and air transit via Cayenne |work=Embassy of France to Brazil |publisher=Ministère de l\Europe et des affaires étrangères |date=24 May 2018 |accessdate=9 September 2018 }}</ref>
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=GA}}</ref>
+|
+|
+* Electronic visa holders must arrive via [[Libreville International Airport]].<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=GM}}</ref>
+|
+| 
+*An entry clearance must be obtained from the Gambian Immigration prior to travel.<ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=GE}}</ref>
+| 1 year
+|
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=DE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=GR}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=GD}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=GT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=GY}}</ref>
+| 3 months
+| 
+*Brief visits just to the border town of [[Lethem, Guyana|Lethem]] are possible with a valid [[Brazilian identity card|Brazilian ID card]]<ref name="studyinguyana">{{cite web |url=http://studyinguyananow.blogspot.com.br/2011/06/guianabeleza-exotica-e-cultura-atraem.html |title=Guiana - Beleza exótica e cultura atraem turistas |language=Portuguese |trans-title=Guyana - Exotic beauty and culture attract tourists |date=26 June 2011 |accessdate=29 November 2016 }}</ref>
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=HT}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=HN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=HU}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|- 
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=IS}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=ID}}</ref>
+| 30 days<ref>{{cite web|title=Visa Information|url=https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/ID/VI/IS/ID52643&user=KLMB2C&subuser=KLMB2C|archive-url=https://archive.is/20140314003522/https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/ID/VI/IS/ID52643&user=KLMB2C&subuser=KLMB2C|dead-url=yes|archive-date=14 March 2014|publisher=[[Timatic]]|accessdate=24 March 2014}}</ref>
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=IR}}</ref>
+| 30 days<ref>[https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/IR/VI/IS/ID40175&user=KLMB2C&subuser=KLMB2C]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=IQ}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=IE}}</ref>
+| 90 days
+|
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=IL}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=IT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=JM}}</ref>
+| 6 months
+| 
+*90 days (business), 6 months (tourist)
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=JP}}</ref>
+| 
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=JO}}</ref>
+|
+|
+* Conditions apply<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=24 March 2014}}</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=KZ}}</ref><ref>[http://mfa.gov.kz/index.php/ru/vizovyj-rezhim-rk-s-drugimi-gosudarstvami Visa regime of the Republic of Kazakhstan with other countries], [[Ministry of Foreign Affairs (Kazakhstan)|Ministry of Foreign Affairs of Kazakhstan]], 8 September 2016. {{ru icon}}</ref>
+| 30 days
+|
+* 30 days within any year period
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=KI}}</ref>
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=KR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=KW}}</ref>
+|
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=KG}}</ref>
+| 1 month
+| 
+*Visa on arrival available at [[Manas International Airport]].
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=LA}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=LV}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=LB}}</ref>
+|
+| 
+* Brazilian immigrants, or Brazilian businessmen are granted a multiple entry visa on arrival valid for 90 days for tourism purposes only and is renewable once following the approval of the [[General Directorate of General Security]]. This visa however shall not exceed 90 days.<ref>http://www.general-security.gov.lb/Entry_visa/Brazilian-Immigrants.aspx</ref>
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=BR|destination=LS}}</ref>
+|
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=LI}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=LT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=LU}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MK}}</ref>
+| 90 days
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=MG}}</ref>
+| 30 days 
+| 
+*Free of charge
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=MW}}</ref>
+| 30 days
+| 
+* Can extend for a total of 90 days.
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MY}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=MH}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=MR}}</ref>
+| 
+|
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MU}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MX}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>[http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link Foreign citizens who don’t need visa for entry on the territory of the Republic of Moldova]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MC}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MN}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=ME}}</ref>
+| 90 days
+|
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=MA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=MZ}}</ref>
+| 30 days<ref>[http://www.mozambicanhotels.com/tourist-information/mozambique-tourism-news/mozambique-government-announces-30-day-tourist-visas-now-available-at-borders-for-all-visitors Mozambique Government Announces 30-day Tourist Visas now Available at Borders for all Visitors]</ref>
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=http://www.myanmarevisa.gov.mm/ |title=Myanmar eVisa |access-date=2015-10-14 |archive-url=https://web.archive.org/web/20140813070633/http://www.myanmarevisa.gov.mm/ |archive-date=2014-08-13 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism or business purposes.
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=NA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=NL}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=NZ}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=NO}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=PK}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=PA}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=PG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=PY}}</ref>
+| 90 days
+|
+* Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+*Brazilians can live and work legally in Paraguay under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check.
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=PE}}</ref>
+| 183 days
+| 
+*Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+*Brazilians can live and work legally in Peru under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check.
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=PH}}</ref>
+| 59 days
+|
+|- 
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=PL}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=PT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=RO}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period 
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=RU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.migration.gov.rw/]</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=KN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=LC}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=VC}}</ref>
+| 90 days<ref>[http://atlantablackstar.com/2014/10/29/st-vincent-brazil-sign-travel-agreement/]</ref>
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=BR|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SM}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=ST}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=RS}}</ref>
+| 90 days
+|
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SC}}</ref>
+| 90 days
+|
+*90 days per 180-day period
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SK}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SI}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=BR|destination=SB}}</ref>
+| 3 months
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=ZA}}</ref>
+| 90 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=ES}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=SE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=CH}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref name="ec.europa.eu">[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=SY}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=BR|destination=TJ}}</ref>
+| 45 days 
+| 
+*E-visa holders can enter through all border points.<ref>https://www.evisa.tj</ref>
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=TH}}</ref>
+| 3 months
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=TL}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=TO}}</ref>
+| 31 days
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=TT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=TN}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=TR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=TV}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=UG}}</ref>
+| 
+|
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=AE}}</ref>
+| 90 days
+|
+*90 days within any 12-month period.<ref>[https://concordia.itamaraty.gov.br/detalhamento/11945 Agreement between the government of the Federative Republic of Brazil and the government of the United Arab Emirates on mutual visa waiver for holders of a normal passport], Ministry of Foreign Affairs of Brazil. {{pt icon}}</ref>
+|-
+| {{flag|United Kingdom}} and [[Crown dependencies]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=GB}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=US}}</ref>
+| 
+|
+*Tourist visas are issued with validity of up to 10 years.
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=UY}}</ref>
+| 3 months
+| 
+*Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+*Brazilians can live and work legally in Uruguay under the Mercosur (and Associated Countries) immigration agreement with no requirement other than being a Brazilian citizen for over 5 years and passing a background check.
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=UZ}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=VU}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=VA}}</ref>
+|
+|
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=BR|destination=VE}}</ref>
+| 90 days
+| 
+*Entry is allowed with a valid [[Brazilian identity card|ID card]] that is less than 10 years old.
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=VN}}</ref>
+|
+| 
+*Prearranged visa obtained online through travel agencies available at [[Hanoi]], [[Ho Chi Minh City]], [[Phu Quoc]] or [[Da Nang]] airports.
+*[[Phú Quốc]] without a visa for up to 30 days.<ref>[http://www.vietseatourist.vn/News/category1/news-57/No-visa-required-for-tourists-to-Phu-Quoc-on-short-stay.html]</ref><ref>http://www.phuquocislandguide.com/phu-quoc-visa/</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=BR|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=ZM}}</ref>
+| 90 days
+|
+* Also eligible for a universal visa allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=BR|destination=ZW}}</ref>
+| 3 months
+|
+* For tourism purposes only also eligible for a universal visa allowing access to Zambia.
+|}'}

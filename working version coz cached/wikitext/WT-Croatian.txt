@@ -1,0 +1,1130 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=AL|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=DZ|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=AD|accessdate=27 June 2014}}</ref>
+|
+| 
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=HR|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=AG|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=AR|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=AM|accessdate=27 June 2014}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=HR|destination=AU|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted
+*The [[European Commission]] ruled that the eVisitor is not an equivalent of a visa<ref>{{Cite web |url=http://ec.europa.eu/dgs/home-affairs/e-library/documents/policies/borders-and-visas/visa-policy/docs/visa_policy_report_on_situation_of_non-reciprocity_en.pdf |title=Archived copy |access-date=2015-05-02 |archive-url=https://web.archive.org/web/20150518110339/http://ec.europa.eu/dgs/home-affairs/e-library/documents/policies/borders-and-visas/visa-policy/docs/visa_policy_report_on_situation_of_non-reciprocity_en.pdf |archive-date=2015-05-18 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Austria}}
+| {{free|Visa not required}}
+| colspan=2| 
+*Freedom of movement - transitional restrictions on the [[Freedom of movement for workers in the European Union|free movement of workers]] may apply until 30 June 2020.<ref name="CroatiaEU">{{cite web|url=http://ec.europa.eu/social/main.jsp?catId=1067&langId=en|title=Croatia - Employment, Social Affairs & Inclusion|accessdate=1 January 2014}}</ref><ref name="mrms.hr">http://www.mrms.hr/pravila-o-radu-drzavljana-drzava-clanica-europske-unije-i-clanova-njihovih-obitelji-2/</ref>
+*[[Croatian identity card|ID card]] valid<ref name="CroatiaEU1">{{cite web|url=http://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm|title=EU - Travel documents for EU nationals|accessdate=1 January 2014}}</ref>
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HR|destination=AZ|accessdate=27 June 2014}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=BS|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=BH|accessdate=27 June 2014}}</ref>
+| 14 days
+| 
+*Visa is also obtainable online<ref>{{cite web|url=http://www.evisa.gov.bh/VisaBhrnats.html |title=Bahrain Electronic Visa Service |publisher=Evisa.gov.bh |date= |accessdate=2017-04-18}}</ref>
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=BD|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref name="ReferenceB">{{Timatic|nationality=HR|destination=BB|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=BY|accessdate=27 June 2014}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>http://www.mfa.gov.bz/images/documents/Visa%20Requirements%20for%20Belize%20December%202013%20-Web%20version.pdf</ref>
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=BT|accessdate=27 June 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=BO|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=BA|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+*90 days within 6-month period
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=BW|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=BR|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Brunei}}
+| {{Yes|Visa not required}}<ref>{{cite web|url=http://www.mofat.gov.bn/Pages/Visa-Information.aspx |title=Visa Information |publisher=Mofat.gov.bn |date= |accessdate=2017-04-18}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=BF|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.ambassade-du-burundi.fr/demande-de-visa/ |title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT  GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS  NOTE CIRCULAIRE DU  17/02/2015 |access-date=2015-02-26 |archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/ |archive-date=2014-07-22 |dead-url=yes |df= }}</ref><ref>{{Timatic|nationality=HR|destination=BI|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=KH|accessdate=27 June 2014}}</ref> 
+| 30 days
+| 
+*Visa is also obtainable online<ref>{{cite web |url=http://evisa.mfaic.gov.kh |title=Kingdom of Cambodia - Ministry of Foreign Affairs & International Cooperation |publisher=Evisa.mfaic.gov.kh |date=2014-05-15 |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=CM|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref name="Visa Information">{{Timatic|nationality=HR|destination=CA|accessdate=27 June 2014}}</ref>
+| 6 months
+| 
+*[[Electronic Travel Authorization (Canada)|eTA]] required if arriving by air.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref><ref>[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt Entry requirements by country:Visa-exempt]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=CV|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=CF|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=TD|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=CL|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=CN|accessdate=27 June 2014}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=CO|accessdate=27 June 2014}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=KM|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=CG|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=CD|accessdate=27 June 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=CR|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>[http://www.snedai.com/en/ Visa at International Airport Felix Houphouet Boigny in Abidjan]</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]]
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=HR|destination=CU|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Czech Republic}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Denmark}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=DM|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=DO|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=EC|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=EG|accessdate=27 June 2014}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=SV|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=GQ|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=ER|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=SZ|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HR|destination=ET|accessdate=27 June 2014}}</ref> 
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=FJ|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Finland}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|France}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]]<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=GM|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=GE|accessdate=27 June 2014}}</ref>
+| 1 year
+| 
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Germany}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=GH|accessdate=27 June 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=GD|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=GT|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=GN|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=GW|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=GY|accessdate=27 June 2014}}</ref>
+|
+| 
+*Visa can be obtained on arrival provided holding a letter of invitation from a local sponsor
+|-
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=HT|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=HN|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Iceland}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref>[http://www.utl.is/index.php/en/about-directorate-of-immigration/news/698-citizens-of-croatia-will-not-need-residency-permits-from-the-1st-of-july-2015 Citizens of Croatia will not need residence permits from the 1st of July 2015]</ref>
+* [[Croatian identity card|ID card]] valid<ref>{{cite web|url=http://www.mvep.hr/en/consular-information/visas/visa-requirements-overview/iceland,102.html#p |title=MVEP • Visa requirements overview • Iceland |publisher=Mvep.hr |date= |accessdate=2014-08-01}}</ref>
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+|
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=ID}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=IR|accessdate=27 June 2014}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=IQ|accessdate=27 June 2014}}</ref>
+| 15 days
+| 
+*Visa on arrival for 15 days at [[Erbil]] and [[Sulaymaniyah]] airports valid for [[Iraqi Kurdistan]] only
+|-
+| {{flag|Ireland}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=IL|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Jamaica}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=JM|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=JP|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=HR|destination=JO|accessdate=27 June 2014}}</ref>
+|
+| 
+*Conditions apply.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[IATA]]|accessdate=27 June 2014}}</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=KZ}}</ref>
+| 30 days<ref>{{cite web |author=09:12 |url=http://www.mfa.kz/index.php/en/infographics-eng/7979-45-countries-with-30-days-visa-free-regime |title=45 countries with 30 days visa-free regime |publisher=Mfa.kz |date=2016-12-23 |accessdate=2017-04-18 |archive-url=https://web.archive.org/web/20161230091650/http://www.mfa.kz/index.php/en/infographics-eng/7979-45-countries-with-30-days-visa-free-regime |archive-date=2016-12-30 |dead-url=yes |df= }}</ref>
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=KI}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=KP|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{cite web |url=http://www.mofa.go.kr/ENG/visa/application/index.jsp?menu=m_40_10 |title=Ministry of Foreign Affairs, Republic of Korea |language=ko |publisher=Mofa.go.kr |date= |accessdate=2014-08-01 |archive-url=https://archive.is/20130703015928/http://www.mofa.go.kr/ENG/visa/application/index.jsp?menu=m_40_10 |archive-date=2013-07-03 |dead-url=yes |df= }}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=KW}}</ref><ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait e-Visa]</ref>
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=KG|accessdate=27 June 2014}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=LA|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Latvia}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=HR&AR=00&PASSTYPES=PASS&DE=LB&user=KLMB2C&subuser=KLMB2C]</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=HR|destination=LS|accessdate=27 June 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=LR|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=LY|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement - restrictions on the [[Freedom of movement for workers in the European Union|free movement of workers]] apply;<ref name=":0" />
+* [[Croatian identity card|ID card]] valid<ref>{{cite web|url=http://www.mvep.hr/en/consular-information/visas/visa-requirements-overview/liechtenstein,156.html#p |title=MVEP • Visa requirements overview • Liechtenstein |publisher=Mvep.hr |date=2014-07-22 |accessdate=2014-08-01}}</ref> 
+|-
+| {{flag|Lithuania}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Luxembourg}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MK|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Madagascar}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=HR|destination=MG|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=MW|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MY|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=MV|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=ML|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MH}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=MR|accessdate=27 June 2014}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]]
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MU|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MX|accessdate=27 June 2014}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=FM|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MD|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MC|accessdate=27 June 2014}}</ref>
+|
+| 
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=MN|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=ME|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*[[Croatian identity card|ID card]] valid for 30 days
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=MA|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=MZ|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=https://www.myanmarevisa.gov.mm/ |title=Archived copy |access-date=2013-10-22 |archive-url=https://web.archive.org/web/20131019103159/https://www.myanmarevisa.gov.mm/ |archive-date=2013-10-19 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=NA|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=NR|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=NP|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="mrms.hr"/>
+* [[Croatian identity card|ID card]] valid<ref name="CroatiaEU1" />
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=NZ|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=NI|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=NE|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=NG|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref>{{cite web|url=https://www.regjeringen.no/en/aktuelt/croatia-eea/id752716/|title=Croatia to become part of the EEA|website=Government.no|accessdate=2015-06-08}}</ref>
+* [[Croatian identity card|ID card]] valid<ref>{{cite web|url=http://www.mvep.hr/en/consular-information/visas/visa-requirements-overview/norway,196.html#p|title=MVEP • Visa requirements overview • Norway |publisher=Mvep.hr |date= |accessdate=2014-08-01}}</ref>
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=PK|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Palau}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015058|title=Agreement between the European Union and the Republic of Palau on the short-stay visa waiver|accessdate=5 March 2016}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=PA|accessdate=27 June 2014}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>[http://www.immigration.gov.pg/images/documents/Publication-Revised%20MSF2.pdf REVISED MIGRATION SERVICE FEES (MSF)]</ref><ref>{{Timatic|nationality=HR|destination=PG|accessdate=27 June 2014}}</ref>
+| 60 days
+| 
+*Free of charge
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=PY|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=PE|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+*90 days within any 6-month period<ref>{{Cite web |url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |title=REQUERIMIENTOS DE VISAS PARA CIUDADANOS EXTRANJEROS |access-date=2016-01-29 |archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |archive-date=2016-02-04 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>[https://www.dfa.gov.ph/index.php/site-administrator/visa-information Guidelines on the Entry of Temporary Visitors to the Philippines]</ref><ref>{{Timatic|nationality=HR|destination=PH|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Poland}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Portugal}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=QA|accessdate=27 June 2014}}</ref><ref>[https://www.visitqatar.qa/plan/visas-requirements.html]</ref>
+| 90 days
+|-
+| {{flag|Romania}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=RU|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=http://www.migration.gov.rw/index.php?id=203 |title=online visa |publisher=Migration.gov.rw |date=2016-07-31 |accessdate=2017-04-18}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>[http://www.foreign.govt.kn/travel/countries-that-need-visas-to-travel-to-st-kitts-and-nevis/ Countries that need Visas to Travel to St. Kitts and Nevis]</ref>
+| 90 days
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7107-2015-INIT/en/pdf Agreement between the European Union and Saint Lucia on the short-stay visa waiver]</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=VC|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=WS|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=SM|accessdate=27 June 2014}}</ref>
+|
+| 
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=SA|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=RS|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+*[[Croatian identity card|ID card]] valid
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Agreement between the European Community and the Republic of Seychelles on the short-stay visa waiver|url=http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22009A0630%2805%29&qid=1451172310633&from=EN|website=EUR-Lex|publisher=[[Official Journal of the European Union]]|accessdate=27 December 2015|date=30 June 2009}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=SL|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=SG|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Slovenia}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="mrms.hr"/>
+* [[Croatian identity card|ID card]] valid<ref name="CroatiaEU1" />
+|-
+| {{flag|Solomon Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=SB}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=ZA|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=SS|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=LK|accessdate=27 June 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=SD|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=SR|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="CroatiaEU1" /><ref name="CroatiaEU" />
+* [[Croatian identity card|ID card]] valid
+|-
+| {{flag|Switzerland}}
+| {{free|Visa not required}}<ref>{{Timatic|nationality=HR|destination=CH|accessdate=27 June 2014}}</ref>
+| colspan=2| 
+* Freedom of movement - transitional restrictions on the [[Freedom of movement for workers in the European Union|free movement of workers]] may apply;<ref name=":0">{{cite web|url=http://europa.eu/youreurope/citizens/work/work-abroad/work-permits/index_en.htm |title=Work permits - Your Europe |publisher=Europa.eu |date=2015-09-16 |accessdate=2017-04-18}}</ref><ref>{{cite web|url=http://europa.eu/rapid/press-release_MEMO-16-3185_en.htm |title=European Commission - PRESS RELEASES - Press release - EU-Swiss relations |publisher=Europa.eu |date=2016-09-25 |accessdate=2017-04-18}}</ref>
+* [[Croatian identity card|ID card]] valid
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=SY|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HR|destination=TJ|accessdate=27 June 2014}}</ref>
+| 45 days<ref>{{cite web|url=https://www.evisa.tj |title=Tajikistan e-Visa |publisher=Evisa.tj |date= |accessdate=2017-04-18}}</ref>
+|
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=TZ|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=TH|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=TL|accessdate=27 May 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=TG|accessdate=27 June 2014}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>[http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015057 Agreement between the European Union and the Kingdom of Tonga on the short-stay visa waiver]</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=TT|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=TN|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HR|destination=TR|accessdate=27 June 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=TM|accessdate=27 June 2014}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=TV}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=UG|accessdate=27 June 2014}}</ref>
+|
+| 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=UA|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=HR&AR=00&PASSTYPES=PASS&DE=AE&user=KLMB2C&subuser=KLMB2C]</ref>
+| 90 days
+| 
+*90 days within any 180 day period<ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/06-eu-signs-visa-waiver-agreement-united-arab-emirates/ EU signs visa waiver agreement with the United Arab Emirates]</ref><ref>[http://data.consilium.europa.eu/doc/document/ST-7103-2015-INIT/en/pdf Agreement between the European Union and the United Arab Emirates on the short-stay visa waiver]</ref>
+|-
+| {{flag|United Kingdom}}
+| {{free|Visa not required}}
+| colspan=2| 
+* Freedom of movement;<ref name="mrms.hr"/>
+*[[Croatian identity card|ID card]] valid<ref name="CroatiaEU1" />
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref name="ReferenceC"/>
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=UY|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HR|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=VU|accessdate=27 June 2014}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=VA|accessdate=27 June 2014}}</ref>
+|
+| 
+*[[Croatian identity card|ID card]] valid
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HR|destination=VE|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=VN|accessdate=27 June 2014}}</ref>
+|
+|
+* Prearranged visa obtained online through travel agencies available at [[Hanoi]], [[Ho Chi Minh City]], [[Phu Quoc]]<ref>{{cite web|url=http://www.phuquocislandguide.com |title=Phu Quoc Island Vietnam Official Travel Guide &#124; 2017 - 2018 |publisher=Phuquocislandguide.com |date= |accessdate=2017-04-18}}</ref> or [[Da Nang]] airports
+* [[Phú Quốc]] without a visa for up to 30 days<ref>{{cite web|url=http://www.vietseatourist.vn/News/category1/news-57/No-visa-required-for-tourists-to-Phu-Quoc-on-short-stay.html |title=No visa required for tourists to Phu Quoc on short stay - Vietsea Tourist - Travel to Vietnam, Laos, Cambodia and Thailand &#124; Vietnam Travel Tours |publisher=Vietseatourist.vn |date= |accessdate=2017-04-18}}</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HR|destination=YE|accessdate=27 June 2014}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=ZM|accessdate=27 June 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HR|destination=ZW|accessdate=12 February 2016}}</ref>
+| 3 months
+|
+|}
+
+===Reciprocal arrangements===
+The United States violates visa-free reciprocity by not including several European Union countries in their [[Visa Waiver Program]], including Croatia.<ref name="ReferenceC">{{Timatic|nationality=HR|destination=US|accessdate=27 June 2014}}</ref><ref name="Report2014">{{cite web|url=http://ec.europa.eu/dgs/home-affairs/what-is-new/news/news/docs/20141010_report_assessing_the_situationof_non-reciprocity_with_certain_third_countries_en.pdf|title=Report from the Commission assessing the situation of non-reciprocity with certain third countries in the area of visa policy |date=10 October 2014|accessdate=11 October 2014|publisher=[[European Commission]]}}</ref>
+
+===Territories===
+Visa requirements for Croatian citizens for visits to various territories, disputed areas and restricted zones:
+
+====Europe====
+*{{flag|Abkhazia}} — Visa required.<ref>{{cite web |url=http://mfaapsny.org/aps/council/visa.php |title=Аҧсны Аҳәынҭқарра Адәныҟатәи Аускәа Рминистрра |publisher=Mfaapsny.org |date= |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20170623135732/http://mfaapsny.org/aps/council/visa.php |archive-date=2017-06-23 |dead-url=yes |df= }}</ref>
+*{{flag|Artsakh}} — Visa required (issued for single entry for 21 days/1/2/3 months or multiple entry visa for 1/2/3 months).<ref>[http://www.nkr.am/en/the-procedure-of-foreign-citizens-entry-to-the-nkr/92/]</ref><ref>[http://www.nkrusa.org/nkr_office/visa_travel.shtml]</ref><br>Travellers with [[Republic of Artsakh|Artsakh]] visa (expired or valid) or evidence of travel to [[Republic of Artsakh|Artsakh]] (stamps) will be permanently denied entry to [[Azerbaijan]].<ref>[http://mfa.gov.az/index.php?options=content&id=587]</ref>
+*[[File:Flag of the Greek Orthodox Church.svg|21px]] [[Mount Athos]] — Special permit required (4 days: 25 [[euro]] for [[Eastern Orthodox Church|Orthodox]] visitors, 35 [[euro]] for non-Orthodox visitors, 18 [[euro]] for students). There is a visitors\ quota: maximum 100 [[Eastern Orthodox Church|Orthodox]] and 10 non-Orthodox per day and women are not allowed.<ref>{{cite web|url=http://www.athosfriends.org/PilgrimsGuide/planning/ |title=The Friends of Mount Athos - A Pilgrim\s Guide to Mount Athos: Planning Your Visit |publisher=Athosfriends.org |date=2007-11-06 |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html |title=Mount Athos Info, Αγιον Οροσ, Berg Athos, Ouranoupolis, Ουρανουπολη |publisher=Mountathosinfos.gr |date= |accessdate=2014-08-01}}</ref>
+*{{flagicon|Belarus}} [[Brest, Belarus|Brest]] and [[Grodno]] — Visa not required for 10 days.<ref>[http://eng.belta.by/president/view/visa-free-travel-time-up-to-ten-days-in-parts-of-brest-oblast-grodno-oblast-as-from-1-january-107990-2017/]</ref>
+*{{flagicon|Crimea}} [[Crimea]] — Visa issued by Russia is required.<ref>{{cite web|author=|url=http://www.themoscowtimes.com/news/article/foreigners-now-need-russian-visa-to-visit-crimea/497173.html |title=Foreigners Now Need Russian Visa to Visit Crimea |publisher=Themoscowtimes.com |date=2014-04-01 |accessdate=2014-08-01}}</ref>
+*{{flag|Turkish Republic of Northern Cyprus}} — Visa free access for 3 months. ID card valid.<ref>[http://mfa.gov.ct.tr/consular-info/visa-regulations/]</ref>
+*{{flagicon|United Nations}} [[United Nations Buffer Zone in Cyprus|UN Buffer Zone in Cyprus]] — Access Permit is required for travelling inside the zone, except Civil Use Areas.<ref>{{cite web |url=http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |title=Buffer Zone Permits |publisher=Unficyp |date= |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20141021143210/http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |archive-date=2014-10-21 |dead-url=yes |df= }}</ref>
+*{{flag|Gibraltar}} — Visa not required. ID card valid.<ref>{{Timatic|nationality=HR|destination=GI|accessdate=27 June 2014}}</ref>
+*{{flagicon|Norway}} [[Jan Mayen]] — permit issued by the local police required for staying for less than 24 hours<ref>{{cite web|author=Jan Mayen Crew |url=http://www.jan-mayen.no/visit.htm |title=Jan Mayen Homesite, Edited By The Jan Mayen Crew |publisher=Jan-mayen.no |date= |accessdate=2014-08-01}}</ref> and permit issued by the [[Norwegian Police Service|Norwegian police]] for staying for more than 24 hours.<ref>{{cite web|url=http://www.lovdata.no/for/sf/jd/xd-19620601-0001.html |title=Lovdata - Sender deg til riktig side |publisher=Lovdata.no |date=1962-06-01 |accessdate=2014-08-01}}</ref>
+*{{flag|Kosovo}} — visa free for 90 days.<ref>{{cite web|url=http://www.mfa-ks.net/?page=2,158 |title=Special Categories - Ministry of Foreign Affairs - Kosovo |publisher=Mfa-ks.net |date= |accessdate=2014-08-01}}</ref>
+*{{flag|South Ossetia}} — Visa free. Multiple entry visa to [[Russia]] and three-day prior notification are required to enter South Ossetia.<ref>{{cite web|url=http://mfa-rso.su/node/55 |title=О визах &#124; Министерство иностранных дел |publisher=Mfa-rso.su |date=2010-04-22 |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://mfa-rso.su/en/node/406 |title=Procedure of the Entry to the Territory of the Republic of South Ossetia &#124; Министерство иностранных дел |publisher=Mfa-rso.su |date= |accessdate=2014-08-01}}</ref>
+*{{flag|Transnistria}} — Visa free. Registration required after 24h.<ref>{{Cite web |url=http://www.luxlana.net/Transdniestr.html |title=Archived copy |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20131022114723/http://www.luxlana.net/Transdniestr.html |archive-date=2013-10-22 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://transnistria-tour.com/en/rules-and-tipps |title=Rules and recommendations |publisher=Transnistria tour |date= |accessdate=2014-08-01}}</ref>
+
+====Africa====
+*{{Flag|British Indian Ocean Territory}} — special permit required.<ref>{{cite web|url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/asia-oceania/british-indian-ocean-territory?ta=entryRequirements&pg=4 |title=British Indian Ocean Territory travel advice - GOV.UK |publisher=Fco.gov.uk |date=2014-03-13 |accessdate=2014-08-01}}</ref>
+* {{Flag|Eritrea}} (outside [[Asmara]]) — visa covers [[Asmara]] only; to travel in the rest of the country, a Travel Permit for Foreigners is required (20 [[Eritrean nakfa]]).<ref>{{cite web|author=Hans van der Splinter |url=http://www.eritrea.be/MoT.htm |title=Ministry of Tourism - Tourism Service Center |publisher=Eritrea.be |date=2013-01-27 |accessdate=2014-08-01}}</ref>
+*{{SHN}}
+**{{Flag|Ascension Island}} — Entry Permit must be obtained minimum 28 days in advance (3 months for 20/30 [[pound sterling|pounds sterling]], single/double entry).<ref>{{cite web |url=http://www.ascension-island.gov.ac/services/entry-permits/ |title=Entry Permits |publisher=Ascension Island |date=2013-04-01 |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20170709230215/http://www.ascension-island.gov.ac/services/entry-permits/ |archive-date=2017-07-09 |dead-url=yes |df= }}</ref>
+**{{Flag|Saint Helena}} — Visitor\s Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 [[pound sterling]].<ref>{{cite web|url=http://www.sthelenatourism.com/the-island/useful-info/ |title=Useful info : St Helena Tourism |publisher=Sthelenatourism.com |date= |accessdate=2014-08-01}}</ref>
+**{{Flag|Tristan da Cunha}} — Permission to land required for 15/30 [[pound sterling|pounds sterling]] (yacht/ship passenger) for Tristan da Cunha Island or 20 [[pound sterling|pounds sterling]] for [[Gough Island]], [[Inaccessible Island]] or [[Nightingale Islands]].<ref>{{cite web|url=http://www.tristandc.com/visitsadmin.php |title=Tristan da Cunha Information for Visitors |publisher=Tristandc.com |date= |accessdate=2014-08-01}}</ref>
+*{{Flag|Sahrawi Arab Democratic Republic}} ([[Free Zone (region)|Western Sahara controlled territory]]) — undefined visa regime.
+*{{Flag|Somaliland}} — visa required (30 days for 30 [[US dollar]]s, payable on arrival).<ref>{{cite web|author=|url=http://www.lonelyplanet.com/somaliland-puntland-and-somalia/practical-information/visas|title=Practical travel information on Visas in Somaliland, Puntland & Somalia - Lonely Planet Travel Information|publisher=Lonelyplanet.com|date=|accessdate=2014-08-01|archive-url=https://web.archive.org/web/20141106194323/http://www.lonelyplanet.com/somaliland-puntland-and-somalia/practical-information/visas|archive-date=2014-11-06|dead-url=yes|df=}}</ref><ref>[https://archive.is/20061117003149/http://www.somalilandgov.com/Visa%20Application.htm]</ref>
+
+====Asia====
+*{{flag|Hong Kong}} — Visa not required for 90 days.<ref>{{Timatic|nationality=HR|destination=HK|accessdate=27 June 2014}}</ref>
+*{{flag|India}} — Protected Area Permit (PAP) required for all of [[Arunachal Pradesh]], [[Manipur]], [[Mizoram]] and parts of [[Himachal Pradesh]], [[Jammu and Kashmir]] and [[Uttarakhand]]. Restricted Area Permit (RAP) required for all of [[Andaman and Nicobar Islands]] and [[Lakshadweep]] and parts of [[Sikkim]]. Some of these requirements are occasionally lifted for a year.<ref>{{cite web |url=http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |archiveurl=https://web.archive.org/web/20120426085021/http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |archivedate=2012-04-26 |title=Entry Formalities}}</ref><ref>{{cite web |url=http://arunachaltourism.com/entry_formalities.php |title=Arunachal Tourism |publisher=Arunachal Tourism |date= |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20140701111837/http://arunachaltourism.com/entry_formalities.php |archive-date=2014-07-01 |dead-url=yes |df= }}</ref><ref>{{Cite web |url=http://manipurbhawan.nic.in/entryformalities.htm |title=Archived copy |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20110809003009/http://manipurbhawan.nic.in/entryformalities.htm |archive-date=2011-08-09 |dead-url=yes |df= }}</ref><ref>[http://manipurhub.com/news/manipur/protected-area-permit-requirement-lifted-from-manipur-for-one-year/]{{dead link|date=April 2017}}</ref><ref>{{cite web |url=http://lakshadweeptourism.nic.in/web9.htm |title=Tourism in Lakshadweep |publisher=Lakshadweeptourism.nic.in |date= |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20140713171604/http://lakshadweeptourism.nic.in/web9.htm |archive-date=2014-07-13 |dead-url=yes |df= }}</ref>
+*{{flag|Macao}} — Visa not required for 90 days.<ref>{{Timatic|nationality=HR|destination=MO|accessdate=27 June 2014}}</ref>
+*{{flag|North Korea}} outside [[Pyongyang]] – People are not allowed to leave the capital city, tourists can only leave the capital with a governmental tourist guide (no independent moving)
+*{{flag|Taiwan}} — Visa not required for 90 days.<ref>{{Timatic|nationality=HR|destination=TW|accessdate=27 June 2014}}</ref>
+*{{Flagicon|Tajikistan}} [[Gorno-Badakhshan Autonomous Province]] — OIVR permit required (15+5 [[Tajikistani Somoni]]) and another special permit (free of charge) is required for [[Lake Sarez]].<ref>{{cite web|url=http://www.pamirs.org/visas.htm |title=the roof of the world |publisher=Pamirs |date= |accessdate=2014-08-01}}</ref><ref>{{cite web |url=http://www.traveltajikistan.com/visas/gbao.html |title=Permit to visit Gorno-Badakhshan Autonomous Oblast (GBAO) |publisher=Travel Tajikistan |date=2004-07-16 |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20150423031531/http://www.traveltajikistan.com/visas/gbao.html |archive-date=2015-04-23 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://tajiktourism.com/tajikistan-visa/ |title=Tajikistan Visa |publisher=Tajik Tourism |date= |accessdate=2014-08-01}}</ref>
+*{{Flagicon|People\s Republic of China}} [[Tibet Autonomous Region]] — Tibet Travel Permit required (10 [[US Dollars]]).<ref>{{cite web |url=http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |archiveurl=https://web.archive.org/web/20131017213737/http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |archivedate=2013-10-17 |title=Travel Documents}}</ref><ref>{{cite web|url=http://www.tibettravel.org/tibet-travel-permit/tibet-permits.html |title=How to get Tibet Travel Permit, Successful Application Tips |publisher=Tibettravel.org |date=2014-07-28 |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://www.tibettravelplanner.com/travel_permit.htm |title=How to get a Tibet Travel Permits - Tibet Visa 2013? |publisher=Tibettravelplanner.com |date=2012-05-14 |accessdate=2014-08-01}}</ref>
+*{{flagicon|UN}} [[Korean Demilitarized Zone]] — restricted zone.
+*{{flagicon|United Nations}} [[UNDOF Zone]] and [[Ghajar]] — restricted zones.
+
+====Caribbean and North Atlantic====
+*{{flag|Anguilla}} — Visa not required for 3 months.<ref>{{Timatic|nationality=HR|destination=AI|accessdate=27 June 2014}}</ref>
+*{{flag|Aruba}} — Visa not required for 30 days.<ref>{{Timatic|nationality=HR|destination=AW|accessdate=27 June 2014}}</ref>
+*{{flag|Bermuda}} — Visa not required.<ref>{{Timatic|nationality=HR|destination=BM|accessdate=27 June 2014}}</ref>
+*{{flagicon|Netherlands}} [[Bonaire]], [[St. Eustatius]] and [[Saba]] — Visa not required for 3 months.<ref>{{Timatic|nationality=HR|destination=BQ|accessdate=27 June 2014}}</ref>
+*{{flag|British Virgin Islands}} — Visa not required.<ref>{{Timatic|nationality=HR|destination=VG|accessdate=27 June 2014}}</ref>
+*{{flag|Cayman Islands}} — Visa not required.<ref>{{Timatic|nationality=HR|destination=KY|accessdate=27 June 2014}}</ref>
+*{{flag|Curacao}} — Visa not required for 3 months.<ref>{{Timatic|nationality=HR|destination=CW|accessdate=27 June 2014}}</ref>
+*{{flag|Montserrat}} — Visa required.<ref>{{Timatic|nationality=HR|destination=MS|accessdate=27 June 2014}}</ref>
+*{{flag|Puerto Rico}} — Visa required.<ref>{{Timatic|nationality=HR|destination=PR|accessdate=27 June 2014}}</ref>
+*{{flag|Sint Maarten}} — Visa not required for 3 months.<ref>{{Timatic|nationality=HR|destination=SX|accessdate=27 June 2014}}</ref>
+*{{flag|Turks and Caicos Islands}} — Visa free for 90 days.<ref>{{Timatic|nationality=HR|destination=TC|accessdate=27 June 2014}}</ref>
+*{{flag|U.S. Virgin Islands}} — Visa required.<ref>{{Timatic|nationality=HR|destination=VI|accessdate=27 June 2014}}</ref>
+
+====Oceania====
+*{{flag|American Samoa}} — Visa required (entry permit).<ref>{{Timatic|nationality=HR|destination=AS|accessdate=27 June 2014}}</ref>
+*{{flagicon|Australia}} [[Ashmore and Cartier Islands]] — special authorisation required.<ref>{{cite web |url=http://www.environment.gov.au/coasts/mpa/ashmore/activities.html |archiveurl=https://web.archive.org/web/20121031132558/http://environment.gov.au/coasts/mpa/ashmore/activities.html |archivedate=2012-10-31 |title=Ashmore Reef National Nature Reserve and Cartier Island Marine Reserve}}</ref>
+*{{flagicon|France}} [[Clipperton Island]] — special permit required.<ref>{{cite web|author=Bruno Quintero |url=http://www.clipperton.fr/incagen.html?geopolitique.htm~main |title=Clipperton - Ile de La Passion |publisher=Clipperton.fr |date= |accessdate=2014-08-01}}</ref>
+*{{Flag|Cook Islands}} — Visa free access for 31 days.<ref>{{cite web|title=Facts and Information|url=http://www.cook-islands.gov.ck/faq.php |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131115035856/http://www.cook-islands.gov.ck/faq.php |archivedate=November 15, 2013 }}</ref>
+*{{flag|Guam}} — Visa required.<ref>{{Timatic|nationality=HR|destination=GU|accessdate=27 June 2014}}</ref>
+*{{Flag|Niue}} — Visa on arrival valid for 30 days is issued free of charge.<ref>{{cite web |url=http://www.niueisland.com/getting-niue |title=Getting to Niue &#124; Niue |publisher=Niueisland.com |date=2014-05-21 |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20140824231422/http://www.niueisland.com/getting-niue |archive-date=2014-08-24 |dead-url=yes |df= }}</ref>
+*{{Flag|Pitcairn Islands}} — 14 days visa free and landing fee 35 USD or tax of 5 USD if not going ashore.<ref>{{cite web |url=http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |title=Tourist Information &#124; Visas & Legal Info &#124; Pitcairn Island Tourism |publisher=Visitpitcairn.pn |date= |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20131018001850/http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |archive-date=2013-10-18 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.government.pn/visaInfo.php |title=Pitcairn Islands |publisher=Government.pn |date= |accessdate=2014-08-01}}</ref><ref>http://www.government.pn/immigration%20ordinance.pdf</ref>
+*{{flagicon|US}} [[United States Minor Outlying Islands]] — special permits required for [[Baker Island]], [[Howland Island]], [[Jarvis Island]], [[Johnston Atoll]], [[Kingman Reef]], [[Midway Atoll]], [[Palmyra Atoll]] and [[Wake Island]].<ref>{{cite web|url=http://www.fws.gov/bakerisland/visit.html |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017211743/http://www.fws.gov/bakerisland/visit.html |archivedate=October 17, 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/howlandisland/visit.html |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017212340/http://www.fws.gov/howlandisland/visit.html |archivedate=October 17, 2013 }}</ref><ref>http://www.fws.gov/jarvisisland/</ref><ref>{{cite web|url=http://www.fws.gov/johnstonisland/visit.html |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130607120346/http://www.fws.gov/johnstonisland/visit.html |archivedate=June 7, 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/kingmanreef/visit.html |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017212056/http://www.fws.gov/kingmanreef/visit.html |archivedate=October 17, 2013 }}</ref><ref>[http://www.fws.gov/midway/visit.html] {{webarchive|url=https://web.archive.org/web/20140128062001/http://www.fws.gov/midway/visit.html|date=January 28, 2014}}</ref><ref>{{cite web|url=http://www.fws.gov/palmyraatoll/visit.html |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130522074332/http://www.fws.gov/palmyraatoll/visit.html |archivedate=May 22, 2013 }}</ref>
+
+====South Atlantic and Antarctica====
+*{{Flag|Falkland Islands}} — Visitor Permit valid for 4 weeks is issued on arrival.<ref>{{cite web|url=http://www.falklandislands.com/product.php/35/17/entry_and_exit_requirements/abce58e896311945651c12e01c7562dc |title=Entry and Exit requirements > Need to know > Travel Guide > Home > Falkland Islands Tourist Board |publisher=Falklandislands.com |date= |accessdate=2014-08-01}}</ref>
+*{{Flag|South Georgia and the South Sandwich Islands}} — Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 [[pound sterling|pounds sterling]]).<ref>{{cite web|url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/south-america/south-georgia-south-sandwich#entryRequirements |title=South Georgia and South Sandwich Islands (British Overseas Territory) travel advice - GOV.UK |publisher=Fco.gov.uk |date=2014-06-16 |accessdate=2014-08-01}}</ref><ref>{{cite web |url=http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis |title=Information for Visitors - South Georgia Website |publisher=Sgisland.gs |date= |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20080412170649/http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis |archive-date=2008-04-12 |dead-url=yes |df= }}</ref>
+*[[Antarctica]] and adjacent islands — special permits required for {{flag|British Antarctic Territory}}, {{Flag|French Southern and Antarctic Lands}}, {{flag|Argentine Antarctica}}, {{flagicon|Australia}} [[Australian Antarctic Territory]], {{flagicon|Antártica Chilena Province}} [[Chilean Antarctic Territory]], {{flagicon|Australia}} [[Heard Island and McDonald Islands]], {{flagicon|Norway}} [[Peter I Island]], {{flagicon|Norway}} [[Queen Maud Land]], {{flagicon|New Zealand}} [[Ross Dependency]].<ref>{{cite web|url=http://www.antarctica.ac.uk/about_antarctica/tourism/index.php |title=Tourism in Antarctica - British Antarctic Survey |publisher=Antarctica.ac.uk |date=2012-11-07 |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://www.fco.gov.uk/content/en/travel%2Dadvice/north%2Dcentral%2Dsouth%2Damerica/12940285/fco_trv_ca_britishantarcticterr?ta%3DtravelSummary%26pg%3D1 |archive-url=http://webarchive.nationalarchives.gov.uk/20110506194531/http://www.fco.gov.uk/content/en/travel%2Dadvice/north%2Dcentral%2Dsouth%2Damerica/12940285/fco_trv_ca_britishantarcticterr?ta%3DtravelSummary%26pg%3D1 |dead-url=yes |archive-date=2011-05-06 |title=[ARCHIVED CONTENT&#93; UK Government Web Archive – The National Archives |publisher=Webarchive.nationalarchives.gov.uk |date=2011-05-06 |accessdate=2017-04-18}}</ref><ref>{{cite web|url=http://britishantarcticterritory.fco.gov.uk/en/tourism/ |title=British Antarctic Territory - GOV.UK |publisher=Britishantarcticterritory.fco.gov.uk |date= |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-a-l-Antarctique |title=Activités et accès à l’Antarctique : rappel des procédures et sensibilisation à la sécurité des personnes et à la protection de l’environnement |publisher=Taaf.fr |date= |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-australes |title=Accès aux Terres australes françaises |publisher=Taaf.fr |date= |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-Eparses |title=Accès aux îles Eparses |publisher=Taaf.fr |date= |accessdate=2014-08-01}}</ref><ref>{{cite web |url=http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |title=Dna-Iaa - La Antártida |publisher=Dna.gov.ar |date= |accessdate=2014-08-01 |archive-url=https://web.archive.org/web/20140805081831/http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |archive-date=2014-08-05 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information |title=Forms expeditioners must sign — Australian Antarctic Division |publisher=Antarctica.gov.au |date=2013-12-11 |accessdate=2014-08-01}}</ref><ref>{{cite web|url=http://www.heardisland.aq/about/frequently-asked-questions#visit_heard_island |title=FAQ — Heard Island |publisher=Heardisland.aq |date=2005-02-28 |accessdate=2014-08-01}}</ref><ref>[http://www.npolar.no/en/antarctica/peter-I-oy.html] {{webarchive|url=https://web.archive.org/web/20131017215217/http://www.npolar.no/en/antarctica/peter-I-oy.html|date=October 17, 2013}}</ref><ref>[http://www.npolar.no/en/antarctica/dronning-maud-land.html] {{webarchive|url=https://web.archive.org/web/20131017215832/http://www.npolar.no/en/antarctica/dronning-maud-land.html|date=October 17, 2013}}</ref><ref>{{cite web|url=http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php |title=Foreign Relations - Antarctica - New Zealand Procedures for Non-Governmental Visitors to Antarctica - NZ Ministry of Foreign Affairs and Trade |publisher=Mfat.govt.nz |date=2012-10-12 |accessdate=2014-08-01}}</ref>'}

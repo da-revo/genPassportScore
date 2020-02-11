@@ -1,0 +1,1068 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+Visa requirements for holders of normal passports travelling for tourist purposes:
+
+Chile is an associated member of [[Mercosur]]. As such, its citizens enjoy unlimited access to any of the full members countries of Argentina, Brazil]], Paraguay or Uruguay and the other associated member countries of  Bolivia, Colombia, Ecuador and Peru with the right to residence and work, with no requirement other than nationality. Citizens of these nine countries (including Chile) may apply for a grant of "temporary residence" for up to two years in another country of the bloc.<ref> [http://www.mercosur.int/innovaportal/v/6581/3/innova.front/residir-e-trabalhar-no-mercosul "Residir e trabalhar no Mercosul" ], \\[[www.mercosur.int]]\\ </ref>  Then, they may apply for "permanent residence" just before the term of their "temporary residence" expires.<ref>{{cite web|url=http://www.mre.gov.br/index.php?Itemid=548&id=1044&option=com_content&task=view|title=Perguntas mais freqüentes sobre integração regional e MERCOSUL|language=portuguese|publisher=MRE}}</ref><ref>{{cite web|url=http://www.ansa.it/ansalatinabr/notizie/fdg/200907311350352763/200907311350352763.html|title=Paraguai assina acordos sobre migração no Mercosul|language=portuguese|publisher=ansa.it}}</ref>
+
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=AF|accessdate=28 February 2014}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=AL|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=DZ|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=AD|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=CL|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=AG|accessdate=28 February 2014}}</ref>
+| 1 month
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=AR|accessdate=28 February 2014}}</ref>
+| 90 days
+| 
+*National ID card accepted
+*Chileans can live and work legally in Argentina under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=AM|accessdate=28 February 2014}}</ref>
+| 120 days
+| 
+*Obtainable on arrival at [[Zvartnots International Airport]] or prior to travel online.<ref>[https://evisa.mfa.am/pls/dbms/evis_n.put_application_p0 e-Visa - Republic of Armenia Electronic Visa System]</ref>
+|-
+| {{flag|Australia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=AU|accessdate=28 February 2014}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection|accessdate=31 August 2015}}</ref> Transit visa is not required.<ref>{{cite web|url=https://www.border.gov.au/Lega/Lega/Form/Immi-FAQs/do-i-need-a-visa-to-transit-through-australia|title=Do I need a visa to transit through Australia?|website=www.border.gov.au}}</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=AT|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CL|destination=AZ|accessdate=28 February 2014}}</ref>
+| 30 days<ref>{{cite web|url=https://evisa.gov.az/en/|title=Home Page -         The Electronic Visa System of Azerbaijan Republic|website=evisa.gov.az}}</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BS|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=BH|accessdate=28 February 2014}}</ref>
+| 14 days
+| 
+*Visa is also obtainable online.<ref>{{cite web|url=http://www.evisa.gov.bh/VisaBhrnats.html|title=Bahrain Electronic Visa Service|website=www.evisa.gov.bh}}</ref>
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=BD|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+* Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BB|accessdate=28 February 2014}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BY|accessdate=28 February 2014}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]]. 
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BE|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BZ|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=BT|accessdate=28 February 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BO|accessdate=28 February 2014}}</ref>
+| 90 days
+| 
+*National ID card accepted
+*Chileans can live and work legally in Bolivia under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BA|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 6 month period
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BW|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+* 90 days within any year period
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BR|accessdate=28 February 2014}}</ref>
+| 90 days
+| 
+*National ID card accepted
+*Chileans can live and work legally in Brazil under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=BN|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=BG|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=BF|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=BI|accessdate=9 October 2015}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=KH|accessdate=28 February 2014}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-28 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=CM|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=CA|accessdate=2 April 2015}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>{{cite web|url=https://www.canada.ca/eTA|title=Electronic Travel Authorization (eTA) - Canada.ca|website=www.canada.ca}}</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=CV|accessdate=28 February 2014}}</ref>
+|
+|
+* Not available at all entry points.<ref>Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].</ref>
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=CF|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=TD|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=CN|accessdate=28 February 2014}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=CO|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+* National ID card accepted
+*Chileans can live and work legally in Colombia under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=KM|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=CG|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=CD|accessdate=28 February 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=CR|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=CI|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=HR|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=CL|destination=CU|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=CY|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=CZ|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=DK|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+* 90 days within any 180 day period [https://www.nyidanmark.dk/en-us/coming_to_dk/visa/Visa_free_travel.htm regardless of previous time spent] in other [[Schengen Area|Schengen countries]] (except the other Nordic countries)
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=DM|accessdate=28 February 2014}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=DO|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=EC|accessdate=28 February 2014}}</ref>
+| 90 days<ref name=A>Extendable length of stay.</ref>
+| 
+*National ID card accepted
+*Chileans can live and work legally in Ecuador under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=EG|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=SV|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=GQ|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=ER|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=EE|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=SZ|accessdate=28 February 2014}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CL|destination=ET|accessdate=28 February 2014}}</ref> 
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=FJ|accessdate=28 February 2014}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=FI|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|France}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=FR|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+|
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=GM|accessdate=28 February 2014}}</ref>
+|
+|
+* An entry clearance must be obtained from the Gambian Immigration prior to travel.<ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>[https://archive.is/20160725205344/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=CL&AR=00&PASSTYPES=PASS&DE=GE&user=KLMB2C&subuser=KLMB2C]</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=DE|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=GH|accessdate=28 February 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=GR|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=GD|accessdate=28 February 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=GT|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=GN|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=GW|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=GY|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=HT|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=HN|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=HU|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=IS|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=JSP Page|website=indianvisaonline.gov.in}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=ID|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=IR|accessdate=28 February 2014}}</ref>
+| 15 days
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=IQ|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=IE|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=IL|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=IT|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=JM|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=JP|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=JO|accessdate=28 February 2014}}</ref>
+|
+| 
+*Conditions apply.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=QF&subuser=QANTAS|publisher=[[Timatic]]|accessdate=28 February 2014}}</ref>
+* Not available at all entry points.<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=KZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=immigration.ecitizen.go.ke}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=KI|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=KP|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=KR|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=KW|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=KG|accessdate=28 February 2014}}</ref>
+| 1 month
+|
+*Visa on arrival available at [[Manas International Airport]].
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=LA|accessdate=28 February 2014}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=LV|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=LB|accessdate=28 February 2014}}</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://evisalesotho.com|title=visa lesotho tourism documents travel evisalesotho.com|website=Lesotho E-Visa}}</ref><ref>{{Timatic|nationality=CL|destination=LS|accessdate=28 February 2014}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=LR|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=LY|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=LI|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=LT|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=LU|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=MK|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=MG|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=MW|accessdate=5 October 2015}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=MY|accessdate=28 February 2014}}</ref>
+| 1 month
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=MV|accessdate=28 February 2014}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=ML|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=MT|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=MH|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=MR|accessdate=28 February 2014}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=MU|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=MX|accessdate=28 February 2014}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=FM|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link|title=Ministry of Foreign Affairs and European Integration of the RM|website=www.mfa.gov.md}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=MC|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=MN|accessdate=28 February 2014}}</ref>
+| 
+| 
+*Visa exemption agreement for 90 days was signed on 27 September 2018 and it is not yet ratified.<ref>[http://montsame.mn/en/read/166098]</ref>
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=ME|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=MA|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=MZ|accessdate=28 February 2014}}</ref>
+| 30 days
+| 
+*Conditions apply<ref>{{cite web|title=Visa Information|url=https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MZ/VI/IS/ID23549&user=QF&subuser=QANTAS|publisher=[[Timatic]]|accessdate=28 February 2014}}</ref>
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{cite web |url=https://www.myanmarevisa.gov.mm/ |title=Archived copy |access-date=2013-10-22 |archive-url=https://web.archive.org/web/20131019103159/https://www.myanmarevisa.gov.mm/ |archive-date=2013-10-19 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism only.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=NA|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=NR|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=NP|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=NL|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=NZ|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=NI|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=NE|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=NG|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=NO|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=PK|accessdate=28 February 2014}}</ref>
+|
+|
+* Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=PW|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=PA|accessdate=28 February 2014}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=PG|accessdate=28 February 2014}}</ref>
+| 60 days
+|
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=PY|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+* National ID card accepted
+* Chileans can live and work legally in Paraguay under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=PE|accessdate=28 February 2014}}</ref>
+| up to 183 days
+| 
+*National ID card accepted
+*Chileans can live and work legally in Peru under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=PH|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=PL|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=PT|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=RO|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=RU|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=RW|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=KN|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=LC|accessdate=28 February 2014}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=VC|accessdate=28 February 2014}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=CL|destination=WS|accessdate=28 February 2014}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=SM|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=ST|accessdate=28 February 2014}}</ref>
+|
+| 
+*Visa is obtained online.<ref>{{cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=SA|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=SN|accessdate=28 February 2014}}</ref> 
+| 
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=RS|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=CL|destination=SC|accessdate=28 February 2014}}</ref>
+| 3 months<ref name="A" />
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=SL|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=SG|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=SK|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=SI|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=CL|destination=SB|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=ZA|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=SS|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=ES|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=LK|accessdate=28 February 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=SD|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+|{{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=SR|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=SE|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=CH|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=SY|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CL|destination=TJ|accessdate=28 February 2014}}</ref>
+| 45 days
+| 
+*E-visa holders can enter through all border points.<ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|website=www.evisa.tj}}</ref>
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=TZ|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=TH|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=TL|accessdate=28 February 2014}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Obtainable at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili Sea Port]].</ref>
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=TG|accessdate=28 February 2014}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=TO|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=TT|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=TN|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=TR|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=TM|accessdate=28 February 2014}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=TV|accessdate=28 February 2014}}</ref>
+| 1 month<ref name="A" />
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=UG|accessdate=28 February 2014}}</ref>
+|
+| 
+*Determined at the port of entry. 
+*May apply online.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=visas.immigration.go.ug}}</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=UA|accessdate=28 February 2014}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=AE|accessdate=28 February 2014}}</ref>
+| 90 days<ref>{{cite web|url=https://www.mofa.gov.ae/EN/MediaCenter/News/Pages/25-12-2017-UAE-Chile.aspx|title=MoFAIC -- News -- UAE visa-waiver deal with Chile|website=www.mofa.gov.ae}}</ref>
+|
+|-
+| {{flag|United Kingdom}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=GB|accessdate=28 February 2014}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=CL|destination=US|accessdate=28 February 2014}}</ref>
+| 90 days 
+|
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>{{cite web|url=https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,|title=Citizen of Visa Waiver Country, wants to drive into U.S. from Canada or Mexico, or arrive at a port of call in the U.S. by cruise ship|website=help.cbp.gov}}</ref>
+* Biometric passport holders only.
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=UY|accessdate=28 February 2014}}</ref>
+| 3 months
+|
+* National ID card accepted
+*Chileans can live and work legally in Uruguay under the Mercosur (and Associated Members) immigration agreement with no requirement other than being a Chilean citizen for over 5 years and passing a background check.
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=UZ|accessdate=28 February 2014}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=VU|accessdate=28 February 2014}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=VA|accessdate=28 February 2014}}</ref>
+|
+|
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=VE|accessdate=28 February 2014}}</ref>
+| 90 days
+| 
+*National ID card accepted
+|-
+| {{flag|Vietnam}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CL|destination=VN}}</ref>
+| 90 days<ref>{{cite web|url=http://english.vietnamnet.vn/fms/travel/183273/visa-free-travel-between-vietnam-and-chile.html|title=Visa-free travel between Vietnam and Chile - News VietNamNet|first=|last=vietnamnet.vn|website=english.vietnamnet.vn}}</ref>
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CL|destination=YE|accessdate=28 February 2014}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=ZM|accessdate=28 February 2014}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CL|destination=ZW|accessdate=28 February 2014}}</ref>
+| 
+|
+|}'}

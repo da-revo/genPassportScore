@@ -1,0 +1,1019 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=AL}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=AD}}</ref>
+|
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=IS|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=AG}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=AR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=AM}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=IS|destination=AU}}</ref>
+| 90 days
+|
+*90 days on each visit in 12-month period if granted
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=AT}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IS|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BS}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=BH}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=BD}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BB}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BY}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=BE}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BZ}}</ref>
+| 1 month
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BA}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BW}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=BN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=BG}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=BF}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=BI}}</ref>
+| 
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-23 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=CA}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air from March 15, 2016.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=CV}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=CL}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=CN}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=KM}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=CR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=CI}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=HR}}</ref>
+| colspan=2 |
+*Freedom of movement
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=IS|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=CY}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=CZ}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=DK}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=DM}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=DO}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=EC}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=EG}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=SV}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=EE}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=SZ}}</ref>
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IS|destination=ET}}</ref>
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=FI}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|France}} and territories
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=FR}}</ref>
+| colspan=2 |
+*Freedom of movement (in [[Regions of France]])
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=GM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=GE}}</ref>
+| 1 year
+|
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=DE}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=GR}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=GD}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=GT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=GY}}</ref>
+| 
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=HT}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=HN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=HU}}</ref>
+| colspan=2 |
+*Freedom of movement
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=ID}}</ref>
+| 30 days
+| 
+*Select ports of entry.
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=IR}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=IQ}}</ref>
+|
+| 
+*Visa on arrival for 15 days at [[Erbil]] and [[Sulaymaniyah]] airports.
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=IE}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=IL}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=IT}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=JM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=JP}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=JO}}</ref>
+|
+| 
+*Conditions apply<ref>[http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C]</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=KZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=KI}}</ref>
+| 90 days
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=KR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait eVisa]</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=KG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=LA}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=LV}}</ref>
+| colspan=2 |
+*Freedom of movement
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=LB}}</ref>
+| 1 month
+| 
+*Visa extendable for 2 additional months issued upon arrival
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=LS}}</ref>
+| 14 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=LI}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=LT}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=LU}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MK}}</ref>
+| 90 days
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=MG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=MW}}</ref>
+|
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MY}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=MT}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MU}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MX}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=FM}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MD}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MC}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=MN}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=ME}}</ref>
+| 90 days
+|
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=MA}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=MZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IS|destination=MM}}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism only.
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=NA}}</ref>
+| 3 months
+|
+*3 months within a calendar year
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=NL}}</ref>
+| colspan=2 |
+*Freedom of movement ([[European Netherlands]]) 
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=NZ}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=NO}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=PK}}</ref><ref>[https://www.interior.gov.pk/index.php/downloads/category/21-agrement-between-pakistan-and-iceland-visa-abolition?download=63:agrement-between-pakistan-and-iceland-visa-abolition]</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. 
+**Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+*Visa on arrival when travelling as part of a group through a designated tour operator.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O Group Tourism through Designated Tour Operators]</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=PA}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=PG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=PY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=PE}}</ref>
+| 90 days
+|
+*90 days within any 6-month period<ref>{{Cite web |url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |title=REQUERIMIENTOS DE VISAS PARA CIUDADANOS EXTRANJEROS |access-date=2016-01-29 |archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |archive-date=2016-02-04 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=PH}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=PL}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=PT}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 90 days
+|
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=RO}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=RU}}</ref>
+|
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=RW}}</ref>
+|
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=KN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=LC}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=VC}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=SM}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=ST}}</ref>
+| 15 days<ref>[http://www.mnec.gov.st/index.php/publicacoes/noticias/item/262-nota-informativa-sobre-isencao-de-vistos-e-permanencia-em-sao-tome-e-principe?tmpl=component&print=1]</ref><ref>[https://www.facebook.com/MNECSTeP/photos/pb.1584593218475928.-2207520000.1494779850./1872829479652299/?type=3&theater]</ref>
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=RS}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=SC}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=SG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=SI}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=SK}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=IS|destination=SB}}</ref>
+| 3 months
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=ZA}}</ref>
+| 90 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=ES}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=IS|destination=SR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=SE}}</ref>
+| colspan=2 |
+*Freedom of movement
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=CH}}</ref>
+| colspan=2 |
+*Freedom of movement
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=SY}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=TJ}}</ref>
+| 45 days 
+| 
+*At [[Dushanbe International Airport]].
+*Visa also available online.
+*E-visa holders can enter through all border points.<ref>https://www.evisa.tj</ref>
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=TH}}</ref>
+| 30 days 
+| 
+*Maximum two visits annually if not arriving by air.
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=TL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=TO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=TT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=TN}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=TR}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=TV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=UG}}</ref>
+|
+| 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=AE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/06-eu-signs-visa-waiver-agreement-united-arab-emirates/ EU signs visa waiver agreement with the United Arab Emirates]</ref> 
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IS|destination=GB}}</ref>
+| colspan=2 |
+*Freedom of movement (in Constituent countries) 
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=IS|destination=US}}</ref>
+| 90 days
+| 
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>[https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,]</ref>
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=UY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IS|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=VU}}</ref>
+| 
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=VA}}</ref>
+| 
+|
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IS|destination=VE}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=VN}}</ref>
+| 
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IS|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=ZM}}</ref>
+| 90 days
+| 
+*Also eligible for a universal visa allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IS|destination=ZW}}</ref>
+| 3 months
+| 
+*Also eligible for a universal visa allowing access to Zambia.
+|}'}

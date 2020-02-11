@@ -1,0 +1,1048 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=AF|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/afghanistan|title=Travel Advice and Advisories for Afghanistan|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AL|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=DZ|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/algeria|title=Travel Advice and Advisories for Algeria|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AD|accessdate=26 November 2013}}</ref>
+| 
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.smevisa.com/touristvisa/|title=SME E-VISA|publisher=}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=CA|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AG|accessdate=9 July 2017}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AR|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://www.mfa.am/filemanager/consular/visa/uppon_arival_eng.pdf List of the countries whose citizens holding ordinary passports can obtain Armenian visas upon arrival in Armenia]</ref><ref>[https://evisa.mfa.am/ E-Visa]</ref>
+| 180 days within 1 year
+|
+|-
+| {{flag|Australia}} and external territories 
+| {{yes2|[[Electronic Travel Authority (Australia)|Electronic Travel Authority]]}}<ref>{{Timatic|nationality=CA|destination=AU|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days on each visit in 12-month period
+*Can use the [[SmartGate|Smartgate system]].
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=AT|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=AZ|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/azerbaijan|title=Travel Advice and Advisories for Azerbaijan|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 30 days<ref>{{cite web|url=https://evisa.gov.az/en/|title=Home Page -         The Electronic Visa System of Azerbaijan Republic|website=evisa.gov.az|accessdate=29 June 2017}}</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BS|accessdate=26 November 2013}}</ref>
+| 8 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://www.evisa.gov.bh/image/114.pdf |title=Data |website=www.evisa.gov.bh |format=PDF}}</ref>
+| 14 days <ref>{{cite web|url=http://english.alarabiya.net/en/News/gulf/2016/11/20/Bahrain-launches-two-new-visas-for-114-countries.html|title=Bahrain launches two new visas for 114 countries|website=english.alarabiya.net}}</ref>
+|
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=BD|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BB|accessdate=26 November 2013}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BY|accessdate=26 November 2013}}</ref>
+| 30 days
+| 
+*30 day visa free access available to travellers that arrive and depart via [[Minsk International Airport]] and are not arriving from or planning to depart to a [[Russian Federation]] airport.<ref>{{cite web|url=http://canada.mfa.gov.by/en/consular_issues/visas/ac39703729cf7873.html|title=Visa-free travel to Belarus via checkpoint «Minsk National Airport» - Embassy of the Republic of Belarus in Canada|website=canada.mfa.gov.by}}</ref> Otherwise a visa is required. Visas can be issued on arrival at the [[Minsk International Airport]] if the support documents are submitted at least 3 business days before arrival.<ref>{{cite web|url=http://www.mfa.gov.by/en/visa/airport/|title=Particulars of issuance of entry visas at the «National Airport Minsk» - Ministry of Foreign Affairs of the Republic of Belarus|website=www.mfa.gov.by}}</ref>
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BE|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BZ|accessdate=26 November 2013}}</ref>
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/benin|title=Travel Advice and Advisories for Benin|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=BT|accessdate=26 November 2013}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BO|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BA|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BW|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Brazil}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=BR|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.vfsglobal.com/Brazil-eVisa/|title=Brazil Visa Information In eVisa - Home Page|website=www.vfsglobal.com}}</ref>
+| 90 days
+|
+*90 days per year
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BN|accessdate=26 November 2013}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=BG|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=BF|accessdate=26 November 2013}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=BI|accessdate=9 October 2015}}</ref>
+|
+| 
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=KH|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.embassyofcambodia.org/faq.html|title=Royal Embassy of Cambodia - FAQ|website=www.embassyofcambodia.org|accessdate=29 June 2017|archive-url=https://web.archive.org/web/20170623053114/http://www.embassyofcambodia.org/faq.html#|archive-date=23 June 2017|dead-url=yes|df=dmy-all}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-28 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=CM|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/cameroon|title=Travel Advice and Advisories for Cameroon|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=CV|accessdate=26 November 2013}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=CF|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/central-african-republic|title=Travel Advice and Advisories for Central African Republic|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=TD|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/chad|title=Travel Advice and Advisories for Chad|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CL|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=CN|accessdate=26 November 2013}}</ref>
+| 
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CO|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*Extendable up to 180-days stay within a one-year period
+*Visa free for up to 90 days but a reciprocity fee of COP 190,000 must be paid on arrival; tourists whose final destination is [[Archipelago of San Andrés, Providencia and Santa Catalina|San Andrés, Providencia and Santa Catalina]] are excluded from the fee.<ref>{{cite web|url=http://www.migracioncolombia.gov.co/index.php/prensa/comunicados/comunicados-2014/noviembre-2014/1472-colombia-comienza-a-cobrar-ingreso-al-pais-a-ciudadanos-canadienses|title=COLOMBIA COMIENZA A COBRAR INGRESO AL PAIS A CIUDADANOS CANADIENSES|first=Migración|last=Colombia|website=Migración Colombia|accessdate=29 June 2017}}</ref> 
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=KM|accessdate=26 November 2013}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=CG|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/congo-brazzaville|title=Travel Advice and Advisories for Republic of Congo (Brazzaville)|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=CD|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/congo-kinshasa|title=Travel Advice and Advisories for Democratic Republic of Congo (Kinshasa)|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CR|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.snedai.com/en/|title=Energie – SNEDAI GROUPE|website=www.snedai.com|accessdate=29 June 2017}}</ref>
+| 3 months
+| 
+*Electronic visa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HR|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=CA|destination=CU|accessdate=26 November 2013}}</ref>
+| 30 days
+| 
+*Tourist Card can be purchased from the airline transporting the passenger into Cuba and must be obtained before taking a flight that will land in Cuba.
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CY|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CZ|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Denmark}} and territories
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DK|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 180 day period [https://www.nyidanmark.dk/en-us/coming_to_dk/visa/Visa_free_travel.htm regardless of previous time spent] in other [[Schengen Area|Schengen countries]] (except the other Nordic countries)
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DM|accessdate=26 November 2013}}</ref>
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DO|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=EC|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=EG|accessdate=26 November 2013}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SV|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=GQ|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/eritrea|title=Travel Advice and Advisories for Eritrea|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=ER|accessdate=26 November 2013}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=EE|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SZ|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=ET|accessdate=26 November 2013}}</ref> 
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FJ|accessdate=26 November 2013}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FI|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|France}} and territories
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FR|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]] (in [[Regions of France]])
+*A Canadian passport is not required for visa-free travel to the [[French overseas territory]] of [[Saint Pierre et Miquelon]]; instead, an identification document (e.g. [[Driver\s licence in Canada|driver\s licence]] or Secure Certificate of Indian Status) can be used<ref>{{cite web|url=http://www.consulfrance-toronto.org/spip.php?article1725|title=Visas : Saint-Pierre and Miquelon|website=Consulat général de France à Toronto|accessdate=29 June 2017}}</ref><ref>{{cite web|url=https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024403998|title=Arrêté du 26 juillet 2011 relatif aux documents et visas exigés pour l\entrée des étrangers sur le territoire de la Guadeloupe, la Guyane, la Martinique, La Réunion et de la collectivité de Saint-Pierre-et-Miquelon (Annexe II)|website=legifrance.gouv.fr|accessdate=29 June 2017}}</ref>
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GM|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GE|accessdate=26 November 2013}}</ref>
+| 360 days<ref>{{cite web|url=http://www.civil.ge/eng/article.php?id=28337|title=Civil.Ge - Georgia Restores One-Year Visa-Free Rules|first=Civil|last=Georgia|website=www.civil.ge|accessdate=29 June 2017}}</ref>
+|
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=DE|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=GH|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/ghana|title=Travel Advice and Advisories for Ghana|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GR|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GD|accessdate=26 November 2013}}</ref>
+| 3 months
+| 
+*May enter on an ID card if not departing from the United States.
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GT|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=GN|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/guinea|title=Travel Advice and Advisories for Guinea|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=GW|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GY|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HT|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HN|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=HU|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=IS|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+|
+{{trim|{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ID|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=IR|accessdate=26 November 2013}}</ref>
+| 
+| 
+
+|- 
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=IQ|accessdate=26 November 2013}}</ref>
+| 15 days
+| 
+*Visa on arrival for 15 days at [[Erbil]] and [[Sulaymaniyah]] airports.
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=IE|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=IL|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=IT|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=JM|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days (business), 6 months (tourist)
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=JP|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=JO|accessdate=26 November 2013}}</ref>
+| 
+| 
+*Conditions apply<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 November 2013}}</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KZ|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://www.travel.gc.ca/destinations/kazakhstan|title=Travel Advice and Advisories for Kazakhstan|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=immigration.ecitizen.go.ke|accessdate=29 June 2017}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KI|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=KP|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/korea-north-dprk|title=Travel Advice and Advisories for Korea, North (DPRK)|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+|
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KR|accessdate=26 November 2013}}</ref>
+| 6 months
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://evisa.moi.gov.kw/evisa/home_e.do|title=Kuwait e-Visa|website=evisa.moi.gov.kw|accessdate=29 June 2017}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KG|accessdate=26 November 2013}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=LA|accessdate=26 November 2013}}</ref>
+| 30 days 
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LV|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=LB|accessdate=26 November 2013}}</ref>
+| 1 month
+| 
+*Extendable for 2 additional months; granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LS|accessdate=26 November 2013}}</ref>
+| 14 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=LR|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/liberia|title=Travel Advice and Advisories for Liberia|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=LY|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/libya|title=Travel Advice and Advisories for Libya|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+| 
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LI|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LT|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LU|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MK|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MG|accessdate=26 November 2013}}</ref>
+| 
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MW|accessdate=5 October 2015}}</ref>
+|
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MY|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MV|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=ML|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/mali|title=Travel Advice and Advisories for Mali|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+|
+| 
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MT|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MH|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MR|accessdate=26 November 2013}}</ref>
+| 
+|
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MU|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MX|accessdate=26 November 2013}}</ref>
+| 180 days 
+| 
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=FM|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MD|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MC|accessdate=26 November 2013}}</ref>
+| 90 days 
+| 
+*90 days within any 180 day period (Monaco does not have a visa policy of its own and the [[Visa policy of the Schengen Area|Schengen Visa policy]] applies)
+|-
+| {{flag|Mongolia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MN|accessdate=5 August 2014}}</ref>
+| 30 days
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ME|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=MA|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=MZ|accessdate=26 November 2013}}</ref>
+| 30 days 
+| 
+*Conditions apply<ref>{{cite web|title=Visa Information|url=https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MZ/VI/IS/ID23549&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 November 2013}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=http://www.myanmarevisa.gov.mm/ |title=Myanmar eVisa |access-date=2015-10-14 |archive-url=https://web.archive.org/web/20140813070633/http://www.myanmarevisa.gov.mm/ |archive-date=2014-08-13 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NA|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=NR|accessdate=13 May 2015}}</ref>
+| 
+| 
+*Criminal record and medical fitness certificates are not required for Canadian citizens.<ref>{{cite web|url=http://www.paclii.org/nr/legis/sub_leg/ia2014ir2014385.pdf|title=Immigration Regulations 2014 SL No. 2 of 2014|website=paclii.org|accessdate=29 June 2017}}</ref>
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=NP|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} and territories
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NL|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NZ|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NI|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=NE|accessdate=26 November 2013}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=NG|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/nigeria|title=Travel Advice and Advisories for Nigeria|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=NO|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=PK|accessdate=26 November 2013}}</ref>
+| 30 days
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref> <br> Visa on arrival when travelling as part of a group through a designated tour operator.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O|title=Group Tourism through Designated Tour Operators|publisher=}}</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=PW|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PA|accessdate=26 November 2013}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=PG|accessdate=26 November 2013}}</ref>
+| 60 days
+|
+|-
+| {{flag|Paraguay}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=PY|accessdate=26 November 2013}}</ref>
+| 90 days 
+| 
+*Visa on arrival issued only at [[Silvio Pettirossi International Airport]] in [[Asunción]] for incoming travellers. Reciprocity fee of $150 USD must be paid upon arrival.<ref>{{cite web|title=Procedures and consular services|url=http://www.mre.gov.py/Sitios/Home/Contenido/embaparusa/26|website=Embajada de la República del Paraguay en Washington, DC|accessdate=22 December 2015}}</ref> Travellers arriving otherwise (e.g. at a land border) must have obtained their visa prior to arrival.
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PE|accessdate=26 November 2013}}</ref>
+| 183 days
+|
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PH|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PL|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=PT|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=RO|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=RU|accessdate=25 August 2016}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/russia|title=Travel Advice and Advisories for Russia|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref> 
+|
+| 
+*Cruise ship passengers cruising in and out of a Russian port within 72 hours, who spend each night on board, and who only leave the ship on tours organized by the cruise company, do not require a tourist visa.<ref>{{cite web|title=Information For Cruise Ship Passengers|url=http://petersburgcity.com/for-tourists/visa/cruises/|website=Petersburg CITY|accessdate=2 March 2016}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=http://www.migration.gov.rw |title=HOME |publisher=Migration.gov.rw |date= |accessdate=2018-07-25}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=KN|accessdate=26 November 2013}}</ref>
+| 6 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=LC|accessdate=26 November 2013}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=VC|accessdate=26 November 2013}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=CA|destination=WS|accessdate=26 November 2013}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SM|accessdate=26 November 2013}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=SA|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/saudi-arabia|title=Travel Advice and Advisories for Saudi Arabia|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=RS|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=CA|destination=SC|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=SL|accessdate=26 November 2013}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SG|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SK|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SI|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=CA|destination=SB|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=SO}}</ref>
+| 
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ZA|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=SS|accessdate=26 November 2013}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=ES|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=LK|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=SD|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/sudan|title=Travel Advice and Advisories for Sudan|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=CA|destination=SR|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=SE|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=CH|accessdate=26 November 2013}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=SY|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/syria|title=Travel Advice and Advisories for Syria|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+| 
+| 
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=TJ|accessdate=26 November 2013}}</ref>
+| 45 days 
+|
+*E-visa holders can enter through all border points.<ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|website=www.evisa.tj|accessdate=29 June 2017}}</ref>
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TZ|accessdate=26 November 2013}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TH|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+*Maximum two visits annually if not arriving by air.
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TL|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TG|accessdate=26 November 2013}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TO|accessdate=26 November 2013}}</ref>
+| 31 days
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TT|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=TN|accessdate=26 November 2013}}</ref>
+| 4 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=TR|accessdate=26 November 2013}}</ref>
+| 3 months<ref>{{cite web|url=https://www.evisa.gov.tr/en/|title=Electronic Visa Application System|website=Electronic Visa Application System|accessdate=29 June 2017}}</ref> 
+| 
+*Cruise ship passengers cruising in and out of a Turkish port within a single day do not require a tourist visa.<ref>{{cite web|url=http://visaservicescanada.ca/countries/turkey.php|title=Visa Services Canada - Select a Country: Turkey|website=www.visaservicescanada.ca|accessdate=29 June 2017}}</ref>
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=TM|accessdate=26 November 2013}}</ref>
+| 
+| 
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=TV|accessdate=26 November 2013}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=UG|accessdate=26 November 2013}}</ref>
+| 
+| 
+*May apply online.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=visas.immigration.go.ug|accessdate=29 June 2017}}</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=UA|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=CA|destination=AE|accessdate=26 November 2013}}</ref><ref>{{cite web | url=http://www.mofa.gov.ae/mofa_english/portal/79e01fed-3501-4ebb-accd-9e27950433a7.aspx | title=Visa Information | archiveurl=https://web.archive.org/web/20130629140251/http://www.mofa.gov.ae/mofa_english/portal/79e01fed-3501-4ebb-accd-9e27950433a7.aspx | archivedate=29 June 2013 | publisher=Ministry of Foreign Affairs, United Arab Emirates | accessdate=16 September 2018 }}</ref><ref>[http://www.emirates.com/english/plan_book/essential_information/visa_passport_information/uae_visas.aspx UAE Visas], Emirates</ref><ref>[https://www.ttsuaevisas.com/en/global/do-i-need-a-visa/ Visa on Arrival], UAE Visa Application Centre</ref><ref>{{cite web|url=http://www.flydubai.com/en/about-us/uae-visas/|title=UAE Visas|website=flydubai|accessdate=29 June 2017}}</ref>
+| 30 days (multiple)
+| 
+*Visa on arrival is obtained free of charge.<ref>[http://uae-embassy.ae/Embassies/ca/Content/2117 Canadian regular passport holders will be granted entry free of charge to the UAE upon arrival in the UAE. No application in advance of travel is necessary. Please note that the Canadian passport will be stamped for 40 days upon arrival.], UAE Embassy in Ottawa</ref>
+|-
+| {{flag|United Kingdom}}<br />excluding some Overseas territories
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=GB|accessdate=26 November 2013}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{yes|Visa not required}}<ref name="auto us">{{Timatic|nationality=CA|destination=US|accessdate=26 November 2013}}</ref>
+| 6 months
+| 
+*Canadian Passport required and must be valid for the period of intended stay.<ref name="auto us"/>
+*Canadian Passport exemptions only for nationals of Canada with a NEXUS card embarking in Canada or USA.<ref name="auto us"/> <br>For frequent travellers there is [[NEXUS card]] program designed to let pre-approved, low-risk travellers cross the [[Canada–United States border]] quickly.<ref>{{cite web|url=http://www.cbsa-asfc.gc.ca/prog/nexus/elig-admis-eng.html|title=NEXUS - Eligibility|first=Government of Canada, Canada Border Services|last=Agency|website=www.cbsa-asfc.gc.ca|accessdate=29 June 2017|archive-url=https://web.archive.org/web/20161225111135/http://www.cbsa-asfc.gc.ca/prog/nexus/elig-admis-eng.html|archive-date=25 December 2016|dead-url=yes|df=dmy-all}}</ref> 
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=UY|accessdate=26 November 2013}}</ref>
+| 3 months
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=VU|accessdate=26 November 2013}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=VA|accessdate=26 November 2013}}</ref>
+|
+|
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CA|destination=VE|accessdate=26 November 2013}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CA|destination=VN|accessdate=3 December 2017}}</ref>
+| 30 days 
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CA|destination=YE|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.gc.ca/destinations/yemen|title=Travel Advice and Advisories for Yemen|first=Government of Canada, Global Affairs|last=Canada|website=Travel.gc.ca|accessdate=29 June 2017}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=ZM|accessdate=26 November 2013}}</ref>
+| 90 days
+| 
+*Also eligible for a universal visa allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CA|destination=ZW|accessdate=26 November 2013}}</ref>
+| 90 days
+| 
+*Also eligible for a universal visa allowing access to Zambia.
+|}'}

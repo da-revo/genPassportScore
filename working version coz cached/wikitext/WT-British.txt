@@ -1,0 +1,1047 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/afghanistan/entry-requirements |title=Entry requirements - Afghanistan travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+|
+|
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=AL}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/algeria/entry-requirements |title=Entry requirements - Algeria travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+|
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=AD}}</ref>
+| 
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/angola/entry-requirements |title=Entry requirements - Angola travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/antigua-and-barbuda/entry-requirements |title=Entry requirements - Antigua and Barbuda travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+| 6 months
+|
+|-
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/argentina/entry-requirements |title=Entry requirements - Argentina travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+| 90 days<ref>{{cite web|url=http://www.clond.mrecic.gov.ar/en/node/2433 |title=Travelling to Argentina &#124; Londres |publisher=Clond.mrecic.gov.ar |accessdate=2017-07-13}}</ref>
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=AM}}</ref>
+| 180 days<ref>{{cite web|url=http://www.uk.mfa.am/en/visa/ |title=Visa - Embassy of Armenia to the United Kingdom |publisher=Uk.mfa.am |accessdate=2017-07-13}}</ref>
+|
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=GB|destination=AU}}</ref>
+| 90 days
+|
+*If granted, eVisitor allows British citizens to stay in Australia for 90 days per visit.
+*Issued free of charge and valid for one year.
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=AT}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=GB|destination=AZ}}</ref> 
+| 30 days<ref>{{cite web|url=https://evisa.gov.az/en/|title=Home Page -         The Electronic Visa System of Azerbaijan Republic|website=evisa.gov.az}}</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/bahamas/entry-requirements |title=Entry requirements - Bahamas travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+|21 days
+|
+*Extendable up to eight months.<ref>{{cite web |url=http://www.bahamashclondon.net/page.php?page=18 |title=Consular Information |publisher=Bahamashclondon.net |accessdate=2017-07-13 |archive-url=https://web.archive.org/web/20170701092138/http://www.bahamashclondon.net/page.php?page=18 |archive-date=1 July 2017 |dead-url=yes |df=dmy-all }}</ref><ref>{{cite web |url=http://www.bahamashclondon.net/page.php?page=8#six |title=Frequently Asked Questions |publisher=Bahamashclondon.net |accessdate=2017-07-13 |deadurl=yes |archiveurl=https://web.archive.org/web/20170630091539/http://www.bahamashclondon.net/page.php?page=8#six |archivedate=30 June 2017 |df=dmy-all }}</ref>
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/bahrain/entry-requirements |title=Entry requirements - Bahrain travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+| 3 months
+|
+*Visas can be issued on arrival for a stay up to 3 months.<ref>{{cite web|url=http://www.evisa.gov.bh/VisaBhr1En.html |title=Bahrain Electronic Visa Service |publisher=Evisa.gov.bh |accessdate=2017-07-13}}</ref>
+*eVisa issued for 14 days, extendable once.<ref>{{cite web|url=http://www.evisa.gov.bh/VisaBhr3En.html |title=Bahrain Electronic Visa Service |publisher=Evisa.gov.bh |accessdate=2017-07-13}}</ref>
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=BD}}</ref>
+| 30 days 
+|
+*Visa on arrival available at [[Dhaka International Airport]]<ref>{{cite web|url=http://www.bhclondon.org.uk/Visa.html |title=Bangladesh High Commission, London |publisher=Bhclondon.org.uk |accessdate=2017-07-13}}</ref><ref>{{cite web |url=http://bangladeshembassy.de/home/faq |title=Archived copy |accessdate=2015-02-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20150225062009/http://bangladeshembassy.de/home/faq |archivedate=25 February 2015 |df=dmy-all }}</ref><ref>{{cite web|author=Visa on arrival |url=http://bangladoot.se/visa-on-arrival/ |title=Visa on arrival – Embassy of Bangladesh |publisher=Bangladoot.se |date=2014-02-14 |accessdate=2017-07-13}}</ref>
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements |title=Entry requirements - Barbados travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+|6 months<ref>{{cite web|url=http://www.foreign.gov.bb/pageselect.cfm?page=120 |title=Ministry of Foreign Affairs and Foreign Trade |publisher=Foreign.gov.bb |accessdate=2017-07-13}}</ref>
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref name="autogenerated2">{{cite web|url=https://www.gov.uk/foreign-travel-advice/belarus/entry-requirements |title=Entry requirements - Belarus travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+| 30 days
+|
+*Must arrive and leave via [[Minsk International Airport]]
+*Visas are also issued on arrival at the [[Minsk International Airport]] if the support documents were submitted by inviting organisation/person not later than 3 business days before expected date of arrival.<ref>{{cite web|url=http://www.mfa.gov.by/en/visa/airport/ |title=Particulars of issuance of entry visas at the "National Airport Minsk" - Ministry of Foreign Affairs of the Republic of Belarus |publisher=Mfa.gov.by |accessdate=2017-07-13}}</ref> Visa and police registration required for stays of more than 5 days.<ref name="autogenerated2"/>
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=BE}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/belize/entry-requirements |title=Entry requirements - Belize travel advice |publisher=Government of the United Kingdom |accessdate=2017-07-13}}</ref>
+| 30 days
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Cite web |url=https://fo.evisabj.net/ |title=Archived copy |access-date=11 February 2018 |archive-url=https://web.archive.org/web/20171224101258/https://fo.evisabj.net/ |archive-date=24 December 2017 |dead-url=yes |df=dmy-all }}</ref>
+| 30 days<ref>{{cite web|url=https://evisa.gouv.bj/en/ |title=eVisa application of Benin|publisher=Government of Benin |accessdate=2018-05-13}}</ref> / 8 days
+|
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/bhutan/entry-requirements|title=Entry requirements - Bhutan travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+| 
+*Visa via approved tour operators only<ref>{{cite web|url=http://www.abto.org.bt/|title=Association of Bhutanese Tour Operators - ABTO|website=abto.org.bt}}</ref><ref>{{cite web|url=http://www.tourism.gov.bt/|title=Tourism Council of Bhutan (Official Website) - Tourism Council of Bhutan (Official Website)|website=tourism.gov.bt}}</ref>
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/bolivia/entry-requirements|title=Entry requirements - Bolivia travel advice |publisher=Government of the United Kingdom}}</ref>
+| 90 days
+| 
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=BA}}</ref>
+| 90 days 
+|
+*90 days within any 6-month period.
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=BW}}</ref>
+| 90 days 
+|
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/brazil/entry-requirements|title=Entry requirements - Brazil travel advice |publisher=Government of the United Kingdom}}</ref>
+| 90 days 
+|
+*Extendable for further 90 days<ref>{{cite web |url=http://cglondres.itamaraty.gov.br/en-us/tourist_visa.xml |title=Archived copy |accessdate=2015-02-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20150326010828/http://cglondres.itamaraty.gov.br/en-us/tourist_visa.xml |archivedate=26 March 2015 |df=dmy-all }}</ref>
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/brunei/entry-requirements|title=Entry requirements - Brunei travel advice |publisher=Government of the United Kingdom}}</ref>
+| 90 days<ref>{{cite web|url=http://www.mofat.gov.bn/Pages/Visa-Information.aspx|title=Visa Information|website=mofat.gov.bn}}</ref>
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=BG}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=BF}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=BI|accessdate=9 October 2015}}</ref>
+| 
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=KH}}</ref>
+| 30 days
+|
+*Extendable for another 30 days.<ref>{{cite web|url=https://www.evisa.gov.kh/images/documents/Press_Release_on_e-Visa_signed.pdf|title=Page Not Found|website=evisa.gov.kh}}</ref><ref>{{cite web|url=https://www.evisa.gov.kh/|title=eVisa Kingdom of Cambodia (Official Government Website)|website=evisa.gov.kh}}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=CM}}</ref><ref>https://www.gov.uk/foreign-travel-advice/cameroon/entry requirements</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=CA}}</ref>
+| 6 months
+|
+* [[Electronic Travel Authorization (Canada)|eTA]] required if arriving by air.<ref>{{cite web|url=https://www.canada.ca/eTA|title=Electronic Travel Authorization (eTA) - Canada.ca|website=canada.ca}}</ref><ref>{{cite web|url=https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt|title=Entry requirements by country - Canada.ca|first=Immigration, Refugees and Citizenship|last=Canada|website=canada.ca}}</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=CV}}</ref>
+|
+|
+* Visa no longer required from 1 January 2019<ref>{{Cite news|url=https://expressodasilhas.cv/politica/2018/05/04/isencao-de-vistos-so-em-janeiro-do-proximo-ano/57991|title=Isenção de vistos só em Janeiro do próximo ano|work=Expresso das Ilhas|access-date=2018-09-12|language=pt}}</ref>
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=CF}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/central-african-republic|title=Central African Republic travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/chile/entry-requirements|title=Entry requirements - Chile travel advice |publisher=Government of the United Kingdom}}</ref>
+| 90 days
+|
+*May be extended.
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=CN}}</ref>
+|
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+*Visiting visas issued to British citizens are generally valid for 2 years<ref>{{cite web|url=http://www.chinese-embassy.org.uk/eng/visa/notice/t1330627.htm|title=Chinese Embassy and Consulates in the UK to Issue Two-year Multi-entry Visas to British Nationals|website=chinese-embassy.org.uk|access-date=2016-08-27}}</ref>
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/colombia/entry-requirements|title=Entry requirements - Colombia travel advice |publisher=Government of the United Kingdom}}</ref>
+| 90 days 
+|
+*Extendable up to 180-days stay within a one-year period.<ref>{{cite web|url=https://londres.consulado.gov.co/en/procedures_services/visas|title=- Consulado de Colombia en Londres|website=londres.consulado.gov.co}}</ref>
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=KM}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=CG}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/congo/entry-requirements|title=Entry requirements - Congo travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=CD}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo/entry-requirements|title=Entry requirements - Democratic Republic of the Congo travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/costa-rica/entry-requirements|title=Entry requirements - Costa Rica travel advice |publisher=Government of the United Kingdom}}</ref>
+| 3 months
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.snedai.com/en/|title=Energie – SNEDAI GROUPE|website=snedai.com}}</ref>
+| 3 months
+|
+*eVisa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=HR}}</ref>
+| colspan=2|
+*Freedom of movement
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=GB|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=CY}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=CZ}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=DK}}</ref>
+| colspan=2|
+*Freedom of movement (DK)
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=DM}}</ref>
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=DO}}</ref>
+| 30 days 
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/ecuador/entry-requirements|title=Entry requirements - Ecuador travel advice |publisher=Government of the United Kingdom}}</ref>
+| 90 days
+|
+*May be extended.
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=EG}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |website= |publisher=[[Ministry of Interior (Egypt)|Ministry of Interior]] |access-date=3 December 2017 }}</ref>
+| 30 days
+|
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=SV}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=UK|destination=GQ}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/equatorial-guinea/entry-requirements|title=Entry requirements - Equatorial Guinea travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=ER}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/eritrea/entry-requirements|title=Entry requirements - Eritrea travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=EE}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=SZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=ET}}</ref> 
+|
+| 
+*Visa on arrival only at [[Addis Ababa Bole International Airport]].<ref>{{cite web|url=http://www.ethioembassy.org.uk/consular_services/visa.htm|title=Visas|website=ethioembassy.org.uk}}</ref>
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=FI}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|France}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=FR}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=GA}}</ref>
+| 90 days
+| 
+*eVisa holders must arrive via [[Libreville International Airport]].<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=GM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=GE}}</ref>
+| 1 year
+|
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=DE}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=GH}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/ghana/entry-requirements|title=Entry requirements - Ghana travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=GR}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=GD}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=GT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=GN}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/guinea/entry-requirements|title=Entry requirements - Guinea travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=GY}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=HT}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=HN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=HU}}</ref>
+| colspan=2|
+*Freedom of movement
+|- 
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=IS}}</ref>
+| colspan=2|
+*Freedom of movement
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=ID}}</ref>
+| 30 days<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements|title=Entry requirements - Indonesia travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+*Not available at all entry points.<ref>{{cite web|title=Visa Exemption - Immigration Checkpoint|url=http://www.imigrasi.go.id/index.php/en/layanan-publik/bebas-visa#immigration-checkpoint|publisher=Ditjen Imigrasi Republik Indonesia}}</ref>
+|- 
+| {{flag|Iran}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=IR}}</ref>
+| 
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref name="ReferenceB">{{Timatic|nationality=GB|destination=IQ}}</ref>
+| 
+|
+*Visa on arrival for 30 days at [[Erbil]] and [[Sulaymaniyah]] airports.
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=IE}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=IL}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=IT}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=JM}}</ref>
+| 180 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=JP}}</ref>
+| 90 days
+|
+*May be extended once.
+|-
+| {{flag|Jordan}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=GB|destination=JO}}</ref><ref>{{cite web|url=http://www.ttgdigital.com/news/jordan-axes-visa-fee-to-encourage-tourists/4696101.article|title=Jordan axes visa fee to encourage tourists|access-date=14 May 2015|archive-url=https://web.archive.org/web/20150508124326/http://www.ttgdigital.com/news/jordan-axes-visa-fee-to-encourage-tourists/4696101.article#|archive-date=8 May 2015|dead-url=yes|df=dmy-all}}</ref>
+|
+| 
+*Conditions apply<ref>http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=KZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|last=eCitizen|website=immigration.ecitizen.go.ke}}</ref>
+| 3 months
+|
+*Can also be entered on an East Africa Tourist Visa issued by Rwanda or Uganda.<ref name="migration.gov.rw">{{cite web|url=https://www.migration.gov.rw/index.php?id=233|title=T12-East Africa Tourist Visa|website=migration.gov.rw}}</ref>
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=KI}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=KP}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/north-korea/entry-requirements|title=Entry requirements - Korea, DPR (North Korea) travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=KR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://evisa.moi.gov.kw/evisa/home_e.do|title=Kuwait e-Visa|website=evisa.moi.gov.kw}}</ref>
+| 3 months<ref>{{cite web|url=https://evisa.moi.gov.kw/evisa/visaPubApp10.do?lng=eng|title=VisaApp10E|website=evisa.moi.gov.kw}}</ref>
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref name="Government of the United Kingdom">{{cite web|url=https://www.gov.uk/foreign-travel-advice/kyrgyzstan/entry-requirements|title=Entry requirements - Kyrgyzstan travel advice |publisher=Government of the United Kingdom}}</ref>
+| 60 days<ref>{{cite web|url=http://kyrgyz-embassy.org.uk/consular-section/visa-regulations/|title=Visa regulations - Kyrgyz Embassy to the UK}}</ref><ref name="Government of the United Kingdom"/>
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=LA}}</ref>
+| 30 days
+|
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=LV}}</ref>
+| colspan=2|
+*Freedom of movement
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=GB&AR=00&PASSTYPES=PASS&DE=LB&user=KLMB2C&subuser=KLMB2C]</ref>
+| 1 month 
+|
+*Extendable for 2 additional months; granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|  accessdate= 26 June 2017|nationality=GB|destination=LS}}</ref>
+| 14 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=LR}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/liberia/entry-requirements|title=Entry requirements - Liberia travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=LY}}</ref>
+| 
+|
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=LI}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=LT}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=LU}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=MK}}</ref>
+| 90 days
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=MG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=MW}}</ref>
+|
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=MY}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=GB|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=ML}}https://www.gov.uk/foreign-travel-advice/mali/entry-requirements</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=MT}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Marshall Islands}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=GB|destination=MH}}</ref>
+| 90 days
+|
+*Free of charge.
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=MR}}</ref>
+| 
+|
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=MU}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=MX}}</ref>
+| 180 days<ref>{{cite web|url=http://consulmex.sre.gob.mx/reinounido/index.php/visas/92|title=Tourist VISA|website=consulmex.sre.gob.mx}}</ref>
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=MD}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=MC}}</ref>
+|
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=MN}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements|title=Entry requirements - Mongolia travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=ME}}</ref>
+| 90 days
+|
+*Must register with the local police station (either through a tourist organisation or at hotel reception) within 24 hours of arrival.<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/montenegro/entry-requirements|title=Entry requirements - Montenegro travel advice |publisher=Government of the United Kingdom}}</ref>
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=MA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=MZ}}</ref>
+| 30 days<ref>{{cite web|url=http://www.mozambicanhotels.com/tourist-information/mozambique-tourism-news/mozambique-government-announces-30-day-tourist-visas-now-available-at-borders-for-all-visitors|title=Mozambique Government Announces 30-day Tourist Visas now Available at Borders for all Visitors - Mozambican Hotels|website=mozambicanhotels.com}}</ref>
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/burma|title=Burma travel advice |publisher=Government of the United Kingdom}}</ref>
+| 28 days
+|
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business purposes (allowed stay is 70 days).
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=NA}}</ref>
+| 3 months 
+|
+*3 months within a calendar year<ref>{{cite web |url=http://www.namibiahc.org.uk/need_visa.php |title=Archived copy |accessdate=2015-02-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20150202210554/http://www.namibiahc.org.uk/need_visa.php |archivedate=2 February 2015 |df=dmy-all }}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements|title=Entry requirements - Namibia travel advice |publisher=Government of the United Kingdom}}</ref>
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=NP}}</ref>
+| 90 days 
+|
+* Visa-on-arrival is extendable<ref>{{cite web |url=http://www.nepembassy.org.uk/visa.php |title=Archived copy |accessdate=2015-02-02 |deadurl=yes |archiveurl=https://web.archive.org/web/20150226061109/http://www.nepembassy.org.uk/visa.php |archivedate=26 February 2015 |df=dmy-all }}</ref>
+|- 
+| {{flag|Netherlands}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=NL}}</ref>
+| colspan=2|
+*Freedom of movement ([[European Netherlands]])
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=NZ}}</ref>
+| 6 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=NE}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/niger/entry-requirements|title=Entry requirements - Niger travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=NG}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=NO}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=PK}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan}}</ref>
+*Visa on arrival when travelling as part of a group through a designated tour operator.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O|title=Group Tourism through Designated Tour Operators}}</ref>
+|-
+| {{flag|Palau}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=GB|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=PA}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{cite web|url=http://www.immigration.gov.pg/images/documents/Publication-Revised%20MSF2.pdf|title=REVISED MIGRATION SERVICE FEES (MSF)}}</ref><ref>{{Timatic|nationality=GB|destination=PG}}</ref>
+| 60 days
+|
+*Issued free of charge.
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=PY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=PE}}</ref>
+| 183 days
+|
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=PH}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=PL}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=PT}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=RO}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=RU}}</ref>
+|
+| 
+*72-hours visa free visit when entering by regular ferry via port of St. Petersburg, provided that a passenger spends the night on-board or in accommodation specifically approved by the travel agency.<ref>{{cite web|url=http://www.travel.ru/law/173026.html |title=Постановление Правительства РФ N 397 О порядке пребывания на территории РФ иностранных граждан и лиц без гражданства, прибывающих в Российскую Федерацию в туристических целях на паромах|publisher=Travel.ru |date= |accessdate=2016-12-26}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=RW}}</ref>
+| 30 days<ref>{{cite web|url=https://irembo.gov.rw/rolportal/en/web/dgie/newhome/|title=IREMBO|website=irembo.gov.rw}}</ref>
+|
+*Can also be entered on an East Africa Tourist Visa issued by Kenya or Uganda.<ref name="migration.gov.rw"/>
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=KN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=LC}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=VC}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes|{{sort|Visa on arrival|Free Entry Permit on arrival}}}}<ref>{{Timatic|nationality=GB|destination=WS}}</ref>
+| 60 days
+|
+*Free of charge.
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=SM}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=RS}}</ref>
+| 90 days
+|
+|-
+| {{flag|Seychelles}}
+| {{yes|{{sort|Visa on arrival|Free Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=GB|destination=SC}}</ref>
+| 3 months
+|
+*Issued free of charge.
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=SL}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/sierra-leone/entry-requirements|title=Entry requirements - Sierra Leone travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=SG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=SK}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=SI}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Solomon Islands}}
+| {{yes|{{sort|Visa on arrival|Free Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=GB|destination=SB}}</ref>
+| 3 months
+|
+*Issued free of charge.
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=ZA}}</ref>
+| 90 days<ref>{{Cite web |url=http://southafricahouseuk.com/visas/vis_needvis.html |title=Archived copy |access-date=2 February 2015 |archive-url=https://web.archive.org/web/20150202205945/http://southafricahouseuk.com/visas/vis_needvis.html |archive-date=2 February 2015 |dead-url=yes |df=dmy-all }}</ref>
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=SS}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/south-sudan/entry-requirements|title=Entry requirements - South Sudan travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=ES}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=LK}}</ref>
+| 30 days 
+|
+*British citizens are allowed to extend their stay twice when in the country to a maximum stay of 90 days in total.<ref>{{cite web|title=How To Extend Short Visit Visa.|url=http://www.eta.gov.lk/slvisa/visainfo/extsheta.jsp|website=eta.gov.lk|publisher=Department of Immigration (ETA) Sri Lanka|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=SD}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/sudan/entry-requirements|title=Entry requirements - Sudan travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+|{{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=GB|destination=SR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=SE}}</ref>
+| colspan=2|
+*Freedom of movement
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=GB|destination=CH}}</ref>
+| colspan=2|
+*Freedom of movement
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=SY}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/syria/entry-requirements|title=Entry requirements - Syria travel advice |publisher=Government of the United Kingdom}}</ref>
+| 
+|
+*Visa not required for citizens born in Syria.
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.tj/index.evisa.html|title=Tajikistan e-Visa|publisher=Ministry of Foreign Affairs of the Republic of Tajikistan}}</ref>
+| 45 days 
+|
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=TH}}</ref>
+| 30 days 
+|
+*If not arriving by air, British citizens are only permitted two visits per year.
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=TL}}</ref>
+| 30 days
+|
+*Visa on arrival is only available at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili]] Sea Port.
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=GB|destination=TO}}</ref>
+| 31 days
+|
+*Issued free of charge.
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=TT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=TN}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=GB|destination=TR}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=TM}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Tuvalu}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=GB|destination=TV}}</ref>
+| 1 month
+|
+*Issued free of charge.
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=UG}}</ref>
+|
+| 
+*May apply online.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=visas.immigration.go.ug}}</ref>
+*Can also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda.<ref name="migration.gov.rw"/>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=UA}}</ref>
+| 90 days 
+|
+*90 days within any 180 day period<ref>{{cite web|url=http://mfa.gov.ua/en/consular-affairs/entering-ukraine/visa-requirements-for-foreigners|title=Entry regime to Ukraine for foreign citizens - MFA of Ukraine|website=mfa.gov.ua}}</ref><ref>{{cite web|url=http://uk.mfa.gov.ua/en/consular-affairs/services/visas|title=Visa information - Embassy of Ukraine to the United Kingdom of Great Britain and Northern Ireland|website=uk.mfa.gov.ua}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/ukraine/entry-requirements|title=Entry requirements - Ukraine travel advice |publisher=Government of the United Kingdom}}</ref>
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=GB|destination=AE}}</ref>
+| 30 days
+|
+*Issued free of charge.
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=GB|destination=US}}</ref>
+|90 days
+| 
+*[[Electronic System for Travel Authorization|ESTA]] required if arriving by air or cruise ship, which is valid for 2 years.<ref>{{cite web|url=https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,|title=Citizen of Visa Waiver Country, wants to drive into U.S. from Canada or Mexico, or arrive at a port of call in the U.S. by cruise ship|website=help.cbp.gov}}</ref>
+*[[Electronic System for Travel Authorization|ESTA]] is not required for [[Guam]] and [[Northern Mariana Islands]].
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=UY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=GB|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+*Pre-approved visa can be picked up on arrival. 
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=VU}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=VA}}</ref>
+| 
+|
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=GB|destination=VE}}</ref>
+| 90 days<ref>{{cite web|url=http://www.mppre.gob.ve/index.php?option=com_content&view=article&id=2143&Itemid=194|title=Inicio MPPRE}}</ref>
+|
+|-
+| {{flag|Vietnam}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/vietnam/entry-requirements|title=Entry requirements - Vietnam travel advice |publisher=Government of the United Kingdom}}</ref>
+| 15 days
+|
+*A single entry eVisa valid for 30 days is also available.<ref>{{cite web|url=https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt|title=E-visa}}</ref> Visa exemption extended until June 2021.<ref>https://www.gov.uk/foreign-travel-advice/vietnam/entry-requirements</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=GB|destination=YE}}</ref><ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/yemen/entry-requirements|title=Entry requirements - Yemen travel advice |publisher=Government of the United Kingdom}}</ref>
+|
+|
+* A single tourist visa for British citizens is issued for a maximum stay of 60 days from arrival into Yemen.
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=ZM}}</ref>
+| 90 days
+|
+*British citizens are eligible for a universal visa allowing access to Zimbabwe.<ref name="ReferenceC">{{cite web|url=https://www.gov.uk/foreign-travel-advice/zimbabwe/entry-requirements|title=Entry requirements - Zimbabwe travel advice |publisher=Government of the United Kingdom}}</ref>
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=GB|destination=ZW}}</ref>
+| 3 months
+|
+*British citizens are also eligible for a universal visa allowing access to Zambia.<ref name="ReferenceC"/>
+|}'}

@@ -1,0 +1,1716 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+General visa requirements of [[List of sovereign states|sovereign countries]] towards United States citizens:
+
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=AF|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/afghanistan.html|title=Afghanistan|publisher=}}</ref>
+|
+|
+*Visitors born in Afghanistan do not require a visa.
+*Visitors arriving via military air need to legalize their stay if they wish to leave via commercial airline.
+*All visitors are fingerprinted.<ref>{{cite web|title=Afghanistan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/afghanistan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref>
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=AL|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.punetejashtme.gov.al/files/userfiles/Who_can_enter_Albania_without_a_Visa.pdf|title=Ministria e Punëve të Jashtme|publisher=}}</ref>
+| {{ntsh|365}}1 year<ref>{{cite web|title=Albania Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/albania.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=19 October 2014}}</ref>
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=DZ|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Algeria Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/algeria.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref>
+| 
+|
+*Persons may be denied entry if entering with a passport containing visas or stamps issued by Israel.
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=AD|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months<ref>{{cite web|title=Andorra Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/andorra.html | publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref><ref>{{cite web|url=http://visitandorra.com/en/the-country/travelling-advice|title=Turisme d’Andorra. Useful information on the Principality.|publisher=}}</ref>
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.smevisa.com/touristvisa/|title=SME E-VISA|publisher=}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=US|destination=AO|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/angola.html|title=Angola|publisher=}}</ref>
+| {{ntsh|30}}30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=AG|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.foreignaffairs.gov.ag/diplomacy/visa_requirements.php|title=Visa Entry Requirements for Antigua and Barbuda|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20130512194550/http://www.foreignaffairs.gov.ag/diplomacy/visa_requirements.php|archivedate=2013-05-12|df=}}</ref>
+| {{ntsh|180}}6 months<ref>{{cite web|url=http://www.immigration.gov.ag/visa-services/general-visa-information/|title=General Visa Information - Immigration Antigua and Barbuda|website=www.immigration.gov.ag}}</ref>
+|
+*Stringent application of rules regarding proof of sufficient funds, return ticket and accommodation.<ref>{{cite web|title=Antigua and Barbuda Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/antigua-barbuda.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20140130003619/http://travel.state.gov/content/passports/english/country/antigua-barbuda.html#|archive-date=2014-01-30|dead-url=yes|df=}}</ref>
+|-
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=AR|accessdate=24 March 2016}}</ref>
+| {{ntsh|90}}90 days
+|
+*Extendable up to 180 days.
+*Visitors are fingerprinted and photographed upon entry.
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://armenpress.am/eng/news/787400/us-visa-to-be-issued-for-10-year-period.html|title=U.S. visa to be issued for 10 year-period|publisher=}}</ref>
+| {{ntsh|180}}180 days
+|
+|-
+| {{flag|Australia}}
+| {{yes2|[[Visa policy of Australia#Electronic visas|Electronic Travel Authority]]}}<ref>{{Timatic|nationality=US|destination=AS|accessdate=27 December 2017}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days on each visit in 12-month period if granted<ref>{{cite web|title=Australia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/australia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref>
+*May enter using [[SmartGate]].<ref>{{cite web|url=http://www.planetbiometrics.com/article-details/i/3853/desc/australia-opens-biometric-smartgate-programme-to-us-citizens/|title=Australia opens biometric \SmartGate\ programme to US citizens - Planet Biometrics News|publisher=}}</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=AT|accessdate=26 November 2013}}</ref><ref name=ETA>{{cite web|title=Electronic Travel Authority (Subclass 601)|url=http://www.immi.gov.au/visas/visitor/601/|publisher=Department of Immigration and Border Protection|accessdate=25 September 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Austria Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/austria.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013|archive-url=https://web.archive.org/web/20140201171906/http://travel.state.gov/content/passports/english/country/austria.html#|archive-date=2014-02-01|dead-url=yes|df=}}</ref>
+|-
+| {{flag|Azerbaijan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=AZ|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days<ref>{{cite web|url=https://evisa.gov.az|title=Home Page -         The Electronic Visa System of Azerbaijan Republic|website=evisa.gov.az}}</ref>
+|
+*If intending to stay in the Republic of Azerbaijan for more than ten days, the visitor must register at the [http://www.migration.gov.az State Migration Service] of the Republic of Azerbaijan within three days upon arrival in Azerbaijan.<ref>"[http://www.azembassy.us/visa-service/important-notice.html Important Notice to Foreign Visitors]". \\[[Embassy of Azerbaijan, Washington, D.C.]]\\ Retrieved 21 May 2017.</ref>
+*Applicants of Armenian ancestry or with Armenian visas in their passport may not obtain a visa.<ref>{{cite web|title=Azerbaijan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/azerbaijan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref>
+*Can obtain a 30 days visa on arrival only if arriving on a direct flight of [[Azerbaijan Airlines]] from [[New York City]].<ref>{{cite web|url=http://www.azembassy.us/|title=Embassy of the Republic of Azerbaijan - Embassy of Azerbaijan|publisher=}}</ref>
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BS|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Bahamas, The Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/the-bahamas.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+| {{ntsh|240}}8 months   
+|
+*Passport Card or Enhanced Drivers License valid for Sea Travel
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=BH|accessdate=26 November 2013}}</ref>
+| {{ntsh|14}}14 days<ref>{{cite web|title=Bahrain Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bahrain.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|
+*Visa also obtainable online<ref>{{cite web|url=http://www.evisa.gov.bh/|title=Bahrain Electronic Visa Service|publisher=}}</ref>
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=BD|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days<ref>"[http://www.bdembassyusa.org/index.php?page=requirement-visa Instruction and Requirement for Visa]". \\[[Embassy of Bangladesh in Washington, D.C.]]\\ Retrieved 21 May 2017.</ref> 
+|
+*Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]].
+*Visa is not required by [[Bangladeshi American]]s.
+*Departure tax applies.<ref>{{cite web|title=Bangladesh Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bangladesh.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BB|accessdate=26 November 2013}}</ref><ref>[http://www.foreign.gov.bb/pageselect.cfm?page=120 Visa Information], Ministry of Foreign Affairs and Foreign Trade of Barbados</ref>
+| {{ntsh|28}}28 days
+|
+*Extendable up to 6 months<ref>{{cite web|title=Barbados Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/barbados.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BY|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Must arrive and depart via [[Minsk International Airport]].
+*Registration upon arrival for stays longer than 5 days is mandatory.
+*Visa-free visits to [[Belovezhskaya Pushcha National Park]] for up to 3 days.<ref>{{cite web|url=http://eng.belta.by/all_news/society/Regulations-on-visiting-Belovezhskaya-Pushcha-by-foreign-tourists-approved-in-Belarus_i_81880.html|title=Regulations on visiting Belovezhskaya Pushcha by foreign tourists approved in Belarus|date=20 May 2015|publisher=|access-date=2015-05-21|archive-url=https://web.archive.org/web/20150629131222/http://eng.belta.by/all_news/society/Regulations-on-visiting-Belovezhskaya-Pushcha-by-foreign-tourists-approved-in-Belarus_i_81880.html#|archive-date=2015-06-29|dead-url=yes|df=}}</ref>
+*Visa-free visits to the [[Grodno]] and [[Augustow Canal]] visa-free zone for up to 5 days.<ref>{{cite web|url=http://en.ctv.by/en/1472023496-belarus-allows-visiting-augustow-canal-without-visas|title=Belarus allows visiting Augustow Canal without visas|publisher=}}</ref>
+*No transit without a visa under any circumstance.<ref>{{cite web|title=Belarus Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/belarus.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BE|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Belgium Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/belgium.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BZ|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mfa.gov.bz/images/documents/Visa%20Requirements%20for%20Belize%20December%202013%20-Web%20version.pdf|title=Belize Visa Requirements|publisher=}}</ref>
+| {{ntsh|30}}1 month
+|
+*Extendable up to 6 months<ref>{{cite web|title=Belize Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/belize.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+*Departure tax applies.<ref>{{cite web|title=Information for Travelers {{!}} Belmopan, Belize - Embassy of the United States |url=http://belize.usembassy.gov/information_for_travelers.html}}</ref>
+|-
+| {{flag|Benin}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=US|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref>
+| 
+| 
+*[[International Certificate of Vaccination]] required.<ref>{{cite web|title=Benin Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/benin.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=BT|accessdate=26 November 2013}}</ref>
+|
+|
+*$250 per day is a non-negotiable minimum daily tariff paid by all visitors to Bhutan.
+*Visas are issued only to tourists booked with a local licensed tour operator.<ref>{{cite web|title=Bhutan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bhutan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=BO|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.rree.gob.bo/webmre/documentos/servicios/d48.htm|title=Countries that obtain a visa on arrival to Bolivia|publisher=|access-date=2014-03-31|archive-url=https://web.archive.org/web/20131004064949/http://www.rree.gob.bo/webmre/documentos/servicios/d48.htm#|archive-date=2013-10-04|dead-url=yes|df=}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=Bolivia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bolivia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|
+*Reciprocal fee of US$160 applies. Fee must be paid in cash when arriving to any entry point by car, air or foot, or in money order when applying for the visa in advance at an accredited Bolivian Consulate. Visas are issued with 10 year validity from the date of issuance.<ref>{{cite web|url=https://travel.state.gov/content/passports/english/country/bolivia.html|title=Bolivia|publisher=}}</ref><ref>{{cite web|url=http://www.boliviawdc.org/consulate/visas|title=Visas|website=www.boliviawdc.org}}</ref>
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BA|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mfa.ba/konzularne_informacije/vize/?id=8672|archive-url=https://web.archive.org/web/20110706133155/http://www.mfa.ba/konzularne_informacije/vize/?id=8672|dead-url=yes|archive-date=2011-07-06|title=Visas for Bosnia and Herzegovina|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any 6-month period
+*Registration with the local police within 24 hours of arrival is mandatory.<ref>{{cite web|title=Bosnia-Herzegovina Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bosnia-herzegovina.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BW|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.botswanaembassy.org/countries-that-do-not-require-visa/|title=COUNTRIES THAT DO NOT REQUIRE VISA TO ENTER BOTSWANA|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20140327144941/http://www.botswanaembassy.org/countries-that-do-not-require-visa/|archivedate=2014-03-27|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any year period<ref>{{cite web|title=Botswana Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/botswana.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Brazil}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=US|destination=BR|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Brazil Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/brazil.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days per year; valid for 2 years.
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BN|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mofat.gov.bn/index.php/visa-information|title=Ministry of Foreign Affairs & Trade of Brunei Visa Information|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20130927063447/http://www.mofat.gov.bn/index.php/visa-information|archivedate=2013-09-27|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+*
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=BG|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mfa.bg/en/pages/109/index.html|title=Ministry of Foreign Affairs - Visa for Bulgaria|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any 180-day period<ref>{{cite web|title=Bulgaria Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bulgaria.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=BF|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}1 month
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Burkina Faso Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/burkina-faso.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=BI|accessdate=9 October 2015}}</ref>
+| 
+|
+* Visitors are fingerprinted
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=KH|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Visa is also obtainable online.<ref>{{cite web|url=https://www.evisa.gov.kh|title=Kingdom of Cambodia - Ministry of Foreign Affairs & International Cooperation|publisher=}}</ref>
+*All visitors are fingerprinted on arrival and departure.<ref>{{cite web|title=Cambodia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/cambodia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=CM|accessdate=26 November 2013}}</ref>
+|
+| 
+* [[International Certificate of Vaccination]] and current immunization records required.<ref>{{cite web|title=Cameroon Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/cameroon.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=CA|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.cic.gc.ca/english/visit/visas-all.asp#exemptions|title=Entry requirements by country|first=Government of Canada, Citizenship and Immigration Canada, Communications|last=Branch|publisher=}}</ref>
+| {{ntsh|180}}180 days
+|
+*Anyone with a criminal record (including misdemeanors or alcohol-related driving offenses in the US) may not be able to enter Canada without first obtaining an approval for rehabilitation<ref>{{cite web|title=Canada Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/canada.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref> or a Temporary Resident Permit (TRP).<ref>{{cite web|title=Overcome criminal convictions|url=https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/overcome-criminal-convictions.html|website=Government of Canada|accessdate=26 April 2018|date=1 August 2015}}</ref>
+*Passport Card, NEXUS card, or Enhanced Drivers License valid for Land and Sea Travel 
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=CV|accessdate=26 November 2013}}</ref>
+|
+|
+*Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].
+*Passengers arriving via Africa must hold an [[International Certificate of Vaccination]].<ref>{{cite web|title=Cabo Verde Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/cabo-verde.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Central African Republic}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://www.pdf-archive.com/2016/11/02/car-visa/|title=PDF Document CAR Visa.pdf|publisher=}}</ref><ref>{{cite web|url=https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/CentralAfricanRepublic.html|title=Central African Republic International Travel Information|website=travel.state.gov}}</ref><ref>{{cite web|url=https://www.pdf-archive.com/2016/11/02/car-visa/preview/page/1/|title=PDF Document CAR Visa.pdf|publisher=}}</ref>
+| {{ntsh|180}}180 days
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Central African Republic Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/central-african-republic.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=TD|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/alertswarnings/chad-travel-warning.html|title=Chad Travel Warning|publisher=}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+*Registration within 72 hours is mandatory prior to arrival.<ref>{{cite web|title=Chad Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/chad.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref> Registration is good for the life of the passport.<ref>{{cite web|title=The Police Station in N\Djamena: Chad, Republic of Chad, Places in N\Djamena, Chad Location, Travel Guide|url=http://www.chadnow.com/chad_travel_guide_information/chad_place.php?articleID=10&category2=ndjamenaplaces|publisher=Chad Now|accessdate=6 January 2016}}</ref>
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=CL|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=Chile Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/chile.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref><ref>{{cite web|url=http://www.prweb.com/releases/2014/03/prweb11629835.htm|title=US Citizens No Longer Required to Pay Chilean Reciprocity for Travel to Chile|publisher=}}</ref>
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=CN|accessdate=26 November 2013}}</ref>
+|
+|
+*Registration mandatory within 24 hours of arrival;<ref>{{cite web|title=China Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/china.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+*All visitors are fingerprinted on arrival and departure between the ages of 14 and 70.
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+*Visas for U.S. citizens are valid for up to 10 years.<ref>{{cite web|url=http://shanghaiist.com/2014/11/13/china-issues-first-ever-10-year-visas.php|title=China issues first group of 10-year visas to US citizens|first=Katie|last=Nelson|publisher=}}</ref>
+|-
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=CO|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.cancilleria.gov.co/sites/default/files/tramites_servicios/visas/archivos/cuadro_visas_por_paises_a_22_de_noviembre_de_2013.pdf|title=MINISTERIO DE RELACIONES EXTERIORES COORDINACION DE VISAS E INMIGRACION Visas entre Colombia y los demás países|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* Extendable up to 180-days stay within a one-year period<ref>{{cite web|title=Colombia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/colombia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+* Colombian-born U.S. citizens and U.S. citizens traveling with children may face special exit requirements.<ref>{{cite web |url= https://photos.state.gov/libraries/consulate/29633/consular_images/SpecialEntryRequirementsColombiaDualNationalsandChildren.pdf |title= Special Entry/Exit Instructions for U.S. Citizens Born in Colombia |id= "Additional Exit Requirements for Minors" |work= [[United States Department of State]] |accessdate= 19 April 2018}}</ref>
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=KM|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Comoros Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/comoros.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|
+| 
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=CD|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/alertswarnings/democratic-republic-of-the-congo-travel-warning.html|title=Democratic Republic of the Congo Travel Warning|publisher=}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+*Registration required.
+*Visas must be issued at the DR Congo embassy in Washington, D.C.<ref>{{cite web|title=Congo, Democratic Republic of the Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/congo-kinshasa.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref> 
+|-
+| {{flag|Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=CG|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/congo-brazzaville.html|title=Congo, Republic of|publisher=}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+*A letter of invitation or written proof of a hotel reservation required.<ref>{{cite web|title=Congo, Republic of the Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/congo-brazzaville.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=CR|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Departure tax applies.<ref>{{cite web|title=Costa Rica Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/costa-rica.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.snedai.com/en/|title=:::SNEDAI:::|first=BESSIN Effi Marcel|last=Email:marcel_bessin@yahoo.fr|publisher=}}</ref>
+|
+|
+*eVisa holders must arrive via [[Port Bouet Airport]]
+* [[International Certificate of Vaccination]] required<ref>{{cite web|title=Cote d\Ivoire Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/cote-divoire.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=HR|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mvep.hr/en/consular-information/visas/visa-requirements-overview/|title=MVEP • Visa requirements overview|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any 180-day period
+*Registration with the local police within 24 hours of arrival is mandatory.<ref name="Croatia">{{cite web|title=Croatia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/croatia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=US|destination=CU|accessdate=26 November 2013}}</ref>
+|
+|
+*Tourist travel was historically prohibited under U.S. law for U.S. citizens, permanent residents, and others subject to U.S. jurisdiction.<ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/cuba.html|title=Cuba|publisher=}}</ref> Under the [[Cuban Assets Control Regulations]], all persons subject to U.S. jurisdiction are not permitted to travel to Cuba, and must be licensed in order to engage in any travel-related transactions pursuant to travel to, from, and within Cuba. In July 2015, the United States resumed diplomatic relations with Cuba. Discussions on lifting the travel ban have initiated. On June 16, 2017, U.S. President [[Donald Trump]] announced new travel restrictions.<ref>{{cite web
+| url = http://www.newsmax.com/FastFeatures/Obama-Cuba-travel-restrictions/2015/12/03/id/704501/
+| title = A Rundown of Obama\s New Loosened Travel Restrictions to Cuba
+| website = Newsmax
+| access-date = 2016-02-27
+}}</ref><ref>{{Cite news
+| url = https://www.nytimes.com/2015/09/19/world/americas/us-cuba-relations.html
+| title = U.S. Eases Some Limits on Cuban Travel and Commerce
+| last = Davis
+| first = Julie Hirschfeld
+| date = 2015-09-18
+| newspaper = The New York Times
+| issn = 0362-4331
+| access-date = 2016-02-27
+}}</ref>
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=CY|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mfa.gov.cy/mfa/mfa2006.nsf/consular02_en/consular02_en?OpenDocument|title=Travel Information for Foreign Visitors to Cyprus|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20140323194207/http://www.mfa.gov.cy/mfa/mfa2006.nsf/consular02_en/consular02_en?OpenDocument|archivedate=2014-03-23|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any 180-day period<ref>{{cite web|title=Cyprus Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/cyprus.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=CZ|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mzv.cz/jnp/en/information_for_aliens/general_visa_information/index.html|title=General visa information for Czech Republic|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Czech Republic Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/czech-republic.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=DK|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://um.dk/en/travel-and-residence/danish-visa-rules/|title=Danish visa rules|first=|last=UM|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]
+*US citizens can enter Denmark for up to 90 days every six months, regardless of whether they have stayed in another [[Schengen area]] (except the other Nordic countries) country prior to entry into Denmark.<ref>[http://www.nyidanmark.dk/en-us/coming_to_dk/visa/Visa_free_travel.htm Citizens of certain countries are entitled to stay in Denmark for 90 days, regardless of stays in other Schengen countries], The Danish Immigration Service</ref>
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| {{ntsh|31}}31 days
+|
+*
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=DM|accessdate=26 November 2013}}</ref><ref>[http://www.dominica.dm/index.php/entry-requirements ENTRY REQUIREMENTS], Discover Dominica Authority</ref>
+| {{ntsh|180}}6 months
+|
+*Departure tax applies.<ref>{{cite web|title=Dominica Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/dominica.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=DO|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.consuladord.com/contenidos.aspx?cid=82&lang=ES|title=Portal de Servicios Consulares de la República Dominicana|publisher=}}</ref>
+| {{ntsh|30}}30 days
+|
+*Extendable up to 90 days
+*Passport Card or Enhanced Drivers License valid for Sea Travel
+|-
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=EC|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Extendable for another 90 days, per year<ref>{{cite web|title=Ecuador Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/ecuador.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=EG|accessdate=26 November 2013}}</ref>
+|
+|
+*eVisa issued for 30 days.<ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+*30 days when arriving by air;
+*Tourists arriving at [[Sharm el-Sheikh International Airport|Sharm El Sheikh]], [[St. Catherine International Airport|Saint Catherine]] or [[Taba International Airport|Taba]] airports and remaining in the [[Sinai]] resorts do not require a visa up to 15 days<ref>{{cite web|title=Egypt Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/egypt.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SV|accessdate=26 November 2013}}</ref><ref>{{cite web|title=El Salvador Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/el-salvador.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+| {{ntsh|90}}3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=GQ|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+* [[International Certificate of Vaccination]] required if you are traveling from a country with risk of yellow fever.<ref>{{cite web|title=Equatorial Guinea Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/equatorial-guinea.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=ER|accessdate=26 November 2013}}</ref>
+|
+|
+*Airport departure tax applies.<ref>{{cite web|title=Eritrea Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/eritrea.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=EE|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.vm.ee/?q=en/node/53/915.html|title=Visiting Estonia|publisher=|access-date=2018-11-09|archive-url=https://web.archive.org/web/20140324084917/http://www.vm.ee/?q=en%2Fnode%2F53%2F915.html#|archive-date=2014-03-24|dead-url=yes|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Estonia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/estonia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=ET|accessdate=26 November 2013}}</ref>
+|
+|
+*Obtainable at [[Addis Ababa Bole International Airport]].<ref>{{cite web|title=Ethiopia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/ethiopia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+*Visitors are fingerprinted
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=FJ|accessdate=26 November 2013}}</ref>
+| {{ntsh|120}}4 months<ref name="ReferenceA">{{cite web|title=Fiji Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/fiji.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=FI|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://formin.finland.fi/public/default.aspx?nodeid=15720&contentlan=2&culture=en-US|title=Ministry for Foreign Affairs of Finland: Entering Finland and travelling abroad: Visa requirement and travel documents accepted by Finland|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Finland Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/finland.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=FR|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.diplomatie.gouv.fr/en/coming-to-france/getting-a-visa/article/foreign-nationals-holding-ordinary|title=Foreign nationals holding ordinary passports exempt from visa requirements|first=The French Ministry of Foreign|last=affairs|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]] (in [[Regions of France]])<ref>{{cite web|title=France Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/france.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=GA}}</ref>
+|
+|
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Gabon Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/gabon.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=GM|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.gid.gov.gm/entry |title=ENTRY INTO THE GAMBIA. GAMBIA IMMIGRATION DEPARTMENT|publisher=gid.gov.gm |date=2017-12-23 |accessdate=2017-12-23}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Gambia, The Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/the-gambia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=GE|accessdate=26 November 2013}}</ref>
+| {{ntsh|365}}1 year
+|
+* Visitors must hold proof of health insurance. 
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=DE|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Germany Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/germany.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=GH|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/ghana.html|title=Ghana|publisher=}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Ghana Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/ghana.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=GR|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mfa.gr/en/visas/|title=Visas - Hellenic Republic - Ministry of Foreign Affairs|website=www.mfa.gr}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Greece Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/greece.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=GD|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Grenada Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/grenada.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+| {{ntsh|90}}3 months
+|
+*Extensions possible
+|-
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=GT|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*An exit tax must be paid when departing by air.<ref>{{cite web|title=Guatemala Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/guatemala.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=GN|accessdate=26 November 2013}}</ref>
+|
+|
+* Single entry valid for 3 months.
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Guinea Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/guinea.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=GW|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=Guinea-Bissau Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/guinea-bissau.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|
+*Visitors must apply for a visa on arrival in advance or online.<ref>{{cite web|title=Republic of Guinea-Bissau Electronic Visa Application Form|url=https://www.rgb-visa.com/|publisher=Republic of Guinea-Bissau|accessdate=8 January 2016}}</ref>
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=GY|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months<ref>{{cite web|title=Guyana Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/guyana.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref>
+|
+|-
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=HT|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Haiti Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/haiti.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+| {{ntsh|90}}3 months
+|
+|-
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=HN|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months
+|
+*Departing airport tax applies.
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=HU|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://konzuliszolgalat.kormany.hu/en|title=Consular Services|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Hungary Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/hungary.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=IS|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.utl.is/index.php?option=com_content&view=article&id=16&Itemid=17&lang=en|title=UTL|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Iceland Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/iceland.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|India}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| {{ntsh|60}}60 days
+|
+{{trim|{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}}}
+*$75 fee along with bank surcharge of 2.5%<ref>{{cite web|url=https://indianvisaonline.gov.in/evisa/eTV_revised_fee_final.pdf|title=Country/Territory Wise e-Visa Fee|publisher=Ministry of Home Affairs, Government of India}}</ref>
+*Confirmation has to be shown at the border where a visa on arrival is issued.
+*Visitors are fingerprinted.
+*American citizens are eligible for a ten-year, multiple-entry tourist visa.<ref>{{cite web|title=India Now Offering US Citizens 10 Year Visas|url=http://thepointsguy.com/2015/04/india-now-offering-us-citizens-10-year-visas/|publisher=[[The Points Guy]]|accessdate=8 January 2016}}</ref>
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.embassyofindonesia.org/wordpress/?p=4010|title=Embassy of Republic of Indonesia in Washington, DC|publisher=|access-date=2015-08-27|archive-url=https://web.archive.org/web/20150907020803/http://www.embassyofindonesia.org/wordpress/?p=4010#|archive-date=2015-09-07|dead-url=yes|df=}}</ref><ref>{{Timatic|nationality=US|destination=ID|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+|-
+| {{flag|Iran}}
+| {{no|Visa required}}<ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/iran.html|title=Iran|website=travel.state.gov|access-date=2016-05-18|archive-url=https://web.archive.org/web/20160517142305/https://travel.state.gov/content/passports/en/country/iran.html|archive-date=2016-05-17|dead-url=yes|df=}}</ref>
+|
+| 
+*Iranian visas must be obtained from the Special Interests section of the [[Embassy of Pakistan, Washington, D.C.]]<ref>{{cite web|title=Iran Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=http://daftar.org/Eng/default.asp?lang=eng|publisher=Embassy of Pakistan|accessdate=8 January 2016}}</ref>
+*US visitors are fingerprinted and photographed upon entry.<ref name="ReferenceB">{{cite web|title=Interests Section of the Islamic Republic of Iran|url=https://travel.state.gov/content/passports/en/country/the-iran.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015|archive-url=https://web.archive.org/web/20160125151228/http://travel.state.gov/content/passports/en/country/the-iran.html#|archive-date=2016-01-25|dead-url=yes|df=}}</ref>
+*Independent travelers must be accompanied by an authorized guide at all times.
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref name="Visa Information">{{Timatic|nationality=US|destination=IQ|accessdate=26 November 2013}}</ref>
+|
+|
+*Some U.S. citizens must obtain an exit stamp at a Residency Office before departing the country.
+*Some visitors who plan to stay for more than 10 days must also obtain a residency stamp.<ref>{{cite web|title=Iraq Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/iraq.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 January 2016}}</ref>
+*Visitors who come as part of a government-sponsored tour, upon presentation of proper paperwork from the government, may receive a visa on arrival at Baghdad International Airport for $80 + 1250 [[Iraqi dinar]]. Visitors are not required to obtain any other permits, including for [[Iraqi Kurdistan]], or submit blood tests.<ref>{{cite web|title=Hinterland Travel. - Iraq, Middle East forum - Lonely Planet|url=https://www.lonelyplanet.com/thorntree/forums/middle-east/topics/hinterland-travel-f1b61882-ace8-48d9-bad5-b44769b5662a|publisher=Lonely Planet|accessdate=6 January 2016}}</ref>
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=IE|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.inis.gov.ie/en/INIS/Pages/Irish%20Visa%20Information|title=Visas|first=|last=inispagemaster@justice.ie|publisher=}}</ref>
+| {{ntsh|90}}3 months
+|
+*Strict application of immigration rules regarding providing proof of the trip purpose, sufficient funds, return ticket and accommodation.<ref>{{cite web|title=Ireland Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/ireland.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref>
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=IL|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months
+|
+*Dual nationals of Israel and the United States who don\t have an Israeli passport, including infants, may be required to obtain an Israeli passport in order to leave Israel.<ref>{{cite web|title=Israel Country Specific Information – Entry/Exit Requirements for U.S.   *Arab-Americans may be subject to questioning or denied entry. Citizens|url=https://travel.state.gov/content/passports/en/country/israel.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+*Entry prohibited for any person “who knowingly issues a public call for boycotting Israel".<ref>{{Cite news|url=https://www.independent.co.uk/news/world/middle-east/israel-travel-ban-boycott-supporters-bds-movement-banned-knesset-vote-settlements-visas-residency-a7616701.html|title=Israel parliament approves travel ban for supporters of BDS movement|date=2017-03-07|work=The Independent|access-date=2018-05-05|language=en-GB}}</ref>
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=IT|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.esteri.it/visti/home_eng.asp|title=Visa for Italy|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Italy Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/italy.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=JM|accessdate=26 November 2013}}</ref>
+| {{ntsh|180}}6 months
+|
+*There is a departure tax for travelers, which is regularly included in airfare.<ref>{{cite web|title=Jamaica Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/jamaica.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=JP|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*All visitors are fingerprinted<ref name="ReferenceC">{{cite web|title=Japan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/japan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 September 2015}}</ref>
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=JO|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).<ref>{{cite web|title=Jordan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/jordan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+*Iris scan is taken on arrival and departure<ref name="safran-group.com">{{Cite web |url=http://www.safran-group.com/site-safran-en/press-media/press-releases/2008-448/article/selection-of-sagem-securite-iris?3317 |title=Archived copy |access-date=2015-08-04 |archive-url=https://web.archive.org/web/20140731114355/http://www.safran-group.com/site-safran-en/press-media/press-releases/2008-448/article/selection-of-sagem-securite-iris?3317 |archive-date=2014-07-31 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=KZ|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Kazakhstan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/kazakhstan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+| {{ntsh|30}}30 days
+|
+*As part of the no-visa pilot program in period 15 July 2014 – 15 July 2015. In June 2015 this program was extended until December 31, 2017.<ref>{{cite web|url=https://travel.state.gov/content/passports/english/country/kazakhstan.html|title=Kazakhstan|publisher=|access-date=2017-06-25|archive-url=https://web.archive.org/web/20150905125509/http://travel.state.gov/content/passports/english/country/kazakhstan.html#|archive-date=2015-09-05|dead-url=yes|df=}}</ref><ref>[http://www.rferl.org/content/kazakhstan-dropping-visa-requirements-for-citizens-of-10-countries/25420746.html Kazakhstan Dropping Visa Requirements For Citizens Of 10 Countries] ç</ref>
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|publisher=}}</ref>
+| {{ntsh|90}}3 months
+|
+* [[International Certificate of Vaccination]] is recommended.<ref>{{cite web|title=Kenya Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/kenya.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+*All visitors are fingerprinted on arrival and departure
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=KI|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Airport Embarkation Tax applies.<ref>{{cite web|title=Kiribati Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/kiribati.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|North Korea}}
+| {{BLACK|style=color:white;|Travel restricted}}<ref name="auto">{{Timatic|nationality=US|destination=KP|accessdate=26 November 2013}}</ref><ref name="auto1">{{cite web|title=Korea, Democratic People\s Republic of Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/korea-north.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref><ref name="auto2">{{cite news|title=U.S. to ban travel to North Korea from September 1, says Americans should leave|url=https://www.reuters.com/article/us-northkorea-usa-travel-september-idUSKBN1AI2UC|accessdate=2 August 2017|agency=Reuters}}</ref>
+|
+|
+* U.S. passports holders must obtain a special passport validation from the U.S. federal government before travel.
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=KR|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*All visitors are fingerprinted.<ref>{{cite web|title=Korea, Republic of Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/korea-south.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://evisa.moi.gov.kw/evisa/home_e.do|title=Kuwait e-Visa|publisher=}}</ref>
+| {{ntsh|90}}3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=KG|accessdate=26 November 2013}}</ref>
+| {{ntsh|60}}60 days<ref>{{cite web|title=Kyrgyzstan Country Specific Information - Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/kyrgyzstan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015|archive-url=https://web.archive.org/web/20151026160529/http://travel.state.gov/content/passports/en/country/kyrgyzstan.html#|archive-date=2015-10-26|dead-url=yes|df=}}</ref>
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=LA|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=LV|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.am.gov.lv/en/service/|title=Consular information|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Latvia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/latvia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=LB|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}1 month 
+|
+*Extendable for 2 additional months.
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=LS|accessdate=26 November 2013}}</ref>
+| {{ntsh|14}}14 days
+|
+*Extendable up to 180 days.<ref>{{cite web|title=Lesotho Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/lesotho.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=LR|accessdate=26 November 2013}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Liberia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/liberia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=LY|accessdate=26 November 2013}}</ref>
+|
+|
+*Visitors travelling to Libya for touristic purposes are required to convert USD 1,000 or equivalent on arrival.
+*Holders of passports bearing an Israeli visa or entry/exit stamps from Israel are not allowed to enter Libya.<ref>{{cite web|title=Libya Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/libya.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=LI|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Liechtenstein Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/liechtenstein.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=LT|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://consul.mfa.lt/en/|title=Consular information for Lithuania|publisher=|deadurl=yes|archiveurl=https://archive.is/20140226064631/http://consul.mfa.lt/en/|archivedate=2014-02-26|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]
+*Mandatory medical insurance.<ref>{{cite web|title=Lithuania Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/lithuania.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=LU|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mae.lu/en/Site-MAE/VISAS-Immigration|title=VISAS & Immigration for Luxembourg|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20140406235333/http://www.mae.lu/en/Site-MAE/VISAS-Immigration|archivedate=2014-04-06|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Luxembourg Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/luxembourg.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MK|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Registration with the local police within 24 hours of arrival is mandatory<ref>{{cite web|title=Macedonia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/macedonia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=MG|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Available at all airports servicing international flights.<ref>{{cite web|title=Madagascar Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/madagascar.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+*Visa on arrival is issued free of charge. Visas for 60 or 90 days available for a fee.
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=MW|accessdate=5 October 2015}}</ref>
+| 
+|
+*From 1 October 2015 visitors are generally advised to obtain a visa in advance.<ref>{{cite web|url=https://af.reuters.com/article/malawiNews/idAFL5N11Z1KZ20150929|title=Malawi introduces visas for European, Asian visitors - News by Country - Reuters|publisher=}}</ref>
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MY|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months
+|
+*All visitors are fingerprinted on arrival and departure.<ref>{{cite web|title=Malaysia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/malaysia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+*Immigration offenses, such as visa overstaying, are punishable by caning.
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=MV|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Extendable up to 90 days.
+*Visa on arrival is issued free of charge.<ref>{{cite web|title=Maldives Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/maldives.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=ML|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/mali.html|title=Mali|publisher=}}</ref>
+|
+|
+* Letter of invitation required.
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Mali Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/mali.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MT|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://mhas.gov.mt/en/MHAS-Information/Travelling%20to%20Malta/Pages/Travelling-to-Malta.aspx|title=Travelling to Malta|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Malta Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/malta.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Marshall Islands}}
+| {{free|Visa not required}}<ref>{{Timatic|nationality=US|destination=MH|accessdate=26 November 2013}}</ref>
+| unlimited
+|
+*Departure fee applies.
+*U.S. citizens may live and work freely in the Marshall Islands under the [[Compact of Free Association]].<ref>{{cite web|title=Marshall Islands Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/marshall-islands.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=MR|accessdate=26 November 2013}}</ref>
+|
+|
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Mauritania Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/mauritania.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MU|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=Mauritius Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/mauritius.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|
+|-
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MX|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.inm.gob.mx/index.php/page/Paises_No_Visa/en.html|title=Instituto Nacional de Migración - Gobierno - gob.mx|publisher=}}</ref>
+| {{ntsh|180}}180 days
+|
+*Visitors entering by land and traveling farther than 20 kilometers into Mexico or staying longer than 72 hours must obtain a document Forma Migratoria Multiple.<ref>{{cite web|title=Mexico Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/mexico.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref><ref>{{cite web|url=http://www.sectur.gob.mx/work/models/secturing/Resource/14119/ingles.pdf|title=Manual of Tourist Entry|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20130626235442/http://www.sectur.gob.mx/work/models/secturing/Resource/14119/ingles.pdf|archivedate=2013-06-26|df=}}</ref>
+*Passport Card or Enhanced Drivers License valid for Land and Sea Travel
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{free|Visa not required}}<ref>{{Timatic|nationality=US|destination=FM|accessdate=26 November 2013}}</ref>
+| unlimited<ref>{{cite web|title=Visa Information|url=https://travel.state.gov/content/passports/english/country/federated-states-of-micronesia.html|publisher=[[U.S. Department of State]]|accessdate=5 May 2014}}</ref>
+|
+*All states except [[Yap]] have a departure fee.<ref>{{cite web|title=Micronesia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/federated-states-of-micronesia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+*U.S. citizens may live and work freely in Micronesia under the [[Compact of Free Association]].
+*There is no limit to the length of time U.S. citizens can remain in the FSM.<ref>{{cite web|title=Visa Information|url=https://travel.state.gov/content/passports/english/country/federated-states-of-micronesia.html|publisher=[[U.S. Department of State]]|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MD|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*90 days within any 180-day period
+*Registration upon arrival is mandatory.<ref>{{cite web|title=Moldova Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/moldova.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015|archive-url=https://web.archive.org/web/20170518214950/https://travel.state.gov/content/passports/en/country/moldova.html#|archive-date=2017-05-18|dead-url=yes|df=}}</ref>
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MC|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period<ref>{{cite web|title=Monaco Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/monaco.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref><ref>{{cite web|url=http://www.visitmonaco.com/us/About-Monaco/FAQ#visa|title=Monaco - FAQ / About Monaco / Site officiel de Monaco|publisher=}}</ref>
+|-
+| {{flag|Mongolia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MN|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Registration required after 30 days.<ref>{{cite web|title=Mongolia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/mongolia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=ME|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Registration with the local police within 24 hours of arrival is mandatory.<ref>{{cite web|title=Montenegro Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/montenegro.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=30 October 2015}}</ref>
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=MA|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months<ref>{{cite web|title=Morocco Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/morocco.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=MZ}}</ref>
+| {{ntsh|30}}30 days<ref>{{cite web|url=http://www.mozambicanhotels.com/tourist-information/mozambique-tourism-news/mozambique-government-announces-30-day-tourist-visas-now-available-at-borders-for-all-visitors|title=Mozambique Government Announces 30-day Tourist Visas now Available at Borders for all Visitors - Mozambican Hotels|website=www.mozambicanhotels.com}}</ref>
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.evisa.moip.gov.mm/|title=Myanmar eVisa (Official Government Website)|publisher=}}</ref>
+| {{ntsh|28}}28 days
+|
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=NA|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months<ref>{{cite web|title=Namibia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/namibia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=NR|accessdate=26 November 2013}}</ref>
+| 
+| 
+*Visas are issued with validity of 30 days.<ref>{{cite web|title=Nauru Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/nauru.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=NP|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Obtainable at [[Tribhuvan International Airport]] and certain land borders.
+*Total of no more than 150 aggregate days in any given calendar year.<ref>{{cite web|title=Nepal Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/nepal.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=NL|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.government.nl/issues/visa-for-the-netherlands-and-the-caribbean-parts-of-the-kingdom#ref-minbuza|title=Visas - Topic - Government.nl|first=Ministerie van Buitenlandse|last=Zaken|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]] ([[European Netherlands]])<ref>{{cite web|title=Netherlands, The Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/netherlands.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=NZ|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=New Zealand Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/new-zealand.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|
+* May enter using [[SmartGate]].
+|-
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=NI|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*A tourist card must be purchased upon arrival.<ref>{{cite web|title=Nicaragua Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/nicaragua.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=NE|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/alertswarnings/niger-travel-warning.html|title=Niger Travel Warning|publisher=}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Niger Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/niger.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=NG|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Nigeria Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/nigeria.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+| 
+|
+* Visa can be obtained online.
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=NO|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.udi.no/templates/Tema.aspx?id=4477|title=Skal søke: Besøk og ferie|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Norway Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/norway.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref>
+| {{ntsh|30}}30 days
+|
+*Extendable for 30 days<ref>{{cite web|title=Oman Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/oman.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+*Holders of a visa or entrance stamp of the [[Emirate of Dubai]] that is valid for at least 21 days are visa exempt.
+*Holders of a visa for [[Qatar]] that is valid for travel to Oman and valid for at least one month are visa exempt when arriving directly from Qatar.
+*Iris scan is taken on arrival<ref name="safran-group.com"/>
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=PK|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Pakistan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/pakistan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+| 
+|
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref> 
+*Visa on arrival when travelling as part of a group through a designated tour operator.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O|title=Group Tourism through Designated Tour Operators|publisher=}}</ref>
+|-
+| {{flag|Palau}}
+| {{free|Visa not required}}<ref>{{Timatic|nationality=US|destination=PW|accessdate=26 November 2013}}</ref>
+| {{ntsh|365}}1 year<ref>{{cite web|title=Palau Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/palau.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|
+*U.S. citizens may live and work freely in Palau under the [[Compact of Free Association]].
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=PA|accessdate=26 November 2013}}</ref>
+| {{ntsh|180}}180 days
+|
+*Denial of entry or transit to any person who has a criminal conviction.<ref>{{cite web|title=Panama Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/panama.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=PG|accessdate=26 November 2013}}</ref>
+| {{ntsh|60}}60 days
+|
+*Extendable for 30 days<ref>{{cite web|title=Papua New Guinea Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/papua-new-guinea.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+*Visa on arrival is issued free of charge.
+|-
+| {{flag|Paraguay}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=PY|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*U.S. citizens arriving by air may obtain a visa on arrival at Silvio Pettirossi International Airport in Asuncion. This is a multiple entry visa with a validity of up to 10 (ten) years. If entering elsewhere, a visa must be obtained in advance from the embassy or consulate.<ref>{{cite web|title=Paraguay Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/paraguay.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=PE|accessdate=26 November 2013}}</ref>
+| {{ntsh|183}}183 days
+|
+*Determined on arrival<ref>{{Cite web |url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |title=Archived copy |access-date=2016-01-29 |archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |archive-date=2016-02-04 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=PH|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Philippines Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/philippines.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+| {{ntsh|30}}30 days
+| 
+*Naturalized US citizens of former Philippine nationality (balikbayan) allowed to stay for one year.
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=PL|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]
+* Dual nationals must use their [[Polish passport]]<ref>{{cite web|title=Poland Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/poland.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=PT|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.msz.gov.pl/en/travel_to_poland/visa/visa|title=Visa|publisher=}}</ref><ref>{{cite web|url=http://www.embassyportugal-us.org/Embassy_of_Portugal/Visas.html|title=Visa Information for Portugal|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20140209092334/http://www.embassyportugal-us.org/Embassy_of_Portugal/Visas.html|archivedate=2014-02-09|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Portugal Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/portugal.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015|archive-url=https://web.archive.org/web/20151103045008/http://travel.state.gov/content/passports/en/country/Portugal.html#|archive-date=2015-11-03|dead-url=yes|df=}}</ref>
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=RO|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mae.ro/en/node/2040|title=V. Do I need a visa? - Ministry of Foreign Affairs|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period<ref>{{cite web|title=Romania Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/romania.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=RU|accessdate=26 November 2013}}</ref>
+| 
+|
+*72-hour visa-free for international cruise ship/ferry passengers only if travelling with an organized tour and accompanied at all times by a tour operator.
+*Registration required after 7 business days.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/RU/VI/IS/ID52564&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 November 2013}}</ref><ref name="Russia">{{cite web|title=Russian Federation Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/russia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+*American citizens may receive multiple entry visas valid for three years.<ref>{{cite web|title=3 Year Russian Visas for US Citizens - Way to Russia Guide|url=http://waytorussia.net/RussianVisa/3-Year-Russian-Visa-US-Citizens.html|publisher=Way to Russia|accessdate=7 January 2016}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Cite web |url=https://www.migration.gov.rw/fileadmin/templates/PDF_files/news/COMMUNIQUE_ON_UPDATED_VISA_REGIME.pdf |title=Archived copy |access-date=2014-10-27 |archive-url=https://web.archive.org/web/20141027231541/https://www.migration.gov.rw/fileadmin/templates/PDF_files/news/COMMUNIQUE_ON_UPDATED_VISA_REGIME.pdf |archive-date=2014-10-27 |dead-url=yes |df= }}</ref><ref>{{Timatic|nationality=US|destination=RW|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Visitors are fingerprinted
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Rwanda Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/rwanda.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=KN|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Saint Kitts and Nevis Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/st-kitts-nevis.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+| {{ntsh|90}}3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=LC|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Saint Lucia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/st-lucia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+| {{ntsh|42}}6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=VC|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}1 month<ref>{{cite web|title=Saint Vincent and the Grenadines Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/st-vincent-the-grenadines.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=US|destination=WS|accessdate=26 November 2013}}</ref>
+| {{ntsh|60}}60 days
+|
+*Visa on arrival is issued free of charge.
+*Departure tax applies.<ref>{{cite web|title=Samoa Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/samoa.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SM|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.visitsanmarino.com/on-line/en/home/discover/border-formalities.html|title=Border formalities - Ufficio di Stato per il Turismo|publisher=}}</ref>
+|
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=ST|accessdate=25 August 2015}}</ref>
+| {{ntsh|15}}15 days
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Sao Tome and Principe Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/sao-tome-principe.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=SA|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/saudi-arabia.html|title=Saudi Arabia|publisher=}}</ref>
+|
+|
+*Holders of passports that contain visas or entry/exit stamps for Israel will likely be refused entry.
+*Advance visa is required.
+*No tourist visas available.<ref>{{cite web|title=Saudi Arabia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/saudi-arabia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+*All visitors are fingerprinted<ref>{{cite web|title=Saudi Arabia mandates fingerprints and biometrics for foreigners|url=http://secureidnews.com/news-item/saudi-arabia-mandates-fingerprints-and-biometrics-for-foreigners/}}</ref>
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SN}}</ref>
+| {{ntsh|90}}90 days
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Senegal Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/senegal.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=18 November 2013}}</ref>
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=RS|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period<ref>{{cite web|title=Serbia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/serbia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=US|destination=SC|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months
+|
+*Extendable up to a year<ref>{{cite web|title=Seychelles Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/seychelles.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+*Visa on arrival is issued free of charge.
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=SL|accessdate=26 November 2013}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Sierra Leone Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/sierra-leone.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SG|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=Singapore Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/singapore.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|
+* All visitors are fingerprinted on arrival and departure<ref>{{cite web|url=http://www.straitstimes.com/singapore/fingerprint-scanning-system-at-singapores-checkpoints-identifies-immigration-offenders|title=Fingerprint-scanning system at Singapore\s checkpoints identifies immigration offenders|first=|last=hermesauto|date=27 May 2016|publisher=}}</ref>
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SK|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mzv.sk/en/consular_info/visa|title=Consular information and travel visa for Slovakia|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20140810083248/http://www.mzv.sk/en/consular_info/visa|archivedate=2014-08-10|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]
+*Medical insurance required.
+*Sufficient funds of $50 per person per day required.
+*Registration within 3 working days required.<ref>{{cite web|title=Slovakia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/slovakia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SI|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.mzz.gov.si/en/travel_and_visa_information/visa_information/entry_into_the_republic_of_slovenia_and_the_schengen_area/|title=Entry into the Republic of Slovenia and the Schengen Area - Ministry of Foreign Affairs|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20140323194405/http://www.mzz.gov.si/en/travel_and_visa_information/visa_information/entry_into_the_republic_of_slovenia_and_the_schengen_area/|archivedate=2014-03-23|df=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]
+*Registration with the local police within 72 hours of arrival is mandatory.<ref>{{cite web|title=Slovenia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/slovenia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=US|destination=SB|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months
+|
+*3 months within 12 months<ref>{{cite web|title=Solomon Islands Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/solomon-islands.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+*Visa on arrival is issued free of charge.
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=SO}}</ref>
+|
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=ZA|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Holders of passports without 2 blank pages may be refused entry.<ref>{{cite web|title=South Africa Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/english/country/south-africa.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=19 November 2013}}</ref>
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=SS|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/south-sudan.html|title=South Sudan|publisher=}}</ref>
+|
+|
+*Two blank passport pages required.<ref name="South Sudan">{{cite web|title=Republic of South Sudan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/south-sudan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=ES|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.exteriores.gob.es/Portal/en/ServiciosAlCiudadano/InformacionParaExtranjeros/Paginas/Inicio.aspx|title=Information for Foreigners|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Spain Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/spain.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=LK|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days<ref>{{cite web|title=Sri Lanka Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/sri-lanka.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=SD|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/sudan.html|title=Sudan|publisher=}}</ref>
+|
+|
+*Holders of passports that contain visas or entry/exit stamps for Israel will likely be refused entry.
+*Exit visa required.
+*Registration within 3 days mandatory.<ref>{{cite web|title=Sudan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/sudan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Suriname}}
+| {{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=US|destination=SR|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Obtainable at [[Johan Adolf Pengel International Airport]].<ref>{{cite web|title=Suriname Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/suriname.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flag|Swaziland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SZ|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Extendable up to 60 days<ref>{{cite web|title=Swaziland Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/swaziland.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015|archive-url=https://web.archive.org/web/20151115233119/http://travel.state.gov/content/passports/en/country/swaziland.html#|archive-date=2015-11-15|dead-url=yes|df=}}</ref>
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=SE|accessdate=26 November 2013}}</ref><ref>{{cite web|url=http://www.migrationsverket.se/info/besoka_en.html|title=Visiting Sweden - Swedish Migration Agency|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Sweden Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/sweden.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=CH|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://www.bfm.admin.ch//content/bfm/en/home/themen/einreise/merkblatt_einreise.html|title=Do I require a visa?|first=|last=EJPD|publisher=}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period in the [[Schengen Area]]<ref>{{cite web|title=Switzerland Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/switzerland.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}{{Dead link|date=November 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=SY|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/syria.html|title=Syria|publisher=}}</ref>
+| 
+|
+*Registration required within 15 days.
+*Departure tax applies at all borders.
+*Persons with passports bearing Israeli visas or entry/exit stamps are not allowed to enter.<ref>{{cite web|title=Syria Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/syria.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=19 November 2013}}</ref>
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=US|destination=TJ|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Tajikistan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/tajikistan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+| {{ntsh|45}}45 days
+|
+*If arriving from a country that has a [[List of diplomatic missions of Tajikistan|Tajik diplomatic mission]] a visa should be obtained in advance.
+*eVisa holders can enter through all border points.<ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|publisher=}}</ref>
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=TZ|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Tanzania Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/tanzania.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015|archive-url=https://web.archive.org/web/20170224112452/https://travel.state.gov/content/passports/en/country/tanzania.html#|archive-date=2017-02-24|dead-url=yes|df=}}</ref>
+| {{ntsh|90}}3 months
+|
+* Ordinary visa available on arrival for $100<ref>{{cite web|title=List of Countries and Specific Visa Eligibility|url=http://immigration.go.tz/module1.php?id=32|website=The United Republic of Tanzania - Ministry of Home Affairs - Immigration Services Department|accessdate=6 March 2017|deadurl=yes|archiveurl=https://web.archive.org/web/20140930170926/http://immigration.go.tz/module1.php?id=32|archivedate=30 September 2014|df=}}</ref>
+|-
+| {{flag|Thailand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=TH|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Maximum two visits annually if not arriving by air.
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=TL|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days 
+|
+*For arrivals by air only<ref>{{cite web|title=Timor-Leste Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/timor-leste.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=TG|accessdate=26 November 2013}}</ref>
+| {{ntsh|7}}7 days<ref>{{cite web|title=Togo Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/togo.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=TO|accessdate=26 November 2013}}</ref>
+| {{ntsh|31}}31 days<ref>{{cite web|title=Tonga Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/tonga.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|
+*Visa on arrival is issued free of charge.
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=TT|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=Trinidad and Tobago Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/trinidad-tobago.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=TN|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days<ref>{{cite web|title=Tunisia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/tunisia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|
+|-
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=US|destination=TR|accessdate=29 December 2017}}</ref><ref name="vasington.be.mfa.gov.tr">{{cite web|title=Statement From The Turkish Mission To The United States|url=http://vasington.be.mfa.gov.tr/Mission/ShowAnnouncement/338151|website=Turkish Embassy in Washington, D.C.|accessdate=29 December 2017}}</ref>
+| {{ntsh|90}}3 months
+| 
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=TM|accessdate=26 November 2013}}</ref>
+|
+|
+*Departure fee applies.<ref>{{cite web|title=Turkmenistan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/turkmenistan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+*10-day visa on arrival if holding letter of invitation issued by a company registered in Turkmenistan with a prior approval from the [[Ministry of Foreign Affairs (Turkmenistan)|Foreign Ministry]].<ref>[https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=TM&SECTION=VI&SUBSECTION=IS&user=KLMB2C&subuser=KLMB2C]{{dead link|date=November 2017|bot=InternetArchiveBot|fix-attempted=yes}}</ref>
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=TV|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}1 month
+|
+*Extendable up to 3 months<ref>{{cite web|title=Tuvalu Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/tuvalu.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+*Visa on arrival is issued free of charge.
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=http://washington.mofa.go.ug/data-smenu-53-Visa-Requirements.html%7Caccessdate=7|title=Visa Requirements|website=washington.mofa.go.ug}}</ref>
+| 
+|
+*Determined at the port of entry. 
+*Must apply online at least 2 business days or more prior to travel.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|publisher=}}</ref> As of March 2017, airlines were refusing passengers permission to board flights to Uganda if they did not have a print-out of the document showing that they had successfully applied for an eVisa. Ugandan immigration authorities also may require additional documentation, including proof of a return plane ticket and detailed tour itinerary in Uganda.
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Uganda Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/uganda.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=UA|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+* 90 days within any 180-day period<ref>{{cite web|title=Ukraine Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/ukraine.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|United Arab Emirates}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=US|destination=AE|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Visa on arrival is issued free of charge.<ref>{{cite web|title=United Arab Emirates Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/united-arab-emirates.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref>
+*Iris scan taken on arrival
+|-
+| {{flag|United Kingdom}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=GB|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://www.gov.uk/government/organisations/uk-visas-and-immigration|title=UK Visas and Immigration - GOV.UK|publisher=}}</ref>
+| {{ntsh|180}}6 months<ref>{{cite web|title=United Kingdom Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/united-kingdom.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|
+|-
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=UY|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months<ref>{{cite web|title=Uruguay Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/uruguay.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=US|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+*Registration within 3 days is mandatory.<ref>{{cite web|title=Uzbekistan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/uzbekistan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=VU|accessdate=26 November 2013}}</ref>
+| {{ntsh|30}}30 days
+|
+*Extendable up to 120 days<ref>{{cite web|title=Vanuatu Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/vanuatu.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 October 2015}}</ref>
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=US|destination=VA|accessdate=26 November 2013}}</ref>
+|
+|
+|-
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref name="auto3">{{Timatic|nationality=US|destination=VN}}</ref>
+|
+|
+*
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref name="auto3"/>
+| {{ntsh|30}}30 days
+|
+* A single entry eVisa is available.<ref>{{cite web|url=https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt|title=E-visa|publisher=}}</ref>
+* [[Phú Quốc]] visa exemption for up to 30 days.<ref name="vietseatourist.vn">{{cite web|url=http://www.vietseatourist.vn/News/category1/news-57/No-visa-required-for-tourists-to-Phu-Quoc-on-short-stay.html|title=No visa required for tourists to Phu Quoc on short stay - Vietsea Tourist - Travel to Vietnam, Laos, Cambodia and Thailand - Vietnam Travel Tours|publisher=}}</ref><ref>{{cite web|url=http://www.phuquocislandguide.com/phu-quoc-visa/|title=Phu Quoc Visa - Exemptions - Requirements - Vietnam|publisher=}}</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=US|destination=YE|accessdate=26 November 2013}}</ref><ref>{{cite web|url=https://travel.state.gov/content/passports/en/country/yemen.html|title=Yemen|publisher=}}</ref>
+| 
+|
+*Registration mandatory.
+*Exit visa required for stays over 30 days.<ref name="Yemen">{{cite web|title=Yemen Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/yemen.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=ZM|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}90 days
+|
+*Exact period determined on arrival, later extendable free of charge.
+*All visitors are fingerprinted.
+*Two blank pages required
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|title=Zambia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/zambia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+*Electronic visa also available.<ref>{{cite web|url=http://evisa.zambiaimmigration.gov.zm/|title=e-Visa|first=Alfa XP Software|last=Company|publisher=}}</ref>
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=US|destination=ZW|accessdate=26 November 2013}}</ref>
+| {{ntsh|90}}3 months
+|
+*Tourism purposes only.<ref>{{cite web|title=Zimbabwe Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/zimbabwe.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+*Electronic visa also available.<ref>{{cite web|url=https://www.evisa.gov.zw/|title=eVisa Zimbabwe|website=www.evisa.gov.zw}}</ref>
+|}
+
+=== Dependent, disputed, or restricted territories ===
+Visa requirements for United States citizens for visits to various territories, disputed areas, partially recognized countries not mentioned in the list above, and restricted zones:
+
+{| class="wikitable" style="text-align: left; table-layout: fixed; "
+|-
+! colspan="4" | Africa
+|-
+! Visitor to !! Visa requirement !! Allowed stay !! Notes (excluding departure fees)
+|-
+| {{flag|Eritrea}} outside [[Asmara]]
+| {{yes-no|Travel permit required}}
+|
+| To travel in the rest of the country, a Travel Permit for Foreigners is required (20 [[Eritrean nakfa]]).<ref>{{cite web|url=http://www.eritrea.be/MoT.htm|title=Ministry of Tourism - Tourism Service Center|first=Hans van der|last=Splinter|publisher=}}</ref>
+|-
+| {{flag|Ascension Island}}
+| {{yes-no|Entry Permit required}}
+|
+| Entry Permit must be obtained minimum 28 days in advance (3 months for 20/30 [[pound sterling|pounds sterling]], single/double entry).<ref>{{cite web|url=http://www.ascension-island.gov.ac/services/entry-permits/|title=Entry Permits - Ascension Island|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20170709230215/http://www.ascension-island.gov.ac/services/entry-permits/|archivedate=2017-07-09|df=}}</ref>
+|-
+| {{flag|Saint Helena}}
+| {{yes-no|Visitor\s Pass required}}
+|
+| Visitor\s Pass granted on arrival valid for 4/10/21/60/90 days for 12/14/16/20/25 [[pound sterling]].<ref>{{cite web|url=http://www.sthelenatourism.com/the-island/useful-info/ |title=Useful info - St Helena Tourism |publisher=Sthelenatourism.com |date= |accessdate=2018-07-17}}</ref>
+|-
+| {{flag|Tristan da Cunha}}
+| {{yes-no|Permission required}}
+|
+| Permission to land required for 15/30 [[pound sterling|pounds sterling]] (yacht/ship passenger) for Tristan da Cunha Island or 20 [[pound sterling|pounds sterling]] for [[Gough Island]], [[Inaccessible Island]] or [[Nightingale Islands]].<ref>{{cite web|url=http://www.tristandc.com/visitsadmin.php|title=Tristan da Cunha Information for Visitors|publisher=}}</ref>
+|-
+| {{flag|Mayotte}}
+| {{yes|Visa not required}}<ref>{{cite web|url=https://mayotte.visahq.com|title=Mayotte Visa: Application, Requirements. Apply for Mahoran Visas Online.|website=VisaHQ.com}}</ref>
+| {{ntsh|90}}90 days
+| 
+|-
+| {{flag|Sahrawi Arab Democratic Republic}}
+| {{n/a|Undefined}}
+|
+| Undefined visa regime in the [[Free Zone (region)|Western Sahara controlled territory]].
+|-
+| {{flag|Somaliland}}
+| {{yes-no|Visa on arrival}}
+| {{ntsh|30}}30 days
+| 30 [[US dollar]]s, payable on arrival.<ref>{{cite web |url=http://www.lonelyplanet.com/somaliland-puntland-and-somalia/practical-information/visas |title=Archived copy |accessdate=2014-08-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20141106194323/http://www.lonelyplanet.com/somaliland-puntland-and-somalia/practical-information/visas |archivedate=2014-11-06 |df= }}</ref><ref>http://www.somalilandgov.com/Visa%20Application.htm{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Reunion}}
+| {{yes| Visa not required}}<ref>{{cite web|url=https://reunion.visahq.com|title=Reunion Visa: Application, Requirements. Apply for French Visas Online.|website=VisaHQ.com}}</ref>
+| {{ntsh|90}}90 days
+|
+|-
+| {{flag|Sudan}} outside [[Khartoum]]
+| {{yes-no|Travel permit required}}
+|
+| All foreigners traveling more than 25 kilometers outside of [[Khartoum]] must obtain a travel permit.
+|-
+| {{flagicon|Sudan}} [[Darfur]]
+| {{yes-no|Travel permit required}}
+|
+| Separate travel permit is required.<ref name="South Sudan"/>
+|-
+! colspan="4" | Asia
+|-
+! Visitor to !! Visa requirement !! Allowed stay !! Notes (excluding departure fees)
+|-
+| {{flag|British Indian Ocean Territory}}
+| {{yes-no|Special permit required}}
+|
+| Special permit required.<ref>{{cite web|url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/asia-oceania/british-indian-ocean-territory?ta=entryRequirements&pg=4|title=British Indian Ocean Territory travel advice - GOV.UK|publisher=}}</ref>
+|-
+| {{flagicon|People\s Republic of China}} [[Hainan]]
+| {{no|Visa required}}
+| 
+| Visa not required for 15 days for traveling as part of a tourist group (2 or more people)<ref>Tours must be organized by a travel agent registered in Hainan province and approved by the National Tourism Administration of China.</ref><ref>https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=CN&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Hong Kong}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}3 months<ref>{{Timatic|nationality=US|destination=HK|accessdate=26 November 2013}}</ref>
+|
+|-
+| {{flag|India}} PAP/RAP
+| {{yes-no|PAP/RAP required}}
+|
+| Protected Area Permit (PAP) required for whole states of [[Nagaland]] and [[Sikkim]] and parts of states [[Manipur]], [[Arunachal Pradesh]], [[Uttaranchal]], [[Jammu and Kashmir]], [[Rajasthan]], [[Himachal Pradesh]]. Restricted Area Permit (RAP) required for all of [[Andaman and Nicobar Islands]] and parts of [[Sikkim]]. Some of these requirements are occasionally lifted for a year.<ref>{{cite web|url=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=IN&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C|archiveurl=https://archive.today/20140314003632/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=IN&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C|deadurl=yes|title=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&…|date=14 March 2014|archivedate=14 March 2014|publisher=}}</ref><ref>{{cite web|url=http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |title=Archived copy |accessdate=November 26, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20120426085021/http://as.and.nic.in/TourismAND/TCorner/ForeignersNew.htm |archivedate=April 26, 2012 }}</ref><ref>{{cite web |url=http://arunachaltourism.com/entry_formalities.php |title=Archived copy |accessdate=2014-08-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20140701111837/http://arunachaltourism.com/entry_formalities.php |archivedate=2014-07-01 |df= }}</ref><ref>{{cite web |url=http://manipurbhawan.nic.in/entryformalities.htm |title=Archived copy |accessdate=2015-08-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20110809003009/http://manipurbhawan.nic.in/entryformalities.htm |archivedate=2011-08-09 |df= }}</ref><ref>http://manipurhub.com/news/manipur/protected-area-permit-requirement-lifted-from-manipur-for-one-year/{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web|url=http://lakshadweeptourism.nic.in/web9.htm|title=Tourism in Lakshadweep|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20140713171604/http://lakshadweeptourism.nic.in/web9.htm|archivedate=2014-07-13|df=}}</ref>
+|-
+| {{flag|Iraqi Kurdistan}}
+| {{yes-no|Visa on arrival}}
+| 
+| Visa on arrival for 15 days is available at [[Erbil]] and [[Sulaymaniyah]] airports.<ref name="Visa Information"/>
+|-
+| {{flagicon|Kazakhstan}} [[Baikonur]] & [[Priozersk, Kazakhstan|Priozersk]]
+| {{yes-no|Special permission required}}
+|
+| Special permission required for the city of [[Baikonur]] and surrounding areas in [[Kyzylorda Oblast]], and the town of [[Priozersk, Kazakhstan|Priozersk]] near [[Almaty]].<ref>{{cite web|title=Kazakhstan Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/kazakhstan.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=6 November 2015}}</ref>
+|-
+| {{flagicon|Iran}} [[Kish Island]]
+| {{yes|Visa not required}}
+|
+| Visitors to [[Kish Island]] do not require a visa.<ref name="ReferenceB"/>
+|-
+| {{flag|Macau}}
+| {{yes|Visa not required}}
+| {{ntsh|30}}30 days<ref>{{Timatic|nationality=US|destination=MO|accessdate=26 November 2013}}</ref>
+|
+|-
+| {{flagicon|Malaysia}} [[Sabah]] and [[Sarawak]]
+| {{yes|Visa not required}}
+|
+| These states have their own immigration authorities and passport is required to travel to them, however the same visa applies.<ref>{{cite web|title=Malaysia Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/malaysia.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref>
+|-
+| {{flag|Maldives}} outside [[Malé]]
+| {{yes-no|Permission required}}
+|
+| Tourists are generally prohibited from visiting non-resort islands without the express permission of the Government of the Maldives.<ref>{{cite web|title=Maldives Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/maldives.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flagicon|Saudi Arabia}} [[Mecca]] and [[Medina]]
+| {{yes-no|Special access required}}
+| 
+| Non-Muslims and those following the [[Ahmadiyya]] religious movement are strictly prohibited from entry.
+|-
+| {{flagicon|India}} [[North Sentinel Island]]
+| {{no|Restricted zone}}
+|
+|
+|-
+| {{flag|Palestine}}
+| {{yes|Visa not required}}
+|
+| Arrival by sea to [[Gaza Strip]] not allowed.<ref>{{cite web|title=Israel Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/israel.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref>
+|-
+| {{flagicon|Taiwan}} [[Taiwan]]
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days<ref>{{Timatic|nationality=US|destination=TW|accessdate=26 November 2013}}</ref>
+| Visitors fingerprinted
+|-
+| {{flagicon|Tajikistan}} [[Gorno-Badakhshan Autonomous Province]]
+| {{yes-no|OIVR permit required}}
+|
+| OIVR permit required (15+5 [[Tajikistani Somoni]]) and another special permit (free of charge) is required for [[Lake Sarez]].<ref>{{cite web|url=http://www.pamirs.org/visas.htm|title=Pamirs - the roof of the world|website=www.pamirs.org}}</ref><ref>{{cite web|url=http://www.traveltajikistan.com/visas/gbao.html|title=Welcome traveltajikistan.com - Justhost.com|first=just|last=host|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20150423031531/http://www.traveltajikistan.com/visas/gbao.html|archivedate=2015-04-23|df=}}</ref><ref>{{cite web|url=http://tajiktourism.com/tajikistan-visa/|title=Tajikistan Visa|date=19 April 2012|publisher=}}</ref>
+|-
+| {{flagicon|People\s Republic of China}} [[Tibet Autonomous Region]]
+| {{yes-no|TTP required}}
+|
+| Tibet Travel Permit required (10 [[US Dollars]]).<ref>{{cite web |url=http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |title=Archived copy |accessdate=2013-11-16 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017213737/http://www.xzta.gov.cn/yww/Essential/Notice/4719.shtml |archivedate=2013-10-17 |df= }}</ref><ref>{{cite web|url=http://www.tibettravel.org/tibet-travel-permit/tibet-permits.html|title=How to get Tibet Travel Permit, Successful Application Tips|publisher=}}</ref><ref>{{cite web|url=http://www.tibettravelplanner.com/travel_permit.htm|title=How to get a Tibet Travel Permits - Tibet Visa 2016?|publisher=}}</ref>
+|-
+| {{flagicon|Turkmenistan}} [[Closed city|Closed cities]] of [[Turkmenistan]]
+| {{no|Special permit required}}
+|
+| A special permit, issued prior to arrival by Ministry of Foreign Affairs, is required if visiting the following places: [[Atamurat]], [[Cheleken]], [[Dashoguz]], [[Serakhs]] and [[Serhetabat]].<ref>{{cite web|url=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=TM&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C|archiveurl=https://archive.today/20140314003610/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=TM&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C|deadurl=yes|title=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&…|date=14 March 2014|archivedate=14 March 2014|publisher=}}</ref>
+|-
+| {{flagicon|UN}} [[Korean Demilitarized Zone]]
+| {{no|Restricted zone}}
+| 
+|
+|-
+| {{flagicon|United Nations}} [[UNDOF Zone]] and [[Ghajar]]
+| {{no|Restricted zone}}
+| 
+|
+|-
+| {{flagicon|Vietnam}} [[Phú Quốc]]
+| {{yes|Visa not required}}
+| {{ntsh|30}}30 days<ref name="vietseatourist.vn"/>
+|
+|-
+| {{flag|Yemen}} outside [[Sana’a]] or [[Aden]]
+| {{yes-no|Special permission required}}
+|
+| Special permission needed for travel outside [[Sana’a]] or [[Aden]].<ref name="Yemen"/>
+|-
+! colspan="4" | Caribbean and North Atlantic
+|-
+! Visitor to !! Visa requirement !! Allowed stay !! Notes (excluding departure fees)
+|-
+| {{flag|Anguilla}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}3 months<ref>{{Timatic|nationality=US|destination=AI|accessdate=26 November 2013}}</ref>
+|
+|-
+| {{flag|Aruba}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days
+| {{ntsh|90}}90 days within any year period<ref>{{Timatic|nationality=US|destination=AW|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Aruba Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/aruba.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015}}</ref> <br> 90 days in Aruba, Caribbean Netherlands, Curaçao and Sint Maarten combined
+|-
+| {{flag|Bermuda}}
+| {{yes|Visa not required}}
+| {{ntsh|180}}6 months
+| Decided on arrival.<ref>{{Timatic|nationality=US|destination=BM|accessdate=26 November 2013}}</ref>
+|-
+| {{flagicon|Caribbean Netherlands}} ([[Bonaire]], [[St. Eustatius]] and [[Saba]])
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days
+| {{ntsh|90}}90 days within any year period<ref>{{Timatic|nationality=US|destination=BQ|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Bonaire, St. Eustatius, and Saba (BES) Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/bonaire-st-eustatius-saba.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=5 November 2015}}</ref> <br> 90 days in Aruba, Caribbean Netherlands, Curaçao and Sint Maarten combined
+|-
+| {{flag|British Virgin Islands}}
+| {{yes|Visa not required}}
+| {{ntsh|30}}30 days
+| Extensions possible<ref>{{Timatic|nationality=US|destination=VG|accessdate=26 November 2013}}</ref>
+|-
+| {{flag|Cayman Islands}}
+| {{yes|Visa not required}}
+| {{ntsh|180}}6 months<ref>{{Timatic|nationality=US|destination=KY|accessdate=26 November 2013}}</ref>
+|
+|-
+| {{flagicon|Colombia}} [[San Andrés Island|San Andrés]] and [[Leticia, Amazonas|Leticia]]
+| {{yes-no|Tourist Card on arrival}}
+|
+| Visitors arriving at [[Gustavo Rojas Pinilla International Airport]] and [[Alfredo Vásquez Cobo International Airport]] must buy tourist cards on arrival.<ref>Timatic</ref>
+|-
+| {{flag|Curacao}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days
+| {{ntsh|90}}90 days within any year period<ref>{{Timatic|nationality=US|destination=CW|accessdate=26 November 2013}}</ref> <br> 90 days in Aruba, Caribbean Netherlands, Curaçao and Sint Maarten combined
+|-
+| {{flagicon|France}} [[French West Indies]]
+| {{yes|Visa not required}}
+| {{ntsh|90}}3 months
+| French West Indies refers to [[Martinique]], [[Guadeloupe]], [[Collectivity of Saint Martin|Saint Martin]] and [[Saint Barthélemy]]<ref>{{Timatic|nationality=US|destination=GP|accessdate=26 November 2013}}</ref>
+|-
+| {{flag|Greenland}}
+| {{yes|Visa not required}}<ref name="gov.uk"/>
+| 
+|
+|-
+| {{flagicon|Venezuela}} [[Margarita Island]]
+| {{no|Visa required}}<ref>{{cite web|url=http://rt.com/news/236541-venezuela-imposes-visas-usa/|title=Venezuela imposes mandatory visas for all US citizens, bans for Bush & Cheney|publisher=}}</ref>
+|
+| All visitors are fingerprinted.<ref>{{cite web|title=Venezuela Country Specific Information – Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/venezuela.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=1 November 2015|archive-url=https://web.archive.org/web/20150930232933/http://travel.state.gov/content/passports/en/country/venezuela.html#|archive-date=2015-09-30|dead-url=yes|df=}}</ref>
+|-
+| {{flag|Montserrat}}
+| {{yes|Visa not required}}
+| {{ntsh|180}}6 months
+|
+|-
+| {{flagicon|Puerto Rico}} [[Puerto Rico]]
+| {{free|Visa not required}}
+| Unlimited
+|
+*U.S. citizens and American Samoan citizens may live and work freely in Puerto Rico<ref>{{Cite web |url=http://prfaa.pr.gov/pr_travelnd2.asp?AspxAutoDetectCookieSupport=1 |title=Archived copy |access-date=2014-12-10 |archive-url=https://web.archive.org/web/20141223073101/http://prfaa.pr.gov/pr_travelnd2.asp?AspxAutoDetectCookieSupport=1 |archive-date=2014-12-23 |dead-url=yes |df= }}</ref><ref>{{cite web|url=http://www.worldtravelguide.net/puerto-rico/passport-visa|title=Puerto Rico Visa and Passport Requirements|publisher=}}</ref>
+*No Passport is required, but a driver\s permit/license is required for entry if flying.
+|-
+| {{flag|Sint Maarten}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days
+| {{ntsh|90}}90 days in 1 year<ref>{{Timatic|nationality=US|destination=SX|accessdate=26 November 2013}}</ref><ref>{{cite web|title=Sint Maarten Country Specific Information&nbsp;– Entry/Exit Requirements for U.S. Citizens|url=https://travel.state.gov/content/passports/en/country/sint-maarten.html|publisher=Bureau of Consular Affairs, U.S. Department of State|accessdate=27 November 2015}}</ref> <br>90 days in Aruba, Caribbean Netherlands, Curaçao and Sint Maarten combined
+|-
+| {{flag|Turks and Caicos Islands}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days<ref>{{Timatic|nationality=US|destination=TC|accessdate=26 November 2013}}</ref>
+|
+|-
+| {{flagicon|U.S. Virgin Islands}} [[U.S. Virgin Islands]]
+| {{free|Visa not required}}
+| Unlimited
+|
+*U.S. citizens and American Samoan citizens may live and work freely in the U.S. Virgin Islands<ref>{{cite web|url=http://us-virgin-islands.travisa.com/|title=U.S. Virgin Islands  visa application form, requirements and instructions|publisher=}}</ref>
+*No Passport is required, but it may be necessary when departing and re-entering.
+|-
+! colspan="4" | Europe
+|-
+! style="width:18%;"| Visitor to !! style="width:19%;"| Visa requirement !! Allowed stay !! Notes (excluding departure fees)
+|-
+| {{flag|Abkhazia}}
+| {{no|Visa required}}<ref>{{cite web |url=http://mfaapsny.org/aps/council/visa.php |title=Archived copy |accessdate=2017-06-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20170623135732/http://mfaapsny.org/aps/council/visa.php |archivedate=2017-06-23 |df= }}</ref>
+| 
+|
+|-
+| [[File:Flag of the Greek Orthodox Church.svg|21px]] [[Mount Athos]]
+| {{yes-no|Special permit required}}
+|
+| Special permit required (4 days: 25 [[euro]] for [[Eastern Orthodox Church|Orthodox]] visitors, 35 [[euro]] for non-Orthodox visitors, 18 [[euro]] for students). There is a visitors\ quota: maximum 100 [[Eastern Orthodox Church|Orthodox]] and 10 non-Orthodox per day and women are not allowed.<ref>{{cite web|url=http://www.athosfriends.org/PilgrimsGuide/planning/|title=The Friends of Mount Athos - A Pilgrim\s Guide to Mount Athos: Planning Your Visit|publisher=}}</ref><ref>{{cite web|url=http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html|title=MOUNT ATHOS INFO, ΑΓΙΟΝ ΟΡΟΣ, BERG ATHOS, OURANOUPOLIS, ΟΥΡΑΝΟΥΠΟΛΗ|first=DATAFON Verginis G.|last=Ioannis|publisher=|access-date=2013-11-19|archive-url=https://web.archive.org/web/20071201150655/http://www.mountathosinfos.gr/pages/agionoros/pilgrims_info.en.html#|archive-date=2007-12-01|dead-url=yes|df=}}</ref>
+|-
+| {{flagicon|Ukraine}} [[ATO zone]]
+| {{yes-no|Special permission required}}<ref>{{cite web|url=http://euromaidanpress.com/2015/01/15/ukraine-requires-special-permission-to-enter-the-ato-zone-starting-january-21/|title=Ukraine requires special permission to enter the ATO zone starting January 21 -|first=Government Authorities or Not Fully|last=Developed."|date=15 January 2015|website=[[Euromaidan Press]]}}</ref>
+| 
+|
+|-
+| {{flagicon|Belarus}} [[Brest, Belarus|Brest]] and [[Grodno]]
+| {{yes|Visa not required}}
+| 10 days<ref>{{cite web|url=http://eng.belta.by/president/view/visa-free-travel-time-up-to-ten-days-in-parts-of-brest-oblast-grodno-oblast-as-from-1-january-107990-2017/ |title=Visa-free travel time up to ten days in parts of Brest Oblast, Grodno Oblast as from 1 January |publisher=Eng.belta.by |date= |accessdate=2018-07-17}}</ref>
+|
+|-
+| {{flag|Crimea}}
+| {{no|Visa required}}
+|
+| Visa issued by Russia is required.<ref>{{cite web|url=http://www.themoscowtimes.com/news/article/foreigners-now-need-russian-visa-to-visit-crimea/497173.html|title=Foreigners Now Need Russian Visa to Visit Crimea|publisher=}}</ref>
+|-
+| {{flag|Donetsk People\s Republic}}
+| {{yes-no|Restricted area}}
+|
+| Crossing from Ukraine requires visit purpose to be explained to Ukrainian passport control on exit and those who entered from Russia are not allowed to proceed further into Ukraine.<ref name="rt.com">{{cite web|url=http://rt.com/news/202811-ukraine-border-passport-control/|title=Kiev declares passport control on border with rebel-held regions|publisher=}}</ref><ref name="abc.net.au">{{cite web|url=http://www.abc.net.au/news/2014-11-06/ukraine-imposes-passport-control-around-rebel-held-regions/5873240|title=Ukraine imposes passport control on rebel-held regions|date=6 November 2014|publisher=}}</ref>
+|-
+| {{flag|Turkish Republic of Northern Cyprus}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}3 months<ref>{{cite web|url=http://www.korinia.com/living-north-cyprus.php|title=Northern Cyprus, Living in North Cyprus, Postal System, Passports and Visa|first=Korinia Estate Agency, North|last=Cyprus|publisher=}}</ref><ref>{{cite web|url=http://www.cypnet.co.uk/ncyprus/tourism/tourist.html|title=How to get to North Cyprus? - Passport, Visa & Entry Requirements|publisher=}}</ref>
+|
+|-
+| {{flagicon|United Nations}} [[United Nations Buffer Zone in Cyprus|UN Buffer Zone in Cyprus]]
+| {{yes-no|Access Permit required}}<ref>{{cite web |url=http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |title=Archived copy |accessdate=2014-08-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20141021143210/http://www.unficyp.org/nqcontent.cfm?a_id=1608&tt=graphic&lang=l1 |archivedate=2014-10-21 |df= }}</ref>
+|
+| Access Permit is required for travelling inside the zone, except Civil Use Areas.
+|-
+| {{flag|Faroe Islands}}
+| {{yes|Visa not required}}<ref name="gov.uk">{{cite web|url=https://www.gov.uk/foreign-travel-advice/denmark/entry-requirements|title=Denmark travel advice - GOV.UK|publisher=}}</ref>
+|
+| 
+|-
+| {{flag|Gibraltar}}
+| {{yes|Visa not required}}<ref name="timaticweb.com">{{Timatic|nationality=US|destination=GI|accessdate=26 November 2013}}</ref>
+| 
+|
+|-
+| {{flag|Guernsey}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.gov.gg/doirequireanentryclearance|title=Do I require an entry clearance/ VISA|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20131202222421/http://www.gov.gg/doirequireanentryclearance|archivedate=2013-12-02|df=}}</ref>
+| 
+|
+|-
+| {{flag|Isle of Man}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man/|title=An overview of Immigration in the Isle of Man|publisher=|deadurl=yes|archiveurl=https://web.archive.org/web/20131123192018/http://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man|archivedate=2013-11-23|df=}}</ref>
+|
+| 
+|-
+| {{flagicon|Norway}} [[Jan Mayen]]
+| {{yes-no|Permit required}}<ref name="timaticweb.com"/>
+| 24 hours
+| Permit issued by the local police required for staying for less than 24 hours<ref>{{cite web|url=http://www.jan-mayen.no/visit.htm|title=JAN MAYEN HOMESITE, EDITED BY THE JAN MAYEN CREW|first=Jan Mayen|last=Crew|publisher=}}</ref> and permit issued by the [[Norwegian Police Service|Norwegian police]] for staying for more than 24 hours.<ref>{{Cite web |url=http://www.lovdata.no/for/sf/jd/xd-19620601-0001.html |title=Archived copy |access-date=2012-07-11 |archive-url=https://archive.is/20120804180318/http://www.lovdata.no/for/sf/jd/xd-19620601-0001.html |archive-date=2012-08-04 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Jersey}}
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.gov.je/Travel/InformationAdvice/Visitors/Pages/VisaPassport.aspx|title=Visa and passport requirements for visitors|first=States of|last=Jersey|publisher=}}</ref>
+|
+| 
+|-
+| {{flag|Kosovo}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days<ref>{{cite web|url=http://www.mfa-ks.net/?page=2,158|title=Special Categories Exempted From Visa Requirements - For Foreign Citizens - Consular Services - Ministry of Foreign Affairs - Republic of Kosovo|publisher=}}</ref>
+|
+|-
+| {{flag|Lugansk People\s Republic}}
+| {{yes-no|Restricted area}}
+|
+| Crossing from Ukraine requires visit purpose to be explained to Ukrainian passport control on exit and those who entered from Russia are not allowed to proceed further into Ukraine.<ref name="rt.com"/><ref name="abc.net.au"/>
+|-
+| {{flag|Artsakh}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.nkr.am/en/the-procedure-of-foreign-citizens-entry-to-the-nkr/92/|title=The procedure of foreign citizens\ entry to the NKR - MFA NKR|publisher=}}</ref><ref>{{cite web|url=http://www.nkrusa.org/nkr_office/visa_travel.shtml|title=The Office of the Nagorno Karabakh Republic in USA|publisher=}}</ref>
+|
+| Travellers with [[Republic of Artsakh|Artsakh]] visa (expired or valid) or evidence of travel to [[Republic of Artsakh|Artsakh]] (stamps) will be permanently denied entry to [[Azerbaijan]].<ref>{{cite web|url=http://mfa.gov.az/index.php?options=content&id=587|title=Azərbaycan Respublikasının Xarici İşlər Nazirliyi Azərbaycan Respublikasının vətəndaşlarına  Liviyada mövcud olan vəziyyətlə bağlı xəbərdarlıq edir, 12 may 2011-ci il.|first=|last=FS|publisher=}}</ref>
+|-
+| {{flagicon|Russia}} [[Russian closed city|Closed cities]] of [[Russia]]
+| {{yes-no|Special authorization required}}
+|
+| Several [[Russian closed city|closed cities and regions in Russia]] require special authorization.<ref name="Russia"/>
+|-
+| {{flag|South Ossetia}}
+| {{yes|Visa not required}}
+|
+| Multiple entry visa to [[Russia]] and three-day prior notification are required to enter South Ossetia.<ref>{{cite web|url=http://mfa-rso.su/node/55|title=О визах - Министерство иностранных дел|publisher=}}</ref><ref>{{cite web|url=http://mfa-rso.su/en/node/406|title=Procedure of the Entry to the Territory of the Republic of South Ossetia - Министерство иностранных дел|publisher=}}</ref>
+|-
+| {{flag|Svalbard}}
+| {{free|Visa not required}}<ref>{{cite web|title=Visa and passport requirements|url=http://www.spitsbergen-svalbard.com/2011/10/05/visa-and-passport-requirements.html|accessdate= 19 March 2015}}</ref>
+| Unlimited 
+| [[Svalbard Treaty]]
+|-
+| {{flag|Transnistria}}
+| {{yes|Visa not required}}
+| 24 hours
+| Registration required after 24h.<ref>{{cite web |url=http://www.luxlana.net/Transdniestr.html |title=Archived copy |accessdate=2015-08-04 |deadurl=yes |archiveurl=https://web.archive.org/web/20131022114723/http://www.luxlana.net/Transdniestr.html |archivedate=2013-10-22 |df= }}</ref><ref>{{cite web|url=http://transnistria-tour.com/en/rules-and-tipps|title=Rules and recommendations - Transnistria tour|publisher=}}</ref>
+|-
+! colspan="4" | Oceania
+|-
+! Visitor to !! Visa requirement !! Allowed stay !! Notes (excluding departure fees)
+|-
+| {{flagicon|American Samoa}} [[American Samoa]]
+| {{free|Visa not required}}
+| Unlimited
+|
+*Must have a valid six month passport, a return ticket, or an onward ticket, for entry
+*U.S. citizens may live and work freely in American Samoa.<ref>{{cite web|url=http://www.americansamoa.travel/travel--transportation |title=Archived copy |accessdate=November 8, 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150914194731/http://www.americansamoa.travel/travel--transportation |archivedate=September 14, 2015 }}</ref>
+|-
+| {{flagicon|Australia}} [[Ashmore and Cartier Islands]]
+| {{yes-no|Special authorisation required}}
+|
+| Special authorisation required.<ref>{{cite web|url=http://www.environment.gov.au/coasts/mpa/ashmore/activities.html |title=Archived copy |accessdate=August 4, 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20121031132558/http://environment.gov.au/coasts/mpa/ashmore/activities.html |archivedate=October 31, 2012 }}</ref>
+|-
+| {{flagicon|France}} [[Clipperton Island]]
+| {{yes-no|Special permit required}}
+|
+| Special permit required.<ref>{{cite web|url=http://www.clipperton.fr/incagen.html?geopolitique.htm~main|title=Clipperton - Ile de La Passion|first=Bruno|last=Quintero|publisher=}}</ref>
+|-
+| {{flag|Cook Islands}}
+| {{yes|Visa not required}}
+| {{ntsh|31}}31 days<ref>{{cite web|url=http://www.cook-islands.gov.ck/faq.php |title=Archived copy |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131115035856/http://www.cook-islands.gov.ck/faq.php |archivedate=November 15, 2013 }}</ref>
+|
+|-
+| {{flagicon|Fiji}} [[Lau Province]]
+| {{yes-no|Special permission required}}
+|
+| Special permission required.<ref name="ReferenceA"/>
+|-
+| {{flag|French Polynesia}}
+| {{yes|Visa not required}}
+| {{ntsh|90}}90 days
+| {{ntsh|90}}90 days within any 180-day period<ref>{{Timatic|nationality=US|destination=PF|accessdate=26 November 2013}}</ref>
+|-
+| {{flagicon|Guam}} [[Guam]]
+| {{free|Visa not required}}
+| Unlimited
+| U.S. citizens and American Samoan citizens may live and work freely in Guam. Proof of citizenship is required for entry.<ref>{{cite web|url=http://www.visitguam.com/plan/entry-exit/|title=Getting In and Out of Guam - Entry & Exit Formalities|publisher=}}</ref><ref>{{cite web|url=http://ns.gov.gu/customs.html|title=Customs Entry into Guam U.S.A. Official Guam site.|publisher=}}</ref>
+|-
+| {{flag|Niue}}
+| {{yes-no|Visa on arrival}}
+| {{ntsh|30}}30 days<ref>{{cite web |url=http://www.niueisland.com/getting-niue |title=Archived copy |accessdate=2014-08-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20140824231422/http://www.niueisland.com/getting-niue |archivedate=2014-08-24 |df= }}</ref>
+|
+|-
+| {{flagicon|Northern Mariana Islands}} [[Northern Mariana Islands]]
+| {{free|Visa not required}}
+| Unlimited
+| U.S. citizens and American Samoan citizens may live and work freely in the Northern Mariana Islands. Proof of citizenship is required for entry.<ref>{{cite web|url=http://www.visasinfo.com/northern_mariana_islands.html|title=Northern Mariana Islands Visa - Application, Requirements - Passport & Travel Guide|publisher=}}</ref>
+|-
+| {{flag|Pitcairn Islands}}
+| {{yes|Visa not required}}
+| {{ntsh|14}}14 days 
+| Visa free and landing fee 35 USD or tax of 5 USD if not going ashore.<ref>{{cite web |url=http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |title=Archived copy |accessdate=2015-09-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20131018001850/http://www.visitpitcairn.pn/visitpitcairn/visaslegalinfo/touristinfo/index.html |archivedate=2013-10-18 |df= }}</ref><ref>{{cite web|url=http://www.government.pn/visaInfo.php|title=Pitcairn Islands|first=Bill|last=Haigh|publisher=}}</ref><ref>{{cite web|url=http://www.government.pn/immigration%20ordinance.pdf |title=Data |website=www.government.pn |format=PDF}}</ref>
+|-
+| {{flag|Tokelau}}
+| {{no|Entry permit required}}<ref>{{cite web|url=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=NZ&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C|archiveurl=https://archive.today/20140315034207/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=NZ&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C|deadurl=yes|title=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&…|date=15 March 2014|archivedate=15 March 2014|publisher=}}</ref>
+| 
+| 
+|-
+| {{flagicon|US}} [[United States Minor Outlying Islands]]
+| {{yes-no|Special permits required}}
+|
+| Special permits required for [[Baker Island]], [[Howland Island]], [[Jarvis Island]], [[Johnston Atoll]], [[Kingman Reef]], [[Midway Atoll]], [[Palmyra Atoll]] and [[Wake Island]].<ref>{{cite web|url=http://www.fws.gov/bakerisland/visit.html |title=Archived copy |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017211743/http://www.fws.gov/bakerisland/visit.html |archivedate=October 17, 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/howlandisland/visit.html |title=Archived copy |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017212340/http://www.fws.gov/howlandisland/visit.html |archivedate=October 17, 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/jarvisisland/|title=Redirect Page|website=www.fws.gov}}</ref><ref>{{cite web|url=http://www.fws.gov/johnstonisland/visit.html |title=Archived copy |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130607120346/http://www.fws.gov/johnstonisland/visit.html |archivedate=June 7, 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/kingmanreef/visit.html |title=Archived copy |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017212056/http://www.fws.gov/kingmanreef/visit.html |archivedate=October 17, 2013 }}</ref><ref>{{cite web|url=http://www.fws.gov/midway/visit.html |title=Archived copy |accessdate=May 12, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140128062001/http://www.fws.gov/midway/visit.html |archivedate=January 28, 2014 }}</ref><ref>{{cite web|url=http://www.fws.gov/palmyraatoll/visit.html |title=Archived copy |accessdate=November 16, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130522074332/http://www.fws.gov/palmyraatoll/visit.html |archivedate=May 22, 2013 }}</ref>
+|-
+! colspan="4" | South America
+|-
+! Visitor to !! Visa requirement !! Allowed stay !! Notes (excluding departure fees)
+|-
+| [[File:Bandera Provincia Galápagos.svg|border|22x20px]] [[Galapagos Province|Galápagos]]
+| {{yes-no|Pre-registration required}}
+|
+| Online pre-registration is required. Transit Control Card must also be obtained at the airport prior to departure.<ref>[http://gobiernogalapagos.gob.ec/cgggob/info/ Sistema de Calificación y Control de Residencia - Consejo de Gobierno de Galápagos] {{webarchive|url=https://web.archive.org/web/20150221022358/http://gobiernogalapagos.gob.ec/cgggob/info/ |date=2015-02-21 }}</ref>
+|-
+| {{flagicon|France}} [[French Guiana]]
+| {{yes|Visa not required}}
+| {{ntsh|90}}3 months<ref>{{Timatic|nationality=US|destination=GF|accessdate=26 November 2013}}</ref>
+|
+|-
+! colspan="4" | South Atlantic and Antarctica
+|-
+! Visitor to !! Visa requirement !! Allowed stay !! Notes (excluding departure fees)
+|-
+| {{flag|Falkland Islands}}
+| {{yes|Visa not required}}
+|
+| Visa is not required.<ref>{{cite web|url=http://www.falklandislands.com/product.php/35/17/entry_and_exit_requirements/abce58e896311945651c12e01c7562dc|title=Entry and Exit requirements -Need to know -Travel Guide -The Falklands archipelago is teeming with wonders of wildlife and nature -Falkland Islands Tourist Board|first=|last=fatpromotions.co.uk|publisher=}}</ref>
+|-
+| {{flag|South Georgia and the South Sandwich Islands}}
+| {{yes-no|Permit required}}
+|
+| Pre-arrival permit from the Commissioner required (72 hours/1 month for 110/160 [[pound sterling|pounds sterling]]).<ref>{{cite web|url=http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/south-america/south-georgia-south-sandwich#entryRequirements|title=South Georgia and South Sandwich Islands (British Overseas Territory) travel advice - GOV.UK|publisher=}}</ref><ref>http://www.sgisland.gs/index.php/(v)Information_for_Visitors_to_South_Georgia?useskin=vis{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Antarctica}}
+| {{yes-no|Special permits required}}
+|
+| Special permits required for {{flag|Bouvet Island}}, {{flag|British Antarctic Territory}}, {{Flag|French Southern and Antarctic Lands}}, {{flag|Argentine Antarctica}}, {{flagicon|Australia}} [[Australian Antarctic Territory]], {{flagicon|Antártica Chilena Province}} [[Chilean Antarctic Territory]], {{flagicon|Australia}} [[Heard Island and McDonald Islands]], {{flagicon|Norway}} [[Peter I Island]], {{flagicon|Norway}} [[Queen Maud Land]], {{flagicon|New Zealand}} [[Ross Dependency]].<ref>{{cite web|url=http://www.antarctica.ac.uk/about_antarctica/tourism/index.php|title=Antarctic tourism - British Antarctic Survey|publisher=}}</ref><ref>http://www.fco.gov.uk/content/en/travel-advice/north-central-south-america/12940285/fco_trv_ca_britishantarcticterr?ta=travelSummary&pg=1{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web|url=http://britishantarcticterritory.fco.gov.uk/en/tourism/|title=British Antarctic Territory - GOV.UK|publisher=}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-a-l-Antarctique|title=Accès à l’Antarctique|publisher=}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-australes|title=Accès aux Terres australes françaises|publisher=}}</ref><ref>{{cite web|url=http://www.taaf.fr/Acces-aux-iles-Eparses|title=Accès aux îles Eparses|publisher=}}</ref><ref>{{cite web |url=http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |title=Archived copy |accessdate=2014-08-01 |deadurl=yes |archiveurl=https://web.archive.org/web/20140805081831/http://www.dna.gov.ar/DIVULGAC/INDEX.HTM |archivedate=2014-08-05 |df= }}</ref><ref>{{cite web|url=http://www.antarctica.gov.au/living-and-working/predeparture/expeditioner-engagement-information|title=Forms expeditioners must sign|publisher=}}</ref><ref>{{cite web|url=http://www.heardisland.aq/about/frequently-asked-questions#visit_heard_island|title=Frequently asked questions|first=c=AU;o=Commonwealth of Australia;ou=Department of the Environment and Energy;ou=Australian Antarctic|last=Division|publisher=}}</ref><ref>{{cite web|url=http://www.npolar.no/en/antarctica/peter-I-oy.html |title=Archived copy |accessdate=May 12, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017215217/http://www.npolar.no/en/antarctica/peter-I-oy.html |archivedate=October 17, 2013 }}</ref><ref>{{cite web|url=http://www.npolar.no/en/antarctica/dronning-maud-land.html |title=Archived copy |accessdate=August 20, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20131017215832/http://www.npolar.no/en/antarctica/dronning-maud-land.html |archivedate=October 17, 2013 }}</ref><ref>{{cite web|url=http://www.mfat.govt.nz/Foreign-Relations/Antarctica/3-New-Zealand-Procedures-for-Visitors-to-Antarctica/index.php|title=The Ministry of Foreign Affairs and Trade acts in the world to make New Zealanders safer and more prosperous|first=New Zealand Ministry of Foreign Affairs and|last=Trade|website=New Zealand Ministry of Foreign Affairs and Trade}}</ref>
+|}'}

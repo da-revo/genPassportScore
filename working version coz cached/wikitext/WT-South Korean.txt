@@ -1,0 +1,1055 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+Visa requirements for holders of normal passports travelling for tourist purposes:
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{BLACK|style=color:white;|Travel banned}}<ref>{{Timatic|nationality=KR|destination=AF}}</ref>
+| 
+| {{no|As of 2007, due to threats by [[Taliban]], South Korean government bans its citizens from visiting Afghanistan.}}
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AL}}</ref>
+| 90 days
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AD}}</ref>
+|
+|
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=KR|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AG}}</ref>
+| 1 month
+|
+|-
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>https://www.e-gov.am/ajax/gfn.php?f=AKV-09-13-01.doc</ref>
+| 180 days
+| 
+|-
+| {{flag|Australia}}
+| {{yes2|[[Visa policy of Australia#Electronic visas|Electronic Travel Authority]]}}<ref>{{Timatic|nationality=KR|destination=AU}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=AT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Azerbaijan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=AZ}}</ref>
+| 30 days 
+| 
+*When arriving by air. eVisa valid for 30 days available otherwise.<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BS}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=BH}}</ref>
+| 14 days
+|
+* May also apply online.
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=BD}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BB}}</ref>
+| 6 months
+|
+|-
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BY}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|-
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BZ}}</ref><ref>{{Cite web |url=http://latino.foxnews.com/latino/news/2014/12/18/belize-expands-visa-waivers/ |title=Belize expands visa waivers |access-date=2014-12-22 |archive-url=https://web.archive.org/web/20141222231624/http://latino.foxnews.com/latino/news/2014/12/18/belize-expands-visa-waivers/ |archive-date=2014-12-22 |dead-url=yes |df= }}</ref>
+| 90 days
+|
+|-
+| {{flag|Benin}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=BT}}</ref>
+| 
+|
+|-
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=BO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BA}}</ref>
+| 90 days
+| 
+*90 days within any 6-month period 
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BW}}</ref>
+| 90 days
+|
+*90 days within any year period
+|-
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BN}}</ref>
+| 30 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=BG}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0">{{Cite web|url=http://www.esteri.it/mae/normative/normativa_consolare/visti/notification_visa_539_2001_en.pdf|title=|last=|first=|date=|website=|access-date=}}</ref>
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=BF}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=BI}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=KH}}</ref>
+| 30 days
+|
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CA}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=CV}}</ref>
+| 
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CL}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CN}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|-
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=KM}}</ref>
+| 45 days
+|
+|-
+| {{flag|Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CD}}</ref>
+| 
+|
+|-
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=CI}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=KR|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CY}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CZ}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period [https://www.nyidanmark.dk/en-us/coming_to_dk/visa/Visa_free_travel.htm regardless of previous time spent] in other [[Schengen Area|Schengen countries]] (except the other Nordic countries)
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DM}}</ref>
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=EC}}</ref>
+| 90 days<ref name=A>Extendable length of stay.</ref>
+|
+|-
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=EG}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+|-
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SV}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=EE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SZ}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=ET}}</ref>
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FJ}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=GA}}</ref>
+|
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GM}}</ref>
+| 90 days
+| 
+*Must obtain an entry clearance from the Gambian Immigration prior to travel <ref>Entry clearance is not required if traveling as tourists on a charter flight.</ref>
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GE}}</ref>
+| 1 year
+|
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=DE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]], after every entry for 90 days if planned long term stay
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=GH}}</ref>
+| 
+|
+|-
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GD}}</ref>
+| 3 months
+|
+|-
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GY}}</ref>
+| 3 months
+|
+|-
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HT}}</ref>
+| 3 months
+|
+|-
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=HU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=IS}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|India}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref><ref>{{cite web|url=https://boi.gov.in/visa-on-arrival|title=Indian Visa on arrival|publisher=Bureau of Immigration, Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+*Visa on Arrival is only granted at Bengaluru, Chennai, Delhi, Hyderabad, Kolkata and Mumbai airport.
+*South Korean citizens can also apply for e-Visa online for 60 days
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ID}}</ref>
+| 30 days
+| 
+*Select ports of entry.
+|-
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=IR}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{BLACK|style=color:white;|Travel banned}}<ref>{{Timatic|nationality=KR|destination=IQ}}</ref>
+|
+| {{no|As of 2007, due to threats by [[Al-Qaeda]], South Korean government bans its citizens from visiting Iraq.}}
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=IE}}</ref>
+| 3 months
+|
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=IL}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=IT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=JM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=JP}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=JO}}</ref>
+|
+| 
+*Conditions apply.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=3 April 2014}}</ref> 
+*Not available at all entry points.<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=KZ}}</ref>
+| 30 days
+| 
+*For a maximum total stay of 60 days within any 180 day period.
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=KI}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Korea}}
+| {{n/a|Particular visit regime}}<ref>[https://www.hikorea.go.kr/pt/InfoDetailR_en.pt Travel between North & South Korea]</ref>
+|
+|
+*Nationals of either Koreas seeking to visit the other must submit the North/South Korea visitation verification certificate and the Departure card to the Immigration Officer at the immigration port and go through immigration inspection.
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait eVisa]</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=KG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LA}}</ref>
+| 30 days<ref>[http://www.ttrweekly.com/site/2018/09/laos-drops-visa-for-koreans/]</ref>
+|
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=LB}}</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LS}}</ref>
+| 90 days
+|
+|-
+| {{flag|Liberia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{BLACK|style=color:white;|Travel banned}}<ref>{{Timatic|nationality=KR|destination=LY}}</ref>
+|
+| {{no|As of 2014, due to threats by [[ISIL]], South Korean government bans its citizens from visiting Libya.}}
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MK}}</ref>
+| 90 days
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MG}}</ref>
+| 30 days 
+| 
+*Free of charge.
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MW}}</ref>
+| 30 days
+| 
+*Can extend for a total of 90 days.
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MY}}</ref>
+| 90 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MV}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MH}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MU}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MX}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MD}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MC}}</ref>
+|
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=MN}}</ref>
+|
+| 
+*Visa is not required by frequent visitors from South Korea (4 visits in the previous 2 years).
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ME}}</ref>
+| 90 days
+|
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=MA}}</ref>
+| 3 months
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=MZ}}</ref>
+| 30 days
+| 
+*Conditions apply<ref>{{cite web|title=Visa Information|url=https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MZ/VI/IS/ID23549&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=3 April 2014}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| {{flag|Myanmar}}
+| {{yes|Visa not required}}<ref>[http://www.myanmar-embassy-tokyo.net/2018/Doc/jkv.pdf The amended announcement of Visa Exemption to enter Myanmar for ordinary passport holders of Japan and South Korea]</ref>
+| 30 days
+|
+*Must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]].
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=NA}}</ref>
+| 
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=NR}}</ref>
+| 
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=NP}}</ref>
+| 90 days
+|
+|-
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NZ}}</ref>
+| 90 days
+|
+|-
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=NG}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=NO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+| 
+*Issued free of charge.
+|- 
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=PK}}</ref>
+|
+| {{partial|Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref> <br>Visa on arrival when travelling as part of a group through a designated tour operator.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#O Group Tourism through Designated Tour Operators]</ref>}}
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PA}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=PG}}</ref>
+| 60 days
+|
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PY}}</ref>
+| 30 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PE}}</ref>
+| 183 days
+|
+|-
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PH}}</ref>
+| 30 days
+| {{partial|As of 1 December 2015, due to safety concerns, South Korean government bans its citizens from visiting [[Basilan]], [[Sulu Archipelago]], [[Tawi-Tawi]], and [[Zamboanga City]].}}<ref>{{Cite web |url=http://www.0404.go.kr/dev/issue_current.mofa?level=ban |title=흑색경보 여행경보 발령현황 > 외교부 해외안전여행 |date=2018-08-09 |website=Ministry of Foreign Affairs |access-date=2018-08-09}}</ref>
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=PT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=RO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=RU}}</ref>
+| 60 days
+| 
+*For a maximum total stay of 90 days within any 180 day period.
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=RW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=KN}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=LC}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VC}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=KR|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SM}}</ref>
+|
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ST}}</ref>
+| 15 days<ref>[http://www.mnec.gov.st/index.php/publicacoes/noticias/item/262-nota-informativa-sobre-isencao-de-vistos-e-permanencia-em-sao-tome-e-principe?tmpl=component&print=1]</ref><ref>[https://www.facebook.com/MNECSTeP/photos/pb.1584593218475928.-2207520000.1494779850./1872829479652299/?type=3&theater]</ref>
+|
+|-
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=RS}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=KR|destination=SC}}</ref>
+| 3 months<ref name="A" />
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=KR|destination=SB}}</ref>
+| 3 months
+|
+|-
+| {{flag|Somalia}}
+| {{BLACK|style=color:white;|Travel banned}}<ref>{{Timatic|nationality=KR|destination=SO}}</ref>
+| 30 days
+| {{no|As of 2007, due to safety concerns, South Korean government bans its citizens from visiting Somalia.}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ZA}}</ref>
+| 30 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=ES}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+|{{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SR}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=SE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+*Carrying out a paid activity is allowed during his/her stay after additional conditions have been satisfied.<ref name=":0" />
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=CH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Syria}}
+| {{BLACK|style=color:white;|Travel banned}}<ref>{{Timatic|nationality=KR|destination=SY}}</ref>
+|
+| {{no|As of 2011 and 2014, due to threats by [[ISIL]], South Korean government bans its citizens from visiting Syria.}}
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KR|destination=TJ}}</ref>
+| 45 days<ref>https://www.evisa.tj</ref>
+|
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TH}}</ref>
+| 3 months
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TL}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Obtainable at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili Sea Port]].</ref>
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TO}}</ref>
+| 31 days
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TT}}</ref>
+| 90 days
+|
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=TR}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KR|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=TV}}</ref>
+| 1 month<ref name="A" />
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=UG}}</ref>
+| 3 months
+| 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|-
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Free visa on arrival}}<ref>{{Timatic|nationality=KR|destination=AE}}</ref>
+| 90 days
+|
+|-
+| {{flag|United Kingdom}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=GB}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=KR|destination=US}}</ref>
+| 90 days 
+| 
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>[https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,]</ref>
+* [[Electronic System for Travel Authorization|ESTA]] is not required for [[Guam]] and [[Northern Mariana Islands]].
+|-
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=UY}}</ref>
+| 30 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=UZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VU}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VA}}</ref>
+|
+|
+|-
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VE}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KR|destination=VN}}</ref>
+| 15 days
+| 
+*A single entry eVisa valid for 30 days is also available.<ref>[https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt E-visa]</ref>
+|-
+| {{flag|Yemen}}
+| {{BLACK|style=color:white;|Travel banned}}<ref>{{Timatic|nationality=KR|destination=YE}}</ref>
+|
+| {{no|As of 2011 and 2014, due to threats by [[ISIL]], South Korean government bans its citizens from visiting Yemen.}}
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=ZM}}</ref>
+| 90 days
+|
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KR|destination=ZW}}</ref>
+| 3 months
+|
+|}'}

@@ -1,0 +1,1078 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=AF|accessdate=3 June 2015}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=AL|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=DZ|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=AD|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Czech national identity card|ID card]] valid
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=CZ|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=AG|accessdate=3 June 2015}}</ref>
+| 180 days
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=AR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=AM|accessdate=3 June 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}} and territories
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=CZ|destination=AU|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=AT|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CZ|destination=AZ|accessdate=3 June 2015}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BS|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=BH|accessdate=3 June 2015}}</ref>
+| 14 days
+| 
+*Visa is also obtainable online.<ref>[http://www.evisa.gov.bh/VisaBhrnats.html]</ref>
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=BD|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BB|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BY|accessdate=3 June 2015}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=BE|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BZ|accessdate=3 June 2015}}</ref>
+| 1 month
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=BT|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BO|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any year period
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BA|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 6 month period
+*[[Czech national identity card|ID card]] valid<ref>{{cite web |title=Visas |url=http://www.mvp.gov.ba/konzularne_informacije/vize/Default.aspx |quote=Nationals of the following states may enter into Bosnia and Herzegovina with a passport or a valid identity card proving identity and citizenship of: - Member State of the European Union - State signatory to the Schengen Agreement - Andorra, Montenegro, Liechtenstein, Monaco, San Marino, Serbia, the Holy See and Swiss Confederation |publisher=[[Ministry of Foreign Affairs (Bosnia and Herzegovina)]] |accessdate=29 November 2017}}</ref>
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BW|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any year period
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BR|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=BN|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=BG|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=BF|accessdate=3 June 2015}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=BI|accessdate=9 October 2015}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=KH|accessdate=3 June 2015}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-08-01 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=CM|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=CA|accessdate=3 June 2015}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref><ref>[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt Entry requirements by country:Visa-exempt]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=CV|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=CF|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=TD|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=CL|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=CN|accessdate=3 June 2015}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=CO|accessdate=3 June 2015}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=KM|accessdate=3 June 2015}}</ref>
+| 2 weeks
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=CG|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=CD|accessdate=3 June 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=CR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>[http://www.snedai.com/en/ Visa at International Airport Felix Houphouet Boigny in Abidjan]</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=HR|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=CZ|destination=CU|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=CY|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=DK|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement (DK)
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=DM|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+* 90 days within any 180 day period
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=DO|accessdate=3 June 2015}}</ref>
+|
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=EC|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=EG|accessdate=3 June 2015}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days 
+| 
+*Visa free for a max. stay of 15 days for holders of normal passports, traveling as tourists and arriving at Sharm El Sheik (SSH), Saint Catherine (SKV) or Taba (TCP) airports and remaining in the Sinai resorts.
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=SV|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=GQ|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=ER|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=EE|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=SZ|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=ET|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=FJ|accessdate=3 June 2015}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=FI|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|France}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=FR|accessdate=3 June 2015}}</ref>
+| colspan=2|
+*Freedom of movement (in [[Regions of France]])
+*[[Czech national identity card|ID card]] valid
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>http://gid.gov.gm/entry</ref>
+|
+| 
+*Visa exemption according to IATA<ref>{{Timatic|nationality=CZ|destination=GM|accessdate=3 June 2015}}</ref>
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=GE|accessdate=3 June 2015}}</ref>
+| 1 year
+| 
+*[[Czech national identity card|ID card]] valid<ref>{{cite web |title=VISA FREE COUNTRIES - Additional information |url=https://www.geoconsul.gov.ge/HtmlPage/Html/View?id=25&lang=Eng |quote=Citizens of Member States of the European Union may enter Georgia with a travel document, as well as with an identity card issued by a Member State of the European Union. The identity card shall contain the name, surname, date of birth and a photo of the person. |publisher=[[Ministry of Foreign Affairs of Georgia]] |accessdate=9 March 2018}}</ref>
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=DE|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=GH|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=GR|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=GD|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=GT|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=GN|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://www.rgb-visa.com/  REPUBLIC OF GUINEA-BISSAU Electronic Visa Application System]</ref>
+| 30 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=GY|accessdate=3 June 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=HT|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=HN|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=HU|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|- 
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=IS|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=ID|accessdate=3 June 2015}}</ref>
+| 30 days<ref>http://thejakartaglobe.beritasatu.com/news/indonesia-waives-visa-requirements-for-45-countries/</ref>
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=IR|accessdate=3 June 2015}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref name="ReferenceA">{{Timatic|nationality=CZ|destination=IQ|accessdate=3 June 2015}}</ref>
+| 15 days
+| 
+*Visa on arrival for 15 days at [[Erbil]] and [[Sulaymaniyah]] airports.
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=IE|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=IL|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=IT|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=JM|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=JP|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=JO|accessdate=3 June 2015}}</ref>
+|
+| 
+*Conditions apply for free visa<ref>[http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C]</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=KZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=KI|accessdate=3 June 2015}}</ref>
+| 120 days
+|
+*120 days within any one year period
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=KP|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=KR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait eVisa]</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=KG|accessdate=3 June 2015}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=LA|accessdate=3 June 2015}}</ref>
+| 30 days
+| {{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=LV|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=CZ&AR=00&PASSTYPES=PASS&DE=LB&user=KLMB2C&subuser=KLMB2C]</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months
+*Available at [[Beirut International Airport]]. They must have a return/onward ticket, a telephone number and address in Lebanon. 
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=LS|accessdate=3 June 2015}}</ref>
+| 14 days
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=LR|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=LY|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=LI|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=LT|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=LU|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MK|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+* [[Czech national identity card|ID card]] valid<ref>{{cite web |title=Visa Regulations |url=http://www.mfa.gov.mk/index.php?option=com_content&view=article&id=320&Itemid=745&lang=en |quote=Citizens of the EU member states and citizens of the signatories to the Schengen Agreement may enter the territory of the Republic of Macedonia with valid ID card ... |publisher=Ministry of Foreign Affairs, Republic of Macedonia |accessdate=9 March 2018}}</ref>
+|-
+| {{flag|Madagascar}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=CZ|destination=MG|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=MW|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MY|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=CZ|destination=MV|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=ML|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=MT|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MH}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=MR|accessdate=3 June 2015}}</ref>
+| 3 months
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MU|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MX|accessdate=3 June 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=FM|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MD|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+*[[Czech national identity card|ID card]] valid{{Ref?|date=March 2018}}<ref>{{cite web |title=Podmínky vycestování z ČR |url=http://www.mzv.cz/jnp/cz/cestujeme/podminky_vycestovani_z_cr/index.html |publisher=[[Ministry of Foreign Affairs (Czech Republic)]] |date=24 November 2017 |language=Czech}}</ref>
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MC|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Czech national identity card|ID card]] valid
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=MN|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=ME|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*[[Czech national identity card|ID card]] valid for 30 days<ref>{{cite web |title=Overview of visa regimes for foreign citizens - Czech Republic |url=http://www.mvp.gov.me/en/sections/consular-affairs/visa-regimes-for-foreign-citizens/czech-republic |quote=The citizens of Czech Republic may enter, pass through and stay in Montenegro for up to 90 days with a valid passport without a visa. Also, they may enter and stay in Montenegro for up to 30 days with a valid identity card or a document confirming their identity and nationality. |publisher=[[Ministry of Foreign Affairs (Montenegro)]] |accessdate=9 March 2018}}</ref>
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=MA |accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=MZ|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=https://www.myanmarevisa.gov.mm/ |title=Archived copy |access-date=2013-10-22 |archive-url=https://web.archive.org/web/20131019103159/https://www.myanmarevisa.gov.mm/ |archive-date=2013-10-19 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=NA|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=NR|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=NP|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=NL|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+*Freedom of movement ([[European Netherlands]])
+* [[Czech national identity card|ID card]] valid 
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=NZ|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=NI|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*All visitors are required to obtain a Tourist Card on arrival. Fee: USD 10.-
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=NE|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=NG|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=NO|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=PK|accessdate=3 June 2015}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+|-
+| {{flag|Palau}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=PW|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=PA|accessdate=3 June 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=CZ|destination=PG|accessdate=3 June 2015}}</ref>
+| 60 days
+| 
+*Free of charge.<ref>[http://www.immigration.gov.pg/images/documents/Publication-Revised%20MSF2.pdf REVISED MIGRATION SERVICE FEES (MSF)]</ref>
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=PY|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=PE}}</ref><ref>{{Cite web |url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |title=Archived copy |access-date=2016-01-29 |archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |archive-date=2016-02-04 |dead-url=yes |df= }}</ref>
+| 90 days
+| 
+*90 days within any 6 month period
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=PH|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=PL|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=PT|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=QA|accessdate=3 June 2015}}</ref><ref>https://www.qatarairways.com/en-id/visa-free-arrival.html</ref>
+| 90 days
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=RO|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=RU|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.migration.gov.rw]</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=KN|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=LC|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=VC|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=WS|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=SM|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Czech national identity card|ID card]] valid
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=SA|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=SN|accessdate=30 October 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=RS|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 6 month period
+*[[Czech national identity card|ID card]] valid<ref>{{cite web |title=Visa regime for entering Serbia |url=http://mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime/81-consular-foreigners-to-serbia/11490-czech-republic-for-cons |publisher=[[Ministry of Foreign Affairs (Serbia)|Ministry of Foreign Affairs of the Republic of Serbia]] |accessdate=23 November 2017}}</ref>
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Agreement between the European Community and the Republic of Seychelles on the short-stay visa waiver|url=http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22009A0630%2805%29&qid=1451172310633&from=EN|website=EUR-Lex|publisher=[[Official Journal of the European Union]]|accessdate=27 December 2015|date=30 June 2009}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=SL|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=SG|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=SK|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=SI|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Solomon Islands}}
+| {{yes|Visa not required}}<ref>http://www.solomontimes.com/news/visa-free-travel-to-eu-signed/8586</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=ZA|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=SS|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=ES|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=LK|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=SD|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+|{{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=CZ|destination=SR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=SE|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=CH|accessdate=3 June 2015}}</ref>
+| colspan=2| 
+* Freedom of movement
+* [[Czech national identity card|ID card]] valid
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=SY|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.tj/index.evisa.html|title=Tajikistan e-Visa|publisher=Ministry of Foreign Affairs of the Republic of Tajikistan}}</ref>
+| 45 days 
+|
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=TZ|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=TH|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+* Maximum two visits annually if not arriving by air
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=TL|accessdate=27 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=TG|accessdate=3 June 2015}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref>[http://www.consilium.europa.eu/en/documents-publications/agreements-conventions/agreement/?aid=2015057 Agreement between the European Union and the Kingdom of Tonga on the short-stay visa waiver]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=TT|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=TN|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=TR|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=TM|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=TV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=UG|accessdate=3 June 2015}}</ref>
+| 3 months
+| 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=UA|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=AE|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/06-eu-signs-visa-waiver-agreement-united-arab-emirates/ EU signs visa waiver agreement with the United Arab Emirates]</ref><ref>[http://data.consilium.europa.eu/doc/document/ST-7103-2015-INIT/en/pdf Agreement between the European Union and the United Arab Emirates on the short-stay visa waiver]</ref>
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=CZ|destination=GB|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement (in Constituent countries)
+*[[Czech national identity card|ID card]] valid 
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=CZ|destination=US|accessdate=3 June 2015}}</ref><ref>Joined on November 17, 2008.</ref>
+| 90 days
+| 
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>[https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,]</ref>
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=UY|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CZ|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=VU|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days within any 180 day period
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=VA|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Czech national identity card|ID card]] valid
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=CZ|destination=VE|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=CZ|destination=VN}}</ref>
+| 30 days<ref>[https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt E-visa]</ref>
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=CZ|destination=YE|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=ZM|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*Also eligible for a universal visa allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=CZ|destination=ZW|accessdate=3 June 2015}}</ref>
+| 3 months
+| 
+*Also eligible for a universal visa allowing access to Zambia.
+|}'}

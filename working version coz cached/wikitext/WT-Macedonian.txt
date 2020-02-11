@@ -1,0 +1,1254 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+! Reciprocity
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=AF|accessdate=23 December 2015}}</ref>
+|
+| 
+| {{yes|√}}
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=AL}}</ref>
+| 90 days
+| 
+*[[Macedonian identity card|ID card]] valid
+| {{yes|√}}
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=DZ}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=AD}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=AO}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref>{{Timatic|nationality=MK|destination=AG}}</ref>
+|
+|
+*Negotiations to abolish visa requirements are currently in progress 
+*Permanent residents of the United States and Canada and holders of valid visas of the United States, Canada, Schengen Area and the United Kingdom do not require a visa.
+| {{no|X}}
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=AR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=AM}}</ref>
+| 120 days
+|
+| {{no|X}}
+|-
+| {{flag|Australia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+| {{no|X}}
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=AT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric">Holders of biometric passports only.</ref>
+| {{yes|√}}
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MK|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=BS}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=BH}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=BD}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+| {{no|X}}
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=BB}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=BY}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]], otherwise a private invitation or tourist document is required.
+| {{yes|√}}
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=BE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=BZ}}</ref>
+|
+| 
+*Visa not required for A max. stay of 90 days for holders of a valid visa issued by a Schengen Member. 
+*Holders of a valid multiple entry visa issued by the USA can obtain a visa on arrival.
+| {{yes|√}}
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+| {{no|X}}
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=BT}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=BO}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=BA}}</ref>
+| 90 days
+| 
+*90 days within any 6 month period
+*[[Macedonian identity card|ID card]] valid
+| {{yes|√}}
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=BW}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=BR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+| {{yes|√}}
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=BN}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=BG}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=BF}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.ambassade-du-burundi.fr/demande-de-visa/ |title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT  GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS  NOTE CIRCULAIRE DU  17/02/2015 |access-date=2015-02-26 |archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/ |archive-date=2014-07-22 |dead-url=yes |df= }}</ref><ref>{{Timatic|nationality=MK|destination=BI}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-23 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+| {{no|X}}
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=CM}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=CA}}</ref>
+|
+| 
+*Visa not required for [[Permanent residence (United States)|permanent residents]] of the [[United States]].<ref>[http://www.cic.gc.ca/english/visit/visas.asp?country=United%20States%20citizens%20and%20permanent%20residents]</ref>
+| {{no|X}}
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=CV}}</ref>
+|
+| 
+*Not available at all entry points.<ref>Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].</ref>
+| {{no|X}}
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=CF}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=TD}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=CL}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=CN}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+*Visa not required for holders of normal Macedonian passports endorsed "on business".
+| {{yes|√}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>https://www.cancilleria.gov.co/sites/default/files/Normograma/docs/pdf/resolucion_minrelaciones_6397_2018.pdf</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=KM}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=CG}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=CD}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=CR}}</ref>
+|
+| 
+*Visa not required for holders of a visa issued by the USA (except for \\B1\\, \\B2\\, \\C1\\ and \\D\\ visas), provided valid for at least 6 months from date of arrival.
+*Additionally a max. stay of 30 days is allowed for residents of Canada or an EU Member provided the residence is valid for at least 6 months on arrival.
+| {{no|X}}
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>[http://www.snedai.com/en/ Visa at International Airport Felix Houphouet Boigny in Abidjan]</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]].
+| {{no|X}}
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=HR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|- 
+| {{flag|Cuba}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=CU}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=CY}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=CZ}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=DK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+| {{no|X}}
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=DM}}</ref>
+| 21 days
+|
+| {{no|X}}
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=DO}}</ref>
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=EC}}</ref>
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=EG}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=SV}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=GQ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=ER}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=EE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=SZ}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MK|destination=ET}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=FJ}}</ref>
+|
+| 
+| {{yes|√}}
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=FI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=FR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|
+| 
+*[[eVisa]] holders must arrive via [[Libreville International Airport]].
+| {{no|X}}
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=GM}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Georgia}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gov.ge/ e-VISA PORTAL]</ref>
+| 90 days
+| 
+*Visa not required for A max. stay of 90 days for holders of a valid visa issued by an EEA Member State, Australia, Bahrain, Canada, Israel, Japan, Korea (Rep.), Kuwait, New Zealand, Oman, Qatar, Saudi Arabia, Switzerland, USA or United Arab Emirates
+| {{yes|√}}
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=DE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=GH}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=GR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Grenada}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=GD}}</ref>
+| 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=GT}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=GN}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=GW}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=GY}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=HT}}</ref>
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=HN}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=HU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=IS}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+| {{no|X}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>http://setkab.go.id/tidak-untuk-jurnalistik-wisatawan-dari-169-negara-ini-bebas-visa-kunjungan-ke-indonesia/</ref><ref>{{Timatic|nationality=MK|destination=ID}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=IR}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=IQ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=IE}}</ref>
+|
+| 
+*Visa is issued free of charge.<ref>[https://www.dfa.ie/travel/visas/visas-for-ireland/#tabs-3 No fee required]</ref>
+| {{no|X}}
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=IL}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=IT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Jamaica}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=JM}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=JP}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=JO}}</ref>
+|
+<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+| {{no|X}}
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=KZ}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+| {{no|X}}
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=KI}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=KP}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=KR}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=KW}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Kyrgyzstan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=KG}}</ref>
+| 1 month
+| 
+*Visa on arrival available at [[Manas International Airport]].
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+| {{no|X}}
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=LA}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+| {{no|X}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=LV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=LB}}</ref>
+| 1 month
+| 
+*Extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+| {{no|X}}
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=MK|destination=LS}}</ref>
+|
+|
+| {{no|X}}
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=LR}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=LY}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=LI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=LT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=LU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=MG}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=MW|accessdate=5 October 2015}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=MY}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=MV}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=ML}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=MT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=MH}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+| {{no|X}}
+|-
+| {{flag|Mauritius}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=MU}}</ref>
+| 60 days
+|
+| {{yes|√}}
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=MX}}</ref>
+|
+| 
+*Visa not required for holders of a valid visa issued by the USA and permanent residents of the European Union. 
+| {{no|X}}
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=FM}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=MD}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+| {{yes|√}}
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=MC}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=MN}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=ME}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+*Biometric [[Macedonian identity card|ID card]] valid for 30 days
+| {{yes|√}}
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=MA}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=MZ}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Myanmar}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=MM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=NA}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=NR}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=NP}}</ref>
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=NL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/> ([[European Netherlands]]) 
+| {{yes|√}}
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=NZ}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=NI}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=NE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=NG}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=NO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=PK}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=PW}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=PA}}</ref>
+| 180 days
+|
+| {{no|X}}
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=PG}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=PY}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=PE}}</ref>
+| 183 days
+|
+| {{yes|√}}
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=PH}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=PL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=PT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=RO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=RU}}</ref>
+| 30 days
+| 
+*Visa free for holders a letter of invitation or a tourist voucher only.
+| {{yes|√}}
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[http://www.migration.gov.rw/]</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|eVisa}}<ref>[https://evisa.gov.kn/]</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=LC}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=VC}}</ref>
+| 1 month
+|
+| {{no|X}}
+|-
+| {{flag|Samoa}}
+| {{yes-no|Entry Permit on arrival}}<ref>{{Timatic|nationality=MK|destination=WS}}</ref>
+| 60 days
+|
+| {{no|X}}
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=SM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|
+|
+| {{no|X}}
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=SA}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.visasenegal.sn/?lang=en |title=Archived copy |access-date=2015-02-24 |archive-url=https://web.archive.org/web/20150304151723/http://www.visasenegal.sn/?lang=en |archive-date=2015-03-04 |dead-url=yes |df= }}</ref><ref>{{Timatic|nationality=MK|destination=SN}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=RS}}</ref>
+| 90 days
+| 
+*[[Macedonian identity card|ID card]] valid for 30 days
+| {{yes|√}}
+|-
+| {{flag|Seychelles}}
+| {{yes-no|Visitor\s Permit on arrival}}<ref>{{Timatic|nationality=MK|destination=SC}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=SL}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=SG}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=SK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=SI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=SB}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=SO}}</ref>
+| o30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+| {{yes|√}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=ZA}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=SS}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=ES}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=LK}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=SD}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=SR}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=SE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=CH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]<ref group="Note" name="biometric"/>
+| {{yes|√}}
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=SY}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MK|destination=TJ}}</ref><ref>https://www.evisa.tj</ref>
+| 45 days
+| 
+| {{no|X}}
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=TZ}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=TH}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=TL}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Obtainable at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili Sea Port]].</ref>
+| {{no|X}}
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=TG}}</ref>
+| 7 days
+|
+| {{no|X}}
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=TO}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=TT}}</ref>
+|
+| 
+*Transit visa required.
+| {{yes|√}}
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=TN}}</ref>
+| 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=TR}}</ref>
+| 90 days<ref>[http://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa Visa Information For Foreigners]</ref>
+|
+| {{yes|√}}
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=TM}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=TV}}</ref>
+| 1 month
+|
+| {{no|X}}
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=UG}}</ref>
+|
+| 
+*Determined at the port of entry.
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+| {{no|X}}
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+*Until 15 March 2019.<ref>https://112.international/politics/ukraine-establishes-visa-free-regime-with-macedonia-26608.html</ref>
+| {{yes|√}}
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=AE}}</ref>
+|
+| 
+*Visas can be arranged online through an airline.<ref>[https://www.ttsuaevisas.com/Home/Index.aspx?CountryID=47]</ref>
+| {{no|X}}
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=GB}}</ref>
+|
+| 
+*Travelers do not require a Direct Airside Transit (DAT) visa if they hold a valid entry visa for [[Australia]], [[Canada]], [[New Zealand]] or the [[United States]], and a valid airline ticket for travel via the United Kingdom, as part of a journey to or from one of those countries. Additionally permanent residents of the [[European Union]], [[Australia]], [[Canada]] and [[New Zealand]] do not require a Direct Airside Transit visa.
+| {{no|X}}
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=US}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=UY}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=MK|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+| {{yes|X}}
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=VU}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=MK|destination=VA}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=VE}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=VN}}</ref>
+|
+| 
+*Pre-arranged visa obtained online through travel agencies available at [[Hanoi]], [[Ho Chi Minh City]] or [[Da Nang]] airports.
+| {{yes|√}}
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=MK|destination=YE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=MK|destination=ZM}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Zimbabwe}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gov.zw/ eVisa Zimbabwe]</ref>
+|
+|
+| {{no|X}}
+|}'}

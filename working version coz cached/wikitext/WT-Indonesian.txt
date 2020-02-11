@@ -1,0 +1,1304 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! style="width:18%;"| Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AF}}</ref>
+|
+| {{no|Due to safety concerns, the Indonesian government advises its citizens not to visit Afghanistan.}}<ref name="kemlu.go.id">[https://web.archive.org/web/20150518095652/http://www.kemlu.go.id/Pages/Highlights.aspx?IDP=117&l=id ]</ref>
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AL}}</ref>
+| 
+|
+* Visa requirement is waived for used and valid, multiple-entry US, UK or Schengen visa holders.<ref>{{cite web|url=http://www.punetejashtme.gov.al/en/services/consular-services/visa-regime-for-foreign-citizens|title=Visa regime for foreign citizens|website=www.punetejashtme.gov.al|access-date=2018-05-25}}</ref>
+* A maximum of 90 days of stay within 180 days period.
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=DZ}}</ref>
+| 
+|
+* A maximum of 180 days total stay within a one year period. <ref>{{cite web|url=https://www.algerian-consulate.org.uk/visas/visa-to-algeria|title=Algeria Visa policy|last=|first=|date=|website=|access-date=}}</ref>
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AD}}</ref>
+|
+| 
+*There are no visa requirements for entry into Andorra, but it can only be accessed by passing through France or Spain. A multiple-entry Schengen visa is required to re-enter either France or Spain when leaving Andorra. <ref>{{cite web|url=https://www.exteriors.ad/en/travel-to-andorra|title=Travel to Andorra|website=www.exteriors.ad|language=en-gb|access-date=2018-05-25}}</ref> 
+*A maximum of 90 days of stay within 180 days period.
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://www.smevisa.com/touristvisa/|title=SME E-VISA|publisher=}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=ID|destination=AO}}</ref>
+| 30 days
+|
+* [[International Certificate of Vaccination]] required.<ref>{{cite web|url=http://www.angola.org/index.php?page=english|title=The Embassy of the Republic of Angola - REQUIREMENTS FOR OBTAINING AN ENTRY VISA TO THE REPUBLIC OF ANGOLA|website=www.angola.org|language=en|access-date=2018-05-25}}</ref>
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|eVisa / Visa on arrival}}<ref name="auto">{{Timatic|nationality=ID|destination=AM}}</ref>
+| 30 days
+|
+* Visa on arrival may only be obtained for US, UK, Canada or Schengen visa holders, among other requirements.<ref>{{cite web|url=http://www.immigration.gov.ag/visa-services/visa-on-arrival/|title=Visa on Arrival {{!}} Immigration Antigua and Barbuda|website=www.immigration.gov.ag|language=en-US|access-date=2018-05-25}}</ref> 
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AR}}</ref>
+|
+|
+* A maximum of 90 days of stay per period.
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref name="auto"/>
+| 120 days
+|
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AU}}</ref>
+| 
+|
+* A maximum of 90 days of stay per entry.
+
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref> 
+*Transit visa is not required.<ref>{{cite web|url=https://www.border.gov.au/Lega/Lega/Form/Immi-FAQs/do-i-need-a-visa-to-transit-through-australia|title=Do I need a visa to transit through Australia?|website=www.border.gov.au}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AT}}</ref>
+|
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Azerbaijan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=AZ}}</ref>
+|
+| 
+*eVisa option is also available for Indonesian citizens for maximum stay of 30 days<ref>{{cite web|url=https://evisa.gov.az/en/|archive-url=https://web.archive.org/web/20161220213600/https://evisa.gov.az/en/|dead-url=yes|archive-date=2016-12-20|title=500 - Internal Server Error|website=evisa.gov.az}}</ref>
+|-
+| {{flag|Bahamas}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BS}}</ref>
+| 
+|
+* A maximum of 90 days of stay per entry.<ref>{{cite web|url=http://www.bahamas.gov.bs/wps/wcm/connect/bf838397-2677-410e-9987-87fa188e4966/Visa+Requirements+for+Visitors+Travelling+to+The+Bahamas1.pdf?MOD=AJPERES|title=Bahamas Visa Policy|last=|first=|date=|website=|access-date=}}</ref>
+* Visa requirement is waived for the US or Canada Permanent Residents for a maximum stay of 30 days.<ref>{{cite web|url=https://www.bahamas.com/entry-requirements|title=Entry Requirements|website=The Official Site of The Bahamas|access-date=2018-05-25}}</ref>
+|-
+| {{flag|Bahrain}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=ID|destination=BH}}</ref>
+| 30 days
+|
+* Extendable for another 2 weeks by visiting NPRA in Bahrain.<ref>{{cite web|url=https://www.evisa.gov.bh/VisaBhr3En.html|title=Bahrain Electronic Visa Service|website=www.evisa.gov.bh|access-date=2018-05-25}}</ref>
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BD}}</ref>
+| 
+|
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BB}}</ref>
+| 
+|
+* Visa applications must either be sent to Barbados or its consulates abroad. Please note that Barbados has no diplomatic missions in Indonesia.
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=BY}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]] and not on flights to and from Russia since these are regarded as internal [[Union State]] internal flights with no border controls. Indonesian nationals must also have plane tickets with confirmation of a departure date within 30 days and medical insurance in the amount of at least €10,000.<ref>{{cite web|url=http://www.imigrasi.go.id/index.php/berita/berita-utama/1279-kebijakan-bebas-visa-untuk-wni-berkunjung-ke-belarusia|title=Kebijakan bebas visa untuk WNI berkunjung ke Belarusia|first=|last=Humas|website=www.imigrasi.go.id}}</ref>
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BE}}</ref>
+|
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BZ}}</ref>
+| 
+|
+* Visa requirement is waived for multiple-entry US visa holders.<ref>{{cite web|url=http://ins.gov.bz/index.php/visit-belize/belize-visa|title=Requirements|last=User|first=Super|website=ins.gov.bz|language=en-gb|access-date=2018-05-25}}</ref>
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref>
+| 30 days / 8 days
+| 
+*[[International Certificate of Vaccination]] required.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BT}}</ref>
+| 
+|
+* Visas are issued only to tourists booked with a local licensed tour operator.
+|- 
+| {{flag|Bolivia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BO}}</ref>
+| 
+|
+* Authorization is required from the Directorate General of Immigration of Bolivia.<ref>{{cite web|url=http://www.boliviawdc.org/consulate/visas|title=Visas|website=www.boliviawdc.org|language=en-GB|access-date=2018-05-25}}</ref>
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BA}}</ref>
+| 
+|
+* Visa requirement is waived for valid multIple-entry Schengen visa holders, with a maximum of 15 days of stay.<ref name=":1" />
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BW}}</ref>
+|
+|
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=BR}}</ref>
+| 30 days
+|
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=BN}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BG}}</ref>
+|  
+|
+* Visa requirement is waived for Romania, Cyprus, Croatia or Schengen visa holders for a maximum of 90 days of stay within 180 days period.
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BF}}</ref>
+|
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BI}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Cambodia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=KH}}</ref>
+| 30 days
+|
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CM}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CA}}</ref>
+|
+| 
+*Transit visa is not required if holding a valid US visa and travelling on an approved airline through an approved Canadian airport.<ref>{{cite web|url=http://www.cic.gc.ca/english/department/twov/travellers.asp|title=Determine your eligibility – Transit without a visa - Canada.ca|first=Immigration, Refugees and Citizenship|last=Canada|website=www.cic.gc.ca}}</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=CV}}</ref>
+| 
+|
+* Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].
+* Passengers arriving via some countries must hold an [[International Certificate of Vaccination]].
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CF}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=CL}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CN}}</ref>
+|
+| 
+*Visa on arrival is available for Indonesian passport holders with specific conditions and at only some ports of entry.
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - can be extended to a maximum of 180 days within a one year period.
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=KM}}</ref>
+| 45 days
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CG}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CD}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CR}}</ref>
+| 
+|
+* Visa requirement is waived for US and Canada visa holders.<ref>{{cite web|url=http://www.costarica-embassy.org/index.php?q=node/72|title=VISAS, RESIDENCES, PERMITS {{!}} Embajada de Costa Rica en DC|website=www.costarica-embassy.org|language=es|access-date=2018-05-25}}</ref>
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|Electronic visa}}<ref>{{Timatic|nationality=ID|destination=CI}}</ref>
+|
+|
+* May obtain online<ref>{{cite web|url=http://www.snedai.com/en/|title=Energie – SNEDAI GROUPE|website=www.snedai.com}}</ref> and must arrive at Port Bouet Airport.
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=HR}}</ref>
+|  
+|
+*Visa requirement is waived for Romania, Cyprus, Bulgaria or Schengen visa holders for a maximum of 90 days of stay within 180 days period.
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=ID|destination=CU}}</ref>
+|
+|
+* Tourist Card required in advance.
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CY}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CZ}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=DK}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=DM}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=DO}}</ref>
+| 
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=EC}}</ref>
+| 90 days
+|
+* Extendable stay.<ref>{{cite web|url=http://www.consuladovirtual.gob.ec/servicios/2017_req_vis2_temTurPro_ing.html|title=VISAS TEMPORAL|website=www.consuladovirtual.gob.ec|access-date=2018-05-25}}</ref>
+* A maximum of 60 days of stay in Galapagos under strict conditions.<ref>{{Cite news|url=https://www.galapagos.org/travel/travel/planning-a-trip/travel-faqs/|title=Frequently Asked Questions (FAQs)|work=Galapagos Conservancy|access-date=2018-05-25|language=en-US}}</ref>
+|- 
+| {{flag|Egypt}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=EG}}</ref>
+| 
+|
+* Pre-approval from Egypt authorities required prior to visa issuance.<ref>{{cite web|url=http://www.egyptembassy.net/consular-services/passports-travel/visa-requirements/|title=Visa Requirements – Embassy of Egypt, Washington DC|website=www.egyptembassy.net|language=en-US|access-date=2018-05-25}}</ref>
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SV}}</ref>
+| 
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GQ}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required if travelling from a country with risk of yellow fever.
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=ER}}</ref>
+|
+|
+* A maximum of 30 days of stay from the day of arrival.<ref>{{Cite news|url=http://ericon.org.au/services/visa/|title=VISA - Consulate Of The State Of Eritrea|work=Consulate Of The State Of Eritrea|access-date=2018-05-25|language=en-US}}</ref>
+* Extendable at the Immigration Office in [[Asmara]].
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=EE}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SZ}}</ref>
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=ID|destination=ET}}</ref> 
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=FJ}}</ref>
+| 120 days
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=FI}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=FR}}</ref>
+|
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=GA}}</ref>
+|
+|
+* Electronic visa holders must arrive via [[Libreville International Airport]].<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=GM}}</ref>
+| 90 days
+| 
+*Must obtain an entry clearance from the Gambian Immigration prior to travel.<ref>
+*Entry clearance is not required if travelling as tourists on a charter flight.</ref>
+*[[International Certificate of Vaccination]] required.
+|-
+| {{flag|Georgia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=ID|destination=GE}}</ref>
+| 30 days
+|
+*A maximum of 30 days of stay within 120 days 
+*Visa requirement is waived for Australia, EU and its territories, Switzerland, UAE, Qatar, Oman, New Zealand, Japan, Israel, Canada, South Korea, Kuwait, Saudi Arabia, Bahrain, Liechtenstein, Norway or USA  visa holders.<ref name="auto1">{{Cite news|url=https://matsne.gov.ge/en/document/view/2867377|title=On Approval of the List of Countries, Whose Visa and/or Residence Permit Holders May Enter Georgia without a Visa for an Appropriate Period and under Appropriate Conditions|work=სსიპ ”საქართველოს საკანონმდებლო მაცნე”|access-date=2018-05-26|language=en}}</ref> 
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=DE}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GH}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.
+* Visa on arrival / Emergency entry visa may be obtained<ref>{{cite web|url=http://www.ghanaimmigration.org/Em_entryvisa_arrival.html|title=Welcome to Ghana Immigration Service|website=www.ghanaimmigration.org|access-date=2018-05-25}}</ref>
+
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GR}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GD}}</ref>
+|
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GT}}</ref>
+|
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GN}}</ref>
+| 
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=GY}}</ref>
+| 30 days<ref>{{cite web |url=http://www.minfor.gov.gy/index.php/consular-services/travel/countries-whose-nationals-do-not-require-visas-to-enter-guyana |title=Archived copy |access-date=2015-04-24 |archive-url=https://web.archive.org/web/20150402034507/http://www.minfor.gov.gy/index.php/consular-services/travel/countries-whose-nationals-do-not-require-visas-to-enter-guyana |archive-date=2015-04-02 |dead-url=yes |df= }}</ref>
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=HT}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=HN}}</ref>
+| 
+|
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=HU}}</ref>
+|  
+|
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=IS}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|- 
+| {{flag|India}}
+| {{yes|Free e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+|
+*e-Visa issued free of charge for Nationals of Indonesia.<ref>{{Cite news|url=https://www.ndtv.com/india-news/pm-narendra-modi-announces-30-day-free-visa-for-indonesian-citizens-1860070|title=PM Modi Announces 30-Day Free Visa For Indonesian Citizens|work=NDTV.com|access-date=2018-06-13}}</ref>
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=IR}}</ref>
+| 30 days<ref>{{cite web|url=http://www.tehrantimes.com/index_View.asp?code=248428|title=Iran extends airport visa validity to 30 days|date=3 August 2015|publisher=}}</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=IQ}}</ref>
+|
+| {{no|As of July 2014, due to safety concerns, Indonesian government advises its citizens not to visit Iraq.}}<ref name="kemlu.go.id"/>
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=IE}}</ref>
+| 
+|
+*Visa is issued free of charge.<ref>{{cite web|url=https://www.dfa.ie/travel/visas/visas-for-ireland/#tabs-3|title=Visas for Ireland - Department of Foreign Affairs and Trade|first=Department of Foreign|last=Affairs|website=www.dfa.ie}}</ref>
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=IL}}</ref>
+| 
+|
+*Entry ban for Indonesian tourists has been lifted<ref>{{cite web|url=https://www.timesofisrael.com/israel-reverses-ban-on-indonesian-tourists-after-officials-protest/|title=Israel reverses ban on Indonesian tourists after officials protest|publisher=}}</ref>
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=IT}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=JM}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=JP}}</ref>
+| 15 days
+| 
+*Visa not required for 15 days only if biometric passport is endorsed with a Visa Waiver Registration Certificate from a Japanese Embassy or Consulate.<ref>{{cite web|url=http://www.mofa.go.jp/press/release/press4e_000498.html|title=[Press Releases] Visa Waiver for Indonesian Nationals Based on a System of E-Passport Registration|website=Ministry of Foreign Affairs of Japan}}</ref><ref>{{cite web|url=http://www.mofa.go.jp/press/release/press4e_000440.html|title=[Press Releases] Substantial Relaxation of Visa Requirements for Nationals of Indonesia, the Philippines and Viet N..|website=Ministry of Foreign Affairs of Japan}}</ref>
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=JO}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=KZ}}</ref>
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://immigration.ecitizen.go.ke/index.php?id=5|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=immigration.ecitizen.go.ke}}</ref>
+| 3 months
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=KI}}</ref>
+| 
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=KP}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=KR}}</ref>
+|
+| 
+*Visa not required for a maximum stay of 30 days if: 
+**holding a visa issued by Australia, Canada, USA or New Zealand and only if in transit from or to those countries via South Korea. 
+**arriving and departing from Jeju (CJU) for tourism purpose.
+**having previously entered Korea at least 4 times within the last 2 years or at least 10 visits in total.
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=KW}}</ref>
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=KG}}</ref>
+| 1 month
+| 
+*Visa on arrival available at [[Manas International Airport]].
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+|-
+| {{flag|Laos}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=LA}}</ref>
+| 30 days
+|
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LV}}</ref>
+|  
+|
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LB}}</ref>
+|
+| 
+*In addition to a visa, an approval should be obtained from the Immigration department of the [[General Directorate of General Security]] (La Surete Generale).
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://evisalesotho.com|title=visa lesotho tourism documents travel evisalesotho.com|website=Lesotho E-Visa}}</ref><ref>{{Timatic|nationality=ID|destination=LS}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LR}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LY}}</ref>
+|
+| {{no|As of March 2015, due to safety concerns, Indonesian government advises its citizens not to visit Libya.}}<ref>[https://web.archive.org/web/20150406132258/http://www.kemlu.go.id/Pages/Highlights.aspx?IDP=131&l=id ]</ref>
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LI}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LT}}</ref>
+|  
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LU}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=MK}}</ref>
+| 
+|
+|-
+| {{flag|Madagascar}}
+| {{yes|Free visa on arrival}}<ref>{{Timatic|nationality=ID|destination=MG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=MW}}</ref>
+| 30 days
+| 
+*Can extend for a total of 90 days.
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=MY}}</ref>
+| 30 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes|Free visa on arrival}}<ref>{{Timatic|nationality=ID|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{yes| Visa not required}}<ref>{{Timatic|nationality=ID|destination=ML}}</ref>
+| 30 days
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=MT}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=MH}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=MR}}</ref>
+|
+| 
+*Visa on arrival available at [[Nouakchott–Oumtounsy International Airport]].
+*[[International Certificate of Vaccination]] required.
+|-
+| {{flag|Mauritius}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=MU}}</ref>
+| 60 days<ref>{{cite web|url=http://passport.govmu.org/English/Passport%20and%20Visa%20Requirement%20in%20Mauritius/Pages/Visa-Requirements-in-Mauritius.aspx |title=Passport and Immigration office - Visa Requirements in Mauritius |publisher=Passport.govmu.org |date= |accessdate=2018-07-26}}</ref>
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=MX}}</ref>
+| 
+|
+* Visa requirement is waived for valid US, Canada, Japan, UK or Schengen visa holders.<ref>{{cite web|url=https://consulmex.sre.gob.mx/sanfrancisco/index.php/visas-traveling-to-mexico|title=Visas - Traveling to Mexico|website=consulmex.sre.gob.mx|language=es-es|access-date=2018-05-25}}</ref>
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=FM}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Moldova}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=ID|destination=MD}}</ref>
+| 90 days
+|
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=MC}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=MN}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=ME}}</ref> 
+
+| 
+|
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=MA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=MZ}}</ref>
+| 30 days<ref>{{cite web|url=http://www.mozambicanhotels.com/tourist-information/mozambique-tourism-news/mozambique-government-announces-30-day-tourist-visas-now-available-at-borders-for-all-visitors|title=Mozambique Government Announces 30-day Tourist Visas now Available at Borders for all Visitors - Mozambican Hotels|website=www.mozambicanhotels.com}}</ref>
+|
+|-
+| {{flag|Myanmar}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=MM}}</ref>
+| 14 days 
+|
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=NA}}</ref><ref>[https://allafrica.com/stories/201808310360.html Namibia: Geingob Wraps Up Indonesian Visit, Heads to China]</ref>
+|90 days
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=NL}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=NZ}}</ref>
+|
+| 
+*May transit without a visa.<ref>{{cite web|url=http://www.immigration.govt.nz/opsmanual/34911.htm|title=N2.5 Transit visa country waiver list|website=www.immigration.govt.nz}}</ref>
+|- 
+| {{flag|Nicaragua}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=NI}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=NG}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=NO}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=PK}}</ref>
+|
+|
+* Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Free visa on arrival}}<ref>{{Timatic|nationality=ID|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=PA}}</ref>
+| 
+|
+* Visa requirement is waived for multiple-entry, one year valid USA, Australia, Canada or UK visa holders. Schengen visa holders are also included in this category.<ref>{{cite web|url=http://www.embassyofpanama.org/inmigration-and-visas/|title=The Embassy of Panama in Washington D.C.|website=www.embassyofpanama.org|language=en-US|access-date=2018-05-26}}</ref>
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|Free visa on arrival}}<ref>{{Timatic|nationality=ID|destination=PG}}</ref>
+| 60 days
+| 
+*Free visa on arrival. 
+*Extension is possible with a fee
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=PY}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=PE}}</ref>
+| 183 days
+|
+|-
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=PH}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=PL}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=PT}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=RO}}</ref>
+| 
+|
+* Visa requirement is waived for multiple-entry Bulgaria, Cyprus, Croatia or Schengen visa holders.<ref>{{cite web|url=https://www.mae.ro/en/node/2040|title=V. Do I need a visa? {{!}} Ministry of Foreign Affairs|website=www.mae.ro|language=en|access-date=2018-05-26}}</ref>
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=RU}}</ref>
+|
+| 
+*72-hour visa-free visit to St Petersburg, if travelling using St. Peter Line.<ref>{{cite web|url=https://stpeterline.com/visa-free-rule|title=Visa free rule - Peterline|website=stpeterline.com}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=RW}}</ref>
+| 90 days
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|Electronic visa}}<ref>{{Timatic|nationality=ID|destination=KN}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=LC}}</ref>
+|
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=VC}}</ref>
+| 30 days
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=ID|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SM}}</ref>
+| 
+|
+* Only accessible via [[Italy]], therefore a [[Schengen Area|Schengen]] visa is required,
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|Electronic visa}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=ID&AR=00&PASSTYPES=PASS&DE=ST&user=KLMB2C&subuser=KLMB2C]</ref>
+| 15 days
+|
+* [[International Certificate of Vaccination]] required.
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SN}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=RS}}</ref>
+| 30 days
+|
+*30 days within period of one year<ref>{{cite web|url=http://mfa.rs/en/consular-news-from-front-page/115-consular-news/17006-decision-on-visa-exemption-for-the-nationals-of-the-republic-of-indonesia-holders-of-ordinary-passports|title=Decision on visa exemption for the nationals of the Republic of Indonesia, holders of ordinary passports|website=mfa.rs}}</ref>
+|-
+| {{flag|Seychelles}}
+| {{yes|{{sort|Visa on arrival|Free Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=ID|destination=SC}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SL}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=SG}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SK}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SI}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SB}}</ref>
+|
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=SO}}</ref>
+| 30 days| 
+|
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=ZA}}</ref>
+|
+|
+|-
+|
+{{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SS}}</ref>
+|| 
+|
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=ES}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{yes-no|Tourist Card on arrival}}<ref>{{Timatic|nationality=ID|destination=SR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SE}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref name="auto2">{{Timatic|nationality=ID|destination=CH}}</ref>
+| 
+|
+* A maximum of 90 days of stay within a 180 day period in the [[Schengen Area]].
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref name="auto2"/>
+| 
+|{{no|Due to safety concerns, Indonesian government advises its citizens not to visit Syria.}}<ref>{{cite web|author=admin infomed 8 |url=https://www.kemlu.go.id/id/berita/informasi-penting/Pages/Imbauan-Perjalanan-bagi-WNI-ke-Suriah.aspx |title=Kementerian Luar Negeri Indonesia - Imbauan Perjalanan bagi WNI ke Suriah |publisher=Kemlu.go.id |date=2018-04-14 |accessdate=2018-07-26}}</ref>
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=ID|destination=TJ}}</ref>
+| 45 days 
+| 
+*E-visa holders can enter through all border points.<ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|website=www.evisa.tj}}</ref>
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=TZ}}</ref>
+|
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=TH}}</ref>
+| 30 days 
+| 
+*Maximum two visits annually if not arriving by air
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref name="Test">{{Timatic|nationality=ID|destination=TL}}</ref>
+| 30 days
+|
+*Indonesian citizens are eligible for a visa-on-arrival at any point of entry.<ref>{{cite web|url=http://www.migracao.gov.tl/html/sub0301.php/|title=Tourist & Business Visa - Immigration Service of Timor Leste|website=www.migracao.gov.tl}}</ref>
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=TO}}</ref>
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=TT}}</ref>
+|
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=TN}}</ref>
+|
+|
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=ID|destination=TR}}</ref>
+| 30 days
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=TV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=UG}}</ref>
+|
+|
+* [[International Certificate of Vaccination]] required.
+|- 
+| {{flag|Ukraine}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://evisa.mfa.gov.ua/|title=Homepage - Ministry of Foreign Affairs of Ukraine|website=evisa.mfa.gov.ua}}</ref><ref>{{Timatic|nationality=ID|destination=UA}}</ref>
+| 15 days
+| 
+*Visa on arrival for business or tourism is available at [[Boryspil International Airport|Kyiv Boryspil Airport]], [[Kyiv International Airport (Zhuliany)]] and [[Odessa International Airport]].<ref>{{cite web|url=http://mfa.gov.ua/ua/consular-affairs/entering-ukraine/visa-boryspil |title=Оформлення віз для в’їзду в Україну в міжнародних аеропортах "Бориспіль" (KBP), "Жуляни" (IEV), "Одеса" (ODS) - МЗС України |publisher=Mfa.gov.ua |date=2018-02-02 |accessdate=2018-07-26}}</ref>
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AE}}</ref>
+| 
+|
+*Electronic visa available to passengers boarding Emirates or Etihad flight(s)
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GB}}</ref>
+|
+| 
+*24-hours visa-free visit: 
+**when in transit to/from Australia, Canada, New Zealand or USA,
+**or if holder of residence permit issued by Australia, Canada, New Zealand or USA, 
+**or if holder of certain EEA or Switzerland visas, 
+**or if holder of certain Irish visas.<ref>{{cite web|url=https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/527411/UK_Visa_requirements_3_June_2016.pdf |title=Visa requirements |date=2016 |website=www.gov.uk |format=PDF}}</ref><ref>{{cite web|url=https://www.gov.uk/check-uk-visa/y/indonesia/transit/somewhere_else/yes|title=Check if you need a UK visa  - GOV.UK|website=www.gov.uk}}</ref>
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=US}}</ref>
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=UY}}</ref>
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=UZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=VU}}</ref>
+| 
+|
+* A maximum of 30 days of stay for visitors, extendable up to 4 months at the Vanuatu Immigration.<ref name="auto1"/>
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=VA}}</ref>
+| 
+|
+* Only accessible via [[Italy]], therefore a [[Schengen Area|Schengen]] visa is required.
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=VE}}</ref>
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=VN}}</ref>
+| 30 days
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=YE}}</ref>
+|
+| {{no|As of April 2016, due to safety concerns, Indonesian government advises its citizens not to visit Yemen.}}<ref>[https://web.archive.org/web/20150518085847/http://www.kemlu.go.id/Pages/Highlights.aspx?IDP=113&l=id ]</ref><ref>{{cite web|author=admin infomed 3 |url=http://www.kemlu.go.id/id/berita/informasi-penting/Pages/Himbauan-WNI-ke-Yaman.aspx |title=Kementerian Luar Negeri Indonesia - Himbauan WNI ke Yaman |publisher=Kemlu.go.id |date=2016-04-04 |accessdate=2018-07-26}}</ref>
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=ZM}}</ref>
+| 30 days
+|
+* [[International Certificate of Vaccination]] required.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=ID|destination=ZW}}</ref>
+| 90 days
+| 
+|}
+
+===Unrecognized or partially recognized countries===
+{| class="wikitable" style="text-align: center; font-size: smaller; table-layout: fixed;"
+|-
+!Countries
+!Conditions of access
+
+|-
+! style="text-align: left;"|{{Flag|Abkhazia}}
+|{{no| [[Visa policy of Abkhazia|Visa required]]}}<ref>{{cite web |url=http://mfaapsny.org/en/council/visa.php |title=Archived copy |access-date=2016-02-11 |archive-url=https://web.archive.org/web/20160130185652/http://mfaapsny.org/en/council/visa.php |archive-date=2016-01-30 |dead-url=yes |df= }}</ref>
+|-
+! style="text-align: left;" | {{flag|Kosovo}}
+| {{no| [[Visa policy of Kosovo|Visa required]]}}<ref>{{cite web|url=http://www.mfa-ks.net/?page=2,20|title=Visas For Foreign Citizens - For Kosovo Citizens - Consular Services - Ministry of Foreign Affairs - Republic of Kosovo|website=Ministry of Foreign Affairs - Republic of Kosovo}}</ref> 
+|-
+! style="text-align: left;"|{{flag|Northern Cyprus}}
+|{{yes| [[Visa policy of Northern Cyprus|Visa not required]]}}<ref>{{cite web|url=http://mfa.gov.ct.tr/consular-info/visa-regulations/|title=VISA Regulations - Turkish Republic of Northern Cyprus|publisher=}}</ref>
+|-
+! style="text-align: left;"|{{Flag|Artsakh}}
+|{{no|[[Visa policy of Artsakh|Visa required]]}}<ref>{{cite web|url=http://nkr.am/en/the-procedure-of-foreign-citizens-entry-to-the-nkr/92/|title=The procedure of foreign citizens\ entry to the NKR - MFA NKR|website=nkr.am}}</ref>
+|-
+! style="text-align: left;" | {{flag|Palestine}}
+| {{yes|[[Visa policy of Palestine|Visa not required]]}}<ref>{{Timatic|nationality=ID|destination=PS}}</ref>
+|-
+! style="text-align: left;"|{{Flag|South Ossetia}}
+|{{yes|[[Visa policy of South Ossetia|Visa not required]]}}<ref>{{cite web|url=http://www.mfa-rso.su/en/node/406|title=Procedure of the Entry to the Territory of the Republic of South Ossetia - Министерство иностранных дел|website=www.mfa-rso.su}}</ref>
+|-
+! style="text-align: left;" | {{flag|Taiwan}}
+| {{No| [[Visa policy of Taiwan|Visa required]]}}<ref>{{cite web|url=http://www.boca.gov.tw/content?mp=2&CuItem=1443|title=外交部領事事務局全球資訊網|first=|last=外交部領事事務局|date=10 July 2017|website=外交部領事事務局}}</ref> 
+|-
+! style="text-align: left;"|{{Flag|Transnistria}}
+|{{yes|[[Visa policy of Transnistria|Visa not required]]}}<ref>{{cite web|url=http://mfa-pmr.org/index.php?newsid=310|title=Министерство иностранных дел ПМР|website=Министерство иностранных дел}}</ref>
+|}
+
+===Dependent and autonomous territories===
+{| class="wikitable" style="text-align: center; font-size: smaller; table-layout: fixed;"
+|-
+! style="width:18%;"| Countries
+! style="width:19%;"| Conditions of access
+! Notes
+|-
+! colspan="3" | United Kingdom
+|-
+! style="text-align: left;"|{{Flag|Anguilla}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AI}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Bermuda}}
+|{{yes|Visa not required}}<ref>{{Timatic|nationality=ID|destination=BM}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|British Virgin Islands}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=VG}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Cayman Islands}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=KY}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Falkland Islands}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=FK}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Gibraltar}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GI}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Guernsey}}
+|{{no|Visa required}}<ref>{{cite web|url=http://www.gov.gg/doirequireanentryclearance|title=Do I require an entry clearance/ VISA|publisher=|access-date=2018-05-09|archive-url=https://web.archive.org/web/20131202222421/http://www.gov.gg/doirequireanentryclearance|archive-date=2013-12-02|dead-url=yes|df=}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Isle of Man}}
+|{{no|Visa required}}<ref>{{cite web|url=http://www.gov.im/categories/home-and-neighbourhood/immigration/foreign-nationals/|title=Immigration Details for the Isle of Man|publisher=|access-date=2014-07-30|archive-url=https://web.archive.org/web/20140629181047/http://www.gov.im/categories/home-and-neighbourhood/immigration/foreign-nationals/|archive-date=2014-06-29|dead-url=yes|df=}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Jersey}}
+|{{no|Visa required}}<ref>{{cite web|url=http://www.gov.je/Travel/InformationAdvice/Visitors/Pages/VisaPassport.aspx|title=Visa and passport requirements for visitors|first=States of|last=Jersey|website=www.gov.je}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Montserrat}}
+|{{yes2|eVisa}}<ref>{{Timatic|nationality=ID|destination=MS}}</ref>
+| Visa may be obtained online<ref>{{cite web|url=https://www.immigration.ms/|title=Montserrat Online Visa Application :: Government of Montserrat :: Home|website=www.immigration.ms}}</ref>
+|-
+! style="text-align: left;"|{{flag|Saint Helena}}
+|{{yes2|eVisa}}<ref>{{cite web|title=Saint Helena eVisa|url=https://evisa.sainthelena.gov.sh|website=Saint Helena Government}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Pitcairn Islands}}
+|{{yes|Visa not required}}
+|<ref>{{cite web|url=https://www.gov.uk/foreign-travel-advice/pitcairn-island/entry-requirements|title=Entry requirements - Pitcairn Island travel advice|publisher=}}</ref><ref>{{cite web|url=http://www.government.pn/visaInfo.php|title=Pitcairn Islands|first=Bill|last=Haigh|website=www.government.pn}}</ref>
+|-
+! colspan="3" | China
+|-
+! style="text-align: left;"|{{flagicon|China}} [[Hainan]]
+| {{yes|Visa not required}}<ref>{{cite web|url=http://www.thejakartapost.com/travel/2018/04/18/china-to-offer-visa-free-travel-to-its-own-hawaii.html|title=China to offer visa-free travel to its own \Hawaii\|first=The Jakarta|last=Post|publisher=}}</ref>
+| 30 days
+|-
+! style="text-align: left;"|{{Flag|Hong Kong}}
+|{{yes|Visa not required}}
+|30 days<ref>{{Timatic|nationality=ID|destination=HK}}</ref>
+|-
+! style="text-align: left;"|{{Flag|Macau}}
+|{{yes|Visa not required}} 
+|30 days<ref>{{Timatic|nationality=ID|destination=MO}}</ref>
+|-
+! colspan="3" | Denmark
+|-
+! style="text-align: left;"|{{flag|Faroe Islands}}
+|{{no|Visa required}}<ref>{{cite web|url=http://www.visitfaroeislands.com/en/about-the-faroe-islands/important-facts-for-travelers/passport-and-Visa/|title=Passport and Visa|publisher=|access-date=2014-07-30|archive-url=https://web.archive.org/web/20140720043911/http://www.visitfaroeislands.com/en/about-the-faroe-islands/important-facts-for-travelers/passport-and-visa/|archive-date=2014-07-20|dead-url=yes|df=}}</ref>
+|
+|-
+! style="text-align: left;"|{{flag|Greenland}}
+|{{no|Visa required}}<ref>{{cite web|url=http://www.greenland-travel.com/practial-information|title=Practical information - Find practial information|website=www.greenland-travel.com}}</ref>
+|
+|-
+! colspan="3" | Netherlands
+|-
+! style="text-align: left;"|{{flag|Aruba}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AW}}</ref>
+| 
+|-
+! style="text-align: left;"|{{flagicon|Netherlands}} [[Caribbean Netherlands]]
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=BQ}}</ref>
+| includes [[Bonaire]], [[Sint Eustatius]] and [[Saba]]
+|-
+! style="text-align: left;"|{{flag|Curaçao}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=CW}}</ref>
+|
+|-
+! style="text-align: left;"|{{flag|Sint Maarten}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=SX}}</ref>
+|
+|-
+! colspan="3" | France
+|-
+! style="text-align: left;"|{{flag|French Guiana}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GF}}</ref>
+|
+|-
+! style="text-align: left;"|{{flag|French Polynesia}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=PF}}</ref>
+|
+|-
+! style="text-align: left;"|{{flagicon|France}} [[French West Indies]]
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GP}}</ref>
+| includes overseas departments of [[Guadeloupe]] and [[Martinique]] and overseas collectivities of [[Saint Martin]] and [[Saint Barthélemy]]
+|-
+! style="text-align: left;"|{{flag|Mayotte}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=YT}}</ref>
+|
+|-
+! style="text-align: left;"|{{flag|New Caledonia}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=NC}}</ref>
+|
+|-
+! style="text-align: left;"|{{flag|Réunion}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=RE}}</ref>
+|
+|-
+! style="text-align: left;"|{{flag|Saint Pierre and Miquelon}}
+|{{no|Visa required}}<ref name="diplomatie.gouv.fr">{{cite web|url=http://www.diplomatie.gouv.fr/en/france/coming-to-france/getting-a-Visa/article/foreign-nationals-holding-ordinary|title=Foreign nationals holding ordinary passports exempt from Visa requirements|publisher=}}</ref>
+|
+|-
+! style="text-align: left;"|{{flag|Wallis and Futuna}}
+|{{no|Visa required}}<ref name="diplomatie.gouv.fr"/>
+|
+|-
+! colspan="3" | New Zealand
+|-
+! style="text-align: left;"|{{Flag|Cook Islands}}
+|{{yes|Visa not required}}
+|31 days, including diplomatic passport<ref>{{Timatic|nationality=ID|destination=CK}}</ref>
+|-
+! style="text-align: left;"|{{Flag|Niue}}
+|{{yes|Visa not required}}
+|30 days, including diplomatic passport<ref>{{Timatic|nationality=ID|destination=NU}}</ref>
+|-
+! style="text-align: left;"|{{Flag|Tokelau}}
+|{{no|Visa required}}<ref>{{cite web |url=https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=NZ&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C |title=Archived copy |access-date=2014-03-15 |archive-url=https://archive.is/20140315034207/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=NZ&SECTION=VI&SUBSECTION=AI&user=KLMB2C&subuser=KLMB2C |archive-date=2014-03-15 |dead-url=yes |df= }}</ref>
+|
+|-
+! colspan="3" | United States
+|-
+! style="text-align: left;"|{{Flag|American Samoa}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=AS}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Guam}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=GU}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Northern Mariana Islands}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=MP}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|U.S. Virgin Islands}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=VI}}</ref>
+|
+|-
+! style="text-align: left;"|{{Flag|Puerto Rico}}
+|{{no|Visa required}}<ref>{{Timatic|nationality=ID|destination=PR}}</ref>
+|
+|}'}

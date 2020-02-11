@@ -1,0 +1,1292 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+! Reciprocity
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=AF}}</ref>
+|
+| 
+| {{yes|√}}
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=AL}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=DZ}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=AD}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=IE|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+| {{no|X}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=AG}}</ref>
+| 1 month
+|
+| {{yes|√}}
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=AR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=AM}}</ref>
+| 180 days
+|
+| {{no|X}}
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=IE|destination=AU}}</ref>
+| 90 days
+|
+*eVisitor, if granted, allows 90 day stay per visit for 12 months.
+*eVisitor is issued free of charge.
+| {{yes|√}}
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=AT}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IE|destination=AZ}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BS}}</ref>
+| 3 months
+| 
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>https://www.evisa.gov.bh/image/114.pdf</ref>
+| 3 months
+| 
+*Visa on arrival is single entry, subject to a fee.
+*Multiple entry visa available on arrival for 1 month stay.
+*Irish citizens can also apply for eVisas as an alternative.
+| {{no|X}}
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=BD}}</ref>
+| 30 days
+| 
+*Visitors can apply to extend their stay when in the country.
+| {{no|X}}
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BB}}</ref>
+| 6 months
+| 
+*Visitors must have proof of onward travel, whereby their final destination is their country of residence or origin.
+| {{yes|√}}
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BY}}</ref>
+| 30 days
+| 
+*Travellers must arrive via [[Minsk International Airport]] to avail of visa-free access.
+*Travellers must also depart from [[Minsk International Airport]], to a destination outside of Belarus and Russia.
+*Visa on arrival is not available to tourists travelling from Russia.
+| {{no|X}}
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=BE}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BZ}}</ref>
+| 1 month<ref name=A>Extendable length of stay.</ref>
+|
+| {{yes|√}}
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+| {{no|X}}
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=BT}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+*Visitors are required to book with a registered tour operator in Bhutan.
+| {{yes|√}}
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BO}}</ref>
+| 90 days
+| 
+*90 days within any year period
+| {{yes|√}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BA}}</ref>
+| 90 days
+| 
+*90 days within any 6-month period
+|  {{no|X}}
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BW}}</ref>
+| 90 days
+|
+*Extension to the visa-free period must be applied for in advance.
+| {{yes|√}}
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BR}}</ref>
+| 90 days
+| 
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=BN}}BN</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=BG}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=BF}}</ref>
+| 1 month
+|
+| {{no|X}}
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=BI|accessdate=9 October 2015}}</ref>
+|
+| 
+*Passengers holding an entry authorisation letter from the authorities may obtain a visa on arrival for a maximum stay of 1 month.
+| {{yes|√}}
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=23 July 2014 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=28 July 2014 |dead-url=yes |df=dmy-all }}</ref>
+*Visitors are not permitted to make day-trips to Cambodia (except in certain circumstances).
+| {{no|X}}
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=CM}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=CA}}</ref>
+| 6 months
+|
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref><ref>[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt Entry requirements by country:Visa-exempt]</ref>
+| {{yes|√}}
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=CV}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=CF}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=TD}}</ref>
+| 
+|
+*Visitors holding an \entry authorisation\ letter can pick up a visa on arrival.
+| {{yes|√}}
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=CL}}</ref>
+| 90 days
+|
+*Visitors are issued an immigration card on arrival and will be prevented from leaving Chile without it.
+| {{yes|√}}
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=CN}}</ref>
+|
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+| {{yes|√}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=CO}}</ref>
+| 90 days
+|
+*Visitors may only enter Colombia for up to 180 days in any calendar year.
+| {{no|X}}
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=KM}}</ref>
+| 45 days
+|
+| {{no|X}}
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=CG}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=CD}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=CR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>[http://www.snedai.com/en/ Visa at International Airport Felix Houphouet Boigny in Abidjan]</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]]
+| {{no|X}}
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=HR}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=IE|destination=CU}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=CY}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=CZ}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=DK}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+| 
+| {{no|X}}
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=DM}}</ref>
+| 6 months
+|
+| {{yes|√}}
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=DO}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=EC}}</ref>
+| 90 days<ref name="A" />
+|
+*Extension of stay is possible.
+| {{no|X}}
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=EG}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=SV}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=GQ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=ER}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=EE}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=SZ}}</ref>
+| 30 days<ref name="A" />
+|
+*Extension of stay possible for a maximum of 90 days in total.
+|{{yes|√}}
+|-
+| {{flag|Ethiopia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=ET}}</ref>
+|
+| 
+*Only available at [[Addis Ababa Bole International Airport]]
+| {{no|X}}
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=FJ}}</ref>
+| 4 months
+|
+| {{yes|√}}
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=FI}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|France}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=FR}}</ref>
+| 
+| Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].
+| {{no|X}}
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=GM}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=GE}}</ref>
+| 1 year
+|
+| {{no|X}}
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=DE}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=GH}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=GR}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=GD}}</ref>
+| 3 months<ref name="A" />
+|
+| {{yes|√}}
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=GT}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=GN}}</ref>
+|
+| 
+| {{yes|√}}
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=GW}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=GY}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=HT}}</ref>
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=HN}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Hungary}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=HU}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=IS}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+| {{no|X}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=ID}}</ref>
+| 30 days
+| 
+*Not available at all entry points.
+| {{no|X}}
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=IR}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+*A visa on arrival is only available at [[Qeshm International Airport|Qeshm]], [[Kish International Airport|Kish]], [[Mashhad International Airport|Mashhad]], [[Isfahan International Airport|Isfahan]], [[Shiraz International Airport|Shiraz]], [[Tabriz International Airport|Tabriz]] and [[Tehran Imam Khomeini International Airport|Tehran]].
+*Extension of stay is possible.
+*Women will be refused entry if not wearing Islamic head cover, scarf, long sleeves or stockings.
+*All foreigners must report to the Iranian police within 8 days of arrival.
+*Visa on arrival excludes all reporters, journalists, photographers and cameramen, who must obtain a visa prior to entering Iran.
+*A visa on arrival for business travellers is available if holding a letter of invitation from a government agency which is issued at least 2 days prior to arrival.
+| {{no|X}}
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=IQ}}</ref>
+|
+|
+*Visa on arrival is available at [[Sulaimaniyah International Airport|Sulaimaniyah]] and [[Erbil International Airport|Erbil]] airports and stays are limited to 15 days, with an extension of stay possible.
+| {{yes|√}}
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=IL}}</ref>
+| 3 months
+|
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=IT}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=JM}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=JP}}</ref>
+| 90 days
+|
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Jordan}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=IE|destination=JO}}</ref>
+|6 months
+| 
+*A free visa on arrival may be obtained only when travel is organised through an authorised tour operator in Jordan. The tour group must not consist of less than 5 people and there must be a minimum 2 night stay in Jordan. A return ticket must be presented to avail of this visa option.
+*All other passengers who are not travelling as part of a tour group may obtain a visa on arrival, subject to a fee. The visa on arrival has a maximum validity of 6 months.
+*Visa fees may be waived for those in possession of a Jordan Pass depending on the length of their visit to the kingdom. <ref>[https://www.jordanpass.jo/Contents/What_is_Jordan_Pass.aspx]</ref>
+| {{no|X}}
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=KZ}}</ref>
+| 30 days 
+| 
+| {{no|X}}
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+| {{no|X}}
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=KI}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=KP}}</ref>
+|
+| 
+| {{yes|√}}
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=KR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait eVisa]</ref>
+| 3 months
+|
+| {{no|X}}
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=KG}}</ref>
+| 60 days
+|
+| {{no|X}}
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=LA}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+| {{no|X}}
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=LV}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|- 
+| {{flag|Lebanon}}
+| {{yes|Free visa on arrival}}<ref>{{Timatic|nationality=IE|destination=LB}}</ref>
+| 1 month
+|
+*Free visa on arrival can be granted whenever a telephone number and address in Lebanon is provided.
+*Visa can be extended for an additional two months.
+| {{no|X}}
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=LS}}</ref>
+| 90 days
+|
+|{{yes|√}}
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=LR}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival, subject to conditions.
+| {{yes|√}}
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=LY}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+*Passengers arriving in Libya must hold a non-objection form issued by the Libyan Immigration Authorities.
+*All travellers arriving in Libya for tourism must convert $1000 USD in freely convertible currency, or debit the amount from a credit card upon arrival in the country.
+| {{yes|√}}
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=LI}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=LT}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=LU}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=MK}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Madagascar}}
+| {{yes-no|{{sort|Visa on arrival|Visa on arrival}}}}<ref>{{Timatic|nationality=IE|destination=MG}}</ref>
+| 90 days
+|
+*A visa on arrival is only granted for those who have a return ticket.
+| {{no|X}}
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=MW}}</ref>
+| 90 days
+|
+*A residence permit must be obtained for those wishing to stay beyond 90 days.
+| {{no|X}}
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=MY}}</ref>
+| 3 months
+|
+*If no return ticket is held, one must be purchased at the border or entry will be refused.
+| {{yes|√}}
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=MV}}</ref>
+| 30 days<ref name="A" />
+|
+| {{no|X}}
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=ML}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=MT}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Marshall Islands}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=IE|destination=MH}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+| {{no|X}}
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=MU}}</ref>
+| 90 days
+|
+*180 days maximum stay in any one calendar year.
+| {{no|X}}
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=MX}}</ref>
+| 180 days
+|
+| {{yes|√}}
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=FM}}</ref>
+| 30 days
+|
+*Extension of stay is possible.
+| {{no|X}}
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=MD}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+| {{no|X}}
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=MC}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=MN}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=ME}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=MA}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=MZ}}</ref>
+| 30 days
+|
+*Not available at all entry points.
+*Extension of stay is possible.
+| {{no|X}}
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IE|destination=MM}}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+| {{no|X}}
+|-
+| {{flag|Namibia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=NA}}</ref>
+| 3 months
+|
+| {{no|X}}
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=NR}}</ref>
+|
+|
+*Visa requirement waived for holders of an Entry Permit letter.
+| {{no|X}}
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=NP}}</ref>
+| 90 days
+| 
+*Extension of stay is possible of up to 150 days.
+*Business travellers can obtain a visa on arrival for a maximum stay of 5 years, subject to a fee and a license issued by the Ministry of Industry.
+| {{no|X}}
+|- 
+| {{flag|Netherlands}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=NL}}</ref>
+| colspan=2 |
+*Freedom of movement ([[European Netherlands]])
+| {{free|√}}
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=NZ}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=NI}}</ref>
+| 90 days
+|
+*Tourist card must be obtained on arrival, subject to a fee.
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=NE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=NG}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=NO}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+*A visa waiver is in place for travellers who are arriving directly from the Emirate of Dubai who have a visa or an entrance stamp from Dubai, whereby the visa must be valid for 21 days at least upon arrival in Oman.
+*A visa waiver is in place for travellers who are arriving directly from Qatar, whereby the visa must state as being valid for Oman and must be valid for at least one month on arrival.
+| {{no|X}}
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=PK}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+| {{yes|√}}
+|-
+| {{flag|Palau}}
+| {{yes|Free visa on arrival}}<ref>{{Timatic|nationality=IE|destination=PW}}</ref>
+| 30 days
+|
+*Extension is possible for a fee.
+| {{no|X}}
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=PA}}</ref>
+| 180 days
+|
+| {{yes|√}}
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=IE|destination=PG}}</ref>
+| 60 days
+|
+*Visa on arrival available at Port Moresby and Rabaul.
+*Tourists can obtain a visa on arrival free of charge, whilst those travelling on business must pay in cash.
+| {{no|X}}
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=PY}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=PE}}</ref>
+|183 days
+|
+| {{no|X}}
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=PH}}</ref>
+| 30 days
+|
+*A visa on arrival is available for a maximum stay of 59 days.
+*Extension of stay is only possible for those who obtained a visa on arrival, to a maximum of 1 year.
+| {{no|X}}
+|-
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=PL}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=PT}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=QA}}</ref>
+| 30 days
+| 
+*Visa waiver available for Irish citizens with a 30 day extension available.
+| {{no|X}}
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=RO}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=RU}}</ref>
+|
+|
+*Visa waiver available for passengers arriving by cruise only who are staying in Russia for a maximum of 72 hours.
+| {{yes|√}}
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=RW}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=KN}}</ref>
+| 3 months
+|
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=LC}}</ref>
+| 6 weeks
+|
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=VC}}</ref>
+| 1 month
+|
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|Samoa}}
+| {{yes|{{sort|Visa on arrival|Free Entry Permit on arrival}}}}<ref>{{Timatic|nationality=IE|destination=WS}}</ref>
+| 60 days
+|
+*Extension of stay is possible.
+| {{yes|√}}
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=SM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+| {{no|X}}
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=SA}}</ref>
+| 
+|
+*Muslim female passengers are subject to restrictions when arriving for Umrah or Hajj.
+| {{yes|√}}
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=SN}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=RS}}</ref>
+| 90 days
+|
+*Irish citizens may stay in Serbia for 90 days within any 6-month period.
+*Extension is possible.
+|  {{no|X}}
+|-
+| {{flag|Seychelles}}
+| {{yes|{{sort|Visa on arrival|Free Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=IE|destination=SC}}</ref>
+| 3 months<ref name="A" />
+|
+*Irish citizens can extend their stay for three months, up to a maximum of 12 months.
+*Visitor\s permit is issued free of charge, subject to documentation being provided at the entry point.
+| {{yes|√}}
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=SL}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=SG}}</ref>
+| 90 days
+|
+*Extension of stay possible.
+| {{yes|√}}
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=SK}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=SI}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Solomon Islands}}
+| {{yes|{{sort|Visa on arrival|Free Visitor\s permit on arrival}}}}<ref>{{Timatic|nationality=IE|destination=SB}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=SO}}</ref>
+|
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+| {{no|X}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=ZA}}</ref>
+| 90 days
+|
+*Extension of stay possible for an additional 90 days.
+|{{yes|√}}
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=SS}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=ES}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=LK}}</ref>
+| 30 days
+|
+*Extension of stay possible for an additional 150 days for Irish citizens.
+| {{no|X}}
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=SD}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=SR}}</ref>
+|
+|
+* Visa on arrival is available to countries without Suriname representation for a maximum of 2 months, subject to prearranged approval.
+| {{yes|√}}
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=SE}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=CH}}</ref>
+| colspan=2 |
+*Freedom of movement
+| {{free|√}}
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>[http://english.alarabiya.net/en/News/middle-east/2014/03/12/Syria-issues-law-imposing-visas-on-its-visitors-.html]</ref> 
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Tajikistan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=TJ}}</ref>
+| 45 days
+| 
+*Visa also available online. E-visa holders can enter through all border points.<ref>https://www.evisa.tj</ref>
+| {{no|X}}
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=TZ}}</ref>
+|
+|
+*Fee payable in USD at border.
+| {{no|X}}
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=TH}}</ref>
+| 30 days
+|
+*ACMECS Single Visa issued by Cambodia and Thailand are valid for 90 days from the date of issue and are valid for a stay of 60 days in Thailand.
+*Extension of stay is possible.
+*Maximum two visits annually if not arriving by air.
+| {{no|X}}
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=TL}}</ref>
+| 30 days
+| 
+*Extension of stay possible for up to 90 days.
+| {{no|X}}
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=TG}}</ref>
+| 7 days
+|
+*Extension of stay possible for an additional 90 days, subject to a fee.
+| {{no|X}}
+|-
+| {{flag|Tonga}}
+| {{yes-no|{{sort|Visa on arrival|Visa on arrival}}}}<ref>{{Timatic|nationality=IE|destination=TO}}</ref>
+| 31 days
+|
+*Visa on arrival is issued free of charge.
+*Extension of stay for a further 5 months is possible.
+| {{no|X}}
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=TT}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=TN}}</ref>
+| 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Turkey}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IE|destination=TR}}</ref>
+| 3 months 
+|
+| {{no|X}}
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=TM}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+| {{yes|√}}
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=TV}}</ref>
+| 1 month<ref name="A" />
+|
+| {{no|X}}
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=UG}}</ref>
+|
+|
+*Must be applied for online before travel.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+*An East Africa Tourist Visa issued by Kenya or Rwanda can also be used for entry.<ref>[https://www.migration.gov.rw/index.php?id=233]</ref>
+| {{no|X}}
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period.
+| {{no|X}}
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|{{sort|Free visa on arrival|Visa on arrival}}}}<ref>{{Timatic|nationality=IE|destination=AE}}</ref>
+| 30 days
+|
+*Visa on arrival is free of charge to Irish citizens.
+*Extension of stay is possible for a further 30 days.
+| {{no|X}}
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=IE|destination=GB}}</ref>
+| colspan=2 |
+*Freedom of movement (in [[Countries of the United Kingdom|Constituent countries]])
+| {{free|√}}
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=IE|destination=US}}</ref>
+| 90 days
+|  
+*[[Electronic System for Travel Authorization|ESTA]] required if arriving by air or cruise ship.<ref>[https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico,]</ref>
+*ESTA is valid for two years when issued.
+*Holders of non-biometric passports must obtain a visa for the United States as they are ineligible to apply for an ESTA.
+*Leaving the United States and re-entering from Canada or Mexico will not reset the original 90 day maximum stay. You can only reset the timer by leaving North America.
+| {{yes|√}}
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=UY}}</ref>
+| 90 days
+|
+*Extension of stay is possible for a further 90 days.
+| {{yes|√}}
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IE|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+| {{yes|X}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=VU}}</ref>
+| 30 days<ref name="A" />
+|
+| {{yes|√}}
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=VA}}</ref>
+|
+| 
+| {{yes|√}}
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=VE}}</ref>
+| 90 days
+|
+*Extension of stay is possible for a further 90 days.
+| {{no|X}}
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IE|destination=VN}}</ref>
+| 30 days
+|
+*A single entry eVisa is available.<ref>[https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt E-visa]</ref>
+*Fee payable.
+| {{no|X}}
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IE|destination=YE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Zambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IE|destination=ZM}}</ref>
+| 90 days
+|
+*For those travelling to Zambia for business, the maximum stay is 30 days in any one-year period.
+*Tourists are allowed 90 days in any one-year period.
+| {{no|X}}
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IE|destination=ZW}}</ref>
+| 3 months
+|
+*For those travelling to Zimbabwe for business, a visa on arrival can also be issued for a maximum stay of 30 days.
+| {{no|X}}
+|}'}

@@ -1,0 +1,1036 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+{{Cite-section|small=y|date=November 2018}}
+{| class="sortable wikitable"
+|-
+! style="width:18%;"|Country
+! style="width:22%;"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|- 
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AF}}</ref>
+|
+|
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AL}}</ref>
+|
+| 
+*Visa required; except with valid multi entry visa issued by [[United States]], [[United Kingdom]] or an [[EU Member State]], used at least once prior arrival, then max 90 days.{{fact|date=April 2018}}
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=DZ}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AD}}</ref>
+|
+| 
+*Andorra has no visa regime; only accessible through [[France]] and [[Spain]]. 
+*Valid multi entry visa issued by an [[EU Member State]] is required.{{fact|date=April 2018}}
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AO}}</ref>
+|
+| 
+*Visa required; except by confirming visa approved prior departure, then visa on arrival.{{fact|date=April 2018}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes2|Electronic Entry Visa}}<ref>{{Timatic|nationality=IR|destination=AG}}</ref>
+|
+| 
+*Visa on arrival for 90 days with valid visa or PR card for [[United States]], [[Canada]], [[United Kingdom]] or an [[EU Member State]].{{fact|date=April 2018}}
+*E-visas can be obtained before departure at www.immigration.gov.ag. Passengers must have a printed e-visa confirmation.<ref>{{Timatic|nationality=IR|destination=AG}}</ref><ref>http://cms.olympicair.com/timatic/webdocsI/countryinfo.html</ref>
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AR}}</ref>
+|
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=AM}}</ref>
+| 90 days 
+|
+|-
+| {{flag|Australia}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AU}}</ref>
+|
+| 
+*May obtain visa through an online process (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+|-
+| {{flag|Austria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AT}}</ref>
+|
+|
+|-
+| {{flag|Azerbaijan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=AZ}}</ref><ref>{{cite web|url=https://evisa.gov.az/en/countries|title=The Electronic Visa System of Azerbaijan Republic|website=evisa.gov.az}}</ref>
+| 30 days
+|
+*eVisa holder  can enter Azerbaijan at any border entry point<ref>{{cite web|url=http://azerbaijan24.com/visas/azerbaijan-visa-support/|title=Azerbaijan tourist visa, evisa, electronic visa|website=azerbaijan24.com}}</ref>
+*Visa on arrival is available at any international airport.<ref>{{cite web|url=https://www.aviaport.ru/digest/2018/03/19/532707.html|title=МИД Азербайджана: В аэропортах гражданам Ирана начали оформлять въездные визы&nbsp;(АвиаПорт)|publisher=}}</ref>
+|-
+| {{flag|Bahamas}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BS}}</ref>
+|
+| 
+*90 days with valid US/UK visa.{{fact|date=April 2018}}
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BH}}</ref>
+|
+|
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BD}}</ref>
+| 
+|
+|-
+| {{flag|Barbados}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BB}}</ref>
+| 
+|
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BY}}</ref>
+| 
+|
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BE}}</ref>
+|
+|
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BZ}}</ref>
+|
+| 
+*Visa on arrival for 90 days with valid Schengen or multi entry US visa.{{fact|date=April 2018}}
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=BJ}}</ref><ref>{{cite web|url=https://evisa.gouv.bj/en/|title=Accueil  e-visa|website=evisa.gouv.bj}}</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BT}}</ref>
+| 
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=BO}}</ref>
+| 30 days
+| 
+*Available at [[Cochabamba]], [[La Paz]] and [[Santa Cruz de la Sierra|Santa Cruz]] airports.{{fact|date=April 2018}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BA}}</ref>
+|
+| 
+*30 days with a valid multiple entry visa from an EU, Schengen State, or USA.{{fact|date=April 2018}}
+|-
+| {{flag|Botswana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BW}}</ref>
+|
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BR}}</ref>
+|
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BN}}</ref>
+|
+|
+|-
+| {{flag|Bulgaria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BG}}</ref>
+|
+| 
+*90 days in any 6-month period for Schengen visa holders.<ref>{{cite web|url=https://www.mfa.bg/en/pages/109/index.html|title=Ministry of Foreign Affairs - Visa for Bulgaria|website=Ministry of Foreign Affairs}}</ref>
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=BF}}</ref>
+|
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{cite web|url=http://www.ambassade-du-burundi.fr/demande-de-visa/|title=MINISTERE DE LA SECURITE PUBLIQUE, DIRECTION GENERALE DE LA POLICE NATIONALE, COMISSARIAT GENERAL DE LA POLICE DE L\AIR,  DES FRONTIERES ET DES ETRANGERS NOTE CIRCULAIRE DU 17/02/2015|publisher=|access-date=2015-02-26|archive-url=https://web.archive.org/web/20140722124715/http://www.ambassade-du-burundi.fr/demande-de-visa/|archive-date=2014-07-22|dead-url=yes|df=}}</ref><ref>{{Timatic|nationality=IR|destination=BI}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>https://www.evisa.gov.kh/</ref><ref>{{Timatic|nationality=IR|destination=KH}}</ref>{{dubious|date=November 2018}}
+| 
+| 
+*E-visas can be obtained before departure at https://www.evisa.gov.kh/.
+
+*Nationals of Iran can obtain a visa on arrival for a maximum stay of 30 days. They must have a passport with at least 1 unused visa page and a passport photo. They can apply to extend their stay.
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CM}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CA}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=CV}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CF}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=TD}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CL}}</ref>
+| 
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref name="auto">{{Timatic|nationality=IR|destination=CN}}</ref>
+|
+| 
+*Visas issued outside of Iran/China require residence/work permit.<ref name="auto"/> Special Economic Zone (SEZ) visa on arrival is available for Zhuhai/Xiamen for 3 days.{{fact|date=April 2018}}
+|- 
+| {{flag|Colombia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CO}}</ref>
+|
+| 
+*May apply online.<ref>http://www.cancilleria.gov.co/tramites_servicios/visas/solicitud-visa-linea]</ref>
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=KM}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CG}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CD}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CR}}</ref>
+|
+| 
+*30 days with multi entry US/Canada visa.{{fact|date=April 2018}}
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IR|destination=CI}}</ref>
+|
+| 
+*Must arrive at Port Bouet Airport.<ref>{{cite web|url=http://www.snedai.com/en/|title=Energie – SNEDAI GROUPE|website=www.snedai.com}}</ref>
+|-
+| {{flag|Croatia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=HR}}</ref>
+|
+| 
+*Visa required; except for holders of valid multi entry Schengen visa, used at least once prior arrival, then max 90 days.{{fact|date=April 2018}}
+|- 
+| {{flag|Cuba}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CU}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CY}}</ref>
+|
+| 
+*Visa required; except for holders of valid multi entry Schengen visa, used at least once prior arrival, then max 90 days.{{fact|date=April 2018}}
+|-
+| {{flag|Czech Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CZ}}</ref>
+| 
+|
+|-
+| {{flag|Denmark}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=DK}}</ref>
+| 
+|
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gouv.dj/#/|title=eVisa|website=www.evisa.gouv.dj}}</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=DM}}</ref>
+| 21 days
+|
+|-
+| {{flag|Dominican Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=DO}}</ref>
+|
+| 
+*90 days with US/Canada/EU visa.{{fact|date=April 2018}}
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=EC}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{no|Visa required}}<ref name="auto1">{{Timatic|nationality=IR|destination=EG}}</ref>
+|
+| 
+*Entry visas must be endorsed by Security Approval from Security of State.<ref name="auto1"/>
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SV}}</ref>
+| 
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GQ}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=ER}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=EE}}</ref>
+|  
+|
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SZ}}</ref>
+| 
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://www.evisa.gov.et/#/home|title=Welcome to Ethiopian eVISA - Apply for Ethiopian VISA online|website=www.evisa.gov.et}}</ref>
+| 
+|
+*eVisa holders must arrive at [[Addis Ababa Bole International Airport]].<ref>{{cite web|url=https://www.evisa.gov.et/#/faqs|title=Welcome to Ethiopian eVISA - Apply for Ethiopian VISA online|website=www.evisa.gov.et}}</ref>
+|-
+| {{flag|Fiji}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=FJ}}</ref>
+|
+|
+|-
+| {{flag|Finland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=FI}}</ref>
+|  
+|
+|-
+| {{flag|France}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=FR}}</ref>
+|
+|
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://evisa.dgdi.ga/|title=Gabon e-Visa|website=evisa.dgdi.ga}}</ref>
+|
+| 
+*eVisa holders must arrive at [[Libreville International Airport]].{{fact|date=April 2018}}
+|-
+| {{flag|Gambia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GM}}</ref>
+|
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=GE}}</ref>
+| 45 days
+|
+|-
+| {{flag|Germany}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=DE}}</ref>
+|  
+|
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GH}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GR}}</ref>
+|  
+|
+|-
+| {{flag|Grenada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GD}}</ref>
+|
+|
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GT}}</ref>
+|
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GN}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=GW}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GY}}</ref>
+|
+| 
+*30 days for holders of sponsor/host invite letter.{{fact|date=April 2018}}
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=HT}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=HN}}</ref>
+| 
+|
+|-
+| {{flag|Hungary}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=HU}}</ref>
+|  
+|
+|- 
+| {{flag|Iceland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=IS}}</ref>
+|  
+|
+|- 
+| {{flag|India}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://indianvisaonline.gov.in/evisa/tvoa.html |title=Indian e-Visa |publisher=Indianvisaonline.gov.in |date=2014-04-01 |accessdate=2018-07-26}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=ID}}</ref>
+| 
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=IQ}}</ref>
+|
+| 
+
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=IE}}</ref>
+|  
+|
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=IL}}</ref>
+|
+| 
+*Confirmation from Israeli government is required before a visa is issued.<ref>[https://web.archive.org/web/20160122110514/http://www.mfa.gov.il/MFA/ConsularServices/Documents/VisaRequirements-Tourists.pdf]</ref>
+|-
+| {{flag|Italy}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=IT}}</ref>
+|  
+|
+|-
+| {{flag|Jamaica}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=JM}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=JP}}</ref>
+|
+|
+|-
+| {{flag|Jordan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=JO}}</ref>
+|
+| 
+*Normal passport holders must obtain security approval prior to arrival.{{fact|date=April 2018}} 
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=KZ}}</ref>
+|
+| 
+*Visa free for tourist groups of 5-50.<ref>{{cite web|url=https://csglobalpartners.com/visa-free-digest-january-2017|title=Visa-Free Digest: January 2017 - CS Global Partners|date=10 February 2017|publisher=}}</ref>
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}} <ref>{{Timatic|nationality=IR|destination=KE}}</ref>
+| 3 months
+| 
+*May apply online.<ref>{{cite web|url=https://www.ecitizen.go.ke/|title=eCitizen - Gateway to All Government Services|first=|last=eCitizen|website=www.ecitizen.go.ke}}</ref>
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=KI}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=KR}}</ref>
+| 
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=KW}}</ref>
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IR|destination=KG}}</ref><ref>[https://web.archive.org/web/20170714163042/http://evisa.e-gov.kg/about_visa.php?lng=en ]</ref>
+|
+| 
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+*Reciprocal visa-free scheme agreed.<ref>{{cite web|url=http://en.farsnews.com/newstext.aspx?nn=13960305000539|title=Farsnews|website=en.farsnews.com}}</ref>
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=LA}}</ref>
+| 30 days
+|
+|-
+| {{flag|Latvia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=LV}}</ref>
+|  
+|
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=LB}}</ref>
+| 30 days
+| 
+*Extendable for 2 months
+*Free at [[Beirut International Airport]] or any other entry port (no Israeli visa/seal, hold a phone number, Lebanese address, non-refundable return/circle ticket).{{fact|date=April 2018}}
+*Passports of Iranian travellers entering Lebanon will not being stamped<ref>https://gulfnews.com/news/mena/lebanon/iranian-passports-no-longer-stamped-in-lebanon-1.2238186</ref>
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>{{cite web|url=http://evisalesotho.com|title=visa lesotho tourism documents travel evisalesotho.com|website=Lesotho E-Visa}}</ref><ref>{{Timatic|nationality=IR|destination=LS}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=LR}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{BLACK|style=color:white;|Admission refused}}<ref>{{Timatic|nationality=IR|destination=LY}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=LI}}</ref>
+|  
+|
+|-
+| {{flag|Lithuania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=LT}}</ref>
+| 
+| 
+|-
+| {{flag|Luxembourg}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=LU}}</ref>
+| 
+|
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MK}}</ref>
+|
+| 
+*Visa required; except for holders of valid multi entry Schengen visa, used at least once prior arrival, then max 15 days.{{fact|date=April 2018}}
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=MG}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MW}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=MY}}</ref>
+| 14 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=MV}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=ML}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MT}}</ref>
+| 
+|
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MH}}</ref>
+|
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]]{{fact|date=April 2018}}
+|-
+| {{flag|Mauritius}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MU}}</ref>
+|
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MX}}</ref>
+|
+| 
+*Visa required; except with valid visa issued by [[Canada]], [[Japan]], [[United States]], [[United Kingdom]] or an [[EU Member State]], then max 180 days. <ref name="auto2">{{cite web |url=http://cms.olympicair.com/timatic/webdocsI/spdbmainv.html |title=TimaticWeb |}}</ref>
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=FM}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MD}}</ref>
+|
+|
+|-
+| {{flag|Monaco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MC}}</ref>
+| 
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MN}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=ME}}</ref>
+|
+| 
+*Visa required; except with valid visa issued by [[Ireland]], [[United States]], [[United Kingdom]] or an [[EU Member State]], then max 30 days.<ref name="auto2"/> 
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MA}}</ref>
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=MZ}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=MM}}</ref>
+|
+|
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=NA}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=NR}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=NP}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=NL}}</ref>
+| 
+|
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=NZ}}</ref>
+|
+| 
+*May obtain visa through an online process.<ref>{{cite web|url=https://www.immigration.govt.nz/about-us/our-online-systems/applying-for-a-visa-online/immigration-online/evisas|title=What is an eVisa? - Immigration New Zealand|website=www.immigration.govt.nz}}</ref>
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=NI}}</ref>
+| 
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=NE}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IR|destination=NG}}</ref><ref>{{cite web|url=https://portal.immigration.gov.ng/visa/freshVisa|title=The Nigeria Immigration Service|website=portal.immigration.gov.ng}}</ref>
+|
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=KP}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=NO}}</ref>
+| 
+|
+|-
+| {{flag|Oman}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web|url=https://evisa.rop.gov.om/|title=Home - Evisa|website=evisa.rop.gov.om}}</ref><ref>{{Cite news|url=http://gulfbusiness.com/oman-adds-china-iran-russia-to-visa-arrival-list/|title=Oman adds China, Iran, Russia to visa on arrival list
+|work=Gulf Business|access-date=2018-05-09|language=en-GB}}</ref>
+| 30 days
+| 
+*Nationals of Iran travelling as tourists can obtain a single entry, 1 month visa on arrival. They must have a return/onward ticket and a hotel reservation, or residential address in Oman w/ contact details.<ref>{{cite web|url=https://www.iatatravelcentre.com/OM-Oman-passport-visa-health-travel-document-requirements.htm|title=IATA - Oman Personalised Passport, Visa & Health travel documentation advice|website=www.iatatravelcentre.com}}</ref>
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PK}}</ref>
+|
+| 
+*Visa on arrival if travelling for business, valid for 30 days; conditions apply.<ref>{{cite web|url=http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L|title=Business Visa. Ministry of Interior of Pakistan|publisher=}}</ref>
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=PW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PA}}</ref>
+|
+| 
+*30 days with a valid Australia/Canada/US/UK visa.{{fact|date=April 2018}}
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PG}}</ref>
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PY}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PE}}</ref>
+|
+|
+|- 
+| {{flag|Philippines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PH}}</ref>
+| 
+|
+|- 
+| {{flag|Poland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PL}}</ref>
+| 
+|
+|-
+| {{flag|Portugal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=PT}}</ref>
+|
+|
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IR|destination=QA}}</ref>
+|
+| 
+*May apply online.<ref>{{cite web|url=https://portal.moi.gov.qa/qatarvisas |title=Qatar Visas |publisher=Portal.moi.gov.qa |date= |accessdate=2018-07-26}}</ref>
+|-
+| {{flag|Romania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=RO}}</ref>
+|
+|
+*Visa required; except with valid multi entry Schengen visa, used at least once prior arrival, then max 90 days.{{fact|date=April 2018}}
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=RU}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Russia. Regional eVisa}}
+*15 day visa waiver for tourist groups of 5-50 was signed in March 2017 and is yet to be ratified. <ref>{{cite web|url=http://www.mid.ru/ru/foreign_policy/international_contracts/2_contract/-/storage-viewer/bilateral/page-1/51947|title=Двусторонние договоры|website=www.mid.ru}}</ref>
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=RW}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IR|destination=KN}}</ref>
+| 
+|
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=LC}}</ref>
+| 
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=VC}}</ref>
+|
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=IR|destination=WS}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SM}}</ref>
+| 
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes2|eVisa}}<ref>{{cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|
+| 
+*Citizens of Iran may enter with valid multi entry Schengen visa, used at least once prior arrival, for max 15 days.{{fact|date=April 2018}}
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SA}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SN}}</ref>
+| 
+|
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=RS}}</ref>
+| 
+| 
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=IR|destination=SC}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SL}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SG}}</ref>
+|
+| 
+*Simplified application online through the \Submission of Application for Visa Electronically\ (SAVE) system.{{fact|date=April 2018}}
+|-
+| {{flag|Slovakia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SK}}</ref>
+|
+|
+|-
+| {{flag|Slovenia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SI}}</ref>
+| 
+|
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SB}}</ref>
+|
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}{{fact|date=April 2018}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=ZA}}</ref>
+|
+|Negotiations are being finalized to conclude Visa Waiver Agreements for Iranian ordinary passport holders.<ref>{{http://www.dha.gov.za/index.php/statements-speeches/1186-statement-by-the-minister-of-home-affairs-mr-malusi-gigaba-mp-at-the-media-briefing-on-visa-related-reforms-in-pretoria-on-25-september-2018?platform=hootsuite}}</ref>
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SS}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=ES}}</ref>
+| 
+|
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=LK}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SD}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SR}}</ref>
+|  
+|
+|-
+| {{flag|Sweden}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=SE}}</ref>
+| 
+|
+|-
+| {{flag|Switzerland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=CH}}</ref>
+| 
+|
+|- 
+| {{flag|Syria}}
+| {{n/a|Disputed}}
+|
+| 
+*[[IATA]] states 90 day visa issued on arrival; <ref>{{Timatic|nationality=IR|destination=SY}}</ref> deputy foreign minister states bilateral visa free regime.<ref>{{cite web|url=http://www.iran-daily.com/News/127471.html|title=Iran ready to ease visa requirements|website=www.iran-daily.com}}</ref> But Law No.2 of 2014 states all visitors require a visa prior to arrival.<ref>{{cite web |url= http://www.parliament.gov.sy/arabic/index.php?node=201&nid=4233&ref=tree& |title= القانون 2 لعام 2014 دخول وخروج وإقامة الأجانب في سوريا |trans-title= Law 2 of 2014 - Entry, exit and residence of foreigners in Syria |author=<!--Not stated--> |date=12 March 2014 |website= |publisher= [[People\s Council of Syria]] |access-date= 5 November 2017 |quote=}} </ref><ref>{{cite web |url= http://www.alwatan.sy/view.aspx?id=12892 |archive-url= https://archive.is/20140620203952/http://www.alwatan.sy/view.aspx?id=12892 |dead-url= yes |archive-date= 20 June 2014 |title=  قانون يحظر الدخول لسورية أو الخروج منها ...إلا لحامل جواز سفر ساري المفعول أو وثيقة مؤشر عليها بسمة دخول من إحدى البعثات الدبلوماسية السورية  |trans-title=  A law prohibiting entering or leaving Syria ... except for a holder of a valid passport or a document marked by an entry visa from a Syrian diplomatic mission  |author=<!--Not stated--> |date= 12 March 2014 |website= |publisher= [[Al-Watan (Syria)]] |access-date= 5 November 2017 |quote= |language=Arabic}}</ref>
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IR|destination=TJ}}</ref><ref>{{cite web|url=https://www.evisa.tj|title=Tajikistan e-Visa|website=www.evisa.tj}}</ref>
+| 45 days
+| 
+|-
+| {{flag|Tanzania}}
+| {{no|Visa required}}<ref>[https://www.immigration.go.tz/index.php/en/services/visa-information Entry Requirements and Visa Information, Immigration Department, Ministry of Home Affairs of Tanzania]</ref><ref>{{Timatic|nationality=IR|destination=TZ}}</ref>
+| 
+|
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=TH}}</ref>
+|
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=TL}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=TG}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=TO}}</ref>
+|
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=TT}}</ref>
+|
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=TN}}</ref>
+|
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=TR}}</ref>
+| 90 days
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=TM}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=TV}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=UG}}</ref>
+|
+| 
+*May apply online.<ref>{{cite web|url=https://visas.immigration.go.ug|title=Uganda e-Visa|website=visas.immigration.go.ug}}</ref>
+|- 
+| {{flag|Ukraine}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=UA}}</ref>
+| 
+|
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=AE}}</ref>
+|
+| 
+*Free transit visa at DXB - Up to 96 hours<ref>[https://web.archive.org/web/20101006225241/http://www.uae.org.br/Ingles/Consular/transvisa.htm ]</ref>
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=GB}}</ref>
+| 
+|
+|-
+| {{flag|United States}}
+| {{BLACK|style=color:white;|Admission refused}}<ref>{{Timatic|nationality=IR|destination=US}}</ref>
+|
+| 
+*Suspended issuance of immigrant and non-immigrant visas except F, M and J visas.<ref name="auto3">{{cite news|title=Trump restricts visas from eight countries as travel order expires|url=https://www.nbcnews.com/news/us-news/trump-restricts-visas-eight-countries-travel-order-expires-n804366|publisher=[[NBC News]]|date=25 September 2017}}</ref><ref name="auto3"/>
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=UY}}</ref>
+|
+| 
+*Prior authorisation required before issuing visa.<ref>{{cite web|url=https://migracion.minterior.gub.uy/index.php?option=com_content&view=article&id=1280|title=Ministerio del Interior|website=migracion.minterior.gub.uy}}</ref>
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=UZ}}</ref>
+| 
+|
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=VU}}</ref>
+|
+|
+|-
+| {{flag|Vatican City}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=VA}}</ref>
+| 
+|
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=IR|destination=VE}}</ref>
+| 15 days
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=VN}}</ref>
+|
+| 
+*30 days at Phu Quoc (PQC) island.<ref>[https://archive.is/20140314003501/https://www.timaticweb.com/cgi-bin/tim_website_client.cgi?FullText=1&COUNTRY=VN&SECTION=VI&SUBSECTION=00&user=KLMB2C&subuser=KLMB2C]</ref>
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=IR|destination=YE}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=IR|destination=ZM}}</ref><ref>{{cite web|url=http://evisa.zambiaimmigration.gov.zm/#/application|title=e-Visa|first=DotGov Solutions|last=Company|website=evisa.zambiaimmigration.gov.zm}}</ref>
+|
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=IR|destination=ZW}}</ref>
+| 3 months
+|
+|}'}

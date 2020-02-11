@@ -1,0 +1,1082 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=AF|accessdate=3 June 2015}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=AL|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=DZ|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=AD|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=HU|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=AG|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=AR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Armenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=AM|accessdate=3 June 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Australia}}
+| {{yes|[[eVisitor]]}}<ref>{{Timatic|nationality=HU|destination=AU|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*90 days on each visit in 12-month period if granted
+|-
+| {{flag|Austria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=AT|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Azerbaijan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HU|destination=AZ|accessdate=3 June 2015}}</ref>
+| 30 days<ref>[https://evisa.gov.az/en/ Electronic Visa System of Azerbaijan Republic]</ref>
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BS|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=BH|accessdate=3 June 2015}}</ref>
+| 14 days
+| 
+*Visa is also obtainable online.<ref>{{cite web | url=http://www.evisa.gov.bh/VisaBhrnats.html | title=Bahrain Electronic Visa Service}}</ref>
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=BD|accessdate=3 June 2015}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BB|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BY|accessdate=3 June 2015}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=BE|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BZ|accessdate=3 June 2015}}</ref>
+| 1 month<ref name=A>Extendable length of stay.</ref>
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=BT|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BO|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BA|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BW|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any year period
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Brunei}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=BN|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bulgaria}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=BG|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=BF|accessdate=3 June 2015}}</ref>
+| 1 month
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=BI|accessdate=9 October 2015}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=KH|accessdate=3 June 2015}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-23 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=CM|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Canada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=CA|accessdate=3 June 2015}}</ref>
+| 6 months
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref><ref>[https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt Entry requirements by country:Visa-exempt]</ref>
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=CV|accessdate=3 June 2015}}</ref>
+|
+| 
+*Not available at all entry points.<ref>Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].</ref>
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=CF|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=TD|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=CL|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=CN|accessdate=3 June 2015}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|China. Transit}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=CO|accessdate=3 June 2015}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one-year period
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=KM|accessdate=3 June 2015}}</ref>
+| 2 weeks
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=CG|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=CD|accessdate=3 June 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=CR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{yes2|eVisa}}<ref>[http://www.snedai.com/en/ Visa at International Airport Felix Houphouet Boigny in Abidjan]</ref>
+| 3 months
+| 
+*eVisa holders must arrive via [[Port Bouet Airport]].
+|-
+| {{flag|Croatia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=HR|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=HU|destination=CU|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Cyprus}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=CY|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|- 
+| {{flag|Czech Republic}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=CZ|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Denmark}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=DK|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement (DK)
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=DM|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=DO|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=EC|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=EG|accessdate=3 June 2015}}</ref><ref>{{cite web |url=https://visa2egypt.gov.eg/eVisa/FAQ |title=Egypt e-Visa Portal |author=<!--Not stated--> |date= |website= |publisher=[[Ministry of Interior (Egypt)]] |access-date=3 December 2017 |quote=}}</ref>
+| 30 days 
+| 
+*Visa required, except for a max. stay of 15 days for holders of normal passports, traveling as tourists and arriving at Sharm El Sheik (SSH), Saint Catherine (SKV) or Taba (TCP) airports and remaining in the Sinai resorts.
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=SV|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=GQ|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=ER|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Estonia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=EE|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=SZ|accessdate=3 June 2015}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HU|destination=ET|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=FJ|accessdate=3 June 2015}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=FI|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|France}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=FR|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement (in [[Regions of France]])
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Gabon}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=GA}}</ref>
+| 90 days
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=GM|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=GE|accessdate=3 June 2015}}</ref>
+| 1 year
+| 
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Germany}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=DE|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=GH|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|- 
+| {{flag|Greece}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=GR|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=GD|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=GT|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=GN|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=GW|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=GY|accessdate=3 June 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=HT|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=HN|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Iceland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=IS|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=ID|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=IR|accessdate=3 June 2015}}</ref>
+| 30 days<ref>[http://www.tehrantimes.com/index_View.asp?code=248428 Iran extends airport visa validity to 30 days]</ref>
+|
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=IQ|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=IE|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=IL|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Italy}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=IT|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=JM|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Japan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=JP|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|{{sort|Visa on arrival|Visa on arrival}}}}<ref>{{Timatic|nationality=HU|destination=JO|accessdate=3 June 2015}}</ref>
+|
+| 
+*Visitors that come in groups or purchase the Jordan Pass can get the visa for free under certain conditions.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 November 2013}}</ref> Not available at all entry points.<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+|-
+| {{flag|Kazakhstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=KZ|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=KI|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=KP|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=KR|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Kuwait}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.moi.gov.kw/evisa/home_e.do Kuwait eVisa]</ref>
+| 3 months
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=KG|accessdate=3 June 2015}}</ref>
+| 60 days
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=LA|accessdate=3 June 2015}}</ref>
+| 30 days.<ref name="A" /> 
+| Not available at all entry points.<ref>Available at international airports [[Wattay International Airport|Wattay Vientiane]], [[Pakse International Airport|Pakse Savannakhet]] and [[Luang Prabang International Airport|Luang Prabang]], and at land borders Friendship Bridge, Vientiane and Savannakhet; Nam Heuang Friendship Bridge, Sayabouly Province; and border crossings at Boten-Mohan, Dansavan-Lao Bao, Houaysay-Chiang Khong, Thakhek-Nakhon Phanom, Nong Haet-Nam Kan, Nam Phao-Kao Cheo, Veun Kham-Dong Calor, and Vangtao-Chong Mek as well as Tha Naleng train station in Vientiane, which connects to the train station in Nongkhai, Thailand. Entry points Napao-Chalo, Taichang-Sophoun, Pakxan-Bungkan, and Xiengkok are open only to visa holders.</ref>
+|-
+| {{flag|Latvia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=LV|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>[http://www.timaticweb.com/cgi-bin/tim_website_client.cgi?SpecData=1&VISA=&page=visa&NA=HU&AR=00&PASSTYPES=PASS&DE=LB&user=KLMB2C&subuser=KLMB2C]</ref>
+| 1 month
+| 
+*Extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=HU|destination=LS|accessdate=3 June 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=LR|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=LY|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Liechtenstein}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=LI|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Lithuania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=LT|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Luxembourg}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=LU|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MK|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Madagascar}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=HU|destination=MG|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=MW|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MY|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Maldives}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>{{Timatic|nationality=HU|destination=MV|accessdate=3 June 2015}}</ref>
+| 30 days<ref name="A" />
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=ML|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Malta}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=MT|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Marshall Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=MR|accessdate=3 June 2015}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MU|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MX|accessdate=3 June 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=FM|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MD|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MC|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=MN|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=ME|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*[[Hungarian identity card|ID card]] valid for 30 days
+|-
+| {{flag|Morocco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=MA |accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=MZ|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=https://www.myanmarevisa.gov.mm/ |title=Archived copy |access-date=2013-10-22 |archive-url=https://web.archive.org/web/20131019103159/https://www.myanmarevisa.gov.mm/ |archive-date=2013-10-19 |dead-url=yes |df= }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa available for both tourism (allowed stay is 28 days) or business (allowed stay is 70 days) purposes.
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=NA|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=NR|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=NP|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*Not available at all entry points.<ref>Obtainable at [[Tribhuvan International Airport]] and certain land borders.</ref>
+|- 
+| {{flag|Netherlands}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=NL|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|New Zealand}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=NZ|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=NI|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*All visitors are required to obtain a Tourist Card on arrival.
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=NE|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=NG|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Norway}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=NO|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=PK|accessdate=3 June 2015}}</ref>
+|
+| 
+*Visa on arrival when travelling on business valid for 30 days. 
+**Conditions apply.<ref>[http://www.dgip.gov.pk/Files/Visa%20Categories.aspx#L Business Visa. Ministry of Interior of Pakistan]</ref>
+|-
+| {{flag|Palau}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=PW|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=PA|accessdate=3 June 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes|{{sort|Visa on arrival|Free visa on arrival}}}}<ref>[http://www.immigration.gov.pg/images/documents/Publication-Revised%20MSF2.pdf REVISED MIGRATION SERVICE FEES (MSF)]</ref><ref>{{Timatic|nationality=HU|destination=PG|accessdate=3 June 2015}}</ref>
+| 60 days
+| 
+*Free of charge.
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=PY|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=PE|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 6-month period<ref>{{Cite web |url=http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |title=REQUERIMIENTOS DE VISAS PARA CIUDADANOS EXTRANJEROS |access-date=2016-01-29 |archive-url=https://web.archive.org/web/20160204222554/http://www.rree.gob.pe/servicioalciudadano/Documents/REQUERIMIENTOS_DE_VISAS_PARA_CIUDADANOS_EXTRANJERO.pdf |archive-date=2016-02-04 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=PH|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Poland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=PL|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Portugal}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=PT|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>{{cite web | url=https://portal.moi.gov.qa/qatarvisas/ | title=Qatar Visas}}</ref>
+| 90 days
+|
+|-
+| {{flag|Romania}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=RO|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Russia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=RU|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{cite web | url=http://www.migration.gov.rw | title=HOME}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=KN|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=LC|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=VC|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Samoa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=WS|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=SM|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=ST|accessdate=25 August 2015}}</ref>
+| 15 days
+|
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=SA|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=SN}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=RS|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 6-month period
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Seychelles}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Agreement between the European Community and the Republic of Seychelles on the short-stay visa waiver|url=http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:22009A0630%2805%29&qid=1451172310633&from=EN|website=EUR-Lex|publisher=[[Official Journal of the European Union]]|accessdate=27 December 2015|date=30 June 2009}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=SL|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=SG|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Slovakia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=SK|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Slovenia}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=SI|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Solomon Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=SB}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=SO}}</ref>
+|
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA/3}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=ZA|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=SS|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Spain}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=ES|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=LK|accessdate=3 June 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=SD|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{yes-no|{{sort|Visa on arrival|Tourist Card on arrival}}}}<ref>{{Timatic|nationality=HU|destination=SR|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*Not available at all entry points.<ref>Obtainable at [[Johan Adolf Pengel International Airport]].</ref>
+|-
+| {{flag|Sweden}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=SE|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|Switzerland}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=CH|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement
+*[[Hungarian identity card|ID card]] valid
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=SY|accessdate=3 June 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HU|destination=TJ|accessdate=3 June 2015}}</ref>
+| 45 days 
+| 
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=TZ|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Thailand}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=TH|accessdate=3 June 2015}}</ref>
+| 30 days
+| 
+*Maximum two visits annually if not arriving by air
+|-
+| {{flag|Timor-Leste}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=TL|accessdate=27 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=TG|accessdate=3 June 2015}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes|Visa not required}}<ref name="ReferenceA"/>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=TT|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=TN|accessdate=3 June 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=TR|accessdate=3 June 2015}}</ref>
+| 90 days<ref>[http://www.resmigazete.gov.tr/eskiler/2014/02/20140207-22.htm BAKANLAR KURULU KARARI Karar Sayısı : 2014/5881]</ref>
+|
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=TM|accessdate=3 June 2015}}</ref>
+|
+| 
+*Pre-approved visa can be picked up on arrival.
+|-
+| {{flag|Tuvalu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=TV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=UG|accessdate=3 June 2015}}</ref>
+|
+| 
+*Determined at the port of entry. 
+*May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=UA|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|United Arab Emirates}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=AE|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref name="consilium.europa.eu"/><ref>[http://data.consilium.europa.eu/doc/document/ST-7103-2015-INIT/en/pdf Agreement between the European Union and the United Arab Emirates on the short-stay visa waiver]</ref>
+|-
+| {{flag|United Kingdom}}
+| {{free|{{sort|EU|Visa not required}}}}<ref>{{Timatic|nationality=HU|destination=GB|accessdate=3 June 2015}}</ref>
+| colspan=2 |
+*Freedom of movement (in Constituent countries)
+*[[Hungarian identity card|ID card]] valid
+|-
+| {{flag|United States}}
+| {{yes|{{sort|Visa not required|[[Visa Waiver Program]]}}}}<ref>{{Timatic|nationality=HU|destination=US|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*On arrival from overseas; [[Electronic System for Travel Authorization|ESTA]] (valid for 2 years when issued) required if arriving by air or cruise ship.<ref>{{cite web | url=https://help.cbp.gov/app/answers/detail/a_id/1132/~/citizen-of-visa-waiver-country,-wants-to-drive-into-u.s.-from-canada-or-mexico, | title=Citizen of Visa Waiver Country, wants to drive into U.S. From Canada or Mexico, or arrive at a port of call in the U.S. By cruise ship}}</ref>
+*Visa required if the person visited Iran, Iraq, Sudan, Syria, Libya, Somalia or Yemen after March 1, 2011, or if he/she also holds citizenship in any of these countries.<ref>[http://hungary.usembassy.gov/non_immigrant_visas.html US Embassy in Hungary website], retrieved: May 6, 2016</ref>
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=UY|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Uzbekistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HU|destination=UZ}}</ref><ref>{{cite web|url=https://e-visa.gov.uz|title=OFFICIAL ELECTRONIC VISA PORTAL OF THE REPUBLIC OF UZBEKISTAN|website=mfa.uz|accessdate=14 July 2018}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=VU|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=VA|accessdate=3 June 2015}}</ref>
+|
+| 
+*[[Hungarian identity card|ID card]] valid
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=HU|destination=VE|accessdate=3 June 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=HU|destination=VN|accessdate=3 June 2015}}</ref>
+| 30 days<ref>[https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt E-visa]</ref>
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=HU|destination=YE|accessdate=3 June 2015}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=ZM|accessdate=3 June 2015}}</ref>
+| 90 days
+| 
+*Also eligible for a universal visa allowing access to Zimbabwe.
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=HU|destination=ZW|accessdate=3 June 2015}}</ref>
+| 3 months
+| 
+*Strictly tourism purposes only. 
+*Also eligible for a universal visa allowing access to Zambia.
+|}'}

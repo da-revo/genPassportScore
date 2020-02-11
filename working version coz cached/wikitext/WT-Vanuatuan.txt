@@ -1,0 +1,1018 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '==Visa requirements==
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=AF}}</ref>
+|
+| 
+|-
+| {{flag|Albania}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=AL|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=DZ|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=AD|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=AO|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=AG|accessdate=15 May 2015}}</ref>
+| 1 month
+|
+|- 
+| {{flag|Argentina}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=AR|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Armenia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=AM|accessdate=15 May 2015}}</ref>
+| 120 days
+|
+|-
+| {{flag|Australia}} and territories
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref> Transit visa is not required.<ref>[https://www.border.gov.au/Lega/Lega/Form/Immi-FAQs/do-i-need-a-visa-to-transit-through-australia Do I need a visa to transit through Australia?]</ref>
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=AZ|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=BS|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Bahrain}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=BH|accessdate=15 May 2015}}</ref>
+| 14 days
+|
+|-
+| {{flag|Bangladesh}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=BD|accessdate=15 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=BB|accessdate=15 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=BY|accessdate=15 May 2015}}</ref>
+| 30 days
+| 
+*Must arrive and depart via [[Minsk International Airport]].
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Belize}}
+| {{no|Visa required}}<ref>http://www.mfa.gov.bz/images/documents/Visa%20Requirements%20for%20Belize%20December%202013%20-Web%20version.pdf</ref>
+| 
+|
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=BT|accessdate=15 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=BO|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=BA}}</ref>
+| 90 days
+|
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=BW|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Brazil}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=BR|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=BN|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=BG|accessdate=15 May 2015}}</ref><ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=BF|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=BI|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Cambodia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=KH|accessdate=15 May 2015}}</ref> 
+|
+|
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CM|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CA|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=CV|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CF|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=TD|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Chile}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CL|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CN|accessdate=15 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|Colombia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CO|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=KM|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CG|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CD|accessdate=15 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=CR|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=CI|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|- 
+| {{flag|Cuba}}
+| {{no|Tourist Card required}}<ref>{{Timatic|nationality=VU|destination=CU|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=DM|accessdate=15 May 2015}}</ref>
+| 6 months
+|
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=DO|accessdate=15 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=EC|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=EG|accessdate=15 May 2015}}</ref>
+|
+| 
+*Conditions apply.
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=SV|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=GQ|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=ER|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Eswatini}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=SZ|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VU|destination=ET|accessdate=15 May 2015}}</ref> 
+| 
+|
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=VU|accessdate=15 May 2015}}</ref>
+| 4 months
+|
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Gabon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=GA|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=GM|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Georgia}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gov.ge/ e-VISA PORTAL]</ref>
+| 90 days
+|
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=GH|accessdate=15 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=GD|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=GT|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=GN|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=GW|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=GY|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=HT|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=HN|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|India}}
+| {{yes2|eVisa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>http://setkab.go.id/tidak-untuk-jurnalistik-wisatawan-dari-169-negara-ini-bebas-visa-kunjungan-ke-indonesia/</ref><ref>{{Timatic|nationality=VU|destination=ID|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=IR|accessdate=15 May 2015}}</ref>
+|
+| 
+*Conditions apply.
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=IQ|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=IE|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=IL|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=JM|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=JP|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=JO|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=KZ|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Kenya}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=KE|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=KI|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=KP|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|South Korea}}
+| {{no|Visa required}}<ref>{{Cite web |url=http://www.mofa.go.kr/ENG/visa/application/index.jsp?menu=m_40_10 |title=Archived copy |access-date=2017-07-17 |archive-url=https://archive.is/20130703015928/http://www.mofa.go.kr/ENG/visa/application/index.jsp?menu=m_40_10 |archive-date=2013-07-03 |dead-url=yes |df= }}</ref>
+| 
+|
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=KW|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VU|destination=KG|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=LA|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Lebanon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=LB|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=LS|accessdate=15 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=LR|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=LY|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Macedonia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=MK|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=MG|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=MW}}</ref>
+| 
+|
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=MY|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=MV|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=ML|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Marshall Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=MH|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=MR|accessdate=15 May 2015}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=MU|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=MX|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=FM|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>[http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link Foreign citizens who don’t need visa for entry on the territory of the Republic of Moldova]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=MC|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=MN|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=ME}}</ref>
+| 90 days
+|
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=MA|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=MZ|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VU|destination=MM|accessdate=15 May 2015}}</ref>
+| 28 days
+|
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=NA|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Nauru}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=NR|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=NP|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|- 
+| {{flag|Netherlands}} 
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=NZ|accessdate=15 May 2015}}</ref>
+|
+| 
+*Transit visa is not required.<ref>[http://www.immigration.govt.nz/opsmanual/34911.htm Transit visa country waiver list]</ref>
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=NI|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=NE|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=NG|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=OM|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=PK|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=PW|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=PA|accessdate=15 May 2015}}</ref>
+| 180 days
+|
+|-
+| {{flag|Papua New Guinea}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=PG|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=PY|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=PE|accessdate=15 May 2015}}</ref>
+| 180 days
+|
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=PH|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VU|destination=QA|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=RU|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+*90 days within any 180 day period
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=RW|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=KN|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=LC|accessdate=15 May 2015}}</ref>
+| 6 weeks
+|
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=VC|accessdate=15 May 2015}}</ref>
+| 1 month
+|
+|-
+| {{flag|Samoa}}
+| {{yes-no|Entry Permit on arrival}}<ref>{{Timatic|nationality=VU|destination=WS|accessdate=15 May 2015}}</ref>
+| 60 days
+|
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=SM|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=ST|accessdate=15 May 2015}}</ref>
+|
+| 
+*Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=SA|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Senegal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=SN|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=RS|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Seychelles}}
+| {{yes-no|Visitor\s Permit on arrival}}<ref>{{Timatic|nationality=VU|destination=SC|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=SL|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=SG|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=SB|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=ZA|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=SS|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Sri Lanka}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=BT|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=SD|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Suriname}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=SR|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>[http://data.consilium.europa.eu/doc/document/ST-7119-2015-INIT/en/pdf Agreement between the European Union and the Republic of Vanuatu on the short-stay visa waiver]</ref><ref>[http://www.consilium.europa.eu/en/press/press-releases/2015/05/28-jha-eu-visa-waiver-agreements/ EU signs visa waiver agreements with 7 ACP countries]</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=SY|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tajikistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=TJ|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tanzania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=TZ|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=TH|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=TL|accessdate=15 May 2015}}</ref>
+| 30 days
+|
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=TG|accessdate=15 May 2015}}</ref>
+| 7 days
+|
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=TO|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=TT|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=TN|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Turkey}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=TR|accessdate=15 May 2015}}</ref>
+|
+| 
+*eVisa is available to those holding a valid visa or residence permit issued by a Schengen member state, Ireland, the United Kingdom or the United States for a maximum stay of 30 days.
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=TM|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VU|destination=TV|accessdate=15 May 2015}}</ref>
+| 1 month
+|
+|-
+| {{flag|Uganda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=UG|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|- 
+| {{flag|Ukraine}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://evisa.mfa.gov.ua/]</ref><ref>{{Timatic|nationality=VU|destination=UA|accessdate=15 May 2015}}</ref>
+| 15 days
+| 
+*Visa on arrival for business or tourism purposes is available at [[Boryspil International Airport|Kyiv Boryspil Airport]], [[Kyiv International Airport (Zhuliany)]] and [[Odessa International Airport]].<ref>[http://mfa.gov.ua/ua/consular-affairs/entering-ukraine/visa-boryspil]</ref>
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=AE|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|United Kingdom}} and [[Crown dependencies]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=GB|accessdate=15 May 2015}}</ref>
+| 6 months
+|
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=US|accessdate=15 May 2015}}</ref>
+| 
+|
+|- 
+| {{flag|Uruguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=UY|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=UZ|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=VA|accessdate=15 May 2015}}</ref>
+|
+|
+|- 
+| {{flag|Venezuela}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=VE|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=VN|accessdate=15 May 2015}}</ref>
+| 
+|
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VU|destination=YE|accessdate=15 May 2015}}</ref>
+|
+|
+|-
+| {{flag|Zambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=ZM|accessdate=15 May 2015}}</ref>
+| 90 days
+|
+|-
+| {{flag|Zimbabwe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VU|destination=ZW|accessdate=15 May 2015}}</ref>
+| 3 months
+|
+|}'}

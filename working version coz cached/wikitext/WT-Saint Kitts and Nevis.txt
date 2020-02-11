@@ -1,0 +1,1240 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! Allowed stay
+! Notes (excluding departure fees)
+! Reciprocity
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=AF}}</ref>
+|
+| 
+| {{yes|√}}
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=AL}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=DZ}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=AD}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Angola}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=AO}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=AG}}</ref>
+| 6 months
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]] and also for all citizens from [[Organisation of Eastern Caribbean States#Economic union|OECS]] states<ref>May use a driver\s licence, Voter\s Registration Card, social security card or National Identity Card instead of passport.</ref>
+| {{yes|√}}
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=AR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Armenia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=AM}}</ref>
+| 120 days
+|
+| {{no|X}}
+|-
+| {{flag|Australia}} and territories 
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection}}</ref>
+| {{no|X}}
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=AT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=AZ}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BS}}</ref>
+| 3 months
+| 
+*Extension of stay is possible 
+| {{yes|√}}
+|-
+| {{flag|Bahrain}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KN|destination=BH}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Bangladesh}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BD}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BB}}</ref>
+| 6 months 
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]]
+| {{yes|√}}
+|- 
+| {{flag|Belarus}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=BY}}</ref>
+| 
+|
+*Visa exemption agreement was signed on 19 October 2018 and it is not yet ratified.<ref>https://sknis.kn/st-kitts-and-nevis-and-belarus-sign-visa-waiver-agreement/</ref>
+| {{yes|√}}
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BZ}}</ref>
+| 6 months
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]]; 6 months otherwise<ref name=A>Extendable length of stay.</ref>
+| {{yes|√}}
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+| {{no|X}}
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=BT}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Bolivia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=BO}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BA}}</ref>
+| 90 days
+|
+*90 days within any 6 month period
+| {{no|X}}
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BW}}</ref>
+| 90 days
+|
+* 90 days within any year period
+| {{yes|√}}
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=BN}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=BG}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period
+| {{yes|√}}
+|-
+| {{flag|Burkina Faso}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=BF}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=BI}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Cambodia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=2014-07-23 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=2014-07-28 |dead-url=yes |df= }}</ref>
+| {{no|X}}
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=CM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=CA}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=CV}}</ref>
+|
+| 
+*Not available at all entry points.<ref>Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].</ref>
+| {{no|X}}
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=CF}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=TD}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=CL}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=CN}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one year period
+| {{yes|√}}
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=KM}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=CG}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=CD}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=CR}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=CI}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=HR}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period
+| {{no|X}}
+|- 
+| {{flag|Cuba}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=CU}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=CY}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period
+| {{yes|√}}
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=CZ}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Denmark}} and territories
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=DK}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+|
+| {{no|X}}
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=DM}}</ref>
+| 6 months
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]] and also for all citizens from [[Organisation of Eastern Caribbean States#Economic union|OECS]] states
+| {{yes|√}}
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=DO}}</ref>
+| 90 days 
+|
+| {{no|X}}
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=EC}}</ref>
+| 90 days<ref name="A"/>
+|
+| {{yes|√}}
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=EG}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|El Salvador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=SV}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=GQ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=ER}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=EE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=SZ}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KN|destination=ET}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=FJ}}</ref>
+| 4 months
+|
+| {{yes|√}}
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=FI}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=FR}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|
+| 
+*Electronic visa holders must arrive via [[Libreville International Airport]].
+| {{yes|√}}
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=GM}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Georgia}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gov.ge/ e-VISA PORTAL]</ref>
+| 90 days
+| 
+| {{no|X}}
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=DE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=GH}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=GR}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Grenada}}
+| {{free|Visa not required}}<ref>{{Timatic|nationality=KN|destination=GD}}</ref>
+| 6 yes
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]] and also for all citizens from [[Organisation of Eastern Caribbean States#Economic union|OECS]] states
+| {{yes|√}}
+|- 
+| {{flag|Guatemala}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=GT}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=GN}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Guinea-Bissau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=GW}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Guyana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=GY}}</ref>
+| 6 months
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]]
+| {{yes|√}}
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=HT}}</ref>
+| 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Honduras}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=HN}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=HU}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=IS}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+| {{no|X}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=ID}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|Iran}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=IR}}</ref>
+| 30 days
+| 
+*Conditions apply.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/IR/VI/IS/ID40175&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 November 2013}}</ref> 
+| {{no|X}}
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=IQ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Ireland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=IE}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Israel}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=IL}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=IT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=JM}}</ref>
+| 6 months
+|
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]]
+| {{yes|√}}
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=JP}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=JO}}</ref>
+|
+| 
+*Conditions apply.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=26 November 2013}}</ref> 
+* Not available at all entry points.<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+| {{no|X}}
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=KZ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Kenya}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=KE}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Kiribati}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=KI}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=KP}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=KR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=KW}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Kyrgyzstan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KN|destination=KG}}</ref>
+| 
+|
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=29 September 2018}}</ref>
+| {{yes|√}}
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=LA}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+| {{no|X}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=LV}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=LB}}</ref>
+| 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+| {{no|X}}
+|-
+| {{flag|Lesotho}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=LS}}</ref>
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=LR}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=LY}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=LI}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=LT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=LU}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=MK}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=MG}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Malawi}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=MW}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=MY}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=MV}}</ref>
+| 30 days<ref name="A"/>
+|
+| {{yes|√}}
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=ML}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=MT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=MH}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=MR}}</ref>
+|
+|
+* Available at [[Nouakchott–Oumtounsy International Airport]].
+| {{no|X}}
+|-
+| {{flag|Mauritius}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=MU}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|- 
+| {{flag|Mexico}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=MX}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=FM}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>[http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link Foreign citizens who don’t need visa for entry on the territory of the Republic of Moldova]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+| {{yes|√}}
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=MC}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=MN}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=ME}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=MA}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=MZ}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Myanmar}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=MM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=NA}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=NR}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=NP}}</ref>
+| 90 days
+| 
+*Not available at all entry points.<ref>Obtainable at [[Tribhuvan International Airport]] and certain land borders.</ref>
+| {{no|X}}
+|- 
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=NL}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=NZ}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Nicaragua}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=NI}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=NE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=NG}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=NO}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Oman}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=OM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=PK}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=PW}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Panama}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=PA}}</ref>
+| 180 days
+|
+| {{yes|√}}
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=PG}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Paraguay}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=PY}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=PE}}</ref>
+| 183 days
+| 
+| {{yes|√}}
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=PH}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=PL}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=PT}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Qatar}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KN|destination=QA}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=RO}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period 
+| {{yes|√}}
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=RU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>[http://www.mid.ru/ru/foreign_policy/international_contracts/2_contract/-/storage-viewer/bilateral/page-2/52529]</ref>
+| {{yes|√}}
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=RW}}</ref>
+| 30 days
+|
+*Visa waiver agreement was signed in April 2018 and it is yet to come into force.<ref>[https://www.thestkittsnevisobserver.com/death-penalty/st-kitts-and-nevis-rwanda-governments-sign-mutual-visa-waiver-agreement/]</ref>
+| {{no|X}}
+|-
+| {{flag|Saint Lucia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=LC}}</ref>
+| 6 months
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]] and also for all citizens from [[Organisation of Eastern Caribbean States#Economic union|OECS]] states
+| {{yes|√}}
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=VC}}</ref>
+| 6 months
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]] and also for all citizens from [[Organisation of Eastern Caribbean States#Economic union|OECS]] states
+| {{yes|√}}
+|-
+| {{flag|Samoa}}
+| {{yes-no|Entry Permit on arrival}}<ref>{{Timatic|nationality=KN|destination=WS}}</ref>
+| 60 days
+|
+| {{no|X}}
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=SM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=ST}}</ref>
+|
+| 
+*Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=2015-05-21 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=2015-05-21 |dead-url=yes |df= }}</ref>
+| {{yes|√}}
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=SA}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Senegal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=SN}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=RS}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Seychelles}}
+| {{yes-no|Visitor\s Permit on arrival}}<ref>{{Timatic|nationality=KN|destination=SC}}</ref>
+| 3 months<ref name="A"/>
+|
+| {{yes|√}}
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=SL}}</ref>
+|
+| 
+*An agreement on mutual visa-free visits for 90 days was signed in February 2017 and is yet to be ratified.<ref>[http://www.thestkittsnevisobserver.com/sourced-information/st-kitts-nevis-sierra-leone-commit-free-movement-citizens/]</ref>
+| {{no|X}}
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=SG}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=SK}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=SI}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Solomon Islands}}
+| {{yes-no|Visitor\s permit on arrival}}<ref>{{Timatic|nationality=KN|destination=SB}}</ref>
+| 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+| {{no|X}}
+|-
+| {{flag|South Africa}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=ZA}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=SS}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=ES}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Sri Lanka}}
+| {{yes2|Electronic Travel Authorization}}<ref>{{Timatic|nationality=KN|destination=LK}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=SD}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Suriname}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=SR}}</ref>
+| 6 months
+|
+* Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]]
+| {{yes|√}}
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=SE}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=CH}}</ref>
+| 3 months 
+|
+*3 months during a 6 months period following the date of first entry in the [[Schengen Area]]<ref>[http://ec.europa.eu/dgs/home-affairs/what-we-do/policies/borders-and-visas/border-crossing/index_en.htm]</ref>
+| {{yes|√}}
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=SY}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=KN|destination=TJ}}</ref><ref>https://www.evisa.tj</ref>
+| 45 days
+| 
+| {{no|X}}
+|-
+| {{flag|Tanzania}}
+| {{yes|Visa not required }}<ref>{{Timatic|nationality=KN|destination=TZ}}</ref>
+| 90 days
+|
+| {{no|√}}
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=TH}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=TL}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Obtainable at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili Sea Port]].</ref>
+| {{no|X}}
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=TG}}</ref>
+| 7 days
+|
+| {{no|X}}
+|-
+| {{flag|Tonga}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=TO}}</ref>
+| 31 days
+|
+| {{yes|√}}
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=TT}}</ref>
+| 6 months
+| 
+*Freedom of Movement for [[CARICOM Single Market and Economy#Abolition of work permits and the free movement of labour|CARICOM Skilled Nationals]]
+| {{yes|√}}
+|-
+| {{flag|Tunisia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=TN}}</ref>
+| 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=TR}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=TM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=TV}}</ref>
+| 1 month
+|
+| {{yes|√}}
+|-
+| {{flag|Uganda}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=KN|destination=UG}}</ref>
+|
+| 
+*Determined at the port of entry. May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+| {{yes|√}}
+|- 
+| {{flag|Ukraine}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=UA}}</ref>
+| 90 days
+|
+*90 days within any 180 day period<ref>[http://www.aif.ua/politic/world/ukraincy_poluchili_bezvizovyy_rezhim_s_federaciey_svyatogo_kristofera_i_nevisa]</ref>
+| {{yes|√}}
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=AE}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|United Kingdom}} and [[Crown dependencies]]
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=GB}}</ref>
+| 6 months
+|
+| {{yes|√}}
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=US}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=UY}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=UZ}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+| {{yes|√}}
+|-
+| {{flag|Vanuatu}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=VU}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=VA}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Venezuela}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=VE}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Vietnam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=VN}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=KN|destination=YE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Zambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=ZM}}</ref>
+| 90 days
+| 
+| {{yes|√}}
+|-
+| {{flag|Zimbabwe}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=KN|destination=ZW}}</ref>
+| 3 months
+| 
+*Strictly tourism purposes only.
+| {{no|X}}
+|}'}

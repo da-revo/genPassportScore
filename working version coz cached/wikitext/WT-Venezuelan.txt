@@ -1,0 +1,1442 @@
+{'contentformat': 'text/x-wiki', 'contentmodel': 'wikitext', '*': '== Visa requirements ==
+Visa requirements for holders of normal passports traveling for tourist purposes:
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Country
+! width="22%"| Visa requirement
+! data-sort-type="number" | Allowed stay
+! Notes (excluding departure fees)
+! Reciprocity
+|-
+| {{flag|Afghanistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=AF}}</ref>
+|
+| 
+| {{yes|√}}
+|-
+| {{flag|Albania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=AL}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Algeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=DZ}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Andorra}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=AD}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Angola}}
+| {{yes2|eVisa}}<ref>[http://www.smevisa.com/touristvisa/ SME E-VISA]{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Timatic|nationality=VE|destination=AO}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Angola. VOA}}
+| {{no|X}}
+|-
+| {{flag|Antigua and Barbuda}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=AG}}</ref>
+| 180 days
+| 
+| {{yes|√}}
+|- 
+| {{flag|Argentina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=AR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Armenia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=AM}}</ref>
+| 120 days
+|
+| {{no|X}}
+|-
+| {{flag|Australia}} and external territories
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=AU}}</ref>
+|
+| 
+*May apply online (Online Visitor e600 visa).<ref>{{cite web|title=Visitor e600 Visa Online Applications|url=http://www.border.gov.au/Trav/Visa-1/600-/Visitor-e600-visa-online-applications|publisher=Department of Immigration and Border Protection|accessdate=31 August 2015}}</ref>
+| {{no|X}}
+|-
+| {{flag|Austria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=AT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Azerbaijan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=AZ}}</ref>
+|
+| 
+*Visa not required for a max. stay of 30 days for holders of a valid residence permit issued by a GCC Member State.
+| {{yes|√}}
+|-
+| {{flag|Bahamas}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BS}}</ref>
+| data-sort-value="90 days" |3 months
+|
+| {{no|X}}
+|-
+| {{flag|Bahrain}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=BH}}</ref>
+| 14 days
+| 
+*Visa is also obtainable online.<ref>[http://www.evisa.gov.bh/VisaBhrnats.html]</ref>
+| {{no|X}}
+|-
+| {{flag|Bangladesh}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=BD}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Available at [[Shahjalal International Airport]], [[Shah Amanat International Airport]] and [[Osmani International Airport]] only.</ref>
+| {{no|X}}
+|-
+| {{flag|Barbados}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BB}}</ref>
+| 28 days
+|
+| {{yes|√}}
+|- 
+| {{flag|Belarus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BY}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|- 
+| {{flag|Belgium|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Belize}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BZ}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Benin}} 
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=BJ}}</ref><ref>[https://evisa.gouv.bj/en/ eVisa Benin]</ref>
+| 30 days / 8 days
+| 
+*Must have an international vaccination certificate.
+| {{no|X}}
+|-
+| {{flag|Bhutan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=BT}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Bolivia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BO}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Bosnia and Herzegovina}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BA}}</ref>
+| 90 days
+|
+*90 days within any 6 month period
+| {{no|X}}
+|-
+| {{flag|Botswana}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BW}}</ref>
+| 90 days
+|
+*90 days within any year period
+| {{no|X}}
+|- 
+| {{flag|Brazil}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BR}}</ref>
+| 60 days
+|
+| {{yes|√}}
+|-
+| {{flag|Brunei}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=BN}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Bulgaria}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=BG}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+| {{yes|√}}
+|-
+| {{flag|Burkina Faso}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=BF}}</ref>
+|data-sort-value="30 days" | 1 month
+|
+| {{no|X}}
+|-
+| {{flag|Burundi}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=BI}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Cambodia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=KH}}</ref>
+| 30 days
+| 
+*Visa is also obtainable online.<ref>{{Cite web |url=http://evisa.mfaic.gov.kh/ |title=Archived copy |access-date=23 July 2014 |archive-url=https://web.archive.org/web/20140728202347/http://evisa.mfaic.gov.kh/ |archive-date=28 July 2014 |dead-url=yes |df=dmy-all }}</ref>
+| {{no|X}}
+|-
+| {{flag|Cameroon}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=CM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Canada}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=CA}}</ref>
+|
+| 
+*[[Visa policy of Canada#Electronic travel authorization|eTA]] required if arriving by air from 10 November 2016 for US permanent resident card holders.<ref>[https://www.canada.ca/eTA canada.ca/eTA]</ref>
+| {{no|X}}
+|-
+| {{flag|Cape Verde}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=CV}}</ref>
+|
+| 
+*Not available at all entry points.<ref>Obtainable at [[Nelson Mandela International Airport]], [[Cesária Évora Airport]], [[Amílcar Cabral International Airport]] and [[Aristides Pereira International Airport]].</ref>
+| {{no|X}}
+|-
+| {{flag|Central African Republic}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=CF}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Chad}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=TD}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Chile}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CL}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|People\s Republic of China|name=China}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=CN}}</ref>
+|
+|
+| {{yes|√}}
+|- 
+| {{flag|Colombia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CO}}</ref>
+| 180 days
+| 
+*90 days - extendable up to 180-days stay within a one year period
+| {{yes|√}}
+|-
+| {{flag|Comoros}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=KM}}</ref>
+| 45 days
+|
+| {{no|X}}
+|-
+| {{flag|Republic of the Congo}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=CG}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Democratic Republic of the Congo}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=CD}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Costa Rica|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Côte d\Ivoire}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=CI}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Croatia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=HR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+| {{yes|√}}
+|- 
+| {{flag|Cuba}}
+| {{no|{{sort|Visa required|Tourist Card required}}}}<ref>{{Timatic|nationality=VE|destination=CU}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Cyprus}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CY}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+| {{yes|√}}
+|-
+| {{flag|Czech Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CZ}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Denmark}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=DK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Djibouti}}
+| {{yes2|eVisa}}<ref>[https://www.evisa.gouv.dj/#/ eVisa]</ref>
+| 31 days
+| 
+| {{no|X}}
+|-
+| {{flag|Dominica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=DM}}</ref>
+| data-sort-value="180 days" | 6 months
+|
+| {{yes|√}}
+|-
+| {{flag|Dominican Republic}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=DO}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|Ecuador}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=EC}}</ref>
+| 180 days<ref name=A>Extendable length of stay.</ref>
+|
+| {{yes|√}}
+|- 
+| {{flag|Egypt}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=EG}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|El Salvador}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SV}}</ref>
+|
+| 
+*Visa not required for holders of a valid visa issued by Canada, USA or a Schengen Member State
+| {{yes|√}}
+|-
+| {{flag|Equatorial Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GQ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Eritrea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=ER}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Estonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=EE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Eswatini}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SZ}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Ethiopia}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VE|destination=ET}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Fiji}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=FJ}}</ref>
+| data-sort-value="120 days" | 4 months
+|
+| {{no|X}}
+|-
+| {{flag|Finland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=FI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|France}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=FR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Gabon}}
+| {{yes2|eVisa}}<ref>[https://evisa.dgdi.ga/ Gabon e-Visa]</ref>
+|
+|
+* Electronic visa holders must arrive via [[Libreville International Airport]].
+| {{no|X}}
+|-
+| {{flag|Gambia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=GM}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Georgia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GE}}</ref>
+|
+| 
+*Visa not required for up to 90 days if traveler holds a valid Canada, Schengen, UK or US visa or a Canada, Schengen, EU or US residence permit.<ref>[https://www.geoconsul.gov.ge/HtmlPage/Html/View?id=206&lang=Eng]</ref>
+| {{yes|√}}
+|-
+| {{flag|Germany}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=DE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Ghana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GH}}</ref>
+| 
+|
+| {{yes|√}}
+|- 
+| {{flag|Greece}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=GR}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Grenada}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=GD}}</ref>
+| 90 days
+| 
+*Extensions possible.
+| {{yes|√}}
+|- 
+| {{flag|Guatemala}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GT}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GN}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Guinea-Bissau}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=GW}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Guyana}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GY}}</ref>
+| 30 days
+| 
+*Tourists can obtain a visa on arrival for a maximum stay of 30 days<ref>[http://www.minfor.gov.gy/demo/wp-content/uploads/2016/10/New_Immigration_Procedures_Visa_Fees.pdf]</ref>
+| {{yes|√}}
+|- 
+| {{flag|Haiti}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=HT}}</ref>
+| data-sort-value="90 days" | 3 months
+|
+| {{no|X}}
+|- 
+| {{flag|Honduras}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=HN}}</ref><ref>[http://www.el-nacional.com/noticias/mundo/comenzaran-exigir-visa-venezolanos-para-entrar-honduras_212222]</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Hungary}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=HU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|- 
+| {{flag|Iceland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=IS}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|- 
+| {{flag|India}}
+| {{yes2|e-Visa}}<ref>{{cite web|url=https://indianvisaonline.gov.in/visa/tvoa.html|title=Indian e-Visa|publisher=Ministry of Home Affairs, Government of India}}</ref>
+| 60 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|India. eVisa}}
+| {{no|X}}
+|-
+| {{flag|Indonesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=ID}}</ref>
+| 30 days
+| 
+*Select ports of entry.
+| {{no|X}}
+|- 
+| {{flag|Iran}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=IR}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Iraq}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=IQ}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Ireland}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=IE}}</ref>
+|
+|
+* May transit without a visa.<ref>{{cite web|url=http://www.inis.gov.ie/en/INIS/Pages/Transit%20Visas|title=Irish Transit Visas|publisher=}}</ref>
+| {{yes|√}}
+|-
+| {{flag|Israel}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=IL}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Italy}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=IT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Jamaica}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=JM}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Japan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=JP}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Jordan}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=JO}}</ref>
+|data-sort-value="30 days" | 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted for 40JD at [[Queen Alia International Airport]] or any other port of entry.<ref>{{cite web|title=Visa Information|url=http://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/JO/VI/IS/ID42022&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=5 May 2014}}</ref> Not available at all entry points.<ref>Visa on arrival obtainable at most international ports of entry and at most international land border crossings (except [[Allenby Bridge|King Hussein/Allenby Bridge]] crossing).</ref>
+| {{no|X}}
+|-
+| {{flag|Kazakhstan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=KZ}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Kenya}}
+| {{Optional|eVisa / Visa on arrival}}<ref>[https://immigration.ecitizen.go.ke/index.php?id=5 Republic of Kenya - eCitizen portal]</ref>
+| data-sort-value="90 days" | 3 months
+|
+| {{no|X}}
+|-
+| {{flag|Kiribati}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=KI}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|North Korea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=KP}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|South Korea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=KR}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Kuwait}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=KW}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Kyrgyzstan}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=KG}}</ref>
+|data-sort-value="30 days" | 1 month
+|
+*Visa on arrival available at [[Manas International Airport]].
+*Electronic visa holders must arrive via [[Manas International Airport]] or [[Osh Airport]] or through land crossings with [[China]] (at [[Irkeshtam]] and [[Torugart]]), [[Kazakhstan]] (at [[Ak-Jol, Chuy|Ak-jol]], [[Ysyk-Ata District|Ak-Tilek]], [[Chaldybar]], [[Manas District|Chon-Kapka]]), [[Tajikistan]] (at [[Alay District|Bor-Dobo]], [[Kulundu]], [[Batken District|Kyzyl-Bel]]) and [[Uzbekistan]] (at [[Dostuk]]).<ref>{{cite web|url=http://evisa.e-gov.kg/get_information.php?lng=en|title=e-VISA|author=|date=|website=evisa.e-gov.kg|accessdate=11 April 2018}}</ref>
+| {{no|X}}
+|-
+| {{flag|Laos}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=LA}}</ref>
+| 30 days
+| 
+{{#section-h::Template:Transcluded sections for the visa articles|Laos. Visa on arrival}}
+| {{no|X}}
+|-
+| {{flag|Latvia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=LV}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|- 
+| {{flag|Lebanon}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=LB}}</ref>
+|data-sort-value="30 days" | 1 month
+| 
+*1 month extendable for 2 additional months
+*Granted free of charge at [[Beirut International Airport]] or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket.
+| {{no|X}}
+|-
+| {{flag|Lesotho}}
+| {{yes2|eVisa}}<ref>[http://evisalesotho.com eVisa Lesotho]</ref><ref>{{Timatic|nationality=VE|destination=LS}}</ref>
+| 
+|
+| {{no|X}}
+|- 
+| {{flag|Liberia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=LR}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Libya}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=LY}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Liechtenstein}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=LI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Lithuania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=LT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Luxembourg}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=LU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Macedonia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=MK}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Madagascar}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=MG}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Malawi}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=MW}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Malaysia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=MY}}</ref>
+| 30 days
+|
+| {{yes|√}}
+|-
+| {{flag|Maldives}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=MV}}</ref>
+| 30 days<ref name="A" />
+|
+| {{no|X}}
+|-
+| {{flag|Mali}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=ML}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Malta}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=MT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Marshall Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=MH}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Mauritania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=MR}}</ref>
+|
+| 
+*Available at [[Nouakchott–Oumtounsy International Airport]].
+| {{no|X}}
+|-
+| {{flag|Mauritius}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=MU}}</ref>
+| 60 days
+|
+| {{no|X}}
+|- 
+| {{flag|Mexico}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=MX}}</ref>
+| 180 days
+|
+| {{yes|√}}
+|-
+| {{flag|Federated States of Micronesia|name=Micronesia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=FM}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Moldova}}
+| {{yes|Visa not required}}<ref>[http://www.mfa.gov.md/entry-visas-moldova/citizens-additional-checks/#link Foreign citizens who don’t need visa for entry on the territory of the Republic of Moldova]</ref>
+| 90 days
+|
+*90 days within any 180 day period
+| {{no|X}}
+|-
+| {{flag|Monaco}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=MC}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Mongolia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=MN}}</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Montenegro}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=ME}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Morocco}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=MA}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Mozambique}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=MZ}}</ref>
+| 30 days
+|
+* Conditions apply<ref>{{cite web|title=Visa Information|url=https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MZ/VI/IS/ID23549&user=KLMB2C&subuser=KLMB2C|publisher=[[Timatic]]|accessdate=5 May 2014}}{{Dead link|date=July 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| {{no|X}}
+|-
+| {{flag|Myanmar}}
+| {{yes2|eVisa}}<ref>{{Cite web |url=https://www.myanmarevisa.gov.mm/ |title=Archived copy |access-date=22 October 2013 |archive-url=https://web.archive.org/web/20131019103159/https://www.myanmarevisa.gov.mm/ |archive-date=19 October 2013 |dead-url=yes |df=dmy-all }}</ref>
+| 28 days
+| 
+*eVisa holders must arrive via [[Yangon International Airport|Yangon]], [[Naypyidaw Airport|Nay Pyi Taw]] or [[Mandalay International Airport|Mandalay]] airports or via land border crossings with [[Thailand]] — [[Tachileik]], [[Myawaddy]] and [[Kawthaung]] or [[India]] — [[Rih Khaw Dar]] and [[Tamu, Myanmar|Tamu]].
+*eVisa is available for tourism only.
+| {{no|X}}
+|-
+| {{flag|Namibia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=NA}}</ref><ref>http://www.lelamobile.com/content/66883/Namibia-exempts-countries-from-visa-requirements/</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Nauru}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=NR}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Nepal}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=NP}}</ref>
+| 90 days
+|
+| {{no|X}}
+|- 
+| {{flag|Netherlands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=NL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|- 
+| {{flag|New Zealand}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=NZ}}</ref>
+|
+| 
+*May transit without a visa.<ref>[http://www.immigration.govt.nz/opsmanual/34911.htm Transit visa country waiver list]</ref>
+| {{no|X}}
+|- 
+| {{flag|Nicaragua}}
+| {{no|Visa required}}<ref>https://www.stratfor.com/analysis/sign-faltering-trust-between-nicaragua-and-venezuela</ref><ref>{{Timatic|nationality=VE|destination=NI}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Niger}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=NE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Nigeria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=NG}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Norway}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=NO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Oman}}
+| {{yes2|eVisa}}<ref>[https://evisa.rop.gov.om/ Sultanate of Oman - Royal Oman Police - eVisa]</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Pakistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=PK}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Palau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=PW}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Panama}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=PA}}</ref><ref>http://www.panamatoday.com/panama/panama-will-require-visas-venezuelans-5011</ref>
+|
+| 
+*No Visa Required if Exception applies as follows: EXECUTIVE DECREE # 591 states that “Those who hold a valid passport with a 3 months validity left and a multiple entry visa with a remaining ONE year validity from ONE of the following countries: USA, Australia, Canada, or United Kingdom, which has been used at least one time to enter these countries, may enter the Republic of Panama regardless of their nationality”. <ref>http://www.embassyofpanama.org/inmigration-and-visas/</ref> Transit visa is not required if connection time is under 12 hours.
+| {{yes|√}}
+|-
+| {{flag|Papua New Guinea}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=PG}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Paraguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=PY}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Peru|state<!--Use state flag-->}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=PE}}</ref>
+| 183 days
+| 
+| {{yes|√}}
+|- 
+| {{flag|Philippines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=PH}}</ref>
+| 30 days
+|
+| {{no|X}}
+|- 
+| {{flag|Poland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=PL}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Portugal}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=PT}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Qatar}}
+| {{yes|Visa not required}}<ref>[https://portal.moi.gov.qa/qatarvisas/]</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Romania}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=RO}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+| {{yes|√}}
+|-
+| {{flag|Russia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=RU}}</ref>
+| 90 days
+|
+*90 days within any 180 day period 
+| {{yes|√}}
+|-
+| {{flag|Rwanda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=RW}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Saint Kitts and Nevis}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=KN}}</ref>
+| data-sort-value="90 days" | 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Saint Lucia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=LC}}</ref><ref>[https://imidaily.com/caribbean/saint-lucia-removes-visa-requirement-for-chinese-keeps-it-for-venezuelans/]</ref>
+| 
+|
+| {{no|X}}
+|-
+| {{flag|Saint Vincent and the Grenadines}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=VC}}</ref>
+|data-sort-value="30 days" | 1 month
+|
+| {{yes|√}}
+|-
+| {{flag|Samoa}}
+| {{yes-no|{{sort|Visa on arrival|Entry Permit on arrival}}}}<ref>{{Timatic|nationality=VE|destination=WS}}</ref>
+| 60 days
+|
+| {{no|X}}
+|-
+| {{flag|San Marino}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=SM}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|São Tomé and Príncipe}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=ST}}</ref>
+|
+| 
+*Visa is obtained online.<ref>{{Cite web |url=http://www.smf.st/virtualvisa/ |title=Archived copy |access-date=21 May 2015 |archive-url=https://web.archive.org/web/20150521034116/http://www.smf.st/virtualvisa/ |archive-date=21 May 2015 |dead-url=yes |df=dmy-all }}</ref>
+| {{no|X}}
+|- 
+| {{flag|Saudi Arabia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SA}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Senegal}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SN}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Serbia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=RS}}</ref>
+|
+| 
+*May enter with a valid Schengen, UK or US visa or with a Schengen, EU or US residence permit for up to 90 days.<ref>[http://www.mfa.gov.rs/en/consular-affairs/entry-serbia/visa-regime]</ref>
+| {{yes|√}}
+|-
+| {{flag|Seychelles}}
+| {{yes-no|{{sort|Visa on arrival|Visitor\s Permit on arrival}}}}<ref>{{Timatic|nationality=VE|destination=SC}}</ref>
+| data-sort-value="90 days" | 3 months<ref name="A" />
+|
+| {{no|X}}
+|-
+| {{flag|Sierra Leone}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SL}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Singapore}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=SG}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Slovakia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=SK}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Slovenia}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=SI}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Solomon Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SB}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Somalia}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=SO}}</ref>
+| 30 days
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Somalia. VOA}}
+| {{yes|√}}
+|-
+| {{flag|South Africa}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=ZA}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|South Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SS}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Spain}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=ES}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Sri Lanka}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=LK}}</ref>
+| 30 days
+|
+| {{no|X}}
+|-
+| {{flag|Sudan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SD}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Suriname}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=SR}}</ref>
+| 90 days
+|
+| {{no|X}}
+|-
+| {{flag|Sweden}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=SE}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|-
+| {{flag|Switzerland}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CH}}</ref>
+| 90 days
+|
+*90 days within any 180 day period in the [[Schengen Area]]
+| {{yes|√}}
+|- 
+| {{flag|Syria}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=SY}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Tajikistan}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VE|destination=TJ}}</ref>
+| 45 days <ref>https://www.evisa.tj</ref>
+| 
+| {{no|X}}
+|-
+| {{flag|Tanzania}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=TZ}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|Thailand}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=TH}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Timor-Leste}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=TL}}</ref>
+| 30 days
+| 
+*Not available at all entry points.<ref>Obtainable at the [[Presidente Nicolau Lobato International Airport]] or at the [[Dili Sea Port]].</ref>
+| {{no|X}}
+|-
+| {{flag|Togo}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=TG}}</ref>
+| 7 days
+|
+| {{no|X}}
+|-
+| {{flag|Tonga}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=TO}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Trinidad and Tobago}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=TT}}</ref>
+| 90 days
+|
+| {{yes|√}}
+|-
+| {{flag|Tunisia}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=TN}}</ref>
+|
+|
+| {{yes|√}}
+|- 
+| {{flag|Turkey}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=TR}}</ref>
+| data-sort-value="90 days" | 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Turkmenistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=TM}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Tuvalu}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=TV}}</ref>
+|data-sort-value="30 days" | 1 month<ref name="A" />
+|
+| {{no|X}}
+|-
+| {{flag|Uganda}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=UG}}</ref>
+|
+| 
+*Determined at the port of entry. May apply online.<ref>[https://visas.immigration.go.ug Uganda Electronic Visa/Permit Application System]</ref>
+| {{no|X}}
+|- 
+| {{flag|Ukraine}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=UA}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|United Arab Emirates}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=AE}}</ref>
+|
+| 
+*A 96-hour transit visa can be obtained on arrival at Dubai (DXB), provided transit time is at least 8 hours; and holding onward ticket to a third country; and holding a passport valid for at least 6 months from date of arrival. Visa fee of 170 AED. Visas are only issued as a part of a transit package together with hotel accommodation and airport transfer
+| {{yes|√}}
+|-
+| {{flag|United Kingdom}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GB}}</ref>
+|
+|
+| {{no|X}}
+|-
+| {{flag|United States}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=US}}</ref>
+|
+| 
+*As of September 2017, entry is suspended for officials of government agencies of Venezuela involved in screening and vetting procedures as nonimmigrants on B1, B2 and B-1/B-2 visas.<ref>[https://www.whitehouse.gov/the-press-office/2017/09/24/enhancing-vetting-capabilities-and-processes-detecting-attempted-entry Presidential Proclamation Enhancing Vetting Capabilities and Processes for Detecting Attempted Entry Into the United States by Terrorists or Other Public-Safety Threats]</ref>
+| {{yes|√}}
+|- 
+| {{flag|Uruguay}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=UY}}</ref>
+| data-sort-value="90 days" | 3 months
+|
+| {{yes|√}}
+|-
+| {{flag|Uzbekistan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=UZ}}</ref>
+| 
+|
+{{#section-h::Template:Transcluded sections for the visa articles|Uzbekistan. Transit}}
+| {{yes|√}}
+|-
+| {{flag|Vanuatu}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=VU}}</ref>
+| 
+|
+| {{yes|√}}
+|-
+| {{flag|Vatican City}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=VA}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Vietnam}}
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VE|destination=VN}}</ref>
+| 30 days<ref>[https://evisa.xuatnhapcanh.gov.vn/web/guest/trang-chu-ttdt E-visa]</ref>
+|
+| {{no|X}}
+|-
+| {{flag|Yemen}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=YE}}</ref>
+|
+|
+| {{yes|√}}
+|-
+| {{flag|Zambia}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=ZM}}</ref>
+| 90 days
+| 
+| {{no|X}}
+|-
+| {{flag|Zimbabwe}}
+| {{Optional|eVisa / Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=ZW}}</ref>
+| 
+|
+| {{no|X}}
+|-
+|}
+
+=== Dependent, Disputed, or Restricted territories ===
+Visa requirements for Venezuelan citizens for visits to various territories, disputed areas, partially recognized countries not mentioned in the list above, and restricted zones:
+
+{| class="sortable wikitable"
+|-
+! width="18%"| Territory
+! width="19%"| Visa requirement
+! Notes (excluding departure fees)
+|-
+| {{flag|Abkhazia}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Visa Information|url=http://mfaapsny.org/en/council/visa.php|publisher=[[Ministry of Foreign Affairs of Abkhazia]]|accessdate=11 Feb 2016|archive-url=https://web.archive.org/web/20160130185652/http://mfaapsny.org/en/council/visa.php|archive-date=30 January 2016|dead-url=yes|df=dmy-all}}</ref>
+| 90 days
+|-
+| {{flag|American Samoa}}
+| {{no|Visa required}}<ref>{{cite web|title=Visa Information|url=https://american-samoa.visahq.com/requirements/Venezuela/|publisher=[[VisaHQ]]|accessdate=11 Feb 2016}}</ref>
+| 
+|-
+| {{flag|Anguilla}}
+| {{no|Visa required}}<ref>{{cite web|title=Visa Information|url=https://anguilla.visahq.com/requirements/Venezuela/|publisher=[[VisaHQ]]|accessdate=11 Feb 2016}}</ref>
+| 
+|-
+| {{flag|Aruba}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=AW}}</ref>
+| 90 days
+|-
+| {{flag|Bermuda}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=BM}}</ref>
+| Visa not required for holders of Canadian, US or UK multiple-entry visa valid for at least 45 days beyond the period of intended stay in Bermuda for a maximum stay of 3 months
+|-
+| {{flag|British Indian Ocean Territory}}
+| {{yes-no|Permission required}}
+| 
+|-
+| {{flag|British Virgin Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=VG}}</ref>
+| 30 days
+|-
+| {{flag|Caribbean Netherlands}}
+| {{yes|Visa not required}}
+| 90 days
+|-
+| {{flag|Cayman Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=KY}}</ref>
+| 60 days
+|-
+| {{flag|Cook Islands}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CK}}</ref>
+| 31 days
+|-
+| {{flag|Crimea}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=RU}}</ref>
+| 90 days
+|-
+| {{flag|Curacao}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=CW}}</ref>
+| 90 days
+|-
+| {{flag|Falkland Islands}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=FK}}</ref>
+| 
+|-
+| {{flag|Faroe Islands}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Visa Information|url=https://faroe-islands.visahq.com/requirements/Venezuela/|publisher=[[VisaHQ]]|accessdate=11 Feb 2016}}</ref>
+| 90 days
+|-
+| {{flag|French Guiana}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|French Polynesia}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Gibraltar}}
+| {{no|Visa required}}<ref>{{cite web|title=Visa Information|url=https://www.gibraltar.gov.gi/new/visas-and-immigration|publisher=[[Government of Gibraltar]]|accessdate=11 Feb 2016}}</ref>
+| 
+|-
+| {{flag|Greenland}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Visa Information|url=https://greenland.visahq.com/requirements/Venezuela/|publisher=[[VisaHQ]]|accessdate=11 Feb 2016}}</ref>
+| 90 days
+|-
+| {{flag|Guadeloupe}}
+| {{yes|Visa not required}}<ref>{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Guam}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=GU}}</ref>
+| 
+|-
+| {{flag|Guernsey}}
+| {{no|Visa required}}<ref>{{Cite web |url=https://www.gov.gg/doirequireanentryclearance# |title=Archived copy |access-date=19 June 2016 |archive-url=https://web.archive.org/web/20150924023434/http://www.gov.gg/doirequireanentryclearance# |archive-date=24 September 2015 |dead-url=yes |df=dmy-all }}</ref>
+| 
+|-
+| {{flagicon|China}} [[Hainan]]
+| {{no|Visa required}}
+| 
+|-
+| {{flag|Hong Kong}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=HK}}</ref>
+| 3 months
+|-
+| {{flag|Iraqi Kurdistan}}
+| {{no|Visa required}}
+| 
+|-
+| {{flag|Isle of Man}}
+| {{no|Visa required}}<ref>{{Cite web |url=https://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man/# |title=Archived copy |access-date=19 June 2016 |archive-url=https://web.archive.org/web/20141120002617/http://www.gov.im/categories/home-and-neighbourhood/immigration/an-overview-of-immigration-in-the-isle-of-man/# |archive-date=20 November 2014 |dead-url=yes |df=dmy-all }}</ref>
+| 
+|-
+| {{flag|Jersey}}
+| {{no|Visa required}}<ref>[http://www.gov.je/Travel/InformationAdvice/Visitors/Pages/VisaPassport.aspx]</ref>
+| 
+|-
+| {{flag|Kosovo}}
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=RK}}</ref>
+| 90 days
+|-
+| {{flag|Macau}}
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=MO}}</ref>
+| 30 days
+|-
+| {{flag|Martinique}} 
+| {{yes|Visa not required}}<ref name="us.martinique.org">{{cite web|title=Visa Information|url=http://us.martinique.org/useful-info|publisher=[[MARTINIQUE TOURISM AUTHORITY]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Mayotte}} 
+| {{yes|Visa not required}}<ref name="diplomatie.gouv.fr">{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Montserrat}} 
+| {{yes2|eVisa}}<ref>{{Timatic|nationality=VE|destination=MS}}</ref>
+| e-Visa can be obtained online
+|-
+| {{flag|New Caledonia}} 
+| {{yes|Visa not required}}<ref name="au.ambafrance.org">{{cite web|title=Visa Information|url=https://au.ambafrance.org/Short-stay-visa-for-New-Caledonia-and-French-Polynesia-Tahiti|publisher=[[Embassy of France in Australia]]|accessdate=9 Jan 2018}}</ref><ref name="www.nouvelle-caledonie.gouv.fr">{{cite web|title=Visa Information|url=http://www.nouvelle-caledonie.gouv.fr/Demarches-administratives/Accueil-des-etrangers/Conditions-d-entree-et-de-sejour-des-etrangers-en-Nouvelle-Caledonie
+|publisher=[[Les services de l\État en Nouvelle-Calédonie]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Niue}} 
+| {{yes-no|Visa on arrival}}<ref>{{Timatic|nationality=VE|destination=NU}}</ref>
+| 30 days
+|-
+| {{flag|Northern Mariana Islands}} 
+| {{no|Visa is required}}<ref>{{Timatic|nationality=VE|destination=MP}}</ref>
+| 
+|-
+| {{flag|Palestine}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=PS}}</ref>
+|
+|-
+| {{flag|Pitcairn Islands}} 
+| {{yes|Visa not required}}<ref>{{cite web|title=Visa Information|url=https://pitcairn-island.visahq.com/requirements/Venezuela/|publisher=[[VisaHQ]]|accessdate=14 Feb 2016}}</ref>
+| 14 days
+|-
+| {{flag|Puerto Rico}} 
+| {{no|Visa required}}<ref>{{cite web|title=Visa Information|url=https://puerto-rico.visahq.com/requirements/Venezuela/|publisher=[[VisaHQ]]|accessdate=14 Feb 2016}}</ref>
+| 
+|-
+| {{flag|Réunion}} 
+| {{yes|Visa not required}}<ref name="diplomatie.gouv.fr">{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Saint Barthélemy}} 
+| {{yes|Visa not required}}<ref name="diplomatie.gouv.fr">{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Saint Helena}} 
+| {{yes2|eVisa}}<ref>{{cite web|title=Saint Helena eVisa|url=https://evisa.sainthelena.gov.sh|website=Saint Helena Government}}</ref><ref>{{cite web|title=VISA REQUIREMENTS FOR VISITING ST HELENA|url=http://www.sainthelena.gov.sh/visa-requirements-for-visiting-st-helena/|publisher=St Helena Government|accessdate=25 January 2018|date=14 December 2017}}</ref>
+| 
+|-
+| {{flag|Saint Pierre and Miquelon}} 
+| {{yes|Visa not required}}<ref name="ReferenceA">{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Saint-Martin}} 
+| {{yes|Visa not required}}<ref name="ReferenceA">{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|-
+| {{flag|Sint Maarten}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=SX}}</ref>
+| 90 days
+|-
+| {{flag|Taiwan}}
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=TW}}</ref>
+| 
+|-
+| {{flag|Turks and Caicos Islands}} 
+| {{yes|Visa not required}}<ref>{{Timatic|nationality=VE|destination=TC}}</ref>
+| 90 days
+|-
+| {{flag|US Virgin Islands}} 
+| {{no|Visa required}}<ref>{{Timatic|nationality=VE|destination=VI}}</ref>
+|
+|-
+| {{flag|Wallis and Futuna}} 
+| {{yes|Visa not required}}<ref name="ReferenceA">{{cite web|title=Visa Information|url=http://www.diplomatie.gouv.fr/en/coming-to-france/|publisher=[[Ministry of Foreign Affairs and International Development (France)]]|accessdate=9 Jan 2018}}</ref>
+| 90 days. Visa granted for overseas territories (New Caledonia, French Polynesia, la Réunion, Guyane, Guadeloupe, Martinique, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon, Wallis et Futuna, Terres australes et antarctiques françaises) does not entitle his holder to visit the Schengen area nor MONACO. A separate Schengen visa is necessary.
+|}'}
